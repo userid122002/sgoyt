@@ -4,6 +4,7 @@ import time
 import xml.etree.ElementTree as ET
 import csv
 import pandas as pd
+import unicodedata
 
 class BggClient():
     base_url = 'https://boardgamegeek.com'
@@ -11,9 +12,8 @@ class BggClient():
     wait_statis_codes = [202]
     wait_increment = 20
     timeout = 1000
-    xml_output_dir = 'XML'
-    csv_output_dir = 'CSV'
-    csv_games_output_dir = os.path.join(csv_output_dir, 'games')
+    xml_output_dir = os.path.join('tools', 'XML')
+    csv_output_dir = os.path.join('tools', 'CSV')
     apis = {
         'xml': 'xmlapi',
         'xml2': 'xmlapi2'
@@ -495,14 +495,6 @@ class BggClient():
         self.geeklist_url = self._url_join(self.base_url, self.apis['xml'], self.xml_paths['geeklist'])
 
     def get_geeklist_items(self):
-        output_file = os.path.join(self.csv_output_dir, 'sgoyt.csv')
-        if os.path.exists(output_file) is False:
-            csv_output = open(output_file, 'w')
-            csv_output.write('rownum###yearmonth###game###gameid###geeklistitem###geeklisthost###user\n')
-            csv_output.close()
-        
-        csv_output = open(output_file, 'a')
-
         for geeklist_id in self.geeklist_month_mapping:
             print('Processing {0}...'.format(geeklist_id))
             result_file = os.path.join(self.xml_output_dir, '{0}.xml'.format(geeklist_id))
@@ -514,54 +506,48 @@ class BggClient():
                     response = self._retry_request_until_timeout(url)
         
                 with open(result_file, 'wb') as f: 
-                    f.write(response.content) 
-                tree = ET.parse(result_file)
-                root = tree.getroot()
-                year = self.geeklist_month_mapping[geeklist_id]['Year']
-                month = self.geeklist_month_mapping[geeklist_id]['Month']
-                geeklist_host = root.find('username').text
-                for item in root.findall('./item'):
-                    if item.attrib['subtype'] == 'boardgame':
-                        geeklist_item_link = '{0}/{1}/{2}/item/{3}#item{3}'.format(self.base_url, 'geeklist', geeklist_id, item.attrib['id'])
-                        game = self._replace_text(item.attrib['objectname'])
-                        user = item.attrib['username']
-                        csv_output.write('{0}###{1}/{2}###{3}###{4}###{5}###{6}###{7}\n'.format(item.attrib['id'], year, month, game, item.attrib['objectid'],geeklist_item_link, geeklist_host, user))
-            else:
-                print('Skipping {0}.'.format(geeklist_id))
-        csv_output.close()
+                    f.write(response.content)
             
-    def process_csv(self):
+    def create_sgoyt_csv(self):
+        output_file = os.path.join(self.csv_output_dir, 'sgoyt.csv')
+        csv_output = open(output_file, 'w')
+        csv_output.write('rownum###yearmonth###game###gameid###geeklistitem###geeklisthost###user\n')
+        csv_output.close()
+        csv_output = open(output_file, 'a')
+        for filename in os.listdir(self.xml_output_dir):
+            file_path = os.path.join(self.xml_output_dir, filename)
+            geeklist_id = filename.replace('.xml', '')
+            tree = ET.parse(file_path)
+            root = tree.getroot()
+            year = self.geeklist_month_mapping[geeklist_id]['Year']
+            month = self.geeklist_month_mapping[geeklist_id]['Month']
+            geeklist_host = root.find('username').text
+            for item in root.findall('./item'):
+                if item.attrib['subtype'] == 'boardgame':
+                    geeklist_item_link = '{0}/{1}/{2}/item/{3}#item{3}'.format(self.base_url, 'geeklist', geeklist_id, item.attrib['id'])
+                    game = self._replace_text(item.attrib['objectname'])
+                    game = unicodedata.normalize('NFD', game).encode('ascii', 'ignore').decode()
+                    user = item.attrib['username']
+                    csv_output.write('{0}###{1}/{2}###{3}###{4}###{5}###{6}###{7}\n'.format(item.attrib['id'], year, month, game, item.attrib['objectid'],geeklist_item_link, geeklist_host, user))
+        csv_output.close()
+    
+    def create_game_index_csv(self):
         games = {}
         csv_file = os.path.join(self.csv_output_dir, 'sgoyt.csv')
         games_output_file = os.path.join(self.csv_output_dir, 'game_index.csv')
         data = pd.read_csv(csv_file, delimiter='###', engine='python')
         for row in data.itertuples(index=False, name='game_item'):
-            geeklist_data = '{0}###{1}###{2}###{3}###{4}###{5}###{6}\n'.format(row[0], row[1], row[2], row[3], row[4], row[5], row[6])
-            # print(geeklist_data)
             if row[3] not in games:
-                games[row[3]] = {row[2]: [geeklist_data]}
-            else:
-                games[row[3]][row[2]].append(geeklist_data)
-        # Create game index file
+                games[row[3]] = row[2]
         games_output = open(games_output_file, 'w')
         games_output.write('gameid###game###bgglink\n')
         games_output.close()
+        games_output = open(games_output_file, 'a')
         for game in games:
-            games_output = open(games_output_file, 'a')
-            game_name = list(games[game].keys())[0]
+            game_name = games[game]
             bgg_link = '{0}/boardgame/{1}'.format(self.base_url, game)
             games_output.write('{0}###{1}###{2}\n'.format(game, game_name, bgg_link))
-        # Create geeklist file for each game
-        for game in games:
-            game_name = list(games[game].keys())[0]
-            game_output_file = os.path.join(self.csv_output_dir, 'games', 'G{0}.csv'.format(game))
-            game_output = open(game_output_file, 'w')
-            game_output.write('rownum###yearmonth###game###gameid###geeklistitem###geeklisthost###user\n')
-            game_output.close()
-            game_output = open(game_output_file, 'a')
-            for item in games[game][game_name]:
-                game_output.write(item)
-            game_output.close()
+        games_output.close()
 
     
     def _url_join(self, *args):
@@ -584,24 +570,13 @@ class BggClient():
     def _replace_text(self, text):
         replaced_text = text
         text_mapping = {
-            '₂': '2',
-            '&amp;': '&',
-            '★': '*',
-            'ū': 'u',
-            'ゴリティア (Goritaire)': 'Goritaire',
-            'カゲロウ (Mayfly)': 'Mayfly',
-            'ù':'',
-            'ō': 'o',
-            'ē': 'e',
-            'ā': 'a',
-            'ł': 'l',
-            '&#039;': '\'',
-            'ñ': 'n',
             'Pax Pamir (Second Edition)': 'Pax Pamir: Second Edition',
-            'Clever hoch Drei': 'Clever Cubed'
+            'Clever hoch Drei': 'Clever Cubed',
+            '★': '*',
+            '₂': '2',
         }
         text_mapping_unicode = {
-            b'\xe2\x80\x93': b'-',
+            b'\xe2\x80\x93': b'-'
         }
         for item in text_mapping:
             replaced_text = replaced_text.replace(item, text_mapping[item])
@@ -632,6 +607,6 @@ class BggClient():
 
 
 bgg = BggClient()
-# bgg.get_geeklist_items()
-bgg.process_csv()
-
+bgg.get_geeklist_items()
+bgg.create_sgoyt_csv()
+bgg.create_game_index_csv()
