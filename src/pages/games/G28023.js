@@ -1,9 +1,9 @@
 
 import React from "react"
 import { graphql } from "gatsby"
-import GamePage from "../components/game-page"
-import SEO from "../components/seo"
-import Layout from "../components/layout"
+import GamePage from "../../components/game-page"
+import SEO from "../../components/seo"
+import Layout from "../../components/layout"
 
 export default function Game( {data} ) {
     const game_name = data.allSgoytCsv.nodes[0].game
