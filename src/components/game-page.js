@@ -9,7 +9,7 @@ export default function GamePage( {data} ) {
         <div>
             <h2>{game_name}</h2>
             <p><Link to="/">{back_link}</Link></p>
-            <p>{entry_count} SGOYT entries</p>
+            <p>SGOYT entries: {entry_count}</p>
             {data.map(function(data_item) {
                 return <div>
                     <tr>
