@@ -14,7 +14,7 @@ export default function IndexGrid({ data }) {
             rows.push(
                 {
                     game: data_item.game,
-                    gamepage: <Link to={"/" + data_item.gameid}>link</Link>,
+                    gamepage: <Link to={"/games/G" + data_item.gameid}>link</Link>,
                     bgglink: <a href={data_item.bgglink} target="_blank" rel="noreferrer">link</a>,
                     id: data_item.gameid,
                 }
