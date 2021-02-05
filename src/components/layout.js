@@ -7,8 +7,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
-
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Header from "./header"
 import "./layout.css"
 
@@ -29,7 +28,7 @@ const Layout = ({ children }) => {
       <div
         style={{
           margin: `0 auto`,
-          maxWidth: 960,
+          maxWidth: 1200,
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
@@ -39,9 +38,9 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()}, Built with
+          
           {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <Link to="/about">About</Link>
         </footer>
       </div>
     </>
