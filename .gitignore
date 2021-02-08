@@ -68,6 +68,9 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
+# python
+tools/__pycache__
+
 # Tools output
 tools/CSV
 tools/XML
