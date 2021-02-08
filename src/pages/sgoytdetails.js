@@ -34,7 +34,7 @@ export const query = graphql`
             }
             totalCount
         }
-        allSgoytCsv {
+        allSgoytCsv(sort: {fields: rownum, order: DESC}) {
             nodes {
                 game
                 gameid
