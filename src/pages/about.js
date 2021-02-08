@@ -15,10 +15,11 @@ const about = () => (
         The data was compiled by using python and the boardgamegeek API.
       </p>
       <p>
-        This website was created using <a href="https://gatsbyjs.com/" target="_blank" rel="noreferrer">gatsby</a>.
+        This website was created using <a href="https://gatsbyjs.com/" target="_blank" rel="noreferrer">gatsby</a> and 
+        hosted using <a href="https://surge.sh/" target="_blank" rel="noreferrer">surge</a>.
       </p>
       <p>
-        To contact me regarding bugs, feature requests, or general comments, please message <a href="https://boardgamegeek.com/user/userid122002" target="_blank" rel="noreferrer">me</a> on board game geek.
+        To contact me regarding bugs, feature requests, or general comments, please message <a href="https://boardgamegeek.com/user/userid122002" target="_blank" rel="noreferrer">me</a> on boardgamegeek.
       </p>
       <p>
         Click <Link to="/history">here</Link> to see a history of updates and changes.
