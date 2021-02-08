@@ -9,11 +9,11 @@ import withLocation from "../components/withLocation"
 function Game( {data, search} ) {
     const { gameid } =  search
     const game_data = data.allSgoytCsv.nodes.filter(n => n.gameid === gameid)
-    const game_name = game_data[0].game
+    const game_name = data.allGameIndexCsv.nodes.filter(n => n.gameid === gameid).game
     return (
         <Layout>
             <SEO title={game_name}></SEO>
-            <GamePage data={game_data}></GamePage>
+            <GamePage data={game_data} game_name={game_name}></GamePage>
         </Layout>
     )
 }
@@ -26,6 +26,14 @@ export default withLocation(Game)
 
 export const query = graphql`
     query {
+        allGameIndexCsv {
+            nodes {
+                bgglink
+                game
+                gameid
+            }
+            totalCount
+        }
         allSgoytCsv {
             nodes {
                 game
@@ -36,6 +44,7 @@ export const query = graphql`
                 user
                 yearmonth
             }
+            totalCount
         }
     }
 `

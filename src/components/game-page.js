@@ -1,8 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-export default function GamePage( {data} ) {
-    const game_name = data[0].game
+export default function GamePage( {data, game_name} ) {
     const entry_count = data.length
     const back_link = '<--back'
     return (
