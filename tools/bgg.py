@@ -604,9 +604,3 @@ class BggClient():
             .format(request_url, response.text))
         return response
 
-
-
-bgg = BggClient()
-bgg.get_geeklist_items()
-bgg.create_sgoyt_csv()
-bgg.create_game_index_csv()
