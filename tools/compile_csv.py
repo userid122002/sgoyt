@@ -1,4 +1,5 @@
 import bgg
 
-bgg.create_sgoyt_csv()
-bgg.create_game_index_csv()
+bg = bgg.BggClient()
+bg.create_sgoyt_csv()
+bg.create_game_index_csv()

@@ -1,4 +1,4 @@
 import bgg
 
-bgg = BggClient()
-bgg.get_geeklist_items()
+bg = bgg.BggClient()
+bg.get_geeklist_items()
