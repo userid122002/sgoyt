@@ -549,17 +549,24 @@ class BggClient():
             games_output.write('{0}###{1}###{2}\n'.format(game, game_name, bgg_link))
         games_output.close()
 
+    def create_yearmonth_index_csv(self):
+        yearmonths_output_file = os.path.join(self.csv_output_dir, 'yearmonth_index.csv')
+        year_month_output = open(yearmonths_output_file, 'w')
+        year_month_output.write('geeklistid###yearmonth###geeklistlink\n')
+        year_month_output.close()
+        year_month_output = open(yearmonths_output_file, 'a')
+        for geeklistid in self.geeklist_month_mapping:
+            yearmonth = '{0}{1}'.format(self.geeklist_month_mapping[geeklistid]['Year'], self.geeklist_month_mapping[geeklistid]['Month'])
+            geeklist_link = '{0}/{1}/{2}'.format(self.base_url, 'geeklist', geeklistid)
+            year_month_output.write('{0}###{1}###{2}\n'.format(geeklistid, yearmonth, geeklist_link))
+        year_month_output.close()
+
     
     def _url_join(self, *args):
         url = ''
         for arg in args:
             url += '{0}/'.format(arg)
         return url
-
-    def _format_date_as_text(self, year, month):
-        if len(month) == 1:
-            month = '0{0}'.format(month)
-        return 'Y{0}M{1}'.format(year, month)
 
     def _validate_status_code(self, request_response):
         if request_response.status_code not in self.valid_statis_codes:
