@@ -32,7 +32,7 @@ export default function History( {data} ) {
 
 export const query = graphql`
     query {
-        allHistoryCsv (sort: {fields: rownum, order: ASC}) {
+        allHistoryCsv (sort: {fields: rownum, order: DESC}) {
             nodes {
                 date
                 summary

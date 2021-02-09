@@ -10,7 +10,7 @@ export default function GamePage( {data, game_name} ) {
         { field: 'link', headerName: "Link", width: 200, filterable: false, sortable: false, renderCell: (params) => (params.value) },
         { field: 'yearmonth', headerName: "Year/Month", width: 200 },
         { field: 'user', headerName: "User", width: 200 },
-        { field: 'id', headerName: "ID", hide: true}
+        { field: 'id', headerName: "ID", hide: true },
     ]
     const rows = []
     data.forEach(function(data_item) {

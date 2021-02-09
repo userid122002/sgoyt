@@ -21,6 +21,9 @@ const about = () => (
         To contact me regarding bugs, feature requests, or general comments, please message <a href="https://boardgamegeek.com/user/userid122002" target="_blank" rel="noreferrer">me</a> on boardgamegeek.
       </p>
       <p>
+        The code is open-source and can be found <a href="https://github.com/userid122002/sgoyt" target="_blank" rel="noreferrer">here</a>. Please let me know if you're interestd in contributing!
+      </p>
+      <p>
         Click <Link to="/history">here</Link> to see a history of updates and changes.
       </p>
       <Link to="/">Go back to the homepage</Link>

@@ -511,7 +511,7 @@ class BggClient():
     def create_sgoyt_csv(self):
         output_file = os.path.join(self.csv_output_dir, 'sgoyt.csv')
         csv_output = open(output_file, 'w')
-        csv_output.write('rownum###yearmonth###game###gameid###geeklistitem###geeklisthost###user\n')
+        csv_output.write('rownum###yearmonth###game###gameid###geeklistitem###geeklisthost###user###geeklistid\n')
         csv_output.close()
         csv_output = open(output_file, 'a')
         for filename in os.listdir(self.xml_output_dir):
@@ -528,7 +528,7 @@ class BggClient():
                     game = self._replace_text(item.attrib['objectname'])
                     game = unicodedata.normalize('NFD', game).encode('ascii', 'ignore').decode()
                     user = item.attrib['username']
-                    csv_output.write('{0}###{1}/{2}###{3}###{4}###{5}###{6}###{7}\n'.format(item.attrib['id'], year, month, game, item.attrib['objectid'],geeklist_item_link, geeklist_host, user))
+                    csv_output.write('{0}###{1}/{2}###{3}###{4}###{5}###{6}###{7}###{8}\n'.format(item.attrib['id'], year, month, game, item.attrib['objectid'],geeklist_item_link, geeklist_host, user, geeklist_id))
         csv_output.close()
     
     def create_game_index_csv(self):
@@ -556,7 +556,7 @@ class BggClient():
         year_month_output.close()
         year_month_output = open(yearmonths_output_file, 'a')
         for geeklistid in self.geeklist_month_mapping:
-            yearmonth = '{0}{1}'.format(self.geeklist_month_mapping[geeklistid]['Year'], self.geeklist_month_mapping[geeklistid]['Month'])
+            yearmonth = '{0}/{1}'.format(self.geeklist_month_mapping[geeklistid]['Year'], self.geeklist_month_mapping[geeklistid]['Month'])
             geeklist_link = '{0}/{1}/{2}'.format(self.base_url, 'geeklist', geeklistid)
             year_month_output.write('{0}###{1}###{2}\n'.format(geeklistid, yearmonth, geeklist_link))
         year_month_output.close()
