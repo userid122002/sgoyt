@@ -2,7 +2,7 @@ import React from "react"
 import { DataGrid } from "@material-ui/data-grid"
 import { Link } from "gatsby"
 
-export default function IndexGrid({ data }) {
+export default function GameIndexGrid({ data }) {
     const columns = [
         { field: 'game', headerName: 'Game', width: 780 },
         { field: 'gamepage', headerName: 'Details', width: 120, filterable: false, sortable: false, renderCell: (params) => (params.value) },
