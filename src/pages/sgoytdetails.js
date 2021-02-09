@@ -9,7 +9,11 @@ import withLocation from "../components/withLocation"
 function Game( {data, search} ) {
     const { gameid } =  search
     const game_data = data.allSgoytCsv.nodes.filter(n => n.gameid === gameid)
-    const game_name = data.allGameIndexCsv.nodes.filter(n => n.gameid === gameid).game
+    const game_name_data = data.allGameIndexCsv.nodes.filter(n => n.gameid === gameid)
+    let game_name = ""
+    game_name_data.forEach(function(data_item){
+        game_name = data_item.game
+    })
     return (
         <Layout>
             <SEO title={game_name}></SEO>
