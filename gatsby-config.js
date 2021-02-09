@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `sgoyt`,
   siteMetadata: {
     title: `Solo Games`,
     description: `Aggregates data from the BGG Solitaire Games on Your Table geeklists.`,
