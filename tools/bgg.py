@@ -532,22 +532,24 @@ class BggClient():
         csv_output.close()
     
     def create_game_index_csv(self):
-        games = {}
         csv_file = os.path.join(self.csv_output_dir, 'sgoyt.csv')
+        temp_games_output_file = os.path.join(self.csv_output_dir, 'temp.csv')
         games_output_file = os.path.join(self.csv_output_dir, 'game_index.csv')
         data = pd.read_csv(csv_file, delimiter='###', engine='python')
-        for row in data.itertuples(index=False, name='game_item'):
-            if row[3] not in games:
-                games[row[3]] = row[2]
-        games_output = open(games_output_file, 'w')
-        games_output.write('gameid###game###bgglink\n')
-        games_output.close()
-        games_output = open(games_output_file, 'a')
-        for game in games:
-            game_name = games[game]
-            bgg_link = '{0}/boardgame/{1}'.format(self.base_url, game)
-            games_output.write('{0}###{1}###{2}\n'.format(game, game_name, bgg_link))
-        games_output.close()
+        data_grouped = data.groupby(['gameid', 'game'])['gameid'].count().reset_index(name='count')
+        data_grouped['bgglink'] = self.base_url + '/boardgame/' + data_grouped.gameid.map(str)
+        data_grouped.to_csv(temp_games_output_file, sep='#', header=True, index=False)
+        with open(temp_games_output_file, newline=None) as f:
+            reader = csv.reader(f, delimiter='#')
+            output = open(games_output_file, 'w')
+            output.write('')
+            output.close()
+            output = open(games_output_file, 'a')
+            for line in reader:
+                output.write('{0}###{1}###{2}###{3}\n'.format(line[0], line[1], line[2], line[3]))
+            output.close()
+        f.close()
+        os.remove(temp_games_output_file)
 
     def create_yearmonth_index_csv(self):
         yearmonths_output_file = os.path.join(self.csv_output_dir, 'yearmonth_index.csv')
@@ -560,7 +562,6 @@ class BggClient():
             geeklist_link = '{0}/{1}/{2}'.format(self.base_url, 'geeklist', geeklistid)
             year_month_output.write('{0}###{1}###{2}\n'.format(geeklistid, yearmonth, geeklist_link))
         year_month_output.close()
-
     
     def _url_join(self, *args):
         url = ''
@@ -610,4 +611,3 @@ class BggClient():
             'Request body: {1}'
             .format(request_url, response.text))
         return response
-

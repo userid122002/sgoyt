@@ -31,6 +31,7 @@ const Header = ({ siteTitle }) => (
         <tr>
             <td><Link to="/" style={{ color: `white`, textDecoration: `none` }}>Game Index</Link></td>
             <td><Link to="/yearmonthindex" style={{ color: `white`, textDecoration: `none`}}>Year/Month Index</Link></td>
+            <td><Link to="/topgames" style={{ color: `white`, textDecoration: `none`}}>Top Games</Link></td>
         </tr>
       </nav>
     </div>
