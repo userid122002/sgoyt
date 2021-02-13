@@ -12,7 +12,8 @@ class BggClient():
     wait_statis_codes = [202]
     wait_increment = 20
     timeout = 1000
-    xml_output_dir = os.path.join('tools', 'XML')
+    geeklist_xml_output_dir = os.path.join('tools', 'XML', 'geeklists')
+    game_xml_output_dir = os.path.join('tools', 'XML', 'games')
     csv_output_dir = os.path.join('tools', 'CSV')
     apis = {
         'xml': 'xmlapi',
@@ -497,7 +498,7 @@ class BggClient():
     def get_geeklist_items(self):
         for geeklist_id in self.geeklist_month_mapping:
             print('Processing {0}...'.format(geeklist_id))
-            result_file = os.path.join(self.xml_output_dir, '{0}.xml'.format(geeklist_id))
+            result_file = os.path.join(self.geeklist_xml_output_dir, '{0}.xml'.format(geeklist_id))
             if os.path.exists(result_file) is False or self.geeklist_month_mapping[geeklist_id]['Override']:
                 url = '{0}{1}'.format(self.geeklist_url, geeklist_id)
                 response = requests.get(url)
@@ -514,8 +515,8 @@ class BggClient():
         csv_output.write('rownum###yearmonth###game###gameid###geeklistitem###geeklisthost###user###geeklistid\n')
         csv_output.close()
         csv_output = open(output_file, 'a')
-        for filename in os.listdir(self.xml_output_dir):
-            file_path = os.path.join(self.xml_output_dir, filename)
+        for filename in os.listdir(self.geeklist_xml_output_dir):
+            file_path = os.path.join(self.geeklist_xml_output_dir, filename)
             geeklist_id = filename.replace('.xml', '')
             tree = ET.parse(file_path)
             root = tree.getroot()
@@ -538,18 +539,35 @@ class BggClient():
         data = pd.read_csv(csv_file, delimiter='###', engine='python')
         data_grouped = data.groupby(['gameid', 'game'])['gameid'].count().reset_index(name='count')
         data_grouped['bgglink'] = self.base_url + '/boardgame/' + data_grouped.gameid.map(str)
-        data_grouped.to_csv(temp_games_output_file, sep='#', header=True, index=False)
-        with open(temp_games_output_file, newline=None) as f:
-            reader = csv.reader(f, delimiter='#')
-            output = open(games_output_file, 'w')
-            output.write('')
-            output.close()
-            output = open(games_output_file, 'a')
-            for line in reader:
-                output.write('{0}###{1}###{2}###{3}\n'.format(line[0], line[1], line[2], line[3]))
-            output.close()
-        f.close()
-        os.remove(temp_games_output_file)
+
+        for index, row in data_grouped.iterrows():
+            result_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(row['gameid']))
+            if os.path.exists(result_file) is False:
+                print('Processing {0}...'.format(row['gameid']))
+                url = '{0}/{1}/thing?id={2}&stats=1'.format(self.base_url, self.apis['xml2'], row['gameid'])
+                response = requests.get(url)
+                self._validate_status_code(response)
+                with open(result_file, 'wb') as f: 
+                    f.write(response.content)
+                time.sleep(15)
+            else:
+                print('Skipping {0}.'.format(row['gameid']))
+            
+
+        #data_grouped.to_csv(temp_games_output_file, sep='#', header=True, index=False)
+
+        #https://boardgamegeek.com/xmlapi2/thing?id=1&stats=1
+        # with open(temp_games_output_file, newline=None) as f:
+        #     reader = csv.reader(f, delimiter='#')
+        #     output = open(games_output_file, 'w')
+        #     output.write('')
+        #     output.close()
+        #     output = open(games_output_file, 'a')
+        #     for line in reader:
+        #         output.write('{0}###{1}###{2}###{3}\n'.format(line[0], line[1], line[2], line[3]))
+        #     output.close()
+        # f.close()
+        # os.remove(temp_games_output_file)
 
     def create_yearmonth_index_csv(self):
         yearmonths_output_file = os.path.join(self.csv_output_dir, 'yearmonth_index.csv')
@@ -611,3 +629,6 @@ class BggClient():
             'Request body: {1}'
             .format(request_url, response.text))
         return response
+
+bgg = BggClient()
+bgg.create_game_index_csv()

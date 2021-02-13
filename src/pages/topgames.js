@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Collapsible from "react-collapsible"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 
@@ -11,17 +12,13 @@ export default function TopGames( {data} ) {
             <h1>Top 25 Games - All Time</h1>
             {game_data.map(function(data_item) {
                 return (
-                    <tr>
-                        <td>
-                            {data_item.game}
-                        </td>
-                        <td>
-                            {data_item.count}
-                        </td>
-                        <td>
-                            <a href={data_item.bgglink} target="_blank" rel="noreferrer">[bgg]</a>
-                        </td>
-                    </tr>
+                    <Collapsible>
+                        <tr>
+                            <td>{data_item.game}</td>
+                            <td>{data_item.count}</td>
+                            <td><a href={data_item.bgglink} target="_blank" rel="noreferrer">[bgg]</a></td>
+                        </tr>
+                    </Collapsible>
                 )
             })}
         </Layout>
