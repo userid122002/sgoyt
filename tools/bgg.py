@@ -5,6 +5,7 @@ import xml.etree.ElementTree as ET
 import csv
 import pandas as pd
 import unicodedata
+import decimal
 
 class BggClient():
     base_url = 'https://boardgamegeek.com'
@@ -12,7 +13,7 @@ class BggClient():
     wait_statis_codes = [202]
     wait_increment = 20
     timeout = 1000
-    geeklist_xml_output_dir = os.path.join('tools', 'XML', 'geeklists')
+    sgoyt_geeklist_xml_output_dir = os.path.join('tools', 'XML', 'geeklists', 'sgoyt')
     game_xml_output_dir = os.path.join('tools', 'XML', 'games')
     csv_output_dir = os.path.join('tools', 'CSV')
     apis = {
@@ -498,7 +499,7 @@ class BggClient():
     def get_geeklist_items(self):
         for geeklist_id in self.geeklist_month_mapping:
             print('Processing {0}...'.format(geeklist_id))
-            result_file = os.path.join(self.geeklist_xml_output_dir, '{0}.xml'.format(geeklist_id))
+            result_file = os.path.join(self.sgoyt_geeklist_xml_output_dir, '{0}.xml'.format(geeklist_id))
             if os.path.exists(result_file) is False or self.geeklist_month_mapping[geeklist_id]['Override']:
                 url = '{0}{1}'.format(self.geeklist_url, geeklist_id)
                 response = requests.get(url)
@@ -515,8 +516,8 @@ class BggClient():
         csv_output.write('rownum###yearmonth###game###gameid###geeklistitem###geeklisthost###user###geeklistid\n')
         csv_output.close()
         csv_output = open(output_file, 'a')
-        for filename in os.listdir(self.geeklist_xml_output_dir):
-            file_path = os.path.join(self.geeklist_xml_output_dir, filename)
+        for filename in os.listdir(self.sgoyt_geeklist_xml_output_dir):
+            file_path = os.path.join(self.sgoyt_geeklist_xml_output_dir, filename)
             geeklist_id = filename.replace('.xml', '')
             tree = ET.parse(file_path)
             root = tree.getroot()
@@ -543,31 +544,85 @@ class BggClient():
         for index, row in data_grouped.iterrows():
             result_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(row['gameid']))
             if os.path.exists(result_file) is False:
-                print('Processing {0}...'.format(row['gameid']))
+                print('Processing gameid {0}...'.format(row['gameid']))
                 url = '{0}/{1}/thing?id={2}&stats=1'.format(self.base_url, self.apis['xml2'], row['gameid'])
                 response = requests.get(url)
                 self._validate_status_code(response)
                 with open(result_file, 'wb') as f: 
                     f.write(response.content)
                 time.sleep(15)
-            else:
-                print('Skipping {0}.'.format(row['gameid']))
+            # else:
+            #     print('Skipping gameid {0}'.format(row['gameid']))
             
+        data_grouped.to_csv(temp_games_output_file, sep='#', header=True, index=False)
 
-        #data_grouped.to_csv(temp_games_output_file, sep='#', header=True, index=False)
-
-        #https://boardgamegeek.com/xmlapi2/thing?id=1&stats=1
-        # with open(temp_games_output_file, newline=None) as f:
-        #     reader = csv.reader(f, delimiter='#')
-        #     output = open(games_output_file, 'w')
-        #     output.write('')
-        #     output.close()
-        #     output = open(games_output_file, 'a')
-        #     for line in reader:
-        #         output.write('{0}###{1}###{2}###{3}\n'.format(line[0], line[1], line[2], line[3]))
-        #     output.close()
-        # f.close()
-        # os.remove(temp_games_output_file)
+        with open(temp_games_output_file, newline=None) as f:
+            reader = csv.reader(f, delimiter='#')
+            output = open(games_output_file, 'w')
+            output.write('')
+            output.close()
+            output = open(games_output_file, 'a')
+            for line in reader:
+                if line[0] == 'gameid':
+                    output.write('{0}###{1}###{2}###{3}###{4}###{5}###{6}###{7}###{8}###{9}###{10}###{11}###{12}###{13}###{14}\n'.format(line[0], line[1], line[2], line[3], 'thumbnail', 'yearpublished', 'designers', 'categories', 'mechanics', 'weight', 'rating', 'playtime', 'best', 'recommended', 'not_recommended'))
+                else:
+                    gameid = line[0]
+                    game_xml_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(gameid))
+                    tree = ET.parse(game_xml_file)
+                    root = tree.getroot()
+                    thumbnailelem = root.find('item').find('thumbnail')
+                    if thumbnailelem is not None:
+                        thumbnail = thumbnailelem.text
+                    else:
+                        thumbnail = ''
+                    description = root.find('item').find('description').text
+                    if description is not None:
+                        description = self._replace_text(description)
+                        description = unicodedata.normalize('NFD', description).encode('ascii', 'ignore').decode()
+                    yearpublished = root.find('item').find('./yearpublished').attrib['value']
+                    designers = ''
+                    categories = ''
+                    mechanics = ''
+                    for link in root.find('item').findall('./link'):
+                        if link.attrib['type'] == 'boardgamedesigner':
+                            designer = self._replace_text(link.attrib['value'])
+                            designer = unicodedata.normalize('NFD', designer).encode('ascii', 'ignore').decode()
+                            designers += '{0}, '.format(designer)
+                        if link.attrib['type'] == 'boardgamecategory':
+                            categories += '{0}, '.format(link.attrib['value'])
+                        if link.attrib['type'] == 'boardgamemechanic':
+                            mechanics += '{0}, '.format(link.attrib['value'])
+                    if len(designers) > 2:
+                        designers = designers[:-2]
+                    if len(categories) > 2:
+                        categories = categories[:-2]
+                    if len(mechanics) > 2:
+                        mechanics = mechanics[:-2]
+                    weight = root.find('item').find('statistics').find('ratings').find('averageweight').attrib['value']
+                    weight = round(decimal.Decimal(weight), 2)
+                    rating = root.find('item').find('statistics').find('ratings').find('average').attrib['value']
+                    rating = round(decimal.Decimal(weight), 2)
+                    min_playtime = root.find('item').find('minplaytime').attrib['value']
+                    max_playtime = root.find('item').find('maxplaytime').attrib['value']
+                    if min_playtime == max_playtime:
+                        playtime = root.find('item').find('playingtime').attrib['value']
+                    else:
+                        playtime = '{0} - {1}'.format(min_playtime, max_playtime)
+                    for poll in root.find('item').findall('./poll'):
+                        if poll.attrib['name'] == 'suggested_numplayers':
+                            for results in poll.findall('./results'):
+                                if results.attrib['numplayers'] == '1':
+                                    for result in results:
+                                        if result.attrib['value'] == 'Best':
+                                            best = result.attrib['numvotes']
+                                        if result.attrib['value'] == 'Recommended':
+                                            recommended = result.attrib['numvotes']
+                                        if result.attrib['value'] == 'Not Recommended':
+                                            not_recommended = result.attrib['numvotes']
+                    output.write('{0}###{1}###{2}###{3}###{4}###{5}###{6}###{7}###{8}###{9}###{10}###{11}###{12}###{13}###{14}\n'.format(line[0], line[1], line[2], line[3], thumbnail, yearpublished, designers, categories, mechanics, weight, rating, playtime, best, recommended, not_recommended))
+            output.close()
+        f.close()
+        os.remove(temp_games_output_file)
 
     def create_yearmonth_index_csv(self):
         yearmonths_output_file = os.path.join(self.csv_output_dir, 'yearmonth_index.csv')
