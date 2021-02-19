@@ -7,7 +7,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import "./layout.css"
 
@@ -18,9 +18,19 @@ const Layout = ({ children }) => {
         siteMetadata {
           title
         }
+      },
+      allDataRefreshDateCsv {
+        nodes {
+          datarefreshdate
+        }
       }
     }
   `)
+
+  let datarefreshdate = ''
+  data.allDataRefreshDateCsv.nodes.forEach(function(data_item) {
+    datarefreshdate = data_item.datarefreshdate
+  })
 
   return (
     <>
@@ -40,7 +50,7 @@ const Layout = ({ children }) => {
         >
           
           {` `}
-          <Link to="/about">About</Link>
+          <p>Last data refresh: {datarefreshdate}</p>
         </footer>
       </div>
     </>
