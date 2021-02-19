@@ -6,22 +6,35 @@ import SEO from "../components/seo"
 import Layout from "../components/layout"
 import withLocation from "../components/withLocation"
 import "../sass/components/_Collapsible.scss"
-// import "../components/_Collapsible.scss"
 
 function Game( {data, search} ) {
     const { gameid } =  search
     const game_data = data.allSgoytCsv.nodes.filter(n => n.gameid === gameid)
-    const game_name_data = data.allGameIndexCsv.nodes.filter(n => n.gameid === gameid)
-    let game_name = ""
-    let bgglink = ""
-    game_name_data.forEach(function(data_item){
-        game_name = data_item.game
-        bgglink = data_item.bgglink
+    const game_details_data = data.allGameIndexCsv.nodes.filter(n => n.gameid === gameid)
+    let game_details = {}
+    let recommended = ""
+    let not_recommended = ""
+    let best = ""
+    game_details_data.forEach(function(data_item){
+        game_details['game_name'] = data_item.game
+        game_details['bgglink'] = data_item.bgglink
+        game_details['categories'] = data_item.categories
+        game_details['designers'] = data_item.designers
+        game_details['mechanics'] = data_item.mechanics
+        game_details['playtime'] = data_item.playtime
+        game_details['rating'] = data_item.rating
+        game_details['thumbnail'] = data_item.thumbnail
+        game_details['weight'] = data_item.weight
+        game_details['yearpublished'] = data_item.yearpublished
+        recommended = data_item.recommended
+        not_recommended = data_item.not_recommended
+        best = data_item.best
     })
+    game_details['recommended'] = String(parseInt(recommended, 10) + parseInt(best, 10)) + ' out of ' + String(parseInt(recommended, 10) + parseInt(best, 10) + parseInt(not_recommended, 10)) + ' (' + String((100 * (parseFloat(recommended) + parseFloat(best)) / (parseFloat(recommended) + parseFloat(best) + parseFloat(not_recommended))).toFixed(2)) + '%)'
     return (
         <Layout>
-            <SEO title={game_name}></SEO>
-            <GamePage data={game_data} game_name={game_name} bgglink={bgglink}></GamePage>
+            <SEO title={game_details['game_name']}></SEO>
+            <GamePage data={game_data} game_details={game_details}></GamePage>
         </Layout>
     )
 }
@@ -39,8 +52,18 @@ export const query = graphql`
                 bgglink
                 game
                 gameid
+                categories
+                designers
+                mechanics
+                playtime
+                rating
+                thumbnail
+                weight
+                yearpublished
+                recommended
+                not_recommended
+                best
             }
-            totalCount
         }
         allSgoytCsv(sort: {fields: rownum, order: DESC}) {
             nodes {
