@@ -22,11 +22,10 @@ export default function YearMonthIndexGrid( {data} ) {
     })
     return (
         <div>
-            <h1>Year/Month Index</h1>
+            <p><small>The column header can be used to filter the results for a particular year/month.</small></p>
             <div style={{ height: 670, width: '100%' }}>
                 <DataGrid rows={rows} columns={columns} pageSize={10} rowsPerPageOptions={[10, 20, 50, 100]} hideFooterSelectedRowCount={true}/>
             </div>
-            <small>The column header can be used to filter the results for a particular year/month.</small>
         </div>
     )
 }

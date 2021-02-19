@@ -9,18 +9,18 @@ export default function TopGames( {data} ) {
     return (
         <Layout>
             <SEO title="Top Games"></SEO>
-            <h1>Top 25 Games - All Time</h1>
+            <Collapsible trigger="Top 25 Games - All Time">
             {game_data.map(function(data_item) {
                 return (
-                    <Collapsible>
+                    
                         <tr>
                             <td>{data_item.game}</td>
                             <td>{data_item.count}</td>
                             <td><a href={data_item.bgglink} target="_blank" rel="noreferrer">[bgg]</a></td>
                         </tr>
-                    </Collapsible>
                 )
             })}
+            </Collapsible>
         </Layout>
     )
 }
