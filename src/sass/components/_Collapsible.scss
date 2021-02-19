@@ -1,3 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,700italic,400italic);
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: white;
+  font-family: 'Roboto', sans-serif;
+  padding-top: 50px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+#root {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@function strip-unit($num) {
+  @return $num / ($num * 0 + 1);
+}
+
+
+@function rem($sizeValue: 1.6) {
+  
+  $value: strip-unit($sizeValue / $BASE_FONT_SIZE);
+
+  @return $value + rem;
+}
+
 // The main container element
 .Collapsible {
   background-color: white;
@@ -26,22 +74,26 @@
   display: block;
   font-weight: 400;
   text-decoration: none;
-  color: $grey;
+  color: grey;
   position: relative;
   border: 1px solid white;
   padding: 10px;
-  background: cyan;
+  background: rebeccapurple;
   color: white;
 
 
   &:after {
     font-family: 'FontAwesome';
-    content: '\f107';
+    // content: '\f107';
+    content: '^';
+    font-weight: bold;
     position: absolute;
     right: 10px;
     top: 10px;
     display: block;
     transition: transform 300ms;
+    transition: transform rotateZ(180deg);
+    
   }
 
   &.is-open {
