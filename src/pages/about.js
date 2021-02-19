@@ -26,7 +26,6 @@ const about = () => (
       <p>
         Click <Link to="/history">here</Link> to see a history of updates and changes.
       </p>
-      <Link to="/">Go back to the homepage</Link>
     </Layout>
   )
   
