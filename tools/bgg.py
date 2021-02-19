@@ -1,6 +1,7 @@
 import requests
 import os
 import time
+from datetime import datetime, timezone
 import xml.etree.ElementTree as ET
 import csv
 import pandas as pd
@@ -492,9 +493,9 @@ class BggClient():
     }
     
     
-
     def __init__(self):
         self.geeklist_url = self._url_join(self.base_url, self.apis['xml'], self.xml_paths['geeklist'])
+
 
     def get_geeklist_items(self):
         for geeklist_id in self.geeklist_month_mapping:
@@ -506,10 +507,22 @@ class BggClient():
                 self._validate_status_code(response)
                 if response.status_code in self.wait_statis_codes:
                     response = self._retry_request_until_timeout(url)
-        
                 with open(result_file, 'wb') as f: 
                     f.write(response.content)
+
             
+    def create_current_date_csv(self):
+        current_datetime = datetime.now(timezone.utc)
+        current_datetime = '{0}/{1}/{2}::{3}:{4} (UTC)'.format(current_datetime.year, current_datetime.month, current_datetime.day, current_datetime.hour, current_datetime.minute)
+        output_file = os.path.join(self.csv_output_dir, 'data_refresh_date.csv')
+        csv_output = open(output_file, 'w')
+        csv_output.write('rownum###datarefreshdate\n')
+        csv_output.close()
+        csv_output = open(output_file, 'a')
+        csv_output.write('{0}###{1}'.format('1', current_datetime))
+        csv_output.close()
+
+    
     def create_sgoyt_csv(self):
         output_file = os.path.join(self.csv_output_dir, 'sgoyt.csv')
         csv_output = open(output_file, 'w')
@@ -533,6 +546,7 @@ class BggClient():
                     csv_output.write('{0}###{1}/{2}###{3}###{4}###{5}###{6}###{7}###{8}\n'.format(item.attrib['id'], year, month, game, item.attrib['objectid'],geeklist_item_link, geeklist_host, user, geeklist_id))
         csv_output.close()
     
+
     def create_game_index_csv(self):
         csv_file = os.path.join(self.csv_output_dir, 'sgoyt.csv')
         temp_games_output_file = os.path.join(self.csv_output_dir, 'temp.csv')
@@ -551,8 +565,6 @@ class BggClient():
                 with open(result_file, 'wb') as f: 
                     f.write(response.content)
                 time.sleep(15)
-            # else:
-            #     print('Skipping gameid {0}'.format(row['gameid']))
             
         data_grouped.to_csv(temp_games_output_file, sep='#', header=True, index=False)
 
@@ -572,9 +584,9 @@ class BggClient():
                     root = tree.getroot()
                     thumbnailelem = root.find('item').find('thumbnail')
                     if thumbnailelem is not None:
-                        thumbnail = thumbnailelem.text
+                        thumbnail = '\"{0}\"'.format(thumbnailelem.text)
                     else:
-                        thumbnail = ''
+                        thumbnail = '\"\"'
                     description = root.find('item').find('description').text
                     if description is not None:
                         description = self._replace_text(description)
@@ -587,11 +599,11 @@ class BggClient():
                         if link.attrib['type'] == 'boardgamedesigner':
                             designer = self._replace_text(link.attrib['value'])
                             designer = unicodedata.normalize('NFD', designer).encode('ascii', 'ignore').decode()
-                            designers += '{0}, '.format(designer)
+                            designers += '{0}; '.format(designer)
                         if link.attrib['type'] == 'boardgamecategory':
-                            categories += '{0}, '.format(link.attrib['value'])
+                            categories += '{0}; '.format(link.attrib['value'])
                         if link.attrib['type'] == 'boardgamemechanic':
-                            mechanics += '{0}, '.format(link.attrib['value'])
+                            mechanics += '{0}; '.format(link.attrib['value'])
                     if len(designers) > 2:
                         designers = designers[:-2]
                     if len(categories) > 2:
@@ -601,7 +613,7 @@ class BggClient():
                     weight = root.find('item').find('statistics').find('ratings').find('averageweight').attrib['value']
                     weight = round(decimal.Decimal(weight), 2)
                     rating = root.find('item').find('statistics').find('ratings').find('average').attrib['value']
-                    rating = round(decimal.Decimal(weight), 2)
+                    rating = round(decimal.Decimal(rating), 2)
                     min_playtime = root.find('item').find('minplaytime').attrib['value']
                     max_playtime = root.find('item').find('maxplaytime').attrib['value']
                     if min_playtime == max_playtime:
@@ -624,6 +636,7 @@ class BggClient():
         f.close()
         os.remove(temp_games_output_file)
 
+
     def create_yearmonth_index_csv(self):
         yearmonths_output_file = os.path.join(self.csv_output_dir, 'yearmonth_index.csv')
         year_month_output = open(yearmonths_output_file, 'w')
@@ -636,11 +649,13 @@ class BggClient():
             year_month_output.write('{0}###{1}###{2}\n'.format(geeklistid, yearmonth, geeklist_link))
         year_month_output.close()
     
+
     def _url_join(self, *args):
         url = ''
         for arg in args:
             url += '{0}/'.format(arg)
         return url
+
 
     def _validate_status_code(self, request_response):
         if request_response.status_code not in self.valid_statis_codes:
@@ -648,6 +663,7 @@ class BggClient():
             'Request body: {1}'
             .format(request_response.status_code, request_response.text))
     
+
     def _replace_text(self, text):
         replaced_text = text
         text_mapping = {
@@ -665,6 +681,7 @@ class BggClient():
             replaced_text = replaced_text.encode().replace(item, text_mapping_unicode[item]).decode()
         return replaced_text
     
+
     def _retry_request_until_timeout(self, request_url):
         wait_time = self.wait_increment
         time.sleep(self.wait_increment)
@@ -684,6 +701,3 @@ class BggClient():
             'Request body: {1}'
             .format(request_url, response.text))
         return response
-
-bgg = BggClient()
-bgg.create_game_index_csv()
