@@ -11,6 +11,8 @@ function Game( {data, search} ) {
     const { gameid } =  search
     const game_data = data.allSgoytCsv.nodes.filter(n => n.gameid === gameid)
     const game_details_data = data.allGameIndexCsv.nodes.filter(n => n.gameid === gameid)
+    const expansion_details_data = data.allExpansionIndexCsv.nodes.filter(n => n.gameid === gameid)
+    const expansion_for_details_data = data.allExpansionIndexCsv.nodes.filter(n => n.expansionid === gameid)
     let game_details = {}
     let recommended = ""
     let not_recommended = ""
@@ -31,10 +33,33 @@ function Game( {data, search} ) {
         best = data_item.best
     })
     game_details['recommended'] = String(parseInt(recommended, 10) + parseInt(best, 10)) + ' out of ' + String(parseInt(recommended, 10) + parseInt(best, 10) + parseInt(not_recommended, 10)) + ' (' + String((100 * (parseFloat(recommended) + parseFloat(best)) / (parseFloat(recommended) + parseFloat(best) + parseFloat(not_recommended))).toFixed(2)) + '%)'
+    let expansion_details = []
+    expansion_details_data.forEach(function(data_item){
+        let expansion_detail = {}
+        expansion_detail['gameid'] = data_item.gameid
+        expansion_detail['expansionid'] = data_item.expansionid
+        expansion_detail['gamebgglink'] = data_item.gamebgglink
+        expansion_detail['expansionbgglink'] = data_item.expansionbgglink
+        expansion_detail['gamename'] = data_item.gamename
+        expansion_detail['expansionname'] = data_item.expansionname
+        expansion_details.push(expansion_detail)
+    })
+    let expansion_for_details = []
+    expansion_for_details_data.forEach(function(data_item) {
+        let expansion_for_detail = {}
+        expansion_for_detail['gameid'] = data_item.gameid
+        expansion_for_detail['gameid'] = data_item.gameid
+        expansion_for_detail['expansionid'] = data_item.expansionid
+        expansion_for_detail['gamebgglink'] = data_item.gamebgglink
+        expansion_for_detail['expansionbgglink'] = data_item.expansionbgglink
+        expansion_for_detail['gamename'] = data_item.gamename
+        expansion_for_detail['expansionname'] = data_item.expansionname
+        expansion_for_details.push(expansion_for_detail)
+    })
     return (
         <Layout>
             <SEO title={game_details['game_name']}></SEO>
-            <GamePage data={game_data} game_details={game_details}></GamePage>
+            <GamePage data={game_data} game_details={game_details} expansion_details={expansion_details} expansion_for_details={expansion_for_details}></GamePage>
         </Layout>
     )
 }
@@ -76,6 +101,16 @@ export const query = graphql`
                 yearmonth
             }
             totalCount
+        }
+        allExpansionIndexCsv {
+            nodes {
+                gameid
+                expansionid
+                gamebgglink
+                expansionbgglink
+                gamename
+                expansionname
+            }
         }
     }
 `

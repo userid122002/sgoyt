@@ -562,7 +562,7 @@ class BggClient():
                 url = '{0}/{1}/thing?id={2}&stats=1'.format(self.base_url, self.apis['xml2'], row['gameid'])
                 response = requests.get(url)
                 self._validate_status_code(response)
-                with open(result_file, 'wb') as f: 
+                with open(result_file, 'wb') as f:
                     f.write(response.content)
                 time.sleep(15)
             
@@ -582,9 +582,9 @@ class BggClient():
                     game_xml_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(gameid))
                     tree = ET.parse(game_xml_file)
                     root = tree.getroot()
-                    thumbnailelem = root.find('item').find('thumbnail')
-                    if thumbnailelem is not None:
-                        thumbnail = '\"{0}\"'.format(thumbnailelem.text)
+                    thumbnail_elem = root.find('item').find('thumbnail')
+                    if thumbnail_elem is not None:
+                        thumbnail = '\"{0}\"'.format(thumbnail_elem.text)
                     else:
                         thumbnail = '\"\"'
                     description = root.find('item').find('description').text
@@ -637,6 +637,32 @@ class BggClient():
         os.remove(temp_games_output_file)
 
 
+    def create_expansion_index_csv(self):
+        expansion_output_file = os.path.join(self.csv_output_dir, 'expansion_index.csv')
+        expansion_output = open(expansion_output_file, 'w')
+        expansion_output.write('gameid###expansionid###gamebgglink###expansionbgglink###gamename###expansionname\n')
+        expansion_output.close()
+        expansion_output = open(expansion_output_file, 'a')
+        for filename in os.listdir(self.game_xml_output_dir):
+            gameid = filename.replace('.xml', '')
+            file_path = os.path.join(self.game_xml_output_dir, filename)
+            tree = ET.parse(file_path)
+            root = tree.getroot()
+            game_name = root.find('item').find('name').attrib['value']
+            game_name = self._replace_text(game_name)
+            game_name = unicodedata.normalize('NFD', game_name).encode('ascii', 'ignore').decode()
+            for link in root.find('item').findall('./link'):
+                if (link.attrib['type'] == 'boardgameexpansion' and 'inbound' not in link.attrib):
+                    expansionid = link.attrib['id']
+                    expansion_name = link.attrib['value']
+                    expansion_name = self._replace_text(expansion_name)
+                    expansion_name = unicodedata.normalize('NFD', expansion_name).encode('ascii', 'ignore').decode()
+                    gamebgglink = '{0}/boardgame/{1}'.format(self.base_url, gameid)
+                    expansionbgglink = '{0}/boardgame/{1}'.format(self.base_url, expansionid)
+                    expansion_output.write('{0}###{1}###{2}###{3}###{4}###{5}\n'.format(gameid, expansionid, gamebgglink, expansionbgglink, game_name, expansion_name))
+        expansion_output.close()
+    
+    
     def create_yearmonth_index_csv(self):
         yearmonths_output_file = os.path.join(self.csv_output_dir, 'yearmonth_index.csv')
         year_month_output = open(yearmonths_output_file, 'w')
