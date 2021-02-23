@@ -18,7 +18,8 @@ class BggClient():
     sgoyt_geeklist_xml_output_dir = os.path.join('tools', 'XML', 'geeklists', 'sgoyt')
     game_xml_output_dir = os.path.join('tools', 'XML', 'games')
     csv_output_dir = os.path.join('tools', 'CSV')
-    json_output_dir = os.path.join('tools', 'JSON')
+    games_json_output_dir = os.path.join('tools', 'JSON', 'games')
+    yearmonth_json_output_dir = os.path.join('tools', 'JSON', 'yearmonth')
     apis = {
         'xml': 'xmlapi',
         'xml2': 'xmlapi2'
@@ -675,22 +676,26 @@ class BggClient():
             all_games[game_id]['expansions_string'] = expansions_string
             all_games[game_id]['expansions_for_string'] = expansion_for_string
 
-            output_file = os.path.join(self.json_output_dir, '{0}.json'.format(game_id))
+            output_file = os.path.join(self.games_json_output_dir, '{0}.json'.format(game_id))
             with open(output_file, 'w') as write_file:
                 json.dump(all_games[game_id], write_file, indent=4)
         
     
-    def create_yearmonth_index_csv(self):
-        yearmonths_output_file = os.path.join(self.csv_output_dir, 'yearmonth_index.csv')
-        year_month_output = open(yearmonths_output_file, 'w')
-        year_month_output.write('geeklistid###yearmonth###geeklistlink\n')
-        year_month_output.close()
-        year_month_output = open(yearmonths_output_file, 'a')
-        for geeklistid in self.geeklist_month_mapping:
-            yearmonth = '{0}/{1}'.format(self.geeklist_month_mapping[geeklistid]['Year'], self.geeklist_month_mapping[geeklistid]['Month'])
-            geeklist_link = '{0}/{1}/{2}'.format(self.base_url, 'geeklist', geeklistid)
-            year_month_output.write('{0}###{1}###{2}\n'.format(geeklistid, yearmonth, geeklist_link))
-        year_month_output.close()
+    def create_yearmonth_index_json(self):
+        year_month_list = []
+        for geeklist_id in self.geeklist_month_mapping:
+            year_month = '{0}/{1}'.format(self.geeklist_month_mapping[geeklist_id]['Year'], self.geeklist_month_mapping[geeklist_id]['Month'])
+            geeklist_link = '{0}/geeklist/{1}'.format(self.base_url, geeklist_id)
+            year_month_list.append(
+                {
+                    'geeklist_id': geeklist_id,
+                    'year_month': year_month,
+                    'geeklist_link': geeklist_link
+                }
+            )
+        output_file = os.path.join(self.yearmonth_json_output_dir, 'yearmonth_index.json')
+        with open(output_file, 'w') as write_file:
+            json.dump(year_month_list, write_file, indent=4)
     
 
     def _convert_array_to_string(self, array, delimiter=';'):
