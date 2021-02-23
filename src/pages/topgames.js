@@ -12,12 +12,11 @@ export default function TopGames( {data} ) {
             <Collapsible trigger="Top 25 Games - All Time">
             {game_data.map(function(data_item) {
                 return (
-                    
-                        <tr>
-                            <td>{data_item.game_name}</td>
-                            <td>{data_item.sgoyt_count}</td>
-                            <td><a href={data_item.bgg_link} target="_blank" rel="noreferrer">[bgg]</a></td>
-                        </tr>
+                    <tr>
+                        <td>{data_item.game_name}</td>
+                        <td>{data_item.sgoyt_count}</td>
+                        <td><a href={data_item.bgg_link} target="_blank" rel="noreferrer">[bgg]</a></td>
+                    </tr>
                 )
             })}
             </Collapsible>

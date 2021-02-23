@@ -10,9 +10,6 @@ export default function CategoriesIndexGrid( {data} ) {
         { field: 'id', headerName: 'ID', hide: true },
     ]
     const rows = []
-
-    
-    
     data.forEach(function(data_item) {
             rows.push(
                 {
