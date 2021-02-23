@@ -7,6 +7,7 @@ import csv
 import pandas as pd
 import unicodedata
 import decimal
+import simplejson as json
 
 class BggClient():
     base_url = 'https://boardgamegeek.com'
@@ -17,6 +18,7 @@ class BggClient():
     sgoyt_geeklist_xml_output_dir = os.path.join('tools', 'XML', 'geeklists', 'sgoyt')
     game_xml_output_dir = os.path.join('tools', 'XML', 'games')
     csv_output_dir = os.path.join('tools', 'CSV')
+    json_output_dir = os.path.join('tools', 'JSON')
     apis = {
         'xml': 'xmlapi',
         'xml2': 'xmlapi2'
@@ -521,14 +523,10 @@ class BggClient():
         csv_output = open(output_file, 'a')
         csv_output.write('{0}###{1}'.format('1', current_datetime))
         csv_output.close()
-
     
-    def create_sgoyt_csv(self):
-        output_file = os.path.join(self.csv_output_dir, 'sgoyt.csv')
-        csv_output = open(output_file, 'w')
-        csv_output.write('rownum###yearmonth###game###gameid###geeklistitem###geeklisthost###user###geeklistid\n')
-        csv_output.close()
-        csv_output = open(output_file, 'a')
+
+    def create_game_data_json(self):
+        all_games = {}
         for filename in os.listdir(self.sgoyt_geeklist_xml_output_dir):
             file_path = os.path.join(self.sgoyt_geeklist_xml_output_dir, filename)
             geeklist_id = filename.replace('.xml', '')
@@ -536,132 +534,151 @@ class BggClient():
             root = tree.getroot()
             year = self.geeklist_month_mapping[geeklist_id]['Year']
             month = self.geeklist_month_mapping[geeklist_id]['Month']
+            year_month = '{0}/{1}'.format(year, month)
             geeklist_host = root.find('username').text
             for item in root.findall('./item'):
                 if item.attrib['subtype'] == 'boardgame':
-                    geeklist_item_link = '{0}/{1}/{2}/item/{3}#item{3}'.format(self.base_url, 'geeklist', geeklist_id, item.attrib['id'])
-                    game = self._replace_text(item.attrib['objectname'])
-                    game = unicodedata.normalize('NFD', game).encode('ascii', 'ignore').decode()
-                    user = item.attrib['username']
-                    csv_output.write('{0}###{1}/{2}###{3}###{4}###{5}###{6}###{7}###{8}\n'.format(item.attrib['id'], year, month, game, item.attrib['objectid'],geeklist_item_link, geeklist_host, user, geeklist_id))
-        csv_output.close()
-    
-
-    def create_game_index_csv(self):
-        csv_file = os.path.join(self.csv_output_dir, 'sgoyt.csv')
-        temp_games_output_file = os.path.join(self.csv_output_dir, 'temp.csv')
-        games_output_file = os.path.join(self.csv_output_dir, 'game_index.csv')
-        data = pd.read_csv(csv_file, delimiter='###', engine='python')
-        data_grouped = data.groupby(['gameid', 'game'])['gameid'].count().reset_index(name='count')
-        data_grouped['bgglink'] = self.base_url + '/boardgame/' + data_grouped.gameid.map(str)
-
-        for index, row in data_grouped.iterrows():
-            result_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(row['gameid']))
+                    game_id = item.attrib['objectid']
+                    if game_id not in all_games:
+                        game_name = self._replace_text(item.attrib['objectname'])
+                        game_name = unicodedata.normalize('NFD', game_name).encode('ascii', 'ignore').decode()
+                        bgg_link = '{0}/boardgame/{1}'.format(self.base_url, game_id)
+                        all_games[game_id] = {
+                            'game_id': game_id,
+                            'game_name': game_name,
+                            'bgg_link': bgg_link,
+                        }
+                        all_games[game_id]['sgoyt_entries'] = []
+                    geeklist_item_id = item.attrib['id']
+                    geeklist_item_link = '{0}/geeklist/{1}/item/{2}#item{2}'.format(self.base_url, geeklist_id, geeklist_item_id)
+                    contributor = item.attrib['username']
+                    sgoyt_entry = {
+                        'geeklist_id': geeklist_id,
+                        'geeklist_item_id': geeklist_item_id,
+                        'year_month': year_month,
+                        'year': year,
+                        'month': month,
+                        'geeklist_item_link': geeklist_item_link,
+                        'geeklist_host': geeklist_host,
+                        'contributor': contributor
+                    }
+                    all_games[game_id]['sgoyt_entries'].append(sgoyt_entry)
+        
+        for game_id in all_games:
+            result_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(game_id))
             if os.path.exists(result_file) is False:
-                print('Processing gameid {0}...'.format(row['gameid']))
-                url = '{0}/{1}/thing?id={2}&stats=1'.format(self.base_url, self.apis['xml2'], row['gameid'])
+                print('Processing game_id {0}...'.format(game_id))
+                url = '{0}/{1}/thing?id={2}&stats=1'.format(self.base_url, self.apis['xml2'], game_id)
                 response = requests.get(url)
                 self._validate_status_code(response)
                 with open(result_file, 'wb') as f:
                     f.write(response.content)
                 time.sleep(15)
-            
-        data_grouped.to_csv(temp_games_output_file, sep='#', header=True, index=False)
-
-        with open(temp_games_output_file, newline=None) as f:
-            reader = csv.reader(f, delimiter='#')
-            output = open(games_output_file, 'w')
-            output.write('')
-            output.close()
-            output = open(games_output_file, 'a')
-            for line in reader:
-                if line[0] == 'gameid':
-                    output.write('{0}###{1}###{2}###{3}###{4}###{5}###{6}###{7}###{8}###{9}###{10}###{11}###{12}###{13}###{14}\n'.format(line[0], line[1], line[2], line[3], 'thumbnail', 'yearpublished', 'designers', 'categories', 'mechanics', 'weight', 'rating', 'playtime', 'best', 'recommended', 'not_recommended'))
-                else:
-                    gameid = line[0]
-                    game_xml_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(gameid))
-                    tree = ET.parse(game_xml_file)
-                    root = tree.getroot()
-                    thumbnail_elem = root.find('item').find('thumbnail')
-                    if thumbnail_elem is not None:
-                        thumbnail = '\"{0}\"'.format(thumbnail_elem.text)
-                    else:
-                        thumbnail = '\"\"'
-                    description = root.find('item').find('description').text
-                    if description is not None:
-                        description = self._replace_text(description)
-                        description = unicodedata.normalize('NFD', description).encode('ascii', 'ignore').decode()
-                    yearpublished = root.find('item').find('./yearpublished').attrib['value']
-                    designers = ''
-                    categories = ''
-                    mechanics = ''
-                    for link in root.find('item').findall('./link'):
-                        if link.attrib['type'] == 'boardgamedesigner':
-                            designer = self._replace_text(link.attrib['value'])
-                            designer = unicodedata.normalize('NFD', designer).encode('ascii', 'ignore').decode()
-                            designers += '{0}; '.format(designer)
-                        if link.attrib['type'] == 'boardgamecategory':
-                            categories += '{0}; '.format(link.attrib['value'])
-                        if link.attrib['type'] == 'boardgamemechanic':
-                            mechanics += '{0}; '.format(link.attrib['value'])
-                    if len(designers) > 2:
-                        designers = designers[:-2]
-                    if len(categories) > 2:
-                        categories = categories[:-2]
-                    if len(mechanics) > 2:
-                        mechanics = mechanics[:-2]
-                    weight = root.find('item').find('statistics').find('ratings').find('averageweight').attrib['value']
-                    weight = round(decimal.Decimal(weight), 2)
-                    rating = root.find('item').find('statistics').find('ratings').find('average').attrib['value']
-                    rating = round(decimal.Decimal(rating), 2)
-                    min_playtime = root.find('item').find('minplaytime').attrib['value']
-                    max_playtime = root.find('item').find('maxplaytime').attrib['value']
-                    if min_playtime == max_playtime:
-                        playtime = root.find('item').find('playingtime').attrib['value']
-                    else:
-                        playtime = '{0} - {1}'.format(min_playtime, max_playtime)
-                    for poll in root.find('item').findall('./poll'):
-                        if poll.attrib['name'] == 'suggested_numplayers':
-                            for results in poll.findall('./results'):
-                                if results.attrib['numplayers'] == '1':
-                                    for result in results:
-                                        if result.attrib['value'] == 'Best':
-                                            best = result.attrib['numvotes']
-                                        if result.attrib['value'] == 'Recommended':
-                                            recommended = result.attrib['numvotes']
-                                        if result.attrib['value'] == 'Not Recommended':
-                                            not_recommended = result.attrib['numvotes']
-                    output.write('{0}###{1}###{2}###{3}###{4}###{5}###{6}###{7}###{8}###{9}###{10}###{11}###{12}###{13}###{14}\n'.format(line[0], line[1], line[2], line[3], thumbnail, yearpublished, designers, categories, mechanics, weight, rating, playtime, best, recommended, not_recommended))
-            output.close()
-        f.close()
-        os.remove(temp_games_output_file)
-
-
-    def create_expansion_index_csv(self):
-        expansion_output_file = os.path.join(self.csv_output_dir, 'expansion_index.csv')
-        expansion_output = open(expansion_output_file, 'w')
-        expansion_output.write('gameid###expansionid###gamebgglink###expansionbgglink###gamename###expansionname\n')
-        expansion_output.close()
-        expansion_output = open(expansion_output_file, 'a')
-        for filename in os.listdir(self.game_xml_output_dir):
-            gameid = filename.replace('.xml', '')
-            file_path = os.path.join(self.game_xml_output_dir, filename)
-            tree = ET.parse(file_path)
+            all_games[game_id]['sgoyt_count'] = len(all_games[game_id]['sgoyt_entries'])
+            game_xml_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(game_id))
+            tree = ET.parse(game_xml_file)
             root = tree.getroot()
-            game_name = root.find('item').find('name').attrib['value']
-            game_name = self._replace_text(game_name)
-            game_name = unicodedata.normalize('NFD', game_name).encode('ascii', 'ignore').decode()
+            
+            thumbnail_elem = root.find('item').find('thumbnail')
+            if thumbnail_elem is not None:
+                thumbnail = '{0}'.format(thumbnail_elem.text)
+            else:
+                thumbnail = ''
+            
+            description = root.find('item').find('description').text
+            if description is not None:
+                description = self._replace_text(description)
+                description = unicodedata.normalize('NFD', description).encode('ascii', 'ignore').decode()
+            
+            year_published = root.find('item').find('./yearpublished').attrib['value']
+            designers = []
+            categories = []
+            mechanics = []
+            expansions = []
+            expansion_for = []
             for link in root.find('item').findall('./link'):
-                if (link.attrib['type'] == 'boardgameexpansion' and 'inbound' not in link.attrib):
-                    expansionid = link.attrib['id']
-                    expansion_name = link.attrib['value']
-                    expansion_name = self._replace_text(expansion_name)
-                    expansion_name = unicodedata.normalize('NFD', expansion_name).encode('ascii', 'ignore').decode()
-                    gamebgglink = '{0}/boardgame/{1}'.format(self.base_url, gameid)
-                    expansionbgglink = '{0}/boardgame/{1}'.format(self.base_url, expansionid)
-                    expansion_output.write('{0}###{1}###{2}###{3}###{4}###{5}\n'.format(gameid, expansionid, gamebgglink, expansionbgglink, game_name, expansion_name))
-        expansion_output.close()
-    
+                if link.attrib['type'] == 'boardgamedesigner':
+                    designer = self._replace_text(link.attrib['value'])
+                    designer = unicodedata.normalize('NFD', designer).encode('ascii', 'ignore').decode()
+                    designers.append(designer)
+                if link.attrib['type'] == 'boardgamecategory':
+                    categories.append(link.attrib['value'])
+                if link.attrib['type'] == 'boardgamemechanic':
+                    mechanics.append(link.attrib['value'])
+                if link.attrib['type'] == 'boardgameexpansion':
+                    if 'inbound' not in link.attrib:
+                        expansion_id = link.attrib['id']
+                        expansion_name = link.attrib['value']
+                        expansion_name = self._replace_text(expansion_name)
+                        expansion_name = unicodedata.normalize('NFD', expansion_name).encode('ascii', 'ignore').decode()
+                        expansion_bgg_link = '{0}/boardgame/{1}'.format(self.base_url, expansion_id)
+                        expansion_data = {
+                            'expansion_id': expansion_id,
+                            'expansion_name': expansion_name,
+                            'expansion_bgg_link': expansion_bgg_link
+                        }
+                        expansions.append(expansion_data)
+                    if 'inbound' in link.attrib:
+                        exp_for_id = link.attrib['id']
+                        exp_for_name = link.attrib['value']
+                        exp_for_name = self._replace_text(exp_for_name)
+                        exp_for_name = unicodedata.normalize('NFD', exp_for_name).encode('ascii', 'ignore').decode()
+                        exp_for_bgg_link = '{0}/boardgame/{1}'.format(self.base_url, exp_for_id)
+                        expansion_for_data = {
+                            'game_id': exp_for_id,
+                            'game_name': exp_for_name,
+                            'game_bgg_link': exp_for_bgg_link
+                        }
+                        expansion_for.append(expansion_for_data)
+            expansions_string = self._convert_array_to_string(expansions)
+            expansion_for_string = self._convert_array_to_string(expansion_for)
+            designers_string = self._convert_array_to_string(designers)
+            mechanics_string = self._convert_array_to_string(mechanics)
+            categories_string = self._convert_array_to_string(categories)
+            weight = root.find('item').find('statistics').find('ratings').find('averageweight').attrib['value']
+            weight = round(decimal.Decimal(weight), 2)
+            rating = root.find('item').find('statistics').find('ratings').find('average').attrib['value']
+            rating = round(decimal.Decimal(rating), 2)
+            min_playtime = root.find('item').find('minplaytime').attrib['value']
+            max_playtime = root.find('item').find('maxplaytime').attrib['value']
+            if min_playtime == max_playtime:
+                play_time = root.find('item').find('playingtime').attrib['value']
+            else:
+                play_time = '{0} - {1}'.format(min_playtime, max_playtime)
+            for poll in root.find('item').findall('./poll'):
+                if poll.attrib['name'] == 'suggested_numplayers':
+                    for results in poll.findall('./results'):
+                        if results.attrib['numplayers'] == '1':
+                            for result in results:
+                                if result.attrib['value'] == 'Best':
+                                    best = result.attrib['numvotes']
+                                if result.attrib['value'] == 'Recommended':
+                                    recommended = result.attrib['numvotes']
+                                if result.attrib['value'] == 'Not Recommended':
+                                    not_recommended = result.attrib['numvotes']
+            all_games[game_id]['thumbnail'] = thumbnail
+            all_games[game_id]['year_published'] = year_published
+            all_games[game_id]['designers'] = designers
+            all_games[game_id]['weight'] = weight
+            all_games[game_id]['rating'] = rating
+            all_games[game_id]['play_time'] = play_time
+            all_games[game_id]['best'] = best
+            all_games[game_id]['recommended'] = recommended
+            all_games[game_id]['not_recommended'] = not_recommended
+            all_games[game_id]['categories'] = categories
+            all_games[game_id]['mechanics'] = mechanics
+            all_games[game_id]['expansions'] = expansions
+            all_games[game_id]['expansion_for'] = expansion_for
+            all_games[game_id]['designers_string'] = designers_string
+            all_games[game_id]['categories_string'] = categories_string
+            all_games[game_id]['mechanics_string'] = mechanics_string
+            all_games[game_id]['expansions_string'] = expansions_string
+            all_games[game_id]['expansions_for_string'] = expansion_for_string
+
+            output_file = os.path.join(self.json_output_dir, '{0}.json'.format(game_id))
+            with open(output_file, 'w') as write_file:
+                json.dump(all_games[game_id], write_file, indent=4)
+        
     
     def create_yearmonth_index_csv(self):
         yearmonths_output_file = os.path.join(self.csv_output_dir, 'yearmonth_index.csv')
@@ -676,6 +693,14 @@ class BggClient():
         year_month_output.close()
     
 
+    def _convert_array_to_string(self, array, delimiter=';'):
+        return_string = ''
+        for item in array:
+            return_string += '{0}{1} '.format(item, delimiter)
+        if len(return_string) > 2:
+            return_string = return_string[:-2]
+        return return_string
+    
     def _url_join(self, *args):
         url = ''
         for arg in args:
