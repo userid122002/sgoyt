@@ -3,79 +3,80 @@ import { Link } from "gatsby"
 import { DataGrid } from "@material-ui/data-grid"
 import Collapsible from "react-collapsible"
 
-export default function GamePage( {data, game_details, expansion_details, expansion_for_details} ) {
+export default function GamePage( {data} ) {
     const columns = [
         { field: 'link', headerName: "Link", width: 200, filterable: false, sortable: false, renderCell: (params) => (params.value) },
-        { field: 'yearmonth', headerName: "Year/Month", width: 200 },
-        { field: 'user', headerName: "User", width: 200 },
+        { field: 'year_month', headerName: "Year/Month", width: 200 },
+        { field: 'contributor', headerName: "Contributor", width: 200 },
         { field: 'id', headerName: "ID", hide: true },
     ]
     const rows = []
-    data.forEach(function(data_item) {
-        rows.push(
-            {
-                link: <a href={data_item.geeklistitem} target="_blank" rel="noreferrer">[sgoyt]</a>,
-                yearmonth: data_item.yearmonth,
-                user: data_item.user,
-                id: data_item.rownum,
-            }
-        )
-    })
     let exp = <div></div>
-    if (expansion_details.length > 0) {
-        exp = <h4>Expansions:</h4>
-    }
     let exp_for = <div></div>
-    if (expansion_for_details.length > 0) {
-        exp_for = <h4>Expansion for:</h4>
+    if (data['sgoyt_entries'] != null) {
+        data['sgoyt_entries'].forEach(function(data_item) {
+            rows.push(
+                {
+                    link: <a href={data_item.geeklist_item_link} target="_blank" rel="noreferrer">[sgoyt]</a>,
+                    year_month: data_item.year_month,
+                    contributor: data_item.contributor,
+                    id: data_item.geeklist_item_id,
+                }
+            )
+        })
+        if (data['expansions'].length > 0) {
+        exp = <h4>Expansions:</h4>
+        }
+        if (data['expansion_for'].length > 0) {
+            exp_for = <h4>Expansion for:</h4>
+        }
     }
-    console.log(game_details['game_name'] == null)
     let details = <div>
         <Collapsible trigger="Game Details"><p>No data</p></Collapsible>
     </div>
-    if (game_details['game_name'] != null) {
+    if (data['game_name'] != null) {
         details = <div>
-        <h3>{game_details['game_name']}</h3>
+        <h3>{data['game_name']}</h3>
         <Collapsible trigger="Game Details">
             <div>
-                <img alt={game_details['game_name']} style={{margin:`10px 10px`}} src={game_details['thumbnail']}></img>
-                <p><a href={game_details['bgglink']} target="_blank" rel="noreferrer">[bgg]</a></p>
-                <p>Designer(s): {game_details['designers']}</p>
-                <p>Rating: {game_details['rating']}</p>
-                <p>Weight: {game_details['weight']}</p>
-                <p>Year Published: {game_details['yearpublished']}</p>
-                <p>Play Time: {game_details['playtime']}</p>
-                <p>Game Categories: {game_details['categories']}</p>
-                <p>Game Mechanics: {game_details['mechanics']}</p>
-                <p>Recommended as a solo game: {game_details['recommended']}</p>
+                <img alt={data['game_name']} style={{margin:`10px 10px`}} src={data['thumbnail']}></img>
+                <p><a href={data['bgg_link']} target="_blank" rel="noreferrer">[bgg]</a></p>
+                <p>Designer(s): {data['designers_string']}</p>
+                <p>Rating: {data['rating']}</p>
+                <p>Weight: {data['weight']}</p>
+                <p>Year Published: {data['year_published']}</p>
+                <p>Play Time: {data['play_time']}</p>
+                <p>Game Categories: {data['categories_string']}</p>
+                <p>Game Mechanics: {data['mechanics_string']}</p>
+                <p>Recommended as a solo game: {data['recommended_string']}</p>
                 {exp}
-                {expansion_details.map(function(expansion) {
+                {data.expansions.map(function(expansion) {
                     return (
                         <tr>
-                            <td><p>{expansion.expansionname}</p></td>
-                            <td> <p><Link to={"/gamedetails/?gameid=" + expansion.expansionid} target="_blank" rel="noreferrer">[details]</Link></p></td>
-                            <td><p><a href={expansion.expansionbgglink} target="_blank" rel="noreferrer">[bgg]</a></p></td>
+                            <td><p>{expansion.expansion_name}</p></td>
+                            <td> <p><Link to={"/gamedetails/?gameid=" + expansion.expansion_id} target="_blank" rel="noreferrer">[details]</Link></p></td>
+                            <td><p><a href={expansion.expansion_bgg_link} target="_blank" rel="noreferrer">[bgg]</a></p></td>
                         </tr>
                     )
                 })}
                 {exp_for}
-                {expansion_for_details.map(function(expansion_for) {
+                {data.expansion_for.map(function(expansion_for) {
                     return (
                         <tr>
                             <td padding-top='20px'
                                 padding-bottom='20px'
                                 padding-right='20px'>
-                                <p>{expansion_for.gamename}</p>
+                                <p>{expansion_for.game_name}</p>
                             </td>
                             <td padding-top='20px'
                                 padding-bottom='20px'
                                 padding-right='20px'>
-                                <p><Link to={"/gamedetails/?gameid=" + expansion_for.gameid} target="_blank" rel="noreferrer">[details]</Link></p>
+                                <p><Link to={"/gamedetails/?gameid=" + expansion_for.game_id} target="_blank" rel="noreferrer">[details]</Link></p>
                             </td>
                             <td padding-top='20px'
                                 padding-bottom='20px'
                                 padding-right='20px'>
-                                <p><a href={expansion_for.gamebgglink} target="_blank" rel="noreferrer">[bgg]</a></p>
+                                <p><a href={expansion_for.game_bgg_link} target="_blank" rel="noreferrer">[bgg]</a></p>
                             </td>
                         </tr>
                     )

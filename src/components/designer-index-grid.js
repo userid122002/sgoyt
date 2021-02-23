@@ -10,16 +10,13 @@ export default function DesignersIndexGrid( {data} ) {
         { field: 'id', headerName: 'ID', hide: true },
     ]
     const rows = []
-
-    
-    
     data.forEach(function(data_item) {
             rows.push(
                 {
-                    game: data_item.game,
-                    gamepage: <Link to={"/gamedetails/?gameid=" + data_item.gameid}>[details]</Link>,
+                    game: data_item.game_name,
+                    gamepage: <Link to={"/gamedetails/?gameid=" + data_item.game_id}>[details]</Link>,
                     designers: data_item.designers,
-                    id: data_item.gameid,
+                    id: data_item.game_id,
                 }
             )
         }

@@ -14,10 +14,10 @@ export default function Index( {data} ) {
     <Layout>
         <SEO title="Home"></SEO>
         <h1>Index</h1>
-        <Collapsible trigger="Search Games by Title"><GameIndexGrid data={data.allGameIndexCsv.nodes}></GameIndexGrid></Collapsible>
-        <Collapsible trigger="Search Games by Mechanic"><MechanicsIndexGrid data={data.allGameIndexCsv.nodes}></MechanicsIndexGrid></Collapsible>
-        <Collapsible trigger="Search Games by Category"><CategoriesIndexGrid data={data.allGameIndexCsv.nodes}></CategoriesIndexGrid></Collapsible>
-        <Collapsible trigger="Search Games by Designer"><DesignersIndexGrid data={data.allGameIndexCsv.nodes}></DesignersIndexGrid></Collapsible>
+        <Collapsible trigger="Search Games by Title"><GameIndexGrid data={data.allGameDataJson.nodes}></GameIndexGrid></Collapsible>
+        <Collapsible trigger="Search Games by Mechanic"><MechanicsIndexGrid data={data.allGameDataJson.nodes}></MechanicsIndexGrid></Collapsible>
+        <Collapsible trigger="Search Games by Category"><CategoriesIndexGrid data={data.allGameDataJson.nodes}></CategoriesIndexGrid></Collapsible>
+        <Collapsible trigger="Search Games by Designer"><DesignersIndexGrid data={data.allGameDataJson.nodes}></DesignersIndexGrid></Collapsible>
         <Collapsible trigger="Search Geeklists by Year/Month"><YearMonthIndexGrid data={data.allYearmonthIndexCsv.nodes}></YearMonthIndexGrid></Collapsible>
     </Layout>
   )
@@ -25,22 +25,22 @@ export default function Index( {data} ) {
 
 export const query = graphql`
     query {
-      allGameIndexCsv (sort: {fields: game, order: ASC}) {
-        nodes {
-          bgglink
-          game
-          gameid
-          mechanics
-          categories
-          designers
-        }
-      },
-      allYearmonthIndexCsv (sort: {fields: geeklistid, order: DESC}) {
+      allYearmonthIndexCsv (sort: {fields: yearmonth, order: DESC}) {
         nodes {
           geeklistid
           yearmonth
           geeklistlink
         }
+      },
+      allGameDataJson (sort: {fields: game_name}) {
+        nodes {
+          bgg_link
+          game_id
+          game_name
+          designers
+          categories
+          mechanics
+        }
+      }
     }
-  }
 `

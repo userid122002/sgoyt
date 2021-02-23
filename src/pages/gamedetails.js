@@ -9,59 +9,45 @@ import "../sass/components/_Collapsible.scss"
 
 function Game( {data, search} ) {
     const { gameid } =  search
-    const game_data = data.allSgoytCsv.nodes.filter(n => n.gameid === gameid)
-    const game_details_data = data.allGameIndexCsv.nodes.filter(n => n.gameid === gameid)
-    const expansion_details_data = data.allExpansionIndexCsv.nodes.filter(n => n.gameid === gameid)
-    const expansion_for_details_data = data.allExpansionIndexCsv.nodes.filter(n => n.expansionid === gameid)
+    const game_data = data.allGameDataJson.nodes.filter(n => n.game_id === gameid)
     let game_details = {}
     let recommended = ""
     let not_recommended = ""
     let best = ""
-    game_details_data.forEach(function(data_item){
-        game_details['game_name'] = data_item.game
-        game_details['bgglink'] = data_item.bgglink
-        game_details['categories'] = data_item.categories
-        game_details['designers'] = data_item.designers
-        game_details['mechanics'] = data_item.mechanics
-        game_details['playtime'] = data_item.playtime
+    game_data.forEach(function(data_item){
+        game_details['game_name'] = data_item.game_name
+        game_details['bgg_link'] = data_item.bgg_link
+        game_details['categories_string'] = data_item.categories_string
+        game_details['designers_string'] = data_item.designers_string
+        game_details['mechanics_string'] = data_item.mechanics_string
+        game_details['play_time'] = data_item.play_time
         game_details['rating'] = data_item.rating
         game_details['thumbnail'] = data_item.thumbnail
         game_details['weight'] = data_item.weight
-        game_details['yearpublished'] = data_item.yearpublished
+        game_details['year_published'] = data_item.year_published
+        game_details['sgoyt_entries'] = sort_by_key(data_item.sgoyt_entries, 'year_month', -1)
+        game_details['expansions'] = data_item.expansions
+        game_details['expansion_for'] = data_item.expansion_for
         recommended = data_item.recommended
         not_recommended = data_item.not_recommended
         best = data_item.best
     })
-    game_details['recommended'] = String(parseInt(recommended, 10) + parseInt(best, 10)) + ' out of ' + String(parseInt(recommended, 10) + parseInt(best, 10) + parseInt(not_recommended, 10)) + ' (' + String((100 * (parseFloat(recommended) + parseFloat(best)) / (parseFloat(recommended) + parseFloat(best) + parseFloat(not_recommended))).toFixed(2)) + '%)'
-    let expansion_details = []
-    expansion_details_data.forEach(function(data_item){
-        let expansion_detail = {}
-        expansion_detail['gameid'] = data_item.gameid
-        expansion_detail['expansionid'] = data_item.expansionid
-        expansion_detail['gamebgglink'] = data_item.gamebgglink
-        expansion_detail['expansionbgglink'] = data_item.expansionbgglink
-        expansion_detail['gamename'] = data_item.gamename
-        expansion_detail['expansionname'] = data_item.expansionname
-        expansion_details.push(expansion_detail)
-    })
-    let expansion_for_details = []
-    expansion_for_details_data.forEach(function(data_item) {
-        let expansion_for_detail = {}
-        expansion_for_detail['gameid'] = data_item.gameid
-        expansion_for_detail['gameid'] = data_item.gameid
-        expansion_for_detail['expansionid'] = data_item.expansionid
-        expansion_for_detail['gamebgglink'] = data_item.gamebgglink
-        expansion_for_detail['expansionbgglink'] = data_item.expansionbgglink
-        expansion_for_detail['gamename'] = data_item.gamename
-        expansion_for_detail['expansionname'] = data_item.expansionname
-        expansion_for_details.push(expansion_for_detail)
-    })
+    game_details['recommended_string'] = String(parseInt(recommended, 10) + parseInt(best, 10)) + ' out of ' + String(parseInt(recommended, 10) + parseInt(best, 10) + parseInt(not_recommended, 10)) + ' (' + String((100 * (parseFloat(recommended) + parseFloat(best)) / (parseFloat(recommended) + parseFloat(best) + parseFloat(not_recommended))).toFixed(2)) + '%)'
     return (
         <Layout>
             <SEO title={game_details['game_name']}></SEO>
-            <GamePage data={game_data} game_details={game_details} expansion_details={expansion_details} expansion_for_details={expansion_for_details}></GamePage>
+            <GamePage data={game_details}></GamePage>
         </Layout>
     )
+}
+
+function sort_by_key(array, key, order = 1)
+{
+ return array.sort(function(a, b)
+ {
+  var x = a[key]; var y = b[key]
+  return order*((x < y) ? -1 : ((x > y) ? 1 : 0))
+ })
 }
 
 Game.propTypes = {
@@ -71,46 +57,42 @@ Game.propTypes = {
 export default withLocation(Game)
 
 export const query = graphql`
-    query {
-        allGameIndexCsv {
-            nodes {
-                bgglink
-                game
-                gameid
-                categories
-                designers
-                mechanics
-                playtime
-                rating
-                thumbnail
-                weight
-                yearpublished
-                recommended
-                not_recommended
-                best
-            }
+  query {
+    allGameDataJson {
+      nodes {
+        best
+        bgg_link
+        categories_string
+        designers_string
+        expansion_for {
+          game_bgg_link
+          game_id
+          game_name
         }
-        allSgoytCsv(sort: {fields: rownum, order: DESC}) {
-            nodes {
-                game
-                gameid
-                geeklisthost
-                geeklistitem
-                rownum
-                user
-                yearmonth
-            }
-            totalCount
+        expansions {
+          expansion_bgg_link
+          expansion_id
+          expansion_name
         }
-        allExpansionIndexCsv {
-            nodes {
-                gameid
-                expansionid
-                gamebgglink
-                expansionbgglink
-                gamename
-                expansionname
-            }
+        game_id
+        game_name
+        mechanics_string
+        not_recommended
+        play_time
+        rating
+        recommended
+        sgoyt_entries {
+          contributor
+          geeklist_host
+          geeklist_id
+          geeklist_item_id
+          geeklist_item_link
+          year_month
+        }
+        thumbnail
+        weight
+        year_published
         }
     }
+  }
 `
