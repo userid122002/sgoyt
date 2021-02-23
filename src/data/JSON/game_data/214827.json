@@ -1,0 +1,84 @@
+{
+    "game_id": "214827",
+    "game_name": "Panzer: Game Expansion Set, Nr 4 - France 1940",
+    "bgg_link": "https://boardgamegeek.com/boardgame/214827",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6868980",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6868980#item6868980",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6900271",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6900271#item6900271",
+            "geeklist_host": "Woelf",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6914954",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6914954#item6914954",
+            "geeklist_host": "Woelf",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8041402",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8041402#item8041402",
+            "geeklist_host": "airzonk1",
+            "contributor": "Ben_Bos"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/0dOFhP7-OHeZy64_0vInGA__thumb/img/KLWBB7BHrzgLesuKDbrplv02674=/fit-in/200x150/filters:strip_icc()/pic4410808.jpg",
+    "year_published": "2019",
+    "designers": [
+        "James M. Day",
+        "Fernando Sola Ramos"
+    ],
+    "weight": 3.67,
+    "rating": 8.41,
+    "play_time": "180 - 0",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Simulation"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "85769",
+            "game_name": "Panzer: The Game of Small Unit Actions and Combined Arms Operations on the Eastern Front 1943-45",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/85769"
+        }
+    ],
+    "designers_string": "James M. Day; Fernando Sola Ramos",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Action Queue; Dice Rolling; Hexagon Grid; Simulation",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '85769', 'game_name': 'Panzer: The Game of Small Unit Actions and Combined Arms Operations on the Eastern Front 1943-45', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/85769'}"
+}

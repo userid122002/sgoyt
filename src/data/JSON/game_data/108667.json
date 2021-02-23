@@ -1,0 +1,146 @@
+{
+    "game_id": "108667",
+    "game_name": "Power Grid: The Robots",
+    "bgg_link": "https://boardgamegeek.com/boardgame/108667",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "156765",
+            "geeklist_item_id": "2631358",
+            "year_month": "2013/05",
+            "year": "2013",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/156765/item/2631358#item2631358",
+            "geeklist_host": "fractaloon",
+            "contributor": "Woelf"
+        },
+        {
+            "geeklist_id": "157888",
+            "geeklist_item_id": "2687504",
+            "year_month": "2013/06",
+            "year": "2013",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/157888/item/2687504#item2687504",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Xelforp"
+        },
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2863343",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2863343#item2863343",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Woelf"
+        },
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2875449",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2875449#item2875449",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Woelf"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3710246",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3710246#item3710246",
+            "geeklist_host": "Woelf",
+            "contributor": "Woelf"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3733243",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3733243#item3733243",
+            "geeklist_host": "Woelf",
+            "contributor": "Woelf"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4398144",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4398144#item4398144",
+            "geeklist_host": "suzyvitale",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4726337",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4726337#item4726337",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "jgatkinsn"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6834602",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6834602#item6834602",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Kerbster76"
+        }
+    ],
+    "sgoyt_count": 9,
+    "thumbnail": "https://cf.geekdo-images.com/4DuQvLs0pH4nVcevop1ncA__thumb/img/bywYZo_Olp6YOFMyxyNpipqXa-o=/fit-in/200x150/filters:strip_icc()/pic1103946.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Friedemann Friese"
+    ],
+    "weight": 2.85,
+    "rating": 7.11,
+    "play_time": "120",
+    "best": "1",
+    "recommended": "11",
+    "not_recommended": "7",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Network and Route Building"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "33434",
+            "game_name": "Funkenschlag: EnBW",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/33434"
+        },
+        {
+            "game_id": "39336",
+            "game_name": "Megawatts",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/39336"
+        },
+        {
+            "game_id": "2651",
+            "game_name": "Power Grid",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/2651"
+        },
+        {
+            "game_id": "155873",
+            "game_name": "Power Grid Deluxe: Europe/North America",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/155873"
+        }
+    ],
+    "designers_string": "Friedemann Friese",
+    "categories_string": "Economic; Expansion for Base-game; Industry / Manufacturing",
+    "mechanics_string": "Auction/Bidding; Network and Route Building",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '33434', 'game_name': 'Funkenschlag: EnBW', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/33434'}; {'game_id': '39336', 'game_name': 'Megawatts', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/39336'}; {'game_id': '2651', 'game_name': 'Power Grid', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/2651'}; {'game_id': '155873', 'game_name': 'Power Grid Deluxe: Europe/North America', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/155873'}"
+}

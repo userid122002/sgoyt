@@ -1,0 +1,65 @@
+{
+    "game_id": "245531",
+    "game_name": "Grimslingers: Character Card Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/245531",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7941830",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7941830#item7941830",
+            "geeklist_host": "Elida",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/ZOgaosZ-wwKhiawjmQNIzQ__thumb/img/BC8sQkyxMYxdr2_xtFCRFHb1dPg=/fit-in/200x150/filters:strip_icc()/pic5000864.png",
+    "year_published": "2018",
+    "designers": [
+        "Stephen Gibson"
+    ],
+    "weight": 0.00,
+    "rating": 7.25,
+    "play_time": "15 - 90",
+    "best": "6",
+    "recommended": "17",
+    "not_recommended": "9",
+    "categories": [
+        "American West",
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Humor",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Point to Point Movement",
+        "Push Your Luck",
+        "Simultaneous Action Selection",
+        "Team-Based Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "173018",
+            "game_name": "Grimslingers",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/173018"
+        },
+        {
+            "game_id": "221702",
+            "game_name": "Grimslingers: The Northern Territory",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/221702"
+        }
+    ],
+    "designers_string": "Stephen Gibson",
+    "categories_string": "American West; Card Game; Expansion for Base-game; Fantasy; Humor; Science Fiction",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Dice Rolling; Point to Point Movement; Push Your Luck; Simultaneous Action Selection; Team-Based Game; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '173018', 'game_name': 'Grimslingers', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/173018'}; {'game_id': '221702', 'game_name': 'Grimslingers: The Northern Territory', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/221702'}"
+}

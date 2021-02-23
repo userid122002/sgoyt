@@ -1,0 +1,82 @@
+{
+    "game_id": "149809",
+    "game_name": "Escape: Zombie City",
+    "bgg_link": "https://boardgamegeek.com/boardgame/149809",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4866115",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4866115#item4866115",
+            "geeklist_host": "kikerl",
+            "contributor": "davidbrit2"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6227324",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6227324#item6227324",
+            "geeklist_host": "Gribbon",
+            "contributor": "wcordewiner"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/YiJaCqkZeU1IPCrotd9eDQ__thumb/img/gQiQDBHDnLM9zClbU6MuF1iZiP4=/fit-in/200x150/filters:strip_icc()/pic2335551.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Kristian Amundsen stby"
+    ],
+    "weight": 1.78,
+    "rating": 6.79,
+    "play_time": "15",
+    "best": "1",
+    "recommended": "2",
+    "not_recommended": "7",
+    "categories": [
+        "Dice",
+        "Real-time",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Pick-up and Deliver"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "173587",
+            "expansion_name": "Escape: Zombie City - Expansion 1: The Survivor Chronicles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173587"
+        },
+        {
+            "expansion_id": "172396",
+            "expansion_name": "Escape: Zombie City - Queenie 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172396"
+        },
+        {
+            "expansion_id": "172405",
+            "expansion_name": "Escape: Zombie City - Queenie 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172405"
+        },
+        {
+            "expansion_id": "172406",
+            "expansion_name": "Escape: Zombie City - Queenie 3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172406"
+        },
+        {
+            "expansion_id": "229078",
+            "expansion_name": "Escape: Zombie City - Queenie 4",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/229078"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Kristian Amundsen stby",
+    "categories_string": "Dice; Real-time; Zombies",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Pick-up and Deliver",
+    "expansions_string": "{'expansion_id': '173587', 'expansion_name': 'Escape: Zombie City - Expansion 1: The Survivor Chronicles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173587'}; {'expansion_id': '172396', 'expansion_name': 'Escape: Zombie City - Queenie 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172396'}; {'expansion_id': '172405', 'expansion_name': 'Escape: Zombie City - Queenie 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172405'}; {'expansion_id': '172406', 'expansion_name': 'Escape: Zombie City - Queenie 3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172406'}; {'expansion_id': '229078', 'expansion_name': 'Escape: Zombie City - Queenie 4', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/229078'}",
+    "expansions_for_string": ""
+}

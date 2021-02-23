@@ -1,0 +1,94 @@
+{
+    "game_id": "279304",
+    "game_name": "Scythe: Modular Board",
+    "bgg_link": "https://boardgamegeek.com/boardgame/279304",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7043689",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7043689#item7043689",
+            "geeklist_host": "labrhat22",
+            "contributor": "Narrow Gate Games"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6969730",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6969730#item6969730",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Narrow Gate Games"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "7002028",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/7002028#item7002028",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Narrow Gate Games"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7369332",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7369332#item7369332",
+            "geeklist_host": "jeffrhind",
+            "contributor": "XanderF"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7650871",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7650871#item7650871",
+            "geeklist_host": "threepointthed",
+            "contributor": "Fried Egg"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/0nIxWul4CRnlENf-lbx9bg__thumb/img/osjml_VPdrqd52__6k-nb88VIKw=/fit-in/200x150/filters:strip_icc()/pic4720430.png",
+    "year_published": "2019",
+    "designers": [
+        "Jamey Stegmaier"
+    ],
+    "weight": 3.00,
+    "rating": 8.36,
+    "play_time": "90 - 115",
+    "best": "1",
+    "recommended": "2",
+    "not_recommended": "4",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Fighting",
+        "Science Fiction",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Grid Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "169786",
+            "game_name": "Scythe",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/169786"
+        }
+    ],
+    "designers_string": "Jamey Stegmaier",
+    "categories_string": "Economic; Expansion for Base-game; Fighting; Science Fiction; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Grid Movement; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '169786', 'game_name': 'Scythe', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/169786'}"
+}

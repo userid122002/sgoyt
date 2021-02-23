@@ -1,0 +1,81 @@
+{
+    "game_id": "156175",
+    "game_name": "Championship Formula Racing",
+    "bgg_link": "https://boardgamegeek.com/boardgame/156175",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5500753",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5500753#item5500753",
+            "geeklist_host": "Mishko",
+            "contributor": "oraclepjo1"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6001791",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6001791#item6001791",
+            "geeklist_host": "busdjur",
+            "contributor": "wolvesjr"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6540795",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6540795#item6540795",
+            "geeklist_host": "Albia",
+            "contributor": "kevinruns262"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/d61iDIx3Rq8xOjupG2Fc2A__thumb/img/w5m3p_I3vjRqo96uLKY8sFtFUxM=/fit-in/200x150/filters:strip_icc()/pic3075594.png",
+    "year_published": "2017",
+    "designers": [
+        "Douglas Schulz"
+    ],
+    "weight": 2.65,
+    "rating": 7.66,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "1",
+    "categories": [
+        "Racing",
+        "Sports"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Action Queue",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "224841",
+            "expansion_name": "Championship Formula Racing: Driver Supplement #1 - The Ligier",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224841"
+        },
+        {
+            "expansion_id": "224842",
+            "expansion_name": "Championship Formula Racing: Driver Supplement #2 - The Tyrell",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224842"
+        },
+        {
+            "expansion_id": "224843",
+            "expansion_name": "Championship Formula Racing: The Mansell Add-on",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224843"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Douglas Schulz",
+    "categories_string": "Racing; Sports",
+    "mechanics_string": "Action Points; Action Queue; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '224841', 'expansion_name': 'Championship Formula Racing: Driver Supplement #1 - The Ligier', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224841'}; {'expansion_id': '224842', 'expansion_name': 'Championship Formula Racing: Driver Supplement #2 - The Tyrell', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224842'}; {'expansion_id': '224843', 'expansion_name': 'Championship Formula Racing: The Mansell Add-on', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224843'}",
+    "expansions_for_string": ""
+}

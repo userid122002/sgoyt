@@ -1,0 +1,56 @@
+{
+    "game_id": "202955",
+    "game_name": "Dark Souls: The Board Game - Gaping Dragon Boss Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/202955",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6833550",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6833550#item6833550",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "tyk567"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/HDh_BRR1sVarwYYvyce5pA__thumb/img/i--1PJ2zHrSP7XOFXdWX2yj3BJM=/fit-in/200x150/filters:strip_icc()/pic4153809.png",
+    "year_published": "2017",
+    "designers": [
+        "David Carl",
+        "Alex Hall"
+    ],
+    "weight": 3.00,
+    "rating": 7.51,
+    "play_time": "0",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Medieval",
+        "Miniatures",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Modular Board",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "197831",
+            "game_name": "Dark Souls: The Board Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/197831"
+        }
+    ],
+    "designers_string": "David Carl; Alex Hall",
+    "categories_string": "Expansion for Base-game; Exploration; Fantasy; Medieval; Miniatures; Video Game Theme",
+    "mechanics_string": "Cooperative Game; Modular Board; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '197831', 'game_name': 'Dark Souls: The Board Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/197831'}"
+}

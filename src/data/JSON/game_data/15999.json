@@ -1,0 +1,71 @@
+{
+    "game_id": "15999",
+    "game_name": "1825 Unit 3",
+    "bgg_link": "https://boardgamegeek.com/boardgame/15999",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6784185",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6784185#item6784185",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "coralsaw"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/NVQZI2glS8LA90HCgLqZIw__thumb/img/G7DCiAQAU1pXQENP3d3zS8GrMaI=/fit-in/200x150/filters:strip_icc()/pic340504.jpg",
+    "year_published": "2004",
+    "designers": [
+        "Francis Tresham"
+    ],
+    "weight": 3.68,
+    "rating": 7.56,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "10",
+    "categories": [
+        "Trains",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Network and Route Building",
+        "Stock Holding",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "83368",
+            "expansion_name": "1825 Development Kit D1: Additional Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/83368"
+        },
+        {
+            "expansion_id": "17466",
+            "expansion_name": "1825 Extension Kit K1: Supplementary Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17466"
+        },
+        {
+            "expansion_id": "17468",
+            "expansion_name": "1825 Extension Kit K3: Phase Four",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17468"
+        },
+        {
+            "expansion_id": "17470",
+            "expansion_name": "1825 Extension Kit K6: Advanced Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17470"
+        },
+        {
+            "expansion_id": "281448",
+            "expansion_name": "1825: Extension Kit G1 - Supplemental Money",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/281448"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Francis Tresham",
+    "categories_string": "Trains; Transportation",
+    "mechanics_string": "Network and Route Building; Stock Holding; Tile Placement",
+    "expansions_string": "{'expansion_id': '83368', 'expansion_name': '1825 Development Kit D1: Additional Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/83368'}; {'expansion_id': '17466', 'expansion_name': '1825 Extension Kit K1: Supplementary Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17466'}; {'expansion_id': '17468', 'expansion_name': '1825 Extension Kit K3: Phase Four', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17468'}; {'expansion_id': '17470', 'expansion_name': '1825 Extension Kit K6: Advanced Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17470'}; {'expansion_id': '281448', 'expansion_name': '1825: Extension Kit G1 - Supplemental Money', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/281448'}",
+    "expansions_for_string": ""
+}

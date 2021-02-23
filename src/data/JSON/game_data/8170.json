@@ -1,0 +1,125 @@
+{
+    "game_id": "8170",
+    "game_name": "Return of the Heroes",
+    "bgg_link": "https://boardgamegeek.com/boardgame/8170",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "157888",
+            "geeklist_item_id": "2705137",
+            "year_month": "2013/06",
+            "year": "2013",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/157888/item/2705137#item2705137",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Elyklord"
+        },
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2798473",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2798473#item2798473",
+            "geeklist_host": "pusherman42",
+            "contributor": "Deathworks"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3529373",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3529373#item3529373",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "brkmrtn"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3750608",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3750608#item3750608",
+            "geeklist_host": "Woelf",
+            "contributor": "CaptCastle"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6083780",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6083780#item6083780",
+            "geeklist_host": "skeletonhat",
+            "contributor": "usfbrown"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7233226",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7233226#item7233226",
+            "geeklist_host": "narcher007",
+            "contributor": "haplo92"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7621453",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7621453#item7621453",
+            "geeklist_host": "threepointthed",
+            "contributor": "adm1"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7776520",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7776520#item7776520",
+            "geeklist_host": "repairmanjack",
+            "contributor": "BunniCladwell"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/l71j2uckxXF2aEIRAxdcRQ__thumb/img/97Y9_Sxbif1l85kaRcDS3eViOpA=/fit-in/200x150/filters:strip_icc()/pic210776.jpg",
+    "year_published": "2003",
+    "designers": [
+        "Lutz Stepponat"
+    ],
+    "weight": 2.36,
+    "rating": 6.49,
+    "play_time": "90",
+    "best": "6",
+    "recommended": "18",
+    "not_recommended": "6",
+    "categories": [
+        "Adventure",
+        "Exploration",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Modular Board",
+        "Pick-up and Deliver",
+        "Point to Point Movement",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "25175",
+            "expansion_name": "Die Ruckkehr der Helden: Die Gralssuche",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/25175"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Lutz Stepponat",
+    "categories_string": "Adventure; Exploration; Fantasy",
+    "mechanics_string": "Dice Rolling; Modular Board; Pick-up and Deliver; Point to Point Movement; Role Playing; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '25175', 'expansion_name': 'Die Ruckkehr der Helden: Die Gralssuche', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/25175'}",
+    "expansions_for_string": ""
+}

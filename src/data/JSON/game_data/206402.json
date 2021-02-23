@@ -1,0 +1,52 @@
+{
+    "game_id": "206402",
+    "game_name": "DC Comics Deck-Building Game: Black Lightning",
+    "bgg_link": "https://boardgamegeek.com/boardgame/206402",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7975696",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7975696#item7975696",
+            "geeklist_host": "Albia",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/CHZjUO517uumoVy6JqkRWQ__thumb/img/raVP_m9n6IKfDHA08snG20UzsM0=/fit-in/200x150/filters:strip_icc()/pic3235316.jpg",
+    "year_published": "2016",
+    "designers": [],
+    "weight": 2.00,
+    "rating": 7.07,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Comic Book / Strip"
+    ],
+    "mechanics": [
+        "Deck, Bag, and Pool Building"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "125678",
+            "game_name": "DC Comics Deck-Building Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/125678"
+        },
+        {
+            "game_id": "301665",
+            "game_name": "DC Deck-Building Game: Dark Nights - Metal",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/301665"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Card Game; Comic Book / Strip",
+    "mechanics_string": "Deck, Bag, and Pool Building",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '125678', 'game_name': 'DC Comics Deck-Building Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/125678'}; {'game_id': '301665', 'game_name': 'DC Deck-Building Game: Dark Nights - Metal', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/301665'}"
+}

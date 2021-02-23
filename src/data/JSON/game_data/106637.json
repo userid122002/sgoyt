@@ -1,0 +1,86 @@
+{
+    "game_id": "106637",
+    "game_name": "Ticket to Ride Map Collection: Volume 1 - Team Asia & Legendary Asia",
+    "bgg_link": "https://boardgamegeek.com/boardgame/106637",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4714888",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4714888#item4714888",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6158143",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6158143#item6158143",
+            "geeklist_host": "Pjandy",
+            "contributor": "bwguinig"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/ae64WH8Xpo744us1KPt-ZA__thumb/img/Dad0DjQkixHRtSG7hnZIk-DONkU=/fit-in/200x150/filters:strip_icc()/pic1077579.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Alan R. Moon",
+        "Francois Valentyne"
+    ],
+    "weight": 1.97,
+    "rating": 7.69,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "31",
+    "categories": [
+        "Expansion for Base-game",
+        "Trains"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Communication Limits",
+        "Hand Management",
+        "Network and Route Building",
+        "Set Collection",
+        "Team-Based Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "53383",
+            "expansion_name": "Ticket to Ride: Europa 1912",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/53383"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "9209",
+            "game_name": "Ticket to Ride",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/9209"
+        },
+        {
+            "game_id": "14996",
+            "game_name": "Ticket to Ride: Europe",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/14996"
+        },
+        {
+            "game_id": "21348",
+            "game_name": "Ticket to Ride: Marklin",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/21348"
+        },
+        {
+            "game_id": "119637",
+            "game_name": "Zug um Zug: Deutschland",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/119637"
+        }
+    ],
+    "designers_string": "Alan R. Moon; Francois Valentyne",
+    "categories_string": "Expansion for Base-game; Trains",
+    "mechanics_string": "Card Drafting; Communication Limits; Hand Management; Network and Route Building; Set Collection; Team-Based Game",
+    "expansions_string": "{'expansion_id': '53383', 'expansion_name': 'Ticket to Ride: Europa 1912', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/53383'}",
+    "expansions_for_string": "{'game_id': '9209', 'game_name': 'Ticket to Ride', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/9209'}; {'game_id': '14996', 'game_name': 'Ticket to Ride: Europe', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/14996'}; {'game_id': '21348', 'game_name': 'Ticket to Ride: Marklin', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/21348'}; {'game_id': '119637', 'game_name': 'Zug um Zug: Deutschland', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/119637'}"
+}

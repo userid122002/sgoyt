@@ -1,0 +1,56 @@
+{
+    "game_id": "175474",
+    "game_name": "Super Dungeon Explore: Forgotten King - Upgrade Deck",
+    "bgg_link": "https://boardgamegeek.com/boardgame/175474",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3837578",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3837578#item3837578",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "crazybear"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/FiE9q3DCI8Yx-jA07joaCA__thumb/img/57Z_LkGB6wmIMz1_AI8mQoRKNqQ=/fit-in/200x150/filters:strip_icc()/pic2616418.png",
+    "year_published": "2015",
+    "designers": [],
+    "weight": 2.40,
+    "rating": 7.26,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Modular Board",
+        "Team-Based Game",
+        "Variable Phase Order",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "156548",
+            "game_name": "Super Dungeon Explore: Forgotten King",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/156548"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Adventure; Expansion for Base-game; Exploration; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Action Points; Dice Rolling; Modular Board; Team-Based Game; Variable Phase Order; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '156548', 'game_name': 'Super Dungeon Explore: Forgotten King', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/156548'}"
+}

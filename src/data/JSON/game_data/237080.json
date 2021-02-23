@@ -1,0 +1,85 @@
+{
+    "game_id": "237080",
+    "game_name": "Four Against the Abyss: A Supplement for Four Against Darkness",
+    "bgg_link": "https://boardgamegeek.com/boardgame/237080",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7687197",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7687197#item7687197",
+            "geeklist_host": "gentle",
+            "contributor": "mournful"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/0NIaw9SzQayecjSQuSXlkQ__thumb/img/kg1gvb1dkvdenFAVGV69k8dSeOs=/fit-in/200x150/filters:strip_icc()/pic3782267.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Andrea Sfiligoi"
+    ],
+    "weight": 2.00,
+    "rating": 8.35,
+    "play_time": "45 - 75",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Book",
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Print & Play"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Paper-and-Pencil"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "254421",
+            "expansion_name": "Caverns of Chaos: Tables and Missions for Four Against Darkness",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/254421"
+        },
+        {
+            "expansion_id": "303651",
+            "expansion_name": "Fortress of the Warlord",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303651"
+        },
+        {
+            "expansion_id": "259722",
+            "expansion_name": "Four Against the Netherworld: A Supplement for Four Against Darkness",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/259722"
+        },
+        {
+            "expansion_id": "302186",
+            "expansion_name": "Tournament of the Undead Viscount: A Four Against Darkness adventure for characters of all levels",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302186"
+        },
+        {
+            "expansion_id": "240104",
+            "expansion_name": "Treasure Hunters of Charlemagne: A Four Against Darkness Adventure",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240104"
+        },
+        {
+            "expansion_id": "300037",
+            "expansion_name": "Wayfarers and Adventurers: New Characters and Options for Four Against Darkness",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/300037"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "197097",
+            "game_name": "Four Against Darkness",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/197097"
+        }
+    ],
+    "designers_string": "Andrea Sfiligoi",
+    "categories_string": "Adventure; Book; Expansion for Base-game; Exploration; Fantasy; Print & Play",
+    "mechanics_string": "Dice Rolling; Paper-and-Pencil",
+    "expansions_string": "{'expansion_id': '254421', 'expansion_name': 'Caverns of Chaos: Tables and Missions for Four Against Darkness', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/254421'}; {'expansion_id': '303651', 'expansion_name': 'Fortress of the Warlord', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303651'}; {'expansion_id': '259722', 'expansion_name': 'Four Against the Netherworld: A Supplement for Four Against Darkness', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/259722'}; {'expansion_id': '302186', 'expansion_name': 'Tournament of the Undead Viscount: A Four Against Darkness adventure for characters of all levels', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302186'}; {'expansion_id': '240104', 'expansion_name': 'Treasure Hunters of Charlemagne: A Four Against Darkness Adventure', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240104'}; {'expansion_id': '300037', 'expansion_name': 'Wayfarers and Adventurers: New Characters and Options for Four Against Darkness', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/300037'}",
+    "expansions_for_string": "{'game_id': '197097', 'game_name': 'Four Against Darkness', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/197097'}"
+}

@@ -1,0 +1,52 @@
+{
+    "game_id": "199877",
+    "game_name": "Shakespeare: Backstage",
+    "bgg_link": "https://boardgamegeek.com/boardgame/199877",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4864289",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4864289#item4864289",
+            "geeklist_host": "kikerl",
+            "contributor": "oduh"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Y2baD6Um7LNBjsmQjuJzZg__thumb/img/ihWg7p0vX9NO1ESyDiZ5YioDntM=/fit-in/200x150/filters:strip_icc()/pic3080706.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Herve Rigal"
+    ],
+    "weight": 3.00,
+    "rating": 7.91,
+    "play_time": "20 - 90",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Renaissance"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Auction/Bidding",
+        "Card Drafting",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "180511",
+            "game_name": "Shakespeare",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/180511"
+        }
+    ],
+    "designers_string": "Herve Rigal",
+    "categories_string": "Expansion for Base-game; Renaissance",
+    "mechanics_string": "Action Points; Auction/Bidding; Card Drafting; Solo / Solitaire Game",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '180511', 'game_name': 'Shakespeare', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/180511'}"
+}

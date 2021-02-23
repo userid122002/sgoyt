@@ -1,0 +1,80 @@
+{
+    "game_id": "199412",
+    "game_name": "Frostgrave: Dark Alchemy",
+    "bgg_link": "https://boardgamegeek.com/boardgame/199412",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4747732",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4747732#item4747732",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Tokhuah"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4749990",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4749990#item4749990",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Tokhuah"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7285640",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7285640#item7285640",
+            "geeklist_host": "narcher007",
+            "contributor": "ixitotem"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/FwM-tUGYaRFjrU-98zldew__thumb/img/Sg_Dq8LQqjyRrzJZRop-6vGuLn4=/fit-in/200x150/filters:strip_icc()/pic3012201.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Joseph McCullough"
+    ],
+    "weight": 0.00,
+    "rating": 7.86,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "177354",
+            "game_name": "Frostgrave",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/177354"
+        },
+        {
+            "game_id": "317519",
+            "game_name": "Frostgrave: Second Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/317519"
+        }
+    ],
+    "designers_string": "Joseph McCullough",
+    "categories_string": "Dice; Expansion for Base-game; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Action Points; Dice Rolling; Role Playing; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '177354', 'game_name': 'Frostgrave', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/177354'}; {'game_id': '317519', 'game_name': 'Frostgrave: Second Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/317519'}"
+}

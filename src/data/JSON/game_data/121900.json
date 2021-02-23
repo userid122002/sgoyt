@@ -1,0 +1,125 @@
+{
+    "game_id": "121900",
+    "game_name": "The Lord of the Rings: The Card Game - Shadow and Flame",
+    "bgg_link": "https://boardgamegeek.com/boardgame/121900",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4039857",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4039857#item4039857",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4100031",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4100031#item4100031",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4201708",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4201708#item4201708",
+            "geeklist_host": "SBGrad",
+            "contributor": "fractaloon"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4335151",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4335151#item4335151",
+            "geeklist_host": "mikolajl",
+            "contributor": "suzyvitale"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5115345",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5115345#item5115345",
+            "geeklist_host": "settlerdave",
+            "contributor": "threepointthed"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7044376",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7044376#item7044376",
+            "geeklist_host": "labrhat22",
+            "contributor": "ixitotem"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7534420",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7534420#item7534420",
+            "geeklist_host": "Doc_H",
+            "contributor": "wkufan89"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/u_VqNDyLZUKyykM_HF8JJw__thumb/img/pISYaKyd6sMFTS8I99h74FpLeQE=/fit-in/200x150/filters:strip_icc()/pic1280011.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Nate French",
+        "Lukas Litzsinger"
+    ],
+    "weight": 3.00,
+    "rating": 7.95,
+    "play_time": "60",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "166715",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: Shadow and Flame",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166715"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        },
+        {
+            "game_id": "107933",
+            "game_name": "The Lord of the Rings: The Card Game - Khazad-dum",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/107933"
+        }
+    ],
+    "designers_string": "Nate French; Lukas Litzsinger",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '166715', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: Shadow and Flame', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166715'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}; {'game_id': '107933', 'game_name': 'The Lord of the Rings: The Card Game - Khazad-dum', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/107933'}"
+}

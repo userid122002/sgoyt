@@ -1,0 +1,75 @@
+{
+    "game_id": "173536",
+    "game_name": "2GM Tactics",
+    "bgg_link": "https://boardgamegeek.com/boardgame/173536",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5425478",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5425478#item5425478",
+            "geeklist_host": "koinskyz",
+            "contributor": "oraclepjo1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/izkoUJqo1EH-fbERdHtx8w__thumb/img/q7zi80EJFfLoRpozFgUj8rclhjo=/fit-in/200x150/filters:strip_icc()/pic2711760.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Proyecto Enigma"
+    ],
+    "weight": 2.65,
+    "rating": 7.62,
+    "play_time": "30 - 120",
+    "best": "2",
+    "recommended": "13",
+    "not_recommended": "3",
+    "categories": [
+        "Card Game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Campaign / Battle Card Driven",
+        "Deck Construction",
+        "Dice Rolling",
+        "Grid Movement",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "243228",
+            "expansion_name": "2GM Campaign Book",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/243228"
+        },
+        {
+            "expansion_id": "207369",
+            "expansion_name": "2GM Tactics: German Reinforcements Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207369"
+        },
+        {
+            "expansion_id": "207360",
+            "expansion_name": "2GM Tactics: Italy Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207360"
+        },
+        {
+            "expansion_id": "207363",
+            "expansion_name": "2GM Tactics: Soviet Union Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207363"
+        },
+        {
+            "expansion_id": "207359",
+            "expansion_name": "2GM Tactics: United Kingdom Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207359"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Proyecto Enigma",
+    "categories_string": "Card Game; Wargame; World War II",
+    "mechanics_string": "Action Points; Campaign / Battle Card Driven; Deck Construction; Dice Rolling; Grid Movement; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '243228', 'expansion_name': '2GM Campaign Book', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/243228'}; {'expansion_id': '207369', 'expansion_name': '2GM Tactics: German Reinforcements Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207369'}; {'expansion_id': '207360', 'expansion_name': '2GM Tactics: Italy Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207360'}; {'expansion_id': '207363', 'expansion_name': '2GM Tactics: Soviet Union Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207363'}; {'expansion_id': '207359', 'expansion_name': '2GM Tactics: United Kingdom Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207359'}",
+    "expansions_for_string": ""
+}

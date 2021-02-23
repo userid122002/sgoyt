@@ -1,0 +1,86 @@
+{
+    "game_id": "241926",
+    "game_name": "The Lord of the Rings: The Card Game - The Wilds of Rhovanion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/241926",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6567187",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6567187#item6567187",
+            "geeklist_host": "Albia",
+            "contributor": "wkufan89"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/6cr0THIpsCEUWTEU6B0mbg__thumb/img/-LbOrGvY8dtLKnr-61wd2cFTtlU=/fit-in/200x150/filters:strip_icc()/pic3949204.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Caleb Grace"
+    ],
+    "weight": 3.00,
+    "rating": 8.39,
+    "play_time": "60",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Collectible Components",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "262558",
+            "expansion_name": "The Lord of the Rings: The Card Game - Fire in the Night",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/262558"
+        },
+        {
+            "expansion_id": "268187",
+            "expansion_name": "The Lord of the Rings: The Card Game - Mount Gundabad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268187"
+        },
+        {
+            "expansion_id": "253392",
+            "expansion_name": "The Lord of the Rings: The Card Game - Roam Across Rhovanion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253392"
+        },
+        {
+            "expansion_id": "272393",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Fate of Wilderland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/272393"
+        },
+        {
+            "expansion_id": "262559",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Ghost of Framsburg",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/262559"
+        },
+        {
+            "expansion_id": "250767",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Withered Heath",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/250767"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        }
+    ],
+    "designers_string": "Caleb Grace",
+    "categories_string": "Adventure; Card Game; Collectible Components; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '262558', 'expansion_name': 'The Lord of the Rings: The Card Game - Fire in the Night', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/262558'}; {'expansion_id': '268187', 'expansion_name': 'The Lord of the Rings: The Card Game - Mount Gundabad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268187'}; {'expansion_id': '253392', 'expansion_name': 'The Lord of the Rings: The Card Game - Roam Across Rhovanion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253392'}; {'expansion_id': '272393', 'expansion_name': 'The Lord of the Rings: The Card Game - The Fate of Wilderland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/272393'}; {'expansion_id': '262559', 'expansion_name': 'The Lord of the Rings: The Card Game - The Ghost of Framsburg', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/262559'}; {'expansion_id': '250767', 'expansion_name': 'The Lord of the Rings: The Card Game - The Withered Heath', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/250767'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}"
+}

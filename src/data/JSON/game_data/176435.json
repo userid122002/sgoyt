@@ -1,0 +1,78 @@
+{
+    "game_id": "176435",
+    "game_name": "Thrash'n Roll",
+    "bgg_link": "https://boardgamegeek.com/boardgame/176435",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4247230",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4247230#item4247230",
+            "geeklist_host": "SBGrad",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4406307",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4406307#item4406307",
+            "geeklist_host": "suzyvitale",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6793314",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6793314#item6793314",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "patton55"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/tAzJ4H0sWxOb1psIsdr4CQ__thumb/img/9TNxpyFY-4M_Z_gC2IbAlgAOHnM=/fit-in/200x150/filters:strip_icc()/pic2650063.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Aleksander Biela",
+        "Krzysztof Matusik"
+    ],
+    "weight": 3.12,
+    "rating": 6.73,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Music"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Set Collection",
+        "Simulation",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "217352",
+            "expansion_name": "Thrash'n Roll: Amplified",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/217352"
+        },
+        {
+            "expansion_id": "185282",
+            "expansion_name": "Thrash'n Roll: Stage Heroes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185282"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Aleksander Biela; Krzysztof Matusik",
+    "categories_string": "Card Game; Music",
+    "mechanics_string": "Dice Rolling; Set Collection; Simulation; Worker Placement",
+    "expansions_string": "{'expansion_id': '217352', 'expansion_name': \"Thrash'n Roll: Amplified\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/217352'}; {'expansion_id': '185282', 'expansion_name': \"Thrash'n Roll: Stage Heroes\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185282'}",
+    "expansions_for_string": ""
+}

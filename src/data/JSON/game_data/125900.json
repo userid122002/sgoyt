@@ -1,0 +1,67 @@
+{
+    "game_id": "125900",
+    "game_name": "Blood Upon The Risers: D-Day",
+    "bgg_link": "https://boardgamegeek.com/boardgame/125900",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3791973",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3791973#item3791973",
+            "geeklist_host": "HRune",
+            "contributor": "CthulhuKid"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3720858",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3720858#item3720858",
+            "geeklist_host": "Woelf",
+            "contributor": "CthulhuKid"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Nv6dDBv9I5r85z4KWRxDeA__thumb/img/8ClEmea4v1Ua7WNs8-Ga0HlH9z4=/fit-in/200x150/filters:strip_icc()/pic1332209.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Darby Eckles"
+    ],
+    "weight": 0.00,
+    "rating": 9.30,
+    "play_time": "120",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Book",
+        "Expansion for Base-game",
+        "Miniatures",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Dice Rolling"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "178496",
+            "game_name": "Nuts! Final Version: Man to Man Combat",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/178496"
+        },
+        {
+            "game_id": "56641",
+            "game_name": "NUTS! Second Edition: Europe 1944",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/56641"
+        }
+    ],
+    "designers_string": "Darby Eckles",
+    "categories_string": "Book; Expansion for Base-game; Miniatures; Wargame; World War II",
+    "mechanics_string": "Dice Rolling",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '178496', 'game_name': 'Nuts! Final Version: Man to Man Combat', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/178496'}; {'game_id': '56641', 'game_name': 'NUTS! Second Edition: Europe 1944', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/56641'}"
+}

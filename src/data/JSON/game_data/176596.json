@@ -1,0 +1,61 @@
+{
+    "game_id": "176596",
+    "game_name": "The Great Battles of Alexander: Macedonian Art of War",
+    "bgg_link": "https://boardgamegeek.com/boardgame/176596",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4536064",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4536064#item4536064",
+            "geeklist_host": "pusherman42",
+            "contributor": "kikerl"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/88VyPYSnDevOG48eTzUxVQ__thumb/img/6NT_2NQUkCWTmIdUJbTbhZn0-Og=/fit-in/200x150/filters:strip_icc()/pic2498082.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Richard H. Berg",
+        "Mark Herman"
+    ],
+    "weight": 4.10,
+    "rating": 8.38,
+    "play_time": "240",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Ancient",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Chit-Pull System",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Movement Points",
+        "Scenario / Mission / Campaign Game",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "245215",
+            "expansion_name": "Alexander Battle Module: The Battle of Corupedium, 281 BC",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/245215"
+        },
+        {
+            "expansion_id": "278412",
+            "expansion_name": "Alexander Battle Module: The Battle of the Hellespont, 321 BC",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278412"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Richard H. Berg; Mark Herman",
+    "categories_string": "Ancient; Wargame",
+    "mechanics_string": "Chit-Pull System; Dice Rolling; Grid Movement; Hexagon Grid; Movement Points; Scenario / Mission / Campaign Game; Simulation",
+    "expansions_string": "{'expansion_id': '245215', 'expansion_name': 'Alexander Battle Module: The Battle of Corupedium, 281 BC', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/245215'}; {'expansion_id': '278412', 'expansion_name': 'Alexander Battle Module: The Battle of the Hellespont, 321 BC', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278412'}",
+    "expansions_for_string": ""
+}

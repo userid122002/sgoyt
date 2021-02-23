@@ -1,0 +1,111 @@
+{
+    "game_id": "210025",
+    "game_name": "Arkham Horror: The Card Game - The Miskatonic Museum: Mythos Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/210025",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5618003",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5618003#item5618003",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "kittenhoarder"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5668340",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5668340#item5668340",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6475885",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6475885#item6475885",
+            "geeklist_host": "kevinruns262",
+            "contributor": "thebinmann"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6533117",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6533117#item6533117",
+            "geeklist_host": "Albia",
+            "contributor": "BiggityBogle"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6737664",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6737664#item6737664",
+            "geeklist_host": "The_Omnius",
+            "contributor": "drpaj"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6930514",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6930514#item6930514",
+            "geeklist_host": "Woelf",
+            "contributor": "thebinmann"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/M9_s7Lw3_LyfOpEkZ3UNlQ__thumb/img/x2sEag3zBaHxX-CFTB8E3Rk66Xs=/fit-in/200x150/filters:strip_icc()/pic3539880.png",
+    "year_published": "2017",
+    "designers": [
+        "Nate French",
+        "Matthew Newman"
+    ],
+    "weight": 3.47,
+    "rating": 8.10,
+    "play_time": "60 - 120",
+    "best": "2",
+    "recommended": "6",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        },
+        {
+            "game_id": "208545",
+            "game_name": "Arkham Horror: The Card Game - The Dunwich Legacy: Expansion",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/208545"
+        }
+    ],
+    "designers_string": "Nate French; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Solo / Solitaire Game; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}; {'game_id': '208545', 'game_name': 'Arkham Horror: The Card Game - The Dunwich Legacy: Expansion', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/208545'}"
+}

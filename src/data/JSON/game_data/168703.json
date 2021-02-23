@@ -1,0 +1,93 @@
+{
+    "game_id": "168703",
+    "game_name": "Pandemic: State of Emergency",
+    "bgg_link": "https://boardgamegeek.com/boardgame/168703",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4608106",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4608106#item4608106",
+            "geeklist_host": "gentle",
+            "contributor": "Daesthai"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5072775",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5072775#item5072775",
+            "geeklist_host": "mikolajl",
+            "contributor": "mschipper"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7602647",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7602647#item7602647",
+            "geeklist_host": "jwml",
+            "contributor": "CrazyBlueDwarf"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/9s0XQZ_DQbqD-OwDkCjf0Q__thumb/img/BGqDnyiilmGAHZP5nKQZF3suJ8Y=/fit-in/200x150/filters:strip_icc()/pic2297198.png",
+    "year_published": "2015",
+    "designers": [
+        "Matt Leacock",
+        "Thomas Lehmann"
+    ],
+    "weight": 2.67,
+    "rating": 7.62,
+    "play_time": "45",
+    "best": "1",
+    "recommended": "4",
+    "not_recommended": "1",
+    "categories": [
+        "Environmental",
+        "Expansion for Base-game",
+        "Medical"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Hand Management",
+        "Point to Point Movement",
+        "Set Collection",
+        "Trading",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "137136",
+            "expansion_name": "Pandemic: In the Lab",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/137136"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "30549",
+            "game_name": "Pandemic",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/30549"
+        },
+        {
+            "game_id": "137136",
+            "game_name": "Pandemic: In the Lab",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/137136"
+        },
+        {
+            "game_id": "40849",
+            "game_name": "Pandemic: On the Brink",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/40849"
+        }
+    ],
+    "designers_string": "Matt Leacock; Thomas Lehmann",
+    "categories_string": "Environmental; Expansion for Base-game; Medical",
+    "mechanics_string": "Action Points; Cooperative Game; Hand Management; Point to Point Movement; Set Collection; Trading; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '137136', 'expansion_name': 'Pandemic: In the Lab', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/137136'}",
+    "expansions_for_string": "{'game_id': '30549', 'game_name': 'Pandemic', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/30549'}; {'game_id': '137136', 'game_name': 'Pandemic: In the Lab', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/137136'}; {'game_id': '40849', 'game_name': 'Pandemic: On the Brink', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/40849'}"
+}

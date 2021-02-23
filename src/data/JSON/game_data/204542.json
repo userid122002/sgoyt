@@ -1,0 +1,60 @@
+{
+    "game_id": "204542",
+    "game_name": "Castle Panic: Engines of War",
+    "bgg_link": "https://boardgamegeek.com/boardgame/204542",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6867249",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6867249#item6867249",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Citanul"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/1lPkOSUJnv7Pq4kMBuF6_A__thumb/img/q5XSjpl6j5mORtcUtg17w_1yQVo=/fit-in/200x150/filters:strip_icc()/pic3161320.jpg",
+    "year_published": "2016",
+    "designers": [],
+    "weight": 2.25,
+    "rating": 7.22,
+    "play_time": "60",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Medieval",
+        "Mythology"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "216189",
+            "expansion_name": "Castle Panic: Engines of War - Jury-Rig Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216189"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "43443",
+            "game_name": "Castle Panic",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/43443"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Expansion for Base-game; Fantasy; Fighting; Medieval; Mythology",
+    "mechanics_string": "Campaign / Battle Card Driven; Cooperative Game; Dice Rolling; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '216189', 'expansion_name': 'Castle Panic: Engines of War - Jury-Rig Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216189'}",
+    "expansions_for_string": "{'game_id': '43443', 'game_name': 'Castle Panic', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/43443'}"
+}

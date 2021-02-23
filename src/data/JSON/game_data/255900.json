@@ -1,0 +1,72 @@
+{
+    "game_id": "255900",
+    "game_name": "Arkham Horror: The Card Game - The Depths of Yoth: Mythos Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/255900",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6966496",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6966496#item6966496",
+            "geeklist_host": "magic_erwt",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7790610",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7790610#item7790610",
+            "geeklist_host": "mithoron",
+            "contributor": "CSerpent"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/6XPAUxXR7PpvUgviTP0rtw__thumb/img/a5M-aQ9zRCTJiI6bbpATW0Dd2GE=/fit-in/200x150/filters:strip_icc()/pic4239326.png",
+    "year_published": "2018",
+    "designers": [],
+    "weight": 3.71,
+    "rating": 8.37,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Collectible Components",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        },
+        {
+            "game_id": "245815",
+            "game_name": "Arkham Horror: The Card Game - The Forgotten Age: Expansion",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/245815"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Adventure; Card Game; Collectible Components; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Action Points; Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Role Playing; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}; {'game_id': '245815', 'game_name': 'Arkham Horror: The Card Game - The Forgotten Age: Expansion', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/245815'}"
+}

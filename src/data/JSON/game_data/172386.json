@@ -1,0 +1,112 @@
+{
+    "game_id": "172386",
+    "game_name": "Mombasa",
+    "bgg_link": "https://boardgamegeek.com/boardgame/172386",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5078440",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5078440#item5078440",
+            "geeklist_host": "mikolajl",
+            "contributor": "familygaming"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7302077",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7302077#item7302077",
+            "geeklist_host": "Albia",
+            "contributor": "Doug1020"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7554220",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7554220#item7554220",
+            "geeklist_host": "Doc_H",
+            "contributor": "Tobina"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7580603",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7580603#item7580603",
+            "geeklist_host": "jwml",
+            "contributor": "Tobina"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7582365",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7582365#item7582365",
+            "geeklist_host": "jwml",
+            "contributor": "swizit"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/VceWk5QVkgIp6rWDl5qHKQ__thumb/img/_4ZkvkgZey9R2OJOw_TqF426Qew=/fit-in/200x150/filters:strip_icc()/pic2611318.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Alexander Pfister"
+    ],
+    "weight": 3.90,
+    "rating": 7.89,
+    "play_time": "75 - 150",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "101",
+    "categories": [
+        "Economic"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Area Majority / Influence",
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Investment",
+        "Simultaneous Action Selection",
+        "Stock Holding",
+        "Variable Player Powers",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "205611",
+            "expansion_name": "Deutscher Spielepreis 2016 Goodie Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/205611"
+        },
+        {
+            "expansion_id": "317189",
+            "expansion_name": "Meeple BR Jogos Promo Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/317189"
+        },
+        {
+            "expansion_id": "213293",
+            "expansion_name": "Mombasa: Cooked Books Mini Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213293"
+        },
+        {
+            "expansion_id": "283739",
+            "expansion_name": "Mombasa: Nomeie Sua Companhia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/283739"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Alexander Pfister",
+    "categories_string": "Economic",
+    "mechanics_string": "Action Queue; Area Majority / Influence; Card Drafting; Deck, Bag, and Pool Building; Hand Management; Investment; Simultaneous Action Selection; Stock Holding; Variable Player Powers; Worker Placement",
+    "expansions_string": "{'expansion_id': '205611', 'expansion_name': 'Deutscher Spielepreis 2016 Goodie Box', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/205611'}; {'expansion_id': '317189', 'expansion_name': 'Meeple BR Jogos Promo Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/317189'}; {'expansion_id': '213293', 'expansion_name': 'Mombasa: Cooked Books Mini Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213293'}; {'expansion_id': '283739', 'expansion_name': 'Mombasa: Nomeie Sua Companhia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/283739'}",
+    "expansions_for_string": ""
+}

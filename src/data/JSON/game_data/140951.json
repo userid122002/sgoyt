@@ -1,0 +1,98 @@
+{
+    "game_id": "140951",
+    "game_name": "Thunderstone: Starter Set",
+    "bgg_link": "https://boardgamegeek.com/boardgame/140951",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "166060",
+            "geeklist_item_id": "2961331",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2961331#item2961331",
+            "geeklist_host": "often",
+            "contributor": "rickn99"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3514229",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3514229#item3514229",
+            "geeklist_host": "joestin",
+            "contributor": "MrBirk"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3519557",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3519557#item3519557",
+            "geeklist_host": "joestin",
+            "contributor": "MrBirk"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4010689",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4010689#item4010689",
+            "geeklist_host": "joestin",
+            "contributor": "dowdah"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/vh4j3OjjaCUWZFgfUAn1qw__thumb/img/8Ahe4y_3VQCsWfJE1KIPC-5MfKc=/fit-in/200x150/filters:strip_icc()/pic1647385.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Curt Crane",
+        "Mike Elliott",
+        "Jeff Quick"
+    ],
+    "weight": 2.31,
+    "rating": 6.95,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Card Game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "122967",
+            "expansion_name": "Thunderstone Advance: Caverns of Bane",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/122967"
+        },
+        {
+            "expansion_id": "158727",
+            "expansion_name": "Thunderstone Advance: Into the Abyss",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158727"
+        },
+        {
+            "expansion_id": "131306",
+            "expansion_name": "Thunderstone Advance: Root of Corruption",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131306"
+        },
+        {
+            "expansion_id": "121007",
+            "expansion_name": "Thunderstone: Avatars",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/121007"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Curt Crane; Mike Elliott; Jeff Quick",
+    "categories_string": "Card Game; Fantasy",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Hand Management",
+    "expansions_string": "{'expansion_id': '122967', 'expansion_name': 'Thunderstone Advance: Caverns of Bane', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/122967'}; {'expansion_id': '158727', 'expansion_name': 'Thunderstone Advance: Into the Abyss', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158727'}; {'expansion_id': '131306', 'expansion_name': 'Thunderstone Advance: Root of Corruption', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131306'}; {'expansion_id': '121007', 'expansion_name': 'Thunderstone: Avatars', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/121007'}",
+    "expansions_for_string": ""
+}

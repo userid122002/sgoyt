@@ -1,0 +1,71 @@
+{
+    "game_id": "234487",
+    "game_name": "Altiplano",
+    "bgg_link": "https://boardgamegeek.com/boardgame/234487",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6470190",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6470190#item6470190",
+            "geeklist_host": "kevinruns262",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8093552",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8093552#item8093552",
+            "geeklist_host": "Swizze",
+            "contributor": "thepillbox"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/hgUDu_oG0uhnOWX4WM2vXA__thumb/img/KlzN2TK2WVHgCimiLG_aoEZXVQA=/fit-in/200x150/filters:strip_icc()/pic4070329.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Reiner Stockhausen"
+    ],
+    "weight": 3.34,
+    "rating": 7.55,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "50",
+    "categories": [
+        "Economic"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Contracts",
+        "Deck, Bag, and Pool Building",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "248378",
+            "expansion_name": "Altiplano: Sunny Days",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/248378"
+        },
+        {
+            "expansion_id": "257047",
+            "expansion_name": "Altiplano: The Traveler",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257047"
+        },
+        {
+            "expansion_id": "257590",
+            "expansion_name": "Deutscher Spielepreis 2018 Goodie Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257590"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Reiner Stockhausen",
+    "categories_string": "Economic",
+    "mechanics_string": "Action Points; Contracts; Deck, Bag, and Pool Building; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '248378', 'expansion_name': 'Altiplano: Sunny Days', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/248378'}; {'expansion_id': '257047', 'expansion_name': 'Altiplano: The Traveler', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257047'}; {'expansion_id': '257590', 'expansion_name': 'Deutscher Spielepreis 2018 Goodie Box', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257590'}",
+    "expansions_for_string": ""
+}

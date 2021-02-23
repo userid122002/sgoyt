@@ -1,0 +1,119 @@
+{
+    "game_id": "895",
+    "game_name": "APBA Pro Baseball",
+    "bgg_link": "https://boardgamegeek.com/boardgame/895",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2800842",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2800842#item2800842",
+            "geeklist_host": "pusherman42",
+            "contributor": "edjrjr"
+        },
+        {
+            "geeklist_id": "164593",
+            "geeklist_item_id": "2918559",
+            "year_month": "2013/11",
+            "year": "2013",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/164593/item/2918559#item2918559",
+            "geeklist_host": "mikolajl",
+            "contributor": "edjrjr"
+        },
+        {
+            "geeklist_id": "166060",
+            "geeklist_item_id": "2990161",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2990161#item2990161",
+            "geeklist_host": "often",
+            "contributor": "mo7189"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4330805",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4330805#item4330805",
+            "geeklist_host": "mikolajl",
+            "contributor": "mo7189"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7390159",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7390159#item7390159",
+            "geeklist_host": "jeffrhind",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7391380",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7391380#item7391380",
+            "geeklist_host": "jeffrhind",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7409459",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7409459#item7409459",
+            "geeklist_host": "jeffrhind",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7758617",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7758617#item7758617",
+            "geeklist_host": "repairmanjack",
+            "contributor": "team_bonnie"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/GrkvxNZ-DlR6_LJBuUX9Tw__thumb/img/RZ6CHBcIrFcuIdLDvvpLryxUAUg=/fit-in/200x150/filters:strip_icc()/pic579150.jpg",
+    "year_published": "1951",
+    "designers": [
+        "Dick Seitz"
+    ],
+    "weight": 1.91,
+    "rating": 7.00,
+    "play_time": "30",
+    "best": "3",
+    "recommended": "9",
+    "not_recommended": "0",
+    "categories": [
+        "Sports"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "22020",
+            "expansion_name": "APBA Major League Baseball Master Game",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/22020"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Dick Seitz",
+    "categories_string": "Sports",
+    "mechanics_string": "Dice Rolling; Simultaneous Action Selection",
+    "expansions_string": "{'expansion_id': '22020', 'expansion_name': 'APBA Major League Baseball Master Game', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/22020'}",
+    "expansions_for_string": ""
+}

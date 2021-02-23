@@ -1,0 +1,196 @@
+{
+    "game_id": "171",
+    "game_name": "Chess",
+    "bgg_link": "https://boardgamegeek.com/boardgame/171",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4779063",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4779063#item4779063",
+            "geeklist_host": "govmiller",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5168422",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5168422#item5168422",
+            "geeklist_host": "settlerdave",
+            "contributor": "Lunga"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5773364",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5773364#item5773364",
+            "geeklist_host": "Albia",
+            "contributor": "shutmemo"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5888949",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5888949#item5888949",
+            "geeklist_host": "Jorune",
+            "contributor": "shutmemo"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7589878",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7589878#item7589878",
+            "geeklist_host": "jwml",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7886374",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7886374#item7886374",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "runaway_meeple"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8041431",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8041431#item8041431",
+            "geeklist_host": "airzonk1",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/0-DjGBOko6RV8zg5ejhYIg__thumb/img/kjtoinSrkYV0HZleXMxkJzZwS8k=/fit-in/200x150/filters:strip_icc()/pic260745.jpg",
+    "year_published": "1475",
+    "designers": [
+        "(Uncredited)"
+    ],
+    "weight": 3.70,
+    "rating": 7.13,
+    "play_time": "60",
+    "best": "3",
+    "recommended": "34",
+    "not_recommended": "259",
+    "categories": [
+        "Abstract Strategy"
+    ],
+    "mechanics": [
+        "Grid Movement",
+        "Pattern Movement",
+        "Square Grid",
+        "Static Capture"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "178037",
+            "expansion_name": "Beguile: PaWN The Enemy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178037"
+        },
+        {
+            "expansion_id": "231140",
+            "expansion_name": "Castle-Mate",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/231140"
+        },
+        {
+            "expansion_id": "111363",
+            "expansion_name": "Chess Mixer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/111363"
+        },
+        {
+            "expansion_id": "182105",
+            "expansion_name": "CHUCK-A-CHESS",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182105"
+        },
+        {
+            "expansion_id": "251614",
+            "expansion_name": "Code Geass: Knightmare Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251614"
+        },
+        {
+            "expansion_id": "304216",
+            "expansion_name": "Devil's Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/304216"
+        },
+        {
+            "expansion_id": "147313",
+            "expansion_name": "Epic Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147313"
+        },
+        {
+            "expansion_id": "191960",
+            "expansion_name": "Fairy Tale Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/191960"
+        },
+        {
+            "expansion_id": "302023",
+            "expansion_name": "Fantasy Crusaders Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302023"
+        },
+        {
+            "expansion_id": "195997",
+            "expansion_name": "Heretik Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/195997"
+        },
+        {
+            "expansion_id": "187247",
+            "expansion_name": "Kingdom of Elbrandt",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187247"
+        },
+        {
+            "expansion_id": "227",
+            "expansion_name": "Knightmare Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227"
+        },
+        {
+            "expansion_id": "155192",
+            "expansion_name": "Knightmare Chess (Third Edition)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/155192"
+        },
+        {
+            "expansion_id": "1677",
+            "expansion_name": "Knightmare Chess 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/1677"
+        },
+        {
+            "expansion_id": "262716",
+            "expansion_name": "Musketeer Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/262716"
+        },
+        {
+            "expansion_id": "144576",
+            "expansion_name": "Rogue Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144576"
+        },
+        {
+            "expansion_id": "67707",
+            "expansion_name": "Royal Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/67707"
+        },
+        {
+            "expansion_id": "147119",
+            "expansion_name": "Spell Chess: an Expansion to Chess",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147119"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "(Uncredited)",
+    "categories_string": "Abstract Strategy",
+    "mechanics_string": "Grid Movement; Pattern Movement; Square Grid; Static Capture",
+    "expansions_string": "{'expansion_id': '178037', 'expansion_name': 'Beguile: PaWN The Enemy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178037'}; {'expansion_id': '231140', 'expansion_name': 'Castle-Mate', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/231140'}; {'expansion_id': '111363', 'expansion_name': 'Chess Mixer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/111363'}; {'expansion_id': '182105', 'expansion_name': 'CHUCK-A-CHESS', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182105'}; {'expansion_id': '251614', 'expansion_name': 'Code Geass: Knightmare Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251614'}; {'expansion_id': '304216', 'expansion_name': \"Devil's Chess\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/304216'}; {'expansion_id': '147313', 'expansion_name': 'Epic Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147313'}; {'expansion_id': '191960', 'expansion_name': 'Fairy Tale Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/191960'}; {'expansion_id': '302023', 'expansion_name': 'Fantasy Crusaders Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302023'}; {'expansion_id': '195997', 'expansion_name': 'Heretik Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/195997'}; {'expansion_id': '187247', 'expansion_name': 'Kingdom of Elbrandt', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187247'}; {'expansion_id': '227', 'expansion_name': 'Knightmare Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227'}; {'expansion_id': '155192', 'expansion_name': 'Knightmare Chess (Third Edition)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/155192'}; {'expansion_id': '1677', 'expansion_name': 'Knightmare Chess 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/1677'}; {'expansion_id': '262716', 'expansion_name': 'Musketeer Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/262716'}; {'expansion_id': '144576', 'expansion_name': 'Rogue Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144576'}; {'expansion_id': '67707', 'expansion_name': 'Royal Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/67707'}; {'expansion_id': '147119', 'expansion_name': 'Spell Chess: an Expansion to Chess', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147119'}",
+    "expansions_for_string": ""
+}

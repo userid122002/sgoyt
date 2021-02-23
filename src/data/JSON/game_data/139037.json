@@ -1,0 +1,93 @@
+{
+    "game_id": "139037",
+    "game_name": "Pathfinder Adventure Card Game: Rise of the Runelords - Character Add-On Deck",
+    "bgg_link": "https://boardgamegeek.com/boardgame/139037",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2799405",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2799405#item2799405",
+            "geeklist_host": "pusherman42",
+            "contributor": "eracer68"
+        },
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2805047",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2805047#item2805047",
+            "geeklist_host": "pusherman42",
+            "contributor": "Friendless"
+        },
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2856663",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2856663#item2856663",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Friendless"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4194675",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4194675#item4194675",
+            "geeklist_host": "SBGrad",
+            "contributor": "esbegan"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/9Kongaynus-Hrlo7UgEzRA__thumb/img/GyxfRhbyUCP1s2Pbl-ja232jp1w=/fit-in/200x150/filters:strip_icc()/pic1775530.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Chad Brown",
+        "Tanis O'Connor",
+        "Paul Peterson",
+        "Mike Selinker",
+        "Gaby Weidling"
+    ],
+    "weight": 2.72,
+    "rating": 7.60,
+    "play_time": "90",
+    "best": "6",
+    "recommended": "6",
+    "not_recommended": "3",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "151010",
+            "expansion_name": "Pathfinder Adventure Card Game: Character Mats",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151010"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "133038",
+            "game_name": "Pathfinder Adventure Card Game: Rise of the Runelords - Base Set",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/133038"
+        }
+    ],
+    "designers_string": "Chad Brown; Tanis O'Connor; Paul Peterson; Mike Selinker; Gaby Weidling",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Fighting",
+    "mechanics_string": "Cooperative Game; Role Playing; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '151010', 'expansion_name': 'Pathfinder Adventure Card Game: Character Mats', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151010'}",
+    "expansions_for_string": "{'game_id': '133038', 'game_name': 'Pathfinder Adventure Card Game: Rise of the Runelords - Base Set', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/133038'}"
+}

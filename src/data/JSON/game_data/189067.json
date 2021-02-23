@@ -1,0 +1,131 @@
+{
+    "game_id": "189067",
+    "game_name": "Cavern Tavern",
+    "bgg_link": "https://boardgamegeek.com/boardgame/189067",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5087762",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5087762#item5087762",
+            "geeklist_host": "mikolajl",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5094808",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5094808#item5094808",
+            "geeklist_host": "mikolajl",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5096283",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5096283#item5096283",
+            "geeklist_host": "mikolajl",
+            "contributor": "MAJBrown22"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5184292",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5184292#item5184292",
+            "geeklist_host": "settlerdave",
+            "contributor": "briezee"
+        },
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5197130",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5197130#item5197130",
+            "geeklist_host": "Ibbo",
+            "contributor": "flutegirl"
+        },
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5227773",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5227773#item5227773",
+            "geeklist_host": "Ibbo",
+            "contributor": "busdjur"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5409125",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5409125#item5409125",
+            "geeklist_host": "maloma",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7671805",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7671805#item7671805",
+            "geeklist_host": "gentle",
+            "contributor": "crazybear"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/NdCwfRORG5oLaDBmQeOOaQ__thumb/img/jeGf0ItclxtK4YeTWrBlBCe8Qt4=/fit-in/200x150/filters:strip_icc()/pic3020188.png",
+    "year_published": "2016",
+    "designers": [
+        "Vojkan Krstevski",
+        "Ivana Krstevski",
+        "Maja Matovska",
+        "Toni Toshevski"
+    ],
+    "weight": 2.43,
+    "rating": 6.95,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "8",
+    "not_recommended": "9",
+    "categories": [
+        "Dice",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Set Collection",
+        "Take That",
+        "Worker Placement",
+        "Worker Placement with Dice Workers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "313311",
+            "expansion_name": "Cavern Tavern: Tantrum Tankard Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313311"
+        },
+        {
+            "expansion_id": "245838",
+            "expansion_name": "Cavern Tavern: The Long Night",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/245838"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vojkan Krstevski; Ivana Krstevski; Maja Matovska; Toni Toshevski",
+    "categories_string": "Dice; Fantasy",
+    "mechanics_string": "Dice Rolling; Set Collection; Take That; Worker Placement; Worker Placement with Dice Workers",
+    "expansions_string": "{'expansion_id': '313311', 'expansion_name': 'Cavern Tavern: Tantrum Tankard Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313311'}; {'expansion_id': '245838', 'expansion_name': 'Cavern Tavern: The Long Night', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/245838'}",
+    "expansions_for_string": ""
+}

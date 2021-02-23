@@ -1,0 +1,91 @@
+{
+    "game_id": "59294",
+    "game_name": "Runewars",
+    "bgg_link": "https://boardgamegeek.com/boardgame/59294",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4059039",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4059039#item4059039",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "GenghisWayne"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4096822",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4096822#item4096822",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "philmcd"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/5cjKhFwhZwBcr8e3YA-9Nw__thumb/img/eWW5i0l6W15lPaGmJ-wru1UaReM=/fit-in/200x150/filters:strip_icc()/pic1534815.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Corey Konieczka"
+    ],
+    "weight": 3.78,
+    "rating": 7.64,
+    "play_time": "180 - 240",
+    "best": "0",
+    "recommended": "5",
+    "not_recommended": "113",
+    "categories": [
+        "Adventure",
+        "Fantasy",
+        "Fighting",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Auction/Bidding",
+        "Grid Movement",
+        "Modular Board",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "62329",
+            "expansion_name": "Descent / Runebound / Runewars Figure: Jonas the Kind",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/62329"
+        },
+        {
+            "expansion_id": "62325",
+            "expansion_name": "Descent / Runebound / Runewars Figure: Nara The Fang",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/62325"
+        },
+        {
+            "expansion_id": "62349",
+            "expansion_name": "Descent / Runebound / Runewars Figure: Truthseer Kel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/62349"
+        },
+        {
+            "expansion_id": "62327",
+            "expansion_name": "Descent / Runebound / Runewars: Tobin Farslayer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/62327"
+        },
+        {
+            "expansion_id": "70626",
+            "expansion_name": "Realms of Terrinoth: Descent / Runewars Scenarios",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/70626"
+        },
+        {
+            "expansion_id": "102889",
+            "expansion_name": "Runewars: Banners of War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/102889"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Corey Konieczka",
+    "categories_string": "Adventure; Fantasy; Fighting; Wargame",
+    "mechanics_string": "Area Majority / Influence; Auction/Bidding; Grid Movement; Modular Board; Simultaneous Action Selection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '62329', 'expansion_name': 'Descent / Runebound / Runewars Figure: Jonas the Kind', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/62329'}; {'expansion_id': '62325', 'expansion_name': 'Descent / Runebound / Runewars Figure: Nara The Fang', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/62325'}; {'expansion_id': '62349', 'expansion_name': 'Descent / Runebound / Runewars Figure: Truthseer Kel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/62349'}; {'expansion_id': '62327', 'expansion_name': 'Descent / Runebound / Runewars: Tobin Farslayer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/62327'}; {'expansion_id': '70626', 'expansion_name': 'Realms of Terrinoth: Descent / Runewars Scenarios', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/70626'}; {'expansion_id': '102889', 'expansion_name': 'Runewars: Banners of War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/102889'}",
+    "expansions_for_string": ""
+}

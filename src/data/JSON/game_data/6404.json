@@ -1,0 +1,55 @@
+{
+    "game_id": "6404",
+    "game_name": "Seven Days Battles",
+    "bgg_link": "https://boardgamegeek.com/boardgame/6404",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "7014037",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/7014037#item7014037",
+            "geeklist_host": "magic_erwt",
+            "contributor": "smic"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/HvZiT64gI7NIGzjdntua8g__thumb/img/MHp-R9XVqIoayGt97S7hvUkwPIM=/fit-in/200x150/filters:strip_icc()/pic865135.jpg",
+    "year_published": "1993",
+    "designers": [
+        "Christopher Cummins",
+        "Robert G. Markham"
+    ],
+    "weight": 2.08,
+    "rating": 5.69,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "American Civil War",
+        "Civil War",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Simulation",
+        "Zone of Control"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "42909",
+            "expansion_name": "Age of Rifles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42909"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Christopher Cummins; Robert G. Markham",
+    "categories_string": "American Civil War; Civil War; Wargame",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Simulation; Zone of Control",
+    "expansions_string": "{'expansion_id': '42909', 'expansion_name': 'Age of Rifles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42909'}",
+    "expansions_for_string": ""
+}

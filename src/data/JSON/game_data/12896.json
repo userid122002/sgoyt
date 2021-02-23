@@ -1,0 +1,86 @@
+{
+    "game_id": "12896",
+    "game_name": "La Bataille des Quatre Bras",
+    "bgg_link": "https://boardgamegeek.com/boardgame/12896",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4950922",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4950922#item4950922",
+            "geeklist_host": "maloma",
+            "contributor": "petegs"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5537673",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5537673#item5537673",
+            "geeklist_host": "kevinruns262",
+            "contributor": "petegs"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5709105",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5709105#item5709105",
+            "geeklist_host": "cornishlee",
+            "contributor": "petegs"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/ZDx5Lj6K4517p877rxWJew__thumb/img/GAIYr_0Z8yMe6aPkXyawr7XkGMc=/fit-in/200x150/filters:strip_icc()/pic100647.jpg",
+    "year_published": "1991",
+    "designers": [
+        "Ed Wimble"
+    ],
+    "weight": 4.00,
+    "rating": 7.95,
+    "play_time": "360 - 480",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "325733",
+            "expansion_name": "La Bataille de Belle-Alliance",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/325733"
+        },
+        {
+            "expansion_id": "5508",
+            "expansion_name": "La Bataille de Mont Saint Jean",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/5508"
+        },
+        {
+            "expansion_id": "157532",
+            "expansion_name": "Reglement de l'An XXX",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/157532"
+        },
+        {
+            "expansion_id": "16115",
+            "expansion_name": "Regulations of the Year XXII",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/16115"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ed Wimble",
+    "categories_string": "Napoleonic; Wargame",
+    "mechanics_string": "Dice Rolling; Hexagon Grid; Solo / Solitaire Game",
+    "expansions_string": "{'expansion_id': '325733', 'expansion_name': 'La Bataille de Belle-Alliance', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/325733'}; {'expansion_id': '5508', 'expansion_name': 'La Bataille de Mont Saint Jean', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/5508'}; {'expansion_id': '157532', 'expansion_name': \"Reglement de l'An XXX\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/157532'}; {'expansion_id': '16115', 'expansion_name': 'Regulations of the Year XXII', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/16115'}",
+    "expansions_for_string": ""
+}

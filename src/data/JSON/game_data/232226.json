@@ -1,0 +1,62 @@
+{
+    "game_id": "232226",
+    "game_name": "Isle of Skye: Journeyman",
+    "bgg_link": "https://boardgamegeek.com/boardgame/232226",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7565973",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7565973#item7565973",
+            "geeklist_host": "Doc_H",
+            "contributor": "Tobina"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7922848",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7922848#item7922848",
+            "geeklist_host": "Elida",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/6CfJgvOr_AvuC3KwmpeX6g__thumb/img/7tBnLcrITbjgm8hsK-no6D9B-ts=/fit-in/200x150/filters:strip_icc()/pic3729105.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Andreas Pelikan",
+        "Alexander Pfister"
+    ],
+    "weight": 3.11,
+    "rating": 7.39,
+    "play_time": "75",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "6",
+    "categories": [
+        "Expansion for Base-game",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Set Collection",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "176494",
+            "game_name": "Isle of Skye: From Chieftain to King",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/176494"
+        }
+    ],
+    "designers_string": "Andreas Pelikan; Alexander Pfister",
+    "categories_string": "Expansion for Base-game; Territory Building",
+    "mechanics_string": "Auction/Bidding; Set Collection; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '176494', 'game_name': 'Isle of Skye: From Chieftain to King', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/176494'}"
+}

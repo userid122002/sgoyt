@@ -1,0 +1,71 @@
+{
+    "game_id": "154809",
+    "game_name": "Nippon",
+    "bgg_link": "https://boardgamegeek.com/boardgame/154809",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4243669",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4243669#item4243669",
+            "geeklist_host": "SBGrad",
+            "contributor": "Kamaitatchi"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4735334",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4735334#item4735334",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "weyrbrat"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5678317",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5678317#item5678317",
+            "geeklist_host": "cornishlee",
+            "contributor": "mithoron"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/DVJamHS1e24-scuM8aRH8g__thumb/img/GfDVi8Cdml30yla1ui0y3exXG7g=/fit-in/200x150/filters:strip_icc()/pic2683981.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Nuno Bizarro Sentieiro",
+        "Paulo Soledade"
+    ],
+    "weight": 3.79,
+    "rating": 7.69,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "34",
+    "categories": [
+        "Economic",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "260921",
+            "expansion_name": "Nippon: Keiretsu",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260921"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Nuno Bizarro Sentieiro; Paulo Soledade",
+    "categories_string": "Economic; Industry / Manufacturing",
+    "mechanics_string": "Area Majority / Influence; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '260921', 'expansion_name': 'Nippon: Keiretsu', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260921'}",
+    "expansions_for_string": ""
+}

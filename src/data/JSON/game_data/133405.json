@@ -1,0 +1,67 @@
+{
+    "game_id": "133405",
+    "game_name": "Island Siege",
+    "bgg_link": "https://boardgamegeek.com/boardgame/133405",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5142345",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5142345#item5142345",
+            "geeklist_host": "settlerdave",
+            "contributor": "smic"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6369366",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6369366#item6369366",
+            "geeklist_host": "dobrazil",
+            "contributor": "smic"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/mclV1wOZ9Uv5kG8lUChRoA__thumb/img/07zVimhGW7vDJ97tEvKgFAufaYU=/fit-in/200x150/filters:strip_icc()/pic1522480.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Dan Manfredini"
+    ],
+    "weight": 1.92,
+    "rating": 6.77,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "4",
+    "categories": [
+        "Card Game",
+        "Dice",
+        "Nautical",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "139689",
+            "expansion_name": "Island Siege: Coquina Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139689"
+        },
+        {
+            "expansion_id": "142370",
+            "expansion_name": "Island Siege: Rampart Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142370"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Dan Manfredini",
+    "categories_string": "Card Game; Dice; Nautical; Territory Building",
+    "mechanics_string": "Card Drafting; Dice Rolling",
+    "expansions_string": "{'expansion_id': '139689', 'expansion_name': 'Island Siege: Coquina Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139689'}; {'expansion_id': '142370', 'expansion_name': 'Island Siege: Rampart Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142370'}",
+    "expansions_for_string": ""
+}

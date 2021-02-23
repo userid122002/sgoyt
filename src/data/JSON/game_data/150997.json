@@ -1,0 +1,893 @@
+{
+    "game_id": "150997",
+    "game_name": "Shadows of Brimstone: Swamps of Death",
+    "bgg_link": "https://boardgamegeek.com/boardgame/150997",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3534176",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3534176#item3534176",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "kerskine"
+        },
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3800311",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3800311#item3800311",
+            "geeklist_host": "HRune",
+            "contributor": "jomurph86"
+        },
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3802703",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3802703#item3802703",
+            "geeklist_host": "HRune",
+            "contributor": "jomurph86"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3617271",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3617271#item3617271",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "uniconfis"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3628220",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3628220#item3628220",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3631184",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3631184#item3631184",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3632413",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3632413#item3632413",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3632422",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3632422#item3632422",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "uniconfis"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3633393",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3633393#item3633393",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3637830",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3637830#item3637830",
+            "geeklist_host": "bikefreak",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3641971",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3641971#item3641971",
+            "geeklist_host": "bikefreak",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3657759",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3657759#item3657759",
+            "geeklist_host": "bikefreak",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3670238",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3670238#item3670238",
+            "geeklist_host": "bikefreak",
+            "contributor": "often"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3670908",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3670908#item3670908",
+            "geeklist_host": "bikefreak",
+            "contributor": "uniconfis"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3967337",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3967337#item3967337",
+            "geeklist_host": "koinskyz",
+            "contributor": "jomurph86"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3974421",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3974421#item3974421",
+            "geeklist_host": "koinskyz",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4125261",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4125261#item4125261",
+            "geeklist_host": "lukather",
+            "contributor": "brockst4r"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4206744",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4206744#item4206744",
+            "geeklist_host": "SBGrad",
+            "contributor": "brockst4r"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4302687",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4302687#item4302687",
+            "geeklist_host": "rangerx",
+            "contributor": "Longbombed"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4531925",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4531925#item4531925",
+            "geeklist_host": "pusherman42",
+            "contributor": "brockst4r"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4549238",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4549238#item4549238",
+            "geeklist_host": "jdarnold",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4790014",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4790014#item4790014",
+            "geeklist_host": "govmiller",
+            "contributor": "bigeeh"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4926834",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4926834#item4926834",
+            "geeklist_host": "maloma",
+            "contributor": "camidon"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5012727",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5012727#item5012727",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "bigeeh"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5252953",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5252953#item5252953",
+            "geeklist_host": "suzyvitale",
+            "contributor": "Kaex"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5342874",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5342874#item5342874",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5393256",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5393256#item5393256",
+            "geeklist_host": "maloma",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5402428",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5402428#item5402428",
+            "geeklist_host": "maloma",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8139035",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8139035#item8139035",
+            "geeklist_host": "ArianneH",
+            "contributor": "ninjafoodstuff"
+        }
+    ],
+    "sgoyt_count": 29,
+    "thumbnail": "https://cf.geekdo-images.com/qRyYKK4IxR9QBwyr7OMvzw__thumb/img/9K95Z2kFVqnIXKCqJ4vBA2uZkm4=/fit-in/200x150/filters:strip_icc()/pic2037826.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Jason C. Hill"
+    ],
+    "weight": 3.38,
+    "rating": 8.05,
+    "play_time": "90 - 180",
+    "best": "2",
+    "recommended": "5",
+    "not_recommended": "4",
+    "categories": [
+        "Adventure",
+        "American West",
+        "Exploration",
+        "Fantasy",
+        "Horror",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Modular Board",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "327841",
+            "expansion_name": "Flying Frog DiceFest 2020 Goody Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327841"
+        },
+        {
+            "expansion_id": "206376",
+            "expansion_name": "Shadows of Brimstone: Allies of the Old West",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206376"
+        },
+        {
+            "expansion_id": "316261",
+            "expansion_name": "Shadows of Brimstone: Ancient Gate",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/316261"
+        },
+        {
+            "expansion_id": "242276",
+            "expansion_name": "Shadows of Brimstone: Ancient Horrors Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/242276"
+        },
+        {
+            "expansion_id": "181555",
+            "expansion_name": "Shadows of Brimstone: Ancient Terrors Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181555"
+        },
+        {
+            "expansion_id": "233593",
+            "expansion_name": "Shadows of Brimstone: Auto-Turrets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233593"
+        },
+        {
+            "expansion_id": "233592",
+            "expansion_name": "Shadows of Brimstone: B.E.A.C.O.N. Drones",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233592"
+        },
+        {
+            "expansion_id": "181092",
+            "expansion_name": "Shadows of Brimstone: Badlands Expedition Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181092"
+        },
+        {
+            "expansion_id": "196954",
+            "expansion_name": "Shadows of Brimstone: Beli'al, Last of the Shadow Kings XXL Enemy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196954"
+        },
+        {
+            "expansion_id": "327844",
+            "expansion_name": "Shadows of Brimstone: Black Fang Hatchet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327844"
+        },
+        {
+            "expansion_id": "181564",
+            "expansion_name": "Shadows of Brimstone: Black Fang Tribe Mission Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181564"
+        },
+        {
+            "expansion_id": "181546",
+            "expansion_name": "Shadows of Brimstone: Blasted Wastes Artifacts Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181546"
+        },
+        {
+            "expansion_id": "292881",
+            "expansion_name": "Shadows of Brimstone: Blasted Wastes Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292881"
+        },
+        {
+            "expansion_id": "181553",
+            "expansion_name": "Shadows of Brimstone: Blood Money Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181553"
+        },
+        {
+            "expansion_id": "181551",
+            "expansion_name": "Shadows of Brimstone: Burning Sands Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181551"
+        },
+        {
+            "expansion_id": "181102",
+            "expansion_name": "Shadows of Brimstone: Burrower XXL Enemy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181102"
+        },
+        {
+            "expansion_id": "286503",
+            "expansion_name": "Shadows of Brimstone: Canyons Artifacts Pack #1 Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286503"
+        },
+        {
+            "expansion_id": "181549",
+            "expansion_name": "Shadows of Brimstone: Captain's Log Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181549"
+        },
+        {
+            "expansion_id": "327845",
+            "expansion_name": "Shadows of Brimstone: Cartwright's Trusty Pistol",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327845"
+        },
+        {
+            "expansion_id": "327028",
+            "expansion_name": "Shadows of Brimstone: City of the Ancients - Alt Gender Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327028"
+        },
+        {
+            "expansion_id": "206370",
+            "expansion_name": "Shadows of Brimstone: Cowboy Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206370"
+        },
+        {
+            "expansion_id": "196942",
+            "expansion_name": "Shadows of Brimstone: Custodians of Targa with Targa Pylons Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196942"
+        },
+        {
+            "expansion_id": "181090",
+            "expansion_name": "Shadows of Brimstone: Cynder Artifacts Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181090"
+        },
+        {
+            "expansion_id": "267203",
+            "expansion_name": "Shadows of Brimstone: Dark Altar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/267203"
+        },
+        {
+            "expansion_id": "181552",
+            "expansion_name": "Shadows of Brimstone: Dark Omens Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181552"
+        },
+        {
+            "expansion_id": "292665",
+            "expansion_name": "Shadows of Brimstone: Dark Stone Bracelet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292665"
+        },
+        {
+            "expansion_id": "181096",
+            "expansion_name": "Shadows of Brimstone: Dark Stone Brutes Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181096"
+        },
+        {
+            "expansion_id": "196941",
+            "expansion_name": "Shadows of Brimstone: Dark Stone Hydra XL Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196941"
+        },
+        {
+            "expansion_id": "266555",
+            "expansion_name": "Shadows of Brimstone: Dark Stone Scorpions XL-Sized Enemy Duo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/266555"
+        },
+        {
+            "expansion_id": "219883",
+            "expansion_name": "Shadows of Brimstone: Dark Stone Shaman Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219883"
+        },
+        {
+            "expansion_id": "176093",
+            "expansion_name": "Shadows of Brimstone: Dead Man's Bounty Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176093"
+        },
+        {
+            "expansion_id": "324725",
+            "expansion_name": "Shadows of Brimstone: Depth Track Accessory + Card Mini-Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324725"
+        },
+        {
+            "expansion_id": "181547",
+            "expansion_name": "Shadows of Brimstone: Derelict Ship Artifacts Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181547"
+        },
+        {
+            "expansion_id": "292880",
+            "expansion_name": "Shadows of Brimstone: DiceFest 2017 Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292880"
+        },
+        {
+            "expansion_id": "292882",
+            "expansion_name": "Shadows of Brimstone: DiceFest 2018 Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292882"
+        },
+        {
+            "expansion_id": "317750",
+            "expansion_name": "Shadows of Brimstone: DiceFest 2019 Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/317750"
+        },
+        {
+            "expansion_id": "285906",
+            "expansion_name": "Shadows of Brimstone: Doomsday Device and Generators",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/285906"
+        },
+        {
+            "expansion_id": "178561",
+            "expansion_name": "Shadows of Brimstone: Doorways into Darkness",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178561"
+        },
+        {
+            "expansion_id": "206369",
+            "expansion_name": "Shadows of Brimstone: Drifter Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206369"
+        },
+        {
+            "expansion_id": "206994",
+            "expansion_name": "Shadows of Brimstone: Edge of The Abyss Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206994"
+        },
+        {
+            "expansion_id": "240658",
+            "expansion_name": "Shadows of Brimstone: Enemy Traits #1 Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240658"
+        },
+        {
+            "expansion_id": "286510",
+            "expansion_name": "Shadows of Brimstone: Enemy Traits #2 Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286510"
+        },
+        {
+            "expansion_id": "296323",
+            "expansion_name": "Shadows of Brimstone: Enemy Traits Pack #3 Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/296323"
+        },
+        {
+            "expansion_id": "316260",
+            "expansion_name": "Shadows of Brimstone: Explosive Barrels",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/316260"
+        },
+        {
+            "expansion_id": "181568",
+            "expansion_name": "Shadows of Brimstone: Feral Vampires Mission Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181568"
+        },
+        {
+            "expansion_id": "181557",
+            "expansion_name": "Shadows of Brimstone: Fire and Brimstone Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181557"
+        },
+        {
+            "expansion_id": "206377",
+            "expansion_name": "Shadows of Brimstone: Flesh Stalker & Flesh Drones Deluxe Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206377"
+        },
+        {
+            "expansion_id": "292889",
+            "expansion_name": "Shadows of Brimstone: Forbidden Fortress Kickstarter Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292889"
+        },
+        {
+            "expansion_id": "292883",
+            "expansion_name": "Shadows of Brimstone: Forbidden Fortress Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292883"
+        },
+        {
+            "expansion_id": "206367",
+            "expansion_name": "Shadows of Brimstone: Frontier Doc Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206367"
+        },
+        {
+            "expansion_id": "324573",
+            "expansion_name": "Shadows of Brimstone: Frontier Town Daily Event Pack #1 Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324573"
+        },
+        {
+            "expansion_id": "183017",
+            "expansion_name": "Shadows of Brimstone: Frontier Town Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183017"
+        },
+        {
+            "expansion_id": "219881",
+            "expansion_name": "Shadows of Brimstone: Gambler Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219881"
+        },
+        {
+            "expansion_id": "181558",
+            "expansion_name": "Shadows of Brimstone: Ghosts of the Damned Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181558"
+        },
+        {
+            "expansion_id": "296322",
+            "expansion_name": "Shadows of Brimstone: Grave Coffins",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/296322"
+        },
+        {
+            "expansion_id": "181099",
+            "expansion_name": "Shadows of Brimstone: Harvesters From Beyond Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181099"
+        },
+        {
+            "expansion_id": "327846",
+            "expansion_name": "Shadows of Brimstone: Harvesters Otherworld Threat Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327846"
+        },
+        {
+            "expansion_id": "181103",
+            "expansion_name": "Shadows of Brimstone: Hell Vermin Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181103"
+        },
+        {
+            "expansion_id": "181566",
+            "expansion_name": "Shadows of Brimstone: Hellfire Succubi Mission Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181566"
+        },
+        {
+            "expansion_id": "324574",
+            "expansion_name": "Shadows of Brimstone: Holy Expedition",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324574"
+        },
+        {
+            "expansion_id": "176081",
+            "expansion_name": "Shadows of Brimstone: Jargono Artifacts Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176081"
+        },
+        {
+            "expansion_id": "206368",
+            "expansion_name": "Shadows of Brimstone: Jargono Native Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206368"
+        },
+        {
+            "expansion_id": "233594",
+            "expansion_name": "Shadows of Brimstone: Lost Army Hell Cannon and Crew",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233594"
+        },
+        {
+            "expansion_id": "263687",
+            "expansion_name": "Shadows of Brimstone: Magma Giant XL-Sized Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263687"
+        },
+        {
+            "expansion_id": "178564",
+            "expansion_name": "Shadows of Brimstone: Masters of the Void Deluxe Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178564"
+        },
+        {
+            "expansion_id": "286521",
+            "expansion_name": "Shadows of Brimstone: Mining Lift",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286521"
+        },
+        {
+            "expansion_id": "181556",
+            "expansion_name": "Shadows of Brimstone: Murky Confrontations Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181556"
+        },
+        {
+            "expansion_id": "181550",
+            "expansion_name": "Shadows of Brimstone: No Man's Land Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181550"
+        },
+        {
+            "expansion_id": "324575",
+            "expansion_name": "Shadows of Brimstone: Old West Personal Items Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324575"
+        },
+        {
+            "expansion_id": "181565",
+            "expansion_name": "Shadows of Brimstone: Order of the Crimson Hand Mission Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181565"
+        },
+        {
+            "expansion_id": "196938",
+            "expansion_name": "Shadows of Brimstone: Orphan Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196938"
+        },
+        {
+            "expansion_id": "181562",
+            "expansion_name": "Shadows of Brimstone: Other Worlds - Blasted Wastes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181562"
+        },
+        {
+            "expansion_id": "178820",
+            "expansion_name": "Shadows of Brimstone: Other Worlds - Caverns of Cynder",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178820"
+        },
+        {
+            "expansion_id": "181563",
+            "expansion_name": "Shadows of Brimstone: Other Worlds - Derelict Ship",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181563"
+        },
+        {
+            "expansion_id": "271602",
+            "expansion_name": "Shadows of Brimstone: Other Worlds - Forest of the Dead",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/271602"
+        },
+        {
+            "expansion_id": "292886",
+            "expansion_name": "Shadows of Brimstone: Other Worlds - Forest of the Dead Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292886"
+        },
+        {
+            "expansion_id": "181561",
+            "expansion_name": "Shadows of Brimstone: Other Worlds - Trederra",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181561"
+        },
+        {
+            "expansion_id": "164292",
+            "expansion_name": "Shadows of Brimstone: Outlaw Hero Class",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164292"
+        },
+        {
+            "expansion_id": "164293",
+            "expansion_name": "Shadows of Brimstone: Outlaw Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164293"
+        },
+        {
+            "expansion_id": "196939",
+            "expansion_name": "Shadows of Brimstone: Prospector Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196939"
+        },
+        {
+            "expansion_id": "286506",
+            "expansion_name": "Shadows of Brimstone: Red Rock Gulch Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286506"
+        },
+        {
+            "expansion_id": "315901",
+            "expansion_name": "Shadows of Brimstone: Rising Darkness Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/315901"
+        },
+        {
+            "expansion_id": "213555",
+            "expansion_name": "Shadows of Brimstone: Sand Kraken XXL Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213555"
+        },
+        {
+            "expansion_id": "181094",
+            "expansion_name": "Shadows of Brimstone: Scourge Rats / Rats Nest Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181094"
+        },
+        {
+            "expansion_id": "178563",
+            "expansion_name": "Shadows of Brimstone: Serpentmen of Jargono Deluxe Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178563"
+        },
+        {
+            "expansion_id": "286516",
+            "expansion_name": "Shadows of Brimstone: Shikarri Nomad Crusaders Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286516"
+        },
+        {
+            "expansion_id": "285903",
+            "expansion_name": "Shadows of Brimstone: Swamp Raptor Egg Nest",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/285903"
+        },
+        {
+            "expansion_id": "213560",
+            "expansion_name": "Shadows of Brimstone: Swamp Raptor of Jargono XL Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213560"
+        },
+        {
+            "expansion_id": "181104",
+            "expansion_name": "Shadows of Brimstone: Swamp Slugs of Jargono Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181104"
+        },
+        {
+            "expansion_id": "327027",
+            "expansion_name": "Shadows of Brimstone: Swamps of Death - Alt Gender Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327027"
+        },
+        {
+            "expansion_id": "292885",
+            "expansion_name": "Shadows of Brimstone: Temple of Shadows Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292885"
+        },
+        {
+            "expansion_id": "233596",
+            "expansion_name": "Shadows of Brimstone: The Ancient One",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233596"
+        },
+        {
+            "expansion_id": "178562",
+            "expansion_name": "Shadows of Brimstone: The Guardian of Targa XL Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178562"
+        },
+        {
+            "expansion_id": "181567",
+            "expansion_name": "Shadows of Brimstone: The Lost Army Mission Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181567"
+        },
+        {
+            "expansion_id": "196946",
+            "expansion_name": "Shadows of Brimstone: The Scafford Gang Deluxe Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196946"
+        },
+        {
+            "expansion_id": "296324",
+            "expansion_name": "Shadows of Brimstone: The Scafford Gang Enemy Supplement #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/296324"
+        },
+        {
+            "expansion_id": "176096",
+            "expansion_name": "Shadows of Brimstone: Treasures of the Void Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176096"
+        },
+        {
+            "expansion_id": "181548",
+            "expansion_name": "Shadows of Brimstone: Trederra Artifacts Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181548"
+        },
+        {
+            "expansion_id": "181101",
+            "expansion_name": "Shadows of Brimstone: Trederran Raiders Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181101"
+        },
+        {
+            "expansion_id": "327847",
+            "expansion_name": "Shadows of Brimstone: Trederran Raiders Otherworld Threat Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327847"
+        },
+        {
+            "expansion_id": "273656",
+            "expansion_name": "Shadows of Brimstone: Trederran Strike Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/273656"
+        },
+        {
+            "expansion_id": "233598",
+            "expansion_name": "Shadows of Brimstone: Tribal Ghost Warriors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233598"
+        },
+        {
+            "expansion_id": "181098",
+            "expansion_name": "Shadows of Brimstone: Trun Hunters Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181098"
+        },
+        {
+            "expansion_id": "196947",
+            "expansion_name": "Shadows of Brimstone: Undead Outlaws and Undead Gunslinger Deluxe Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196947"
+        },
+        {
+            "expansion_id": "327848",
+            "expansion_name": "Shadows of Brimstone: Undead Outlaws and Undead Gunslinger Deluxe Enemy Pack - The Lost Marshals Enemy Record Sheet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327848"
+        },
+        {
+            "expansion_id": "286578",
+            "expansion_name": "Shadows of Brimstone: Void Swarms and Void Hives Enemy Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286578"
+        },
+        {
+            "expansion_id": "219882",
+            "expansion_name": "Shadows of Brimstone: Wandering Samurai Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219882"
+        },
+        {
+            "expansion_id": "325674",
+            "expansion_name": "Shadows of Brimstone: Wasteland Barter Town Daily Event Pack #1 Game Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/325674"
+        },
+        {
+            "expansion_id": "233600",
+            "expansion_name": "Shadows of Brimstone: Wasteland Heavies/Warlord",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233600"
+        },
+        {
+            "expansion_id": "233599",
+            "expansion_name": "Shadows of Brimstone: Wasteland Sand Crabs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233599"
+        },
+        {
+            "expansion_id": "233601",
+            "expansion_name": "Shadows of Brimstone: Wasteland Terralisk",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233601"
+        },
+        {
+            "expansion_id": "181569",
+            "expansion_name": "Shadows of Brimstone: Werewolf Feral Kin Mission Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181569"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jason C. Hill",
+    "categories_string": "Adventure; American West; Exploration; Fantasy; Horror; Miniatures",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Grid Movement; Modular Board; Role Playing; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '327841', 'expansion_name': 'Flying Frog DiceFest 2020 Goody Box', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327841'}; {'expansion_id': '206376', 'expansion_name': 'Shadows of Brimstone: Allies of the Old West', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206376'}; {'expansion_id': '316261', 'expansion_name': 'Shadows of Brimstone: Ancient Gate', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/316261'}; {'expansion_id': '242276', 'expansion_name': 'Shadows of Brimstone: Ancient Horrors Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/242276'}; {'expansion_id': '181555', 'expansion_name': 'Shadows of Brimstone: Ancient Terrors Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181555'}; {'expansion_id': '233593', 'expansion_name': 'Shadows of Brimstone: Auto-Turrets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233593'}; {'expansion_id': '233592', 'expansion_name': 'Shadows of Brimstone: B.E.A.C.O.N. Drones', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233592'}; {'expansion_id': '181092', 'expansion_name': 'Shadows of Brimstone: Badlands Expedition Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181092'}; {'expansion_id': '196954', 'expansion_name': \"Shadows of Brimstone: Beli'al, Last of the Shadow Kings XXL Enemy\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196954'}; {'expansion_id': '327844', 'expansion_name': 'Shadows of Brimstone: Black Fang Hatchet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327844'}; {'expansion_id': '181564', 'expansion_name': 'Shadows of Brimstone: Black Fang Tribe Mission Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181564'}; {'expansion_id': '181546', 'expansion_name': 'Shadows of Brimstone: Blasted Wastes Artifacts Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181546'}; {'expansion_id': '292881', 'expansion_name': 'Shadows of Brimstone: Blasted Wastes Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292881'}; {'expansion_id': '181553', 'expansion_name': 'Shadows of Brimstone: Blood Money Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181553'}; {'expansion_id': '181551', 'expansion_name': 'Shadows of Brimstone: Burning Sands Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181551'}; {'expansion_id': '181102', 'expansion_name': 'Shadows of Brimstone: Burrower XXL Enemy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181102'}; {'expansion_id': '286503', 'expansion_name': 'Shadows of Brimstone: Canyons Artifacts Pack #1 Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286503'}; {'expansion_id': '181549', 'expansion_name': \"Shadows of Brimstone: Captain's Log Game Supplement\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181549'}; {'expansion_id': '327845', 'expansion_name': \"Shadows of Brimstone: Cartwright's Trusty Pistol\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327845'}; {'expansion_id': '327028', 'expansion_name': 'Shadows of Brimstone: City of the Ancients - Alt Gender Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327028'}; {'expansion_id': '206370', 'expansion_name': 'Shadows of Brimstone: Cowboy Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206370'}; {'expansion_id': '196942', 'expansion_name': 'Shadows of Brimstone: Custodians of Targa with Targa Pylons Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196942'}; {'expansion_id': '181090', 'expansion_name': 'Shadows of Brimstone: Cynder Artifacts Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181090'}; {'expansion_id': '267203', 'expansion_name': 'Shadows of Brimstone: Dark Altar', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/267203'}; {'expansion_id': '181552', 'expansion_name': 'Shadows of Brimstone: Dark Omens Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181552'}; {'expansion_id': '292665', 'expansion_name': 'Shadows of Brimstone: Dark Stone Bracelet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292665'}; {'expansion_id': '181096', 'expansion_name': 'Shadows of Brimstone: Dark Stone Brutes Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181096'}; {'expansion_id': '196941', 'expansion_name': 'Shadows of Brimstone: Dark Stone Hydra XL Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196941'}; {'expansion_id': '266555', 'expansion_name': 'Shadows of Brimstone: Dark Stone Scorpions XL-Sized Enemy Duo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/266555'}; {'expansion_id': '219883', 'expansion_name': 'Shadows of Brimstone: Dark Stone Shaman Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219883'}; {'expansion_id': '176093', 'expansion_name': \"Shadows of Brimstone: Dead Man's Bounty Supplement\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176093'}; {'expansion_id': '324725', 'expansion_name': 'Shadows of Brimstone: Depth Track Accessory + Card Mini-Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324725'}; {'expansion_id': '181547', 'expansion_name': 'Shadows of Brimstone: Derelict Ship Artifacts Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181547'}; {'expansion_id': '292880', 'expansion_name': 'Shadows of Brimstone: DiceFest 2017 Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292880'}; {'expansion_id': '292882', 'expansion_name': 'Shadows of Brimstone: DiceFest 2018 Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292882'}; {'expansion_id': '317750', 'expansion_name': 'Shadows of Brimstone: DiceFest 2019 Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/317750'}; {'expansion_id': '285906', 'expansion_name': 'Shadows of Brimstone: Doomsday Device and Generators', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/285906'}; {'expansion_id': '178561', 'expansion_name': 'Shadows of Brimstone: Doorways into Darkness', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178561'}; {'expansion_id': '206369', 'expansion_name': 'Shadows of Brimstone: Drifter Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206369'}; {'expansion_id': '206994', 'expansion_name': 'Shadows of Brimstone: Edge of The Abyss Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206994'}; {'expansion_id': '240658', 'expansion_name': 'Shadows of Brimstone: Enemy Traits #1 Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240658'}; {'expansion_id': '286510', 'expansion_name': 'Shadows of Brimstone: Enemy Traits #2 Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286510'}; {'expansion_id': '296323', 'expansion_name': 'Shadows of Brimstone: Enemy Traits Pack #3 Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/296323'}; {'expansion_id': '316260', 'expansion_name': 'Shadows of Brimstone: Explosive Barrels', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/316260'}; {'expansion_id': '181568', 'expansion_name': 'Shadows of Brimstone: Feral Vampires Mission Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181568'}; {'expansion_id': '181557', 'expansion_name': 'Shadows of Brimstone: Fire and Brimstone Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181557'}; {'expansion_id': '206377', 'expansion_name': 'Shadows of Brimstone: Flesh Stalker & Flesh Drones Deluxe Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206377'}; {'expansion_id': '292889', 'expansion_name': 'Shadows of Brimstone: Forbidden Fortress Kickstarter Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292889'}; {'expansion_id': '292883', 'expansion_name': 'Shadows of Brimstone: Forbidden Fortress Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292883'}; {'expansion_id': '206367', 'expansion_name': 'Shadows of Brimstone: Frontier Doc Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206367'}; {'expansion_id': '324573', 'expansion_name': 'Shadows of Brimstone: Frontier Town Daily Event Pack #1 Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324573'}; {'expansion_id': '183017', 'expansion_name': 'Shadows of Brimstone: Frontier Town Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183017'}; {'expansion_id': '219881', 'expansion_name': 'Shadows of Brimstone: Gambler Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219881'}; {'expansion_id': '181558', 'expansion_name': 'Shadows of Brimstone: Ghosts of the Damned Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181558'}; {'expansion_id': '296322', 'expansion_name': 'Shadows of Brimstone: Grave Coffins', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/296322'}; {'expansion_id': '181099', 'expansion_name': 'Shadows of Brimstone: Harvesters From Beyond Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181099'}; {'expansion_id': '327846', 'expansion_name': 'Shadows of Brimstone: Harvesters Otherworld Threat Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327846'}; {'expansion_id': '181103', 'expansion_name': 'Shadows of Brimstone: Hell Vermin Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181103'}; {'expansion_id': '181566', 'expansion_name': 'Shadows of Brimstone: Hellfire Succubi Mission Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181566'}; {'expansion_id': '324574', 'expansion_name': 'Shadows of Brimstone: Holy Expedition', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324574'}; {'expansion_id': '176081', 'expansion_name': 'Shadows of Brimstone: Jargono Artifacts Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176081'}; {'expansion_id': '206368', 'expansion_name': 'Shadows of Brimstone: Jargono Native Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206368'}; {'expansion_id': '233594', 'expansion_name': 'Shadows of Brimstone: Lost Army Hell Cannon and Crew', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233594'}; {'expansion_id': '263687', 'expansion_name': 'Shadows of Brimstone: Magma Giant XL-Sized Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263687'}; {'expansion_id': '178564', 'expansion_name': 'Shadows of Brimstone: Masters of the Void Deluxe Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178564'}; {'expansion_id': '286521', 'expansion_name': 'Shadows of Brimstone: Mining Lift', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286521'}; {'expansion_id': '181556', 'expansion_name': 'Shadows of Brimstone: Murky Confrontations Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181556'}; {'expansion_id': '181550', 'expansion_name': \"Shadows of Brimstone: No Man's Land Game Supplement\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181550'}; {'expansion_id': '324575', 'expansion_name': 'Shadows of Brimstone: Old West Personal Items Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324575'}; {'expansion_id': '181565', 'expansion_name': 'Shadows of Brimstone: Order of the Crimson Hand Mission Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181565'}; {'expansion_id': '196938', 'expansion_name': 'Shadows of Brimstone: Orphan Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196938'}; {'expansion_id': '181562', 'expansion_name': 'Shadows of Brimstone: Other Worlds - Blasted Wastes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181562'}; {'expansion_id': '178820', 'expansion_name': 'Shadows of Brimstone: Other Worlds - Caverns of Cynder', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178820'}; {'expansion_id': '181563', 'expansion_name': 'Shadows of Brimstone: Other Worlds - Derelict Ship', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181563'}; {'expansion_id': '271602', 'expansion_name': 'Shadows of Brimstone: Other Worlds - Forest of the Dead', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/271602'}; {'expansion_id': '292886', 'expansion_name': 'Shadows of Brimstone: Other Worlds - Forest of the Dead Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292886'}; {'expansion_id': '181561', 'expansion_name': 'Shadows of Brimstone: Other Worlds - Trederra', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181561'}; {'expansion_id': '164292', 'expansion_name': 'Shadows of Brimstone: Outlaw Hero Class', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164292'}; {'expansion_id': '164293', 'expansion_name': 'Shadows of Brimstone: Outlaw Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164293'}; {'expansion_id': '196939', 'expansion_name': 'Shadows of Brimstone: Prospector Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196939'}; {'expansion_id': '286506', 'expansion_name': 'Shadows of Brimstone: Red Rock Gulch Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286506'}; {'expansion_id': '315901', 'expansion_name': 'Shadows of Brimstone: Rising Darkness Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/315901'}; {'expansion_id': '213555', 'expansion_name': 'Shadows of Brimstone: Sand Kraken XXL Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213555'}; {'expansion_id': '181094', 'expansion_name': 'Shadows of Brimstone: Scourge Rats / Rats Nest Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181094'}; {'expansion_id': '178563', 'expansion_name': 'Shadows of Brimstone: Serpentmen of Jargono Deluxe Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178563'}; {'expansion_id': '286516', 'expansion_name': 'Shadows of Brimstone: Shikarri Nomad Crusaders Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286516'}; {'expansion_id': '285903', 'expansion_name': 'Shadows of Brimstone: Swamp Raptor Egg Nest', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/285903'}; {'expansion_id': '213560', 'expansion_name': 'Shadows of Brimstone: Swamp Raptor of Jargono XL Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213560'}; {'expansion_id': '181104', 'expansion_name': 'Shadows of Brimstone: Swamp Slugs of Jargono Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181104'}; {'expansion_id': '327027', 'expansion_name': 'Shadows of Brimstone: Swamps of Death - Alt Gender Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327027'}; {'expansion_id': '292885', 'expansion_name': 'Shadows of Brimstone: Temple of Shadows Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292885'}; {'expansion_id': '233596', 'expansion_name': 'Shadows of Brimstone: The Ancient One', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233596'}; {'expansion_id': '178562', 'expansion_name': 'Shadows of Brimstone: The Guardian of Targa XL Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178562'}; {'expansion_id': '181567', 'expansion_name': 'Shadows of Brimstone: The Lost Army Mission Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181567'}; {'expansion_id': '196946', 'expansion_name': 'Shadows of Brimstone: The Scafford Gang Deluxe Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196946'}; {'expansion_id': '296324', 'expansion_name': 'Shadows of Brimstone: The Scafford Gang Enemy Supplement #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/296324'}; {'expansion_id': '176096', 'expansion_name': 'Shadows of Brimstone: Treasures of the Void Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176096'}; {'expansion_id': '181548', 'expansion_name': 'Shadows of Brimstone: Trederra Artifacts Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181548'}; {'expansion_id': '181101', 'expansion_name': 'Shadows of Brimstone: Trederran Raiders Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181101'}; {'expansion_id': '327847', 'expansion_name': 'Shadows of Brimstone: Trederran Raiders Otherworld Threat Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327847'}; {'expansion_id': '273656', 'expansion_name': 'Shadows of Brimstone: Trederran Strike Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/273656'}; {'expansion_id': '233598', 'expansion_name': 'Shadows of Brimstone: Tribal Ghost Warriors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233598'}; {'expansion_id': '181098', 'expansion_name': 'Shadows of Brimstone: Trun Hunters Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181098'}; {'expansion_id': '196947', 'expansion_name': 'Shadows of Brimstone: Undead Outlaws and Undead Gunslinger Deluxe Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196947'}; {'expansion_id': '327848', 'expansion_name': 'Shadows of Brimstone: Undead Outlaws and Undead Gunslinger Deluxe Enemy Pack - The Lost Marshals Enemy Record Sheet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327848'}; {'expansion_id': '286578', 'expansion_name': 'Shadows of Brimstone: Void Swarms and Void Hives Enemy Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286578'}; {'expansion_id': '219882', 'expansion_name': 'Shadows of Brimstone: Wandering Samurai Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219882'}; {'expansion_id': '325674', 'expansion_name': 'Shadows of Brimstone: Wasteland Barter Town Daily Event Pack #1 Game Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/325674'}; {'expansion_id': '233600', 'expansion_name': 'Shadows of Brimstone: Wasteland Heavies/Warlord', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233600'}; {'expansion_id': '233599', 'expansion_name': 'Shadows of Brimstone: Wasteland Sand Crabs', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233599'}; {'expansion_id': '233601', 'expansion_name': 'Shadows of Brimstone: Wasteland Terralisk', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233601'}; {'expansion_id': '181569', 'expansion_name': 'Shadows of Brimstone: Werewolf Feral Kin Mission Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181569'}",
+    "expansions_for_string": ""
+}

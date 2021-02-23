@@ -1,0 +1,134 @@
+{
+    "game_id": "21059",
+    "game_name": "Arkham Horror: Dunwich Horror Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/21059",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "160445",
+            "geeklist_item_id": "2751502",
+            "year_month": "2013/08",
+            "year": "2013",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/160445/item/2751502#item2751502",
+            "geeklist_host": "gertbert",
+            "contributor": "Jorune"
+        },
+        {
+            "geeklist_id": "166060",
+            "geeklist_item_id": "2994776",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2994776#item2994776",
+            "geeklist_host": "often",
+            "contributor": "Jorune"
+        },
+        {
+            "geeklist_id": "171598",
+            "geeklist_item_id": "3157656",
+            "year_month": "2014/04",
+            "year": "2014",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/171598/item/3157656#item3157656",
+            "geeklist_host": "Malaiser",
+            "contributor": "ValDoonican"
+        },
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3295717",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3295717#item3295717",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "kikerl"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3511959",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3511959#item3511959",
+            "geeklist_host": "joestin",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3701771",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3701771#item3701771",
+            "geeklist_host": "bikefreak",
+            "contributor": "CthulhuKid"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4235514",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4235514#item4235514",
+            "geeklist_host": "SBGrad",
+            "contributor": "camidon"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7920014",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7920014#item7920014",
+            "geeklist_host": "Elida",
+            "contributor": "eastwoodk"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/SD4sueZ3S8iL1RlZIq-u_A__thumb/img/RpKj-u4cqnpskpB_QEEpwdEEUA0=/fit-in/200x150/filters:strip_icc()/pic114495.jpg",
+    "year_published": "2006",
+    "designers": [
+        "Richard Launius",
+        "Kevin Wilson"
+    ],
+    "weight": 3.49,
+    "rating": 7.80,
+    "play_time": "240",
+    "best": "5",
+    "recommended": "22",
+    "not_recommended": "20",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fighting",
+        "Horror",
+        "Novel-based",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Point to Point Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "93465",
+            "expansion_name": "Arkham Horror: Miskatonic Horror Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93465"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "15987",
+            "game_name": "Arkham Horror",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/15987"
+        }
+    ],
+    "designers_string": "Richard Launius; Kevin Wilson",
+    "categories_string": "Adventure; Expansion for Base-game; Fighting; Horror; Novel-based; Science Fiction",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Hand Management; Point to Point Movement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '93465', 'expansion_name': 'Arkham Horror: Miskatonic Horror Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93465'}",
+    "expansions_for_string": "{'game_id': '15987', 'game_name': 'Arkham Horror', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/15987'}"
+}

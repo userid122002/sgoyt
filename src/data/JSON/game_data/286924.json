@@ -1,0 +1,53 @@
+{
+    "game_id": "286924",
+    "game_name": "Desolate: BFG promo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/286924",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8025649",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8025649#item8025649",
+            "geeklist_host": "airzonk1",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "",
+    "year_published": "2019",
+    "designers": [
+        "Jason Glover"
+    ],
+    "weight": 0.00,
+    "rating": 7.00,
+    "play_time": "15 - 20",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game",
+        "Exploration",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "249675",
+            "game_name": "Desolate",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/249675"
+        }
+    ],
+    "designers_string": "Jason Glover",
+    "categories_string": "Card Game; Dice; Expansion for Base-game; Exploration; Science Fiction",
+    "mechanics_string": "Dice Rolling; Push Your Luck",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '249675', 'game_name': 'Desolate', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/249675'}"
+}

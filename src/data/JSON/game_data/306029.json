@@ -1,0 +1,100 @@
+{
+    "game_id": "306029",
+    "game_name": "Dark Force Incursion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/306029",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7639587",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7639587#item7639587",
+            "geeklist_host": "threepointthed",
+            "contributor": "Akuden"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7640955",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7640955#item7640955",
+            "geeklist_host": "threepointthed",
+            "contributor": "jgatkinsn"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7641433",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7641433#item7641433",
+            "geeklist_host": "threepointthed",
+            "contributor": "Akuden"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7657257",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7657257#item7657257",
+            "geeklist_host": "threepointthed",
+            "contributor": "Arven"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/DBNxHm4XVavzgHADhHcAQw__thumb/img/_Ot7-Gbq5FMa3wJL4izEYX7ad1U=/fit-in/200x150/filters:strip_icc()/pic5318205.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Toby Lancaster"
+    ],
+    "weight": 1.33,
+    "rating": 7.11,
+    "play_time": "20 - 60",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Print & Play",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Paper-and-Pencil",
+        "Roll / Spin and Move",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "308186",
+            "expansion_name": "Dark Force Incursion: Forest Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/308186"
+        },
+        {
+            "expansion_id": "308193",
+            "expansion_name": "Dark Force Incursion: Lakes Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/308193"
+        },
+        {
+            "expansion_id": "308191",
+            "expansion_name": "Dark Force Incursion: Marsh Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/308191"
+        },
+        {
+            "expansion_id": "308194",
+            "expansion_name": "Dark Force Incursion: Muster and Ambush Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/308194"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Toby Lancaster",
+    "categories_string": "Dice; Print & Play; Wargame",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Paper-and-Pencil; Roll / Spin and Move; Solo / Solitaire Game",
+    "expansions_string": "{'expansion_id': '308186', 'expansion_name': 'Dark Force Incursion: Forest Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/308186'}; {'expansion_id': '308193', 'expansion_name': 'Dark Force Incursion: Lakes Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/308193'}; {'expansion_id': '308191', 'expansion_name': 'Dark Force Incursion: Marsh Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/308191'}; {'expansion_id': '308194', 'expansion_name': 'Dark Force Incursion: Muster and Ambush Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/308194'}",
+    "expansions_for_string": ""
+}

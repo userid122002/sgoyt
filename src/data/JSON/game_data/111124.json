@@ -1,0 +1,89 @@
+{
+    "game_id": "111124",
+    "game_name": "Dark Moon",
+    "bgg_link": "https://boardgamegeek.com/boardgame/111124",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4056612",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4056612#item4056612",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "philmcd"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5284426",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5284426#item5284426",
+            "geeklist_host": "suzyvitale",
+            "contributor": "Freeloading Phill"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6818146",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6818146#item6818146",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Freeloading Phill"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7866891",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7866891#item7866891",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Freeloading Phill"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/BhDoxSC8IqhbMRclci76gA__thumb/img/bprSokzAs6Pfc4CuyXD_4tCCP38=/fit-in/200x150/filters:strip_icc()/pic2320134.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Evan Derrick"
+    ],
+    "weight": 2.35,
+    "rating": 7.01,
+    "play_time": "60 - 75",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "33",
+    "categories": [
+        "Bluffing",
+        "Deduction",
+        "Dice",
+        "Movies / TV / Radio theme",
+        "Print & Play",
+        "Science Fiction",
+        "Space Exploration",
+        "Spies/Secret Agents"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Role Playing",
+        "Team-Based Game",
+        "Traitor Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "230534",
+            "expansion_name": "Dark Moon: Shadow Corporation",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230534"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Evan Derrick",
+    "categories_string": "Bluffing; Deduction; Dice; Movies / TV / Radio theme; Print & Play; Science Fiction; Space Exploration; Spies/Secret Agents",
+    "mechanics_string": "Dice Rolling; Role Playing; Team-Based Game; Traitor Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '230534', 'expansion_name': 'Dark Moon: Shadow Corporation', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230534'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,86 @@
+{
+    "game_id": "240567",
+    "game_name": "Chocolate Factory",
+    "bgg_link": "https://boardgamegeek.com/boardgame/240567",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7658397",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7658397#item7658397",
+            "geeklist_host": "gentle",
+            "contributor": "john5443"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7747381",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7747381#item7747381",
+            "geeklist_host": "repairmanjack",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7947151",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7947151#item7947151",
+            "geeklist_host": "Elida",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7947651",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7947651#item7947651",
+            "geeklist_host": "Elida",
+            "contributor": "kevinruns262"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/BshwmBDyZyxqvdUOWjtReA__thumb/img/0IZPV_GCXZnOukPenSJndOl_XuE=/fit-in/200x150/filters:strip_icc()/pic4287283.jpg",
+    "year_published": "2019",
+    "designers": [
+        "David Digby",
+        "Matthew Dunstan",
+        "Brett J. Gilbert"
+    ],
+    "weight": 2.92,
+    "rating": 7.27,
+    "play_time": "45 - 90",
+    "best": "5",
+    "recommended": "8",
+    "not_recommended": "4",
+    "categories": [
+        "Economic",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Bias",
+        "Card Drafting",
+        "Contracts",
+        "End Game Bonuses",
+        "Pick-up and Deliver"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "313902",
+            "expansion_name": "Chocolate Factory: Master Chocolatier Mini-Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313902"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "David Digby; Matthew Dunstan; Brett J. Gilbert",
+    "categories_string": "Economic; Industry / Manufacturing",
+    "mechanics_string": "Action Points; Bias; Card Drafting; Contracts; End Game Bonuses; Pick-up and Deliver",
+    "expansions_string": "{'expansion_id': '313902', 'expansion_name': 'Chocolate Factory: Master Chocolatier Mini-Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313902'}",
+    "expansions_for_string": ""
+}

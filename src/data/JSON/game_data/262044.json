@@ -1,0 +1,83 @@
+{
+    "game_id": "262044",
+    "game_name": "Sprawlopolis: Points of Interest",
+    "bgg_link": "https://boardgamegeek.com/boardgame/262044",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6843287",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6843287#item6843287",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6845517",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6845517#item6845517",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7728061",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7728061#item7728061",
+            "geeklist_host": "Elida",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8075813",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8075813#item8075813",
+            "geeklist_host": "Swizze",
+            "contributor": "Marctimmins89"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/XRhNwZKuVxL441f2R9as0g__thumb/img/M1dRV0HwMAWWPBw0fccwbvcDC7A=/fit-in/200x150/filters:strip_icc()/pic4534832.png",
+    "year_published": "2018",
+    "designers": [
+        "Steven Aramini"
+    ],
+    "weight": 1.50,
+    "rating": 7.20,
+    "play_time": "15 - 20",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "City Building",
+        "Expansion for Base-game",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Cooperative Game",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "251658",
+            "game_name": "Sprawlopolis",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/251658"
+        }
+    ],
+    "designers_string": "Steven Aramini",
+    "categories_string": "Card Game; City Building; Expansion for Base-game; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Cooperative Game; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '251658', 'game_name': 'Sprawlopolis', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/251658'}"
+}

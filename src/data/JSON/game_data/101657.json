@@ -1,0 +1,70 @@
+{
+    "game_id": "101657",
+    "game_name": "Memoir '44: Audie Murphy's Campaign",
+    "bgg_link": "https://boardgamegeek.com/boardgame/101657",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3591427",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3591427#item3591427",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3597916",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3597916#item3597916",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3603171",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3603171#item3603171",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "ad79"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/aWzcfSRpU2Txv8VJk1fZ2w__thumb/img/q4XYdsKRyWTawbJTHeI6KMbR9E0=/fit-in/200x150/filters:strip_icc()/pic1092189.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Jacques David"
+    ],
+    "weight": 1.75,
+    "rating": 7.99,
+    "play_time": "120 - 240",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "14",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Hexagon Grid"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "10630",
+            "game_name": "Memoir '44",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/10630"
+        }
+    ],
+    "designers_string": "Jacques David",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Hexagon Grid",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '10630', 'game_name': \"Memoir '44\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/10630'}"
+}

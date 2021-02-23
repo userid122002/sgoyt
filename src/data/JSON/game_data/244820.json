@@ -1,0 +1,80 @@
+{
+    "game_id": "244820",
+    "game_name": "Posthuman Saga",
+    "bgg_link": "https://boardgamegeek.com/boardgame/244820",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7748755",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7748755#item7748755",
+            "geeklist_host": "repairmanjack",
+            "contributor": "mournful"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/pkgBXnYwfyfe_SK_oMOm1Q__thumb/img/aVmK67KyMRNFAXratup2eCthP1Y=/fit-in/200x150/filters:strip_icc()/pic3948066.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Gordon Calleja"
+    ],
+    "weight": 3.17,
+    "rating": 7.26,
+    "play_time": "30 - 120",
+    "best": "2",
+    "recommended": "4",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Exploration",
+        "Fighting",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Modular Board",
+        "Pattern Building",
+        "Push Your Luck",
+        "Role Playing",
+        "Storytelling",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "259333",
+            "expansion_name": "Posthuman Saga: Resistance Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/259333"
+        },
+        {
+            "expansion_id": "263187",
+            "expansion_name": "Posthuman Saga: Settlements Mini-Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263187"
+        },
+        {
+            "expansion_id": "322167",
+            "expansion_name": "Posthuman Saga: The Journey Home Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/322167"
+        },
+        {
+            "expansion_id": "259347",
+            "expansion_name": "Posthuman Saga: The Outcast Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/259347"
+        },
+        {
+            "expansion_id": "259349",
+            "expansion_name": "Posthuman Saga: Wanderer Hero Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/259349"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Gordon Calleja",
+    "categories_string": "Adventure; Exploration; Fighting; Science Fiction",
+    "mechanics_string": "Auction/Bidding; Deck, Bag, and Pool Building; Dice Rolling; Modular Board; Pattern Building; Push Your Luck; Role Playing; Storytelling; Tile Placement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '259333', 'expansion_name': 'Posthuman Saga: Resistance Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/259333'}; {'expansion_id': '263187', 'expansion_name': 'Posthuman Saga: Settlements Mini-Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263187'}; {'expansion_id': '322167', 'expansion_name': 'Posthuman Saga: The Journey Home Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/322167'}; {'expansion_id': '259347', 'expansion_name': 'Posthuman Saga: The Outcast Promo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/259347'}; {'expansion_id': '259349', 'expansion_name': 'Posthuman Saga: Wanderer Hero Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/259349'}",
+    "expansions_for_string": ""
+}

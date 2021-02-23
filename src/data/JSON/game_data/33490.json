@@ -1,0 +1,69 @@
+{
+    "game_id": "33490",
+    "game_name": "World at War: Death of the 1st Panzer",
+    "bgg_link": "https://boardgamegeek.com/boardgame/33490",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "175551",
+            "geeklist_item_id": "3307800",
+            "year_month": "2014/07",
+            "year": "2014",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/175551/item/3307800#item3307800",
+            "geeklist_host": "Woelf",
+            "contributor": "aeneas2467"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/SEgNjeYm3zTAJML8Itc8Ow__thumb/img/0SWXE_cs6uNYVLdoB-i4foIPXAs=/fit-in/200x150/filters:strip_icc()/pic280832.jpg",
+    "year_published": "2008",
+    "designers": [
+        "Mark H. Walker"
+    ],
+    "weight": 2.58,
+    "rating": 7.58,
+    "play_time": "0",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Modern Warfare",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Chit-Pull System",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "61426",
+            "expansion_name": "World at War Compendium",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/61426"
+        },
+        {
+            "expansion_id": "34687",
+            "expansion_name": "World at War: Gamer's Guide ",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34687"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "35035",
+            "game_name": "World at War: Blood and Bridges",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/35035"
+        },
+        {
+            "game_id": "25729",
+            "game_name": "World at War: Eisenbach Gap",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/25729"
+        }
+    ],
+    "designers_string": "Mark H. Walker",
+    "categories_string": "Expansion for Base-game; Modern Warfare; Wargame",
+    "mechanics_string": "Chit-Pull System; Dice Rolling; Hexagon Grid; Simulation",
+    "expansions_string": "{'expansion_id': '61426', 'expansion_name': 'World at War Compendium', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/61426'}; {'expansion_id': '34687', 'expansion_name': \"World at War: Gamer's Guide \", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34687'}",
+    "expansions_for_string": "{'game_id': '35035', 'game_name': 'World at War: Blood and Bridges', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/35035'}; {'game_id': '25729', 'game_name': 'World at War: Eisenbach Gap', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/25729'}"
+}

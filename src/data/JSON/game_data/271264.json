@@ -1,0 +1,95 @@
+{
+    "game_id": "271264",
+    "game_name": "The Liberation of Rietburg",
+    "bgg_link": "https://boardgamegeek.com/boardgame/271264",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7289026",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7289026#item7289026",
+            "geeklist_host": "narcher007",
+            "contributor": "vacuumdude"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7710445",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7710445#item7710445",
+            "geeklist_host": "Elida",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7804478",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7804478#item7804478",
+            "geeklist_host": "mithoron",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8031206",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8031206#item8031206",
+            "geeklist_host": "airzonk1",
+            "contributor": "Haywood"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8101027",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8101027#item8101027",
+            "geeklist_host": "Swizze",
+            "contributor": "garrylloyd"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/0PMFQe4w9rjOCKpxVLtnLw__thumb/img/8aGDJjYrzD-fXCuDlKvHEzseT_A=/fit-in/200x150/filters:strip_icc()/pic5320640.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Gerhard Hecht"
+    ],
+    "weight": 2.33,
+    "rating": 6.99,
+    "play_time": "40",
+    "best": "2",
+    "recommended": "4",
+    "not_recommended": "1",
+    "categories": [
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Variable Player Powers",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "292994",
+            "expansion_name": "Die Befreiung der Rietburg: Der alte Wehrturm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292994"
+        },
+        {
+            "expansion_id": "292993",
+            "expansion_name": "Die Befreiung der Rietburg: Varkur - der dunkle Magier",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292993"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Gerhard Hecht",
+    "categories_string": "Fantasy",
+    "mechanics_string": "Cooperative Game; Variable Player Powers; Variable Set-up",
+    "expansions_string": "{'expansion_id': '292994', 'expansion_name': 'Die Befreiung der Rietburg: Der alte Wehrturm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292994'}; {'expansion_id': '292993', 'expansion_name': 'Die Befreiung der Rietburg: Varkur - der dunkle Magier', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292993'}",
+    "expansions_for_string": ""
+}

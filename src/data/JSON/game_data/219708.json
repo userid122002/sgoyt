@@ -1,0 +1,53 @@
+{
+    "game_id": "219708",
+    "game_name": "Professor Evil and The Citadel of Time",
+    "bgg_link": "https://boardgamegeek.com/boardgame/219708",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6209318",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6209318#item6209318",
+            "geeklist_host": "Gribbon",
+            "contributor": "gentle"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/NvOXSq-ylkwRtGuxppjpVw__thumb/img/yktTJfJXp47dAceW9S2joHE48Sg=/fit-in/200x150/filters:strip_icc()/pic3495278.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Matthew Dunstan",
+        "Brett J. Gilbert"
+    ],
+    "weight": 1.93,
+    "rating": 6.66,
+    "play_time": "30 - 45",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "9",
+    "categories": [
+        "Spies/Secret Agents"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "253423",
+            "expansion_name": "Professor Evil and the Citadel of Time: Professor Evil and the Architects of Magic",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253423"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Matthew Dunstan; Brett J. Gilbert",
+    "categories_string": "Spies/Secret Agents",
+    "mechanics_string": "Action Points; Area Movement; Cooperative Game; Dice Rolling; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '253423', 'expansion_name': 'Professor Evil and the Citadel of Time: Professor Evil and the Architects of Magic', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253423'}",
+    "expansions_for_string": ""
+}

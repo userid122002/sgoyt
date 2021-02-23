@@ -1,0 +1,746 @@
+{
+    "game_id": "150484",
+    "game_name": "Secrets of the Lost Tomb",
+    "bgg_link": "https://boardgamegeek.com/boardgame/150484",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4089997",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4089997#item4089997",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "Marlowespade"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4134530",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4134530#item4134530",
+            "geeklist_host": "lukather",
+            "contributor": "camidon"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4140488",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4140488#item4140488",
+            "geeklist_host": "lukather",
+            "contributor": "camidon"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4143604",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4143604#item4143604",
+            "geeklist_host": "lukather",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4196824",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4196824#item4196824",
+            "geeklist_host": "SBGrad",
+            "contributor": "camidon"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4342626",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4342626#item4342626",
+            "geeklist_host": "mikolajl",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4914016",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4914016#item4914016",
+            "geeklist_host": "kikerl",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5174596",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5174596#item5174596",
+            "geeklist_host": "settlerdave",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5208819",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5208819#item5208819",
+            "geeklist_host": "Ibbo",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5274201",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5274201#item5274201",
+            "geeklist_host": "suzyvitale",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5359564",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5359564#item5359564",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5407080",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5407080#item5407080",
+            "geeklist_host": "maloma",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5428916",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5428916#item5428916",
+            "geeklist_host": "koinskyz",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5492366",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5492366#item5492366",
+            "geeklist_host": "Mishko",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5537832",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5537832#item5537832",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5625738",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5625738#item5625738",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5697146",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5697146#item5697146",
+            "geeklist_host": "cornishlee",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5726746",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5726746#item5726746",
+            "geeklist_host": "cornishlee",
+            "contributor": "kittenhoarder"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5779016",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5779016#item5779016",
+            "geeklist_host": "Albia",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5832487",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5832487#item5832487",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5903664",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5903664#item5903664",
+            "geeklist_host": "Jorune",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5911591",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5911591#item5911591",
+            "geeklist_host": "Jorune",
+            "contributor": "chuft"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5984615",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5984615#item5984615",
+            "geeklist_host": "radthanael",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6047899",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6047899#item6047899",
+            "geeklist_host": "busdjur",
+            "contributor": "jduteau"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6050197",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6050197#item6050197",
+            "geeklist_host": "busdjur",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6061195",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6061195#item6061195",
+            "geeklist_host": "skeletonhat",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6144488",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6144488#item6144488",
+            "geeklist_host": "Pjandy",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6306897",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6306897#item6306897",
+            "geeklist_host": "spaceman23",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6180290",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6180290#item6180290",
+            "geeklist_host": "Gribbon",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6262859",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6262859#item6262859",
+            "geeklist_host": "emodiu5",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6605907",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6605907#item6605907",
+            "geeklist_host": "squarepegsys",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6398201",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6398201#item6398201",
+            "geeklist_host": "dobrazil",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6484315",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6484315#item6484315",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6548256",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6548256#item6548256",
+            "geeklist_host": "Albia",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6653188",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6653188#item6653188",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6823736",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6823736#item6823736",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6866651",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6866651#item6866651",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6722829",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6722829#item6722829",
+            "geeklist_host": "The_Omnius",
+            "contributor": "DocSavage2001"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6740285",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6740285#item6740285",
+            "geeklist_host": "The_Omnius",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7054965",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7054965#item7054965",
+            "geeklist_host": "labrhat22",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6932271",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6932271#item6932271",
+            "geeklist_host": "Woelf",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6999438",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6999438#item6999438",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7117659",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7117659#item7117659",
+            "geeklist_host": "Venom Snake",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7190723",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7190723#item7190723",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7399559",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7399559#item7399559",
+            "geeklist_host": "jeffrhind",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7267569",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7267569#item7267569",
+            "geeklist_host": "narcher007",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7354144",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7354144#item7354144",
+            "geeklist_host": "Albia",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7472829",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7472829#item7472829",
+            "geeklist_host": "jomurph86",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7588168",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7588168#item7588168",
+            "geeklist_host": "jwml",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7628627",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7628627#item7628627",
+            "geeklist_host": "threepointthed",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7681385",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7681385#item7681385",
+            "geeklist_host": "gentle",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7717876",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7717876#item7717876",
+            "geeklist_host": "Elida",
+            "contributor": "CrazyBlueDwarf"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7720160",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7720160#item7720160",
+            "geeklist_host": "Elida",
+            "contributor": "CrazyBlueDwarf"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7743684",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7743684#item7743684",
+            "geeklist_host": "Elida",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7770822",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7770822#item7770822",
+            "geeklist_host": "repairmanjack",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7771846",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7771846#item7771846",
+            "geeklist_host": "repairmanjack",
+            "contributor": "PvtBeckMorale1"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7773297",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7773297#item7773297",
+            "geeklist_host": "repairmanjack",
+            "contributor": "PvtBeckMorale1"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7774327",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7774327#item7774327",
+            "geeklist_host": "repairmanjack",
+            "contributor": "PvtBeckMorale1"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7803953",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7803953#item7803953",
+            "geeklist_host": "mithoron",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7844448",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7844448#item7844448",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7864279",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7864279#item7864279",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "CrazyBlueDwarf"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7914963",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7914963#item7914963",
+            "geeklist_host": "Elida",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7983946",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7983946#item7983946",
+            "geeklist_host": "Albia",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8019243",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8019243#item8019243",
+            "geeklist_host": "airzonk1",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8067363",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8067363#item8067363",
+            "geeklist_host": "Swizze",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8137184",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8137184#item8137184",
+            "geeklist_host": "ArianneH",
+            "contributor": "Redheaded Pharmacist"
+        }
+    ],
+    "sgoyt_count": 66,
+    "thumbnail": "https://cf.geekdo-images.com/_3vW_TakM3xJ5TSdrPLN-g__thumb/img/_8CI6PyeNfGF0it9BjcamPcIqys=/fit-in/200x150/filters:strip_icc()/pic3136431.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Christopher Batarlis",
+        "Jim Samartino"
+    ],
+    "weight": 3.26,
+    "rating": 7.35,
+    "play_time": "120",
+    "best": "2",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Adventure",
+        "Exploration",
+        "Horror"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "196668",
+            "expansion_name": "Secrets of the Lost Tomb: 3 Epic Bosses",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196668"
+        },
+        {
+            "expansion_id": "178837",
+            "expansion_name": "Secrets of the Lost Tomb: Ancient Myths and Legends",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178837"
+        },
+        {
+            "expansion_id": "178885",
+            "expansion_name": "Secrets of the Lost Tomb: Atlantis - Mystery of the 13",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178885"
+        },
+        {
+            "expansion_id": "187874",
+            "expansion_name": "Secrets of the Lost Tomb: Fate's Fortune",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187874"
+        },
+        {
+            "expansion_id": "178884",
+            "expansion_name": "Secrets of the Lost Tomb: Passages and Perils",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178884"
+        },
+        {
+            "expansion_id": "240283",
+            "expansion_name": "Secrets of the Lost Tomb: Promo 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240283"
+        },
+        {
+            "expansion_id": "178841",
+            "expansion_name": "Secrets of the Lost Tomb: Reign of Terror",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178841"
+        },
+        {
+            "expansion_id": "184275",
+            "expansion_name": "Secrets of the Lost Tomb: The Elite Missions",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/184275"
+        },
+        {
+            "expansion_id": "178840",
+            "expansion_name": "Secrets of the Lost Tomb: The Great Apocalypse",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178840"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Christopher Batarlis; Jim Samartino",
+    "categories_string": "Adventure; Exploration; Horror",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Modular Board; Tile Placement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '196668', 'expansion_name': 'Secrets of the Lost Tomb: 3 Epic Bosses', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196668'}; {'expansion_id': '178837', 'expansion_name': 'Secrets of the Lost Tomb: Ancient Myths and Legends', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178837'}; {'expansion_id': '178885', 'expansion_name': 'Secrets of the Lost Tomb: Atlantis - Mystery of the 13', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178885'}; {'expansion_id': '187874', 'expansion_name': \"Secrets of the Lost Tomb: Fate's Fortune\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187874'}; {'expansion_id': '178884', 'expansion_name': 'Secrets of the Lost Tomb: Passages and Perils', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178884'}; {'expansion_id': '240283', 'expansion_name': 'Secrets of the Lost Tomb: Promo 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240283'}; {'expansion_id': '178841', 'expansion_name': 'Secrets of the Lost Tomb: Reign of Terror', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178841'}; {'expansion_id': '184275', 'expansion_name': 'Secrets of the Lost Tomb: The Elite Missions', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/184275'}; {'expansion_id': '178840', 'expansion_name': 'Secrets of the Lost Tomb: The Great Apocalypse', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178840'}",
+    "expansions_for_string": ""
+}

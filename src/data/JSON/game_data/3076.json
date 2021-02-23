@@ -1,0 +1,181 @@
+{
+    "game_id": "3076",
+    "game_name": "Puerto Rico",
+    "bgg_link": "https://boardgamegeek.com/boardgame/3076",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3477522",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3477522#item3477522",
+            "geeklist_host": "joestin",
+            "contributor": "radchad"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3945656",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3945656#item3945656",
+            "geeklist_host": "koinskyz",
+            "contributor": "derecksherrer"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4309437",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4309437#item4309437",
+            "geeklist_host": "mikolajl",
+            "contributor": "derecksherrer"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5633046",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5633046#item5633046",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5642599",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5642599#item5642599",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5690231",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5690231#item5690231",
+            "geeklist_host": "cornishlee",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5795672",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5795672#item5795672",
+            "geeklist_host": "Albia",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5819302",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5819302#item5819302",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7641407",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7641407#item7641407",
+            "geeklist_host": "threepointthed",
+            "contributor": "moonfrog"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8143612",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8143612#item8143612",
+            "geeklist_host": "ArianneH",
+            "contributor": "kevinruns262"
+        }
+    ],
+    "sgoyt_count": 10,
+    "thumbnail": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__thumb/img/5fLo89ChZH6Wzukk36bhZ-EpBS0=/fit-in/200x150/filters:strip_icc()/pic158548.jpg",
+    "year_published": "2002",
+    "designers": [
+        "Andreas Seyfarth"
+    ],
+    "weight": 3.28,
+    "rating": 7.99,
+    "play_time": "90 - 150",
+    "best": "5",
+    "recommended": "11",
+    "not_recommended": "780",
+    "categories": [
+        "City Building",
+        "Economic",
+        "Farming"
+    ],
+    "mechanics": [
+        "Action Drafting",
+        "End Game Bonuses",
+        "Follow",
+        "Hidden Victory Points",
+        "Increase Value of Unchosen Resources",
+        "Turn Order: Progressive",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "286086",
+            "expansion_name": "Deutscher Spielepreis Classic Goodie Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286086"
+        },
+        {
+            "expansion_id": "69178",
+            "expansion_name": "Haiti (fan expansion for Puerto Rico)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/69178"
+        },
+        {
+            "expansion_id": "292912",
+            "expansion_name": "Puerto Rico: Buccaneer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292912"
+        },
+        {
+            "expansion_id": "12382",
+            "expansion_name": "Puerto Rico: Expansion I - New Buildings",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/12382"
+        },
+        {
+            "expansion_id": "159761",
+            "expansion_name": "Puerto Rico: Expansion II - The Nobles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159761"
+        },
+        {
+            "expansion_id": "270125",
+            "expansion_name": "Puerto Rico: Expansions 1&2 - The New Buildings & The Nobles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/270125"
+        },
+        {
+            "expansion_id": "291423",
+            "expansion_name": "Puerto Rico: Festival en Puerto Rico",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291423"
+        },
+        {
+            "expansion_id": "40688",
+            "expansion_name": "Treasure Chest",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40688"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Andreas Seyfarth",
+    "categories_string": "City Building; Economic; Farming",
+    "mechanics_string": "Action Drafting; End Game Bonuses; Follow; Hidden Victory Points; Increase Value of Unchosen Resources; Turn Order: Progressive; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '286086', 'expansion_name': 'Deutscher Spielepreis Classic Goodie Box', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286086'}; {'expansion_id': '69178', 'expansion_name': 'Haiti (fan expansion for Puerto Rico)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/69178'}; {'expansion_id': '292912', 'expansion_name': 'Puerto Rico: Buccaneer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292912'}; {'expansion_id': '12382', 'expansion_name': 'Puerto Rico: Expansion I - New Buildings', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/12382'}; {'expansion_id': '159761', 'expansion_name': 'Puerto Rico: Expansion II - The Nobles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159761'}; {'expansion_id': '270125', 'expansion_name': 'Puerto Rico: Expansions 1&2 - The New Buildings & The Nobles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/270125'}; {'expansion_id': '291423', 'expansion_name': 'Puerto Rico: Festival en Puerto Rico', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291423'}; {'expansion_id': '40688', 'expansion_name': 'Treasure Chest', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40688'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,59 @@
+{
+    "game_id": "162384",
+    "game_name": "Imperial Stars II",
+    "bgg_link": "https://boardgamegeek.com/boardgame/162384",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4766598",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4766598#item4766598",
+            "geeklist_host": "govmiller",
+            "contributor": "silverbowen"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/lmzYI3EaAE4MHpVeD7vEoA__thumb/img/typTyi6fJ80W_U2huBY3EhdzEBE=/fit-in/200x150/filters:strip_icc()/pic2205631.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Chris Taylor (I)"
+    ],
+    "weight": 2.50,
+    "rating": 7.25,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "0",
+    "categories": [
+        "Science Fiction",
+        "Territory Building",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "181895",
+            "expansion_name": "Imperial Stars II:  Expansion #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181895"
+        },
+        {
+            "expansion_id": "198579",
+            "expansion_name": "Imperial Stars II: Expansion #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/198579"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Chris Taylor (I)",
+    "categories_string": "Science Fiction; Territory Building; Wargame",
+    "mechanics_string": "Action Points; Dice Rolling; Grid Movement; Hexagon Grid; Simulation",
+    "expansions_string": "{'expansion_id': '181895', 'expansion_name': 'Imperial Stars II:  Expansion #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181895'}; {'expansion_id': '198579', 'expansion_name': 'Imperial Stars II: Expansion #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/198579'}",
+    "expansions_for_string": ""
+}

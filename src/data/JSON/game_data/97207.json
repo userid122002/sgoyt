@@ -1,0 +1,123 @@
+{
+    "game_id": "97207",
+    "game_name": "Dungeon Petz",
+    "bgg_link": "https://boardgamegeek.com/boardgame/97207",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4638409",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4638409#item4638409",
+            "geeklist_host": "gentle",
+            "contributor": "Klash1"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4808807",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4808807#item4808807",
+            "geeklist_host": "govmiller",
+            "contributor": "Deathstroke"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5182384",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5182384#item5182384",
+            "geeklist_host": "settlerdave",
+            "contributor": "kldonnelly"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5729523",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5729523#item5729523",
+            "geeklist_host": "cornishlee",
+            "contributor": "celdom"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6075593",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6075593#item6075593",
+            "geeklist_host": "skeletonhat",
+            "contributor": "celdom"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6268037",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6268037#item6268037",
+            "geeklist_host": "emodiu5",
+            "contributor": "Antidotum"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7716537",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7716537#item7716537",
+            "geeklist_host": "Elida",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/7JjAm9RM8E2pbu5KCCbsTQ__thumb/img/vySdmxWBad2T5Xrylxv-jYukFmU=/fit-in/200x150/filters:strip_icc()/pic1103979.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Vlaada Chvatil"
+    ],
+    "weight": 3.60,
+    "rating": 7.47,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "8",
+    "not_recommended": "90",
+    "categories": [
+        "Animals",
+        "Fantasy",
+        "Humor"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "151254",
+            "expansion_name": "Dungeon Petz: Bob the Blob Promo Pet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151254"
+        },
+        {
+            "expansion_id": "126247",
+            "expansion_name": "Dungeon Petz: Bonus Pets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/126247"
+        },
+        {
+            "expansion_id": "143061",
+            "expansion_name": "Dungeon Petz: Dark Alleys",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143061"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vlaada Chvatil",
+    "categories_string": "Animals; Fantasy; Humor",
+    "mechanics_string": "Auction/Bidding; Hand Management; Simultaneous Action Selection; Worker Placement",
+    "expansions_string": "{'expansion_id': '151254', 'expansion_name': 'Dungeon Petz: Bob the Blob Promo Pet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151254'}; {'expansion_id': '126247', 'expansion_name': 'Dungeon Petz: Bonus Pets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/126247'}; {'expansion_id': '143061', 'expansion_name': 'Dungeon Petz: Dark Alleys', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143061'}",
+    "expansions_for_string": ""
+}

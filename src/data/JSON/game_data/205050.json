@@ -1,0 +1,73 @@
+{
+    "game_id": "205050",
+    "game_name": "Hostage Negotiator: Abductor Pack 5",
+    "bgg_link": "https://boardgamegeek.com/boardgame/205050",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5981489",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5981489#item5981489",
+            "geeklist_host": "radthanael",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5985601",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5985601#item5985601",
+            "geeklist_host": "radthanael",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/zjhkggdGsp2EalqNPcqroA__thumb/img/gaYYfGgWoiAtSv8ZG6pF0ieeThY=/fit-in/200x150/filters:strip_icc()/pic5491316.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Morten Monrad Pedersen"
+    ],
+    "weight": 2.25,
+    "rating": 7.51,
+    "play_time": "20 - 0",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "291523",
+            "expansion_name": "Hostage Negotiator: Demand Pack #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291523"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "134253",
+            "game_name": "Hostage Negotiator",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/134253"
+        },
+        {
+            "game_id": "198707",
+            "game_name": "Hostage Negotiator: Crime Wave",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/198707"
+        }
+    ],
+    "designers_string": "Morten Monrad Pedersen",
+    "categories_string": "Card Game; Dice; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Dice Rolling; Hand Management",
+    "expansions_string": "{'expansion_id': '291523', 'expansion_name': 'Hostage Negotiator: Demand Pack #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291523'}",
+    "expansions_for_string": "{'game_id': '134253', 'game_name': 'Hostage Negotiator', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/134253'}; {'game_id': '198707', 'game_name': 'Hostage Negotiator: Crime Wave', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/198707'}"
+}

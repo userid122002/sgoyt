@@ -1,0 +1,155 @@
+{
+    "game_id": "68425",
+    "game_name": "Eminent Domain",
+    "bgg_link": "https://boardgamegeek.com/boardgame/68425",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "171598",
+            "geeklist_item_id": "3181123",
+            "year_month": "2014/04",
+            "year": "2014",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/171598/item/3181123#item3181123",
+            "geeklist_host": "Malaiser",
+            "contributor": "telengard"
+        },
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3864214",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3864214#item3864214",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "warerare"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4644185",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4644185#item4644185",
+            "geeklist_host": "gentle",
+            "contributor": "Octarine8"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5152761",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5152761#item5152761",
+            "geeklist_host": "settlerdave",
+            "contributor": "rangerx"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5615894",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5615894#item5615894",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "DJZachLorton"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5706856",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5706856#item5706856",
+            "geeklist_host": "cornishlee",
+            "contributor": "Kpuff"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7313695",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7313695#item7313695",
+            "geeklist_host": "Albia",
+            "contributor": "masil"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7799176",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7799176#item7799176",
+            "geeklist_host": "mithoron",
+            "contributor": "squarepegsys"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/Dn3gJBq-k8Zww4a5yCzgOQ__thumb/img/IuAN5frtRpuyA5ZyueUdG3_DMxs=/fit-in/200x150/filters:strip_icc()/pic1160506.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Seth Jaffee"
+    ],
+    "weight": 2.50,
+    "rating": 7.05,
+    "play_time": "45",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "64",
+    "categories": [
+        "Card Game",
+        "Civilization",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Follow",
+        "Hand Management",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "177849",
+            "expansion_name": "Eminent Domain: Base Game Scenarios Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/177849"
+        },
+        {
+            "expansion_id": "86780",
+            "expansion_name": "Eminent Domain: Bonus Planets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/86780"
+        },
+        {
+            "expansion_id": "168586",
+            "expansion_name": "Eminent Domain: Cygnus Planet Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168586"
+        },
+        {
+            "expansion_id": "110863",
+            "expansion_name": "Eminent Domain: Elusive/Exclusive Victory Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/110863"
+        },
+        {
+            "expansion_id": "136313",
+            "expansion_name": "Eminent Domain: Escalation",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136313"
+        },
+        {
+            "expansion_id": "163639",
+            "expansion_name": "Eminent Domain: Exotica",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163639"
+        },
+        {
+            "expansion_id": "232135",
+            "expansion_name": "Eminent Domain: Oblivion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/232135"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Seth Jaffee",
+    "categories_string": "Card Game; Civilization; Science Fiction; Space Exploration",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Follow; Hand Management; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '177849', 'expansion_name': 'Eminent Domain: Base Game Scenarios Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/177849'}; {'expansion_id': '86780', 'expansion_name': 'Eminent Domain: Bonus Planets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/86780'}; {'expansion_id': '168586', 'expansion_name': 'Eminent Domain: Cygnus Planet Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168586'}; {'expansion_id': '110863', 'expansion_name': 'Eminent Domain: Elusive/Exclusive Victory Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/110863'}; {'expansion_id': '136313', 'expansion_name': 'Eminent Domain: Escalation', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136313'}; {'expansion_id': '163639', 'expansion_name': 'Eminent Domain: Exotica', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163639'}; {'expansion_id': '232135', 'expansion_name': 'Eminent Domain: Oblivion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/232135'}",
+    "expansions_for_string": ""
+}

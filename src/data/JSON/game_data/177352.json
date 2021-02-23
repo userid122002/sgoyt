@@ -1,0 +1,79 @@
+{
+    "game_id": "177352",
+    "game_name": "Carson City: Big Box",
+    "bgg_link": "https://boardgamegeek.com/boardgame/177352",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6719416",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6719416#item6719416",
+            "geeklist_host": "The_Omnius",
+            "contributor": "coralsaw"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7570243",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7570243#item7570243",
+            "geeklist_host": "jwml",
+            "contributor": "GameRulesforOne"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "7996519",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/7996519#item7996519",
+            "geeklist_host": "airzonk1",
+            "contributor": "GameRulesforOne"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/haPZu-OX6HcWBa-aeMSuYA__thumb/img/-24eW1P5FdXtfsEgKbU6W503YPs=/fit-in/200x150/filters:strip_icc()/pic4023278.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Xavier Georges"
+    ],
+    "weight": 3.18,
+    "rating": 8.07,
+    "play_time": "90 - 180",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "16",
+    "categories": [
+        "American West",
+        "City Building",
+        "Economic"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Tile Placement",
+        "Variable Player Powers",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "264146",
+            "expansion_name": "Carson City: Father Christmas Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264146"
+        },
+        {
+            "expansion_id": "185790",
+            "expansion_name": "Carson City: The Lawyer / Editor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185790"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Xavier Georges",
+    "categories_string": "American West; City Building; Economic",
+    "mechanics_string": "Area Majority / Influence; Dice Rolling; Tile Placement; Variable Player Powers; Worker Placement",
+    "expansions_string": "{'expansion_id': '264146', 'expansion_name': 'Carson City: Father Christmas Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264146'}; {'expansion_id': '185790', 'expansion_name': 'Carson City: The Lawyer / Editor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185790'}",
+    "expansions_for_string": ""
+}

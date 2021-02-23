@@ -1,0 +1,102 @@
+{
+    "game_id": "201186",
+    "game_name": "Summit: The Board Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/201186",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5869119",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5869119#item5869119",
+            "geeklist_host": "Jorune",
+            "contributor": "K0mm4andA"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5932288",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5932288#item5932288",
+            "geeklist_host": "radthanael",
+            "contributor": "DanieF"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6336734",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6336734#item6336734",
+            "geeklist_host": "spaceman23",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6377784",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6377784#item6377784",
+            "geeklist_host": "dobrazil",
+            "contributor": "schiavonir"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/u1SgtrV9rhLYRQzYuLVCGQ__thumb/img/qQDHQNTjc8y9Aj0302FC24Fjt08=/fit-in/200x150/filters:strip_icc()/pic3455804.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Conor McGoey"
+    ],
+    "weight": 2.30,
+    "rating": 7.19,
+    "play_time": "40 - 180",
+    "best": "0",
+    "recommended": "9",
+    "not_recommended": "4",
+    "categories": [
+        "Adventure",
+        "Environmental",
+        "Exploration",
+        "Racing"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Network and Route Building",
+        "Player Elimination",
+        "Point to Point Movement",
+        "Push Your Luck",
+        "Take That",
+        "Tile Placement",
+        "Variable Phase Order",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "254651",
+            "expansion_name": "Summit: The Board Game - Flare Gun",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/254651"
+        },
+        {
+            "expansion_id": "263314",
+            "expansion_name": "Summit: The Board Game - Teams",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263314"
+        },
+        {
+            "expansion_id": "226766",
+            "expansion_name": "Summit: The Board Game - Yeti expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/226766"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Conor McGoey",
+    "categories_string": "Adventure; Environmental; Exploration; Racing",
+    "mechanics_string": "Area Majority / Influence; Cooperative Game; Dice Rolling; Grid Movement; Network and Route Building; Player Elimination; Point to Point Movement; Push Your Luck; Take That; Tile Placement; Variable Phase Order; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '254651', 'expansion_name': 'Summit: The Board Game - Flare Gun', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/254651'}; {'expansion_id': '263314', 'expansion_name': 'Summit: The Board Game - Teams', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263314'}; {'expansion_id': '226766', 'expansion_name': 'Summit: The Board Game - Yeti expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/226766'}",
+    "expansions_for_string": ""
+}

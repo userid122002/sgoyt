@@ -1,0 +1,59 @@
+{
+    "game_id": "249772",
+    "game_name": "Arkham Horror: The Card Game - The Boundary Beyond: Mythos Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/249772",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7399032",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7399032#item7399032",
+            "geeklist_host": "jeffrhind",
+            "contributor": "Albia"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/sTqBbR0UmNk3djN9Mb5vgg__thumb/img/q045Gm66Z1YYpD_7UWwIVHGQsfE=/fit-in/200x150/filters:strip_icc()/pic4093868.png",
+    "year_published": "2018",
+    "designers": [],
+    "weight": 3.83,
+    "rating": 8.01,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        },
+        {
+            "game_id": "245815",
+            "game_name": "Arkham Horror: The Card Game - The Forgotten Age: Expansion",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/245815"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Adventure; Card Game; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}; {'game_id': '245815', 'game_name': 'Arkham Horror: The Card Game - The Forgotten Age: Expansion', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/245815'}"
+}

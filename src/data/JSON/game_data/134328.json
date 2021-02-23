@@ -1,0 +1,62 @@
+{
+    "game_id": "134328",
+    "game_name": "Memoir '44: Equipment Pack Bonus Scenarios",
+    "bgg_link": "https://boardgamegeek.com/boardgame/134328",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3526670",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3526670#item3526670",
+            "geeklist_host": "joestin",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3569737",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3569737#item3569737",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "ad79"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/TgazZmTzcA08v28IDJjZbg__thumb/img/BxB5XVtqP5EHXmzasl1zRxgx3Zk=/fit-in/200x150/filters:strip_icc()/pic1547723.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Richard Borg"
+    ],
+    "weight": 2.33,
+    "rating": 7.99,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "10630",
+            "game_name": "Memoir '44",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/10630"
+        }
+    ],
+    "designers_string": "Richard Borg",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Dice Rolling; Hand Management; Modular Board",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '10630', 'game_name': \"Memoir '44\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/10630'}"
+}

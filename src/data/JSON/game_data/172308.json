@@ -1,0 +1,65 @@
+{
+    "game_id": "172308",
+    "game_name": "Broom Service",
+    "bgg_link": "https://boardgamegeek.com/boardgame/172308",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8078208",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8078208#item8078208",
+            "geeklist_host": "Swizze",
+            "contributor": "smic"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/PcxTKtTwov2vxkZZbRVDAw__thumb/img/exJUDw66ox4k5H5dSX_oAOuRNXk=/fit-in/200x150/filters:strip_icc()/pic2546156.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Andreas Pelikan",
+        "Alexander Pfister"
+    ],
+    "weight": 2.40,
+    "rating": 7.20,
+    "play_time": "30 - 75",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "78",
+    "categories": [
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Follow",
+        "Hand Management",
+        "Pick-up and Deliver",
+        "Set Collection",
+        "Simultaneous Action Selection",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "204573",
+            "expansion_name": "Brettspiel Adventskalender 2016",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204573"
+        },
+        {
+            "expansion_id": "211173",
+            "expansion_name": "Broom Service: Christmastime",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211173"
+        },
+        {
+            "expansion_id": "202021",
+            "expansion_name": "Broom Service: The 1st Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202021"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Andreas Pelikan; Alexander Pfister",
+    "categories_string": "Fantasy",
+    "mechanics_string": "Area Movement; Follow; Hand Management; Pick-up and Deliver; Set Collection; Simultaneous Action Selection; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '204573', 'expansion_name': 'Brettspiel Adventskalender 2016', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204573'}; {'expansion_id': '211173', 'expansion_name': 'Broom Service: Christmastime', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211173'}; {'expansion_id': '202021', 'expansion_name': 'Broom Service: The 1st Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202021'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,51 @@
+{
+    "game_id": "91984",
+    "game_name": "Quebec",
+    "bgg_link": "https://boardgamegeek.com/boardgame/91984",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4029101",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4029101#item4029101",
+            "geeklist_host": "joestin",
+            "contributor": "gentle"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/5a8L3N0-7qVbFC2dfksung__thumb/img/FDMwM0TD30618qp70MNKtDzYWBU=/fit-in/200x150/filters:strip_icc()/pic1077693.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Philippe Beaudoin",
+        "Pierre Poissant-Marquis"
+    ],
+    "weight": 2.98,
+    "rating": 7.14,
+    "play_time": "75",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "16",
+    "categories": [
+        "City Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Modular Board",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "109633",
+            "expansion_name": "Quebec: Hitchcock a Quebec",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/109633"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Philippe Beaudoin; Pierre Poissant-Marquis",
+    "categories_string": "City Building",
+    "mechanics_string": "Area Majority / Influence; Modular Board; Worker Placement",
+    "expansions_string": "{'expansion_id': '109633', 'expansion_name': 'Quebec: Hitchcock a Quebec', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/109633'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,110 @@
+{
+    "game_id": "183405",
+    "game_name": "Ember: The Magical Card Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/183405",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4701869",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4701869#item4701869",
+            "geeklist_host": "koinskyz",
+            "contributor": "Rayz2112"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4738827",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4738827#item4738827",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6231186",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6231186#item6231186",
+            "geeklist_host": "Gribbon",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7430764",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7430764#item7430764",
+            "geeklist_host": "jomurph86",
+            "contributor": "BunniCladwell"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/fwHDQnTVnlsqmBJ4MFL-VA__thumb/img/gNgfxXYHoWg90gNXpu0UGfL1VMw=/fit-in/200x150/filters:strip_icc()/pic2679052.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Stuart Garside"
+    ],
+    "weight": 1.50,
+    "rating": 6.72,
+    "play_time": "10 - 30",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Memory",
+        "Take That"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "228449",
+            "expansion_name": "Ember: Dark Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228449"
+        },
+        {
+            "expansion_id": "206544",
+            "expansion_name": "Ember: From the Ashes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206544"
+        },
+        {
+            "expansion_id": "220250",
+            "expansion_name": "Ember: Light and Dark - Prismatic Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220250"
+        },
+        {
+            "expansion_id": "220251",
+            "expansion_name": "Ember: Light and Dark - Spectral Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220251"
+        },
+        {
+            "expansion_id": "227880",
+            "expansion_name": "Ember: Mage Nights",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227880"
+        },
+        {
+            "expansion_id": "228152",
+            "expansion_name": "Ember: Purple Worm Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228152"
+        },
+        {
+            "expansion_id": "247109",
+            "expansion_name": "Ember: Trick or Treat",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/247109"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stuart Garside",
+    "categories_string": "Card Game; Fantasy",
+    "mechanics_string": "Memory; Take That",
+    "expansions_string": "{'expansion_id': '228449', 'expansion_name': 'Ember: Dark Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228449'}; {'expansion_id': '206544', 'expansion_name': 'Ember: From the Ashes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206544'}; {'expansion_id': '220250', 'expansion_name': 'Ember: Light and Dark - Prismatic Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220250'}; {'expansion_id': '220251', 'expansion_name': 'Ember: Light and Dark - Spectral Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220251'}; {'expansion_id': '227880', 'expansion_name': 'Ember: Mage Nights', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227880'}; {'expansion_id': '228152', 'expansion_name': 'Ember: Purple Worm Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228152'}; {'expansion_id': '247109', 'expansion_name': 'Ember: Trick or Treat', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/247109'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,82 @@
+{
+    "game_id": "245824",
+    "game_name": "Cat Rescue",
+    "bgg_link": "https://boardgamegeek.com/boardgame/245824",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6548229",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6548229#item6548229",
+            "geeklist_host": "Albia",
+            "contributor": "Danneq"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7928312",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7928312#item7928312",
+            "geeklist_host": "Elida",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7933371",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7933371#item7933371",
+            "geeklist_host": "Elida",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/-75T8WQcwllsFI2NUzUe7g__thumb/img/DW6YNe4P186c5vi3n5G6nEUIEHw=/fit-in/200x150/filters:strip_icc()/pic5153723.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Ta-Te Wu"
+    ],
+    "weight": 1.40,
+    "rating": 6.65,
+    "play_time": "15 - 30",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Animals",
+        "Card Game",
+        "Puzzle"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Pattern Building",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "264722",
+            "expansion_name": "Cat Rescue: 5.Color expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264722"
+        },
+        {
+            "expansion_id": "264726",
+            "expansion_name": "Cat Rescue: Clowder Time Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264726"
+        },
+        {
+            "expansion_id": "264728",
+            "expansion_name": "Cat Rescue: Get Your Claws Out Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264728"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ta-Te Wu",
+    "categories_string": "Animals; Card Game; Puzzle",
+    "mechanics_string": "Cooperative Game; Pattern Building; Set Collection",
+    "expansions_string": "{'expansion_id': '264722', 'expansion_name': 'Cat Rescue: 5.Color expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264722'}; {'expansion_id': '264726', 'expansion_name': 'Cat Rescue: Clowder Time Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264726'}; {'expansion_id': '264728', 'expansion_name': 'Cat Rescue: Get Your Claws Out Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264728'}",
+    "expansions_for_string": ""
+}

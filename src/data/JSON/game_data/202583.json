@@ -1,0 +1,63 @@
+{
+    "game_id": "202583",
+    "game_name": "Rise of Tribes",
+    "bgg_link": "https://boardgamegeek.com/boardgame/202583",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7657999",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7657999#item7657999",
+            "geeklist_host": "gentle",
+            "contributor": "gentle"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Io2NVc5Du_pgtcofPCOFyQ__thumb/img/pWP1XQ_bW22r1KALP-yDX8iR8UA=/fit-in/200x150/filters:strip_icc()/pic3588551.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Brad Brooks"
+    ],
+    "weight": 2.16,
+    "rating": 7.27,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "20",
+    "categories": [
+        "Civilization",
+        "Dice",
+        "Prehistoric"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "306722",
+            "expansion_name": "Rise of Tribes: Beasts & Bronze",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/306722"
+        },
+        {
+            "expansion_id": "283325",
+            "expansion_name": "Rise of Tribes: The Mesa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/283325"
+        },
+        {
+            "expansion_id": "308375",
+            "expansion_name": "Rise of Tribes: The Vul'Keth Invasion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/308375"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Brad Brooks",
+    "categories_string": "Civilization; Dice; Prehistoric",
+    "mechanics_string": "Area Majority / Influence; Dice Rolling; Modular Board; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '306722', 'expansion_name': 'Rise of Tribes: Beasts & Bronze', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/306722'}; {'expansion_id': '283325', 'expansion_name': 'Rise of Tribes: The Mesa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/283325'}; {'expansion_id': '308375', 'expansion_name': \"Rise of Tribes: The Vul'Keth Invasion\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/308375'}",
+    "expansions_for_string": ""
+}

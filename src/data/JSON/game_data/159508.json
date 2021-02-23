@@ -1,0 +1,91 @@
+{
+    "game_id": "159508",
+    "game_name": "AquaSphere",
+    "bgg_link": "https://boardgamegeek.com/boardgame/159508",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4014867",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4014867#item4014867",
+            "geeklist_host": "joestin",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4348643",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4348643#item4348643",
+            "geeklist_host": "mikolajl",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4927706",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4927706#item4927706",
+            "geeklist_host": "maloma",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5499435",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5499435#item5499435",
+            "geeklist_host": "Mishko",
+            "contributor": "kldonnelly"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6689575",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6689575#item6689575",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "eastwoodk"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/K7Hq_KDgr8jJHMtW21XcfQ__thumb/img/ZddcJnCbwkBUoilb5x-Bj-k7tio=/fit-in/200x150/filters:strip_icc()/pic2197124.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Stefan Feld"
+    ],
+    "weight": 3.68,
+    "rating": 7.28,
+    "play_time": "100",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "47",
+    "categories": [
+        "Nautical",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Modular Board"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "287664",
+            "expansion_name": "AquaSphere: Erweiterung",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/287664"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stefan Feld",
+    "categories_string": "Nautical; Science Fiction",
+    "mechanics_string": "Area Majority / Influence; Area Movement; Modular Board",
+    "expansions_string": "{'expansion_id': '287664', 'expansion_name': 'AquaSphere: Erweiterung', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/287664'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,70 @@
+{
+    "game_id": "34334",
+    "game_name": "Waterloo 20",
+    "bgg_link": "https://boardgamegeek.com/boardgame/34334",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "170533",
+            "geeklist_item_id": "3119708",
+            "year_month": "2014/03",
+            "year": "2014",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/170533/item/3119708#item3119708",
+            "geeklist_host": "pusherman42",
+            "contributor": "aeneas2467"
+        },
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3280967",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3280967#item3280967",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "aeneas2467"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7714349",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7714349#item7714349",
+            "geeklist_host": "Elida",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/A9USx4ifHPE3-dnpnFxyxg__thumb/img/8jV4I-vQEMty70Q28Ftoki2DOBw=/fit-in/200x150/filters:strip_icc()/pic297963.jpg",
+    "year_published": "2008",
+    "designers": [
+        "Joseph Miranda"
+    ],
+    "weight": 2.22,
+    "rating": 6.99,
+    "play_time": "50",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "42837",
+            "expansion_name": "Napoleonic 20 Expansion Kit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42837"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Joseph Miranda",
+    "categories_string": "Napoleonic; Wargame",
+    "mechanics_string": "Dice Rolling; Hexagon Grid",
+    "expansions_string": "{'expansion_id': '42837', 'expansion_name': 'Napoleonic 20 Expansion Kit', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42837'}",
+    "expansions_for_string": ""
+}

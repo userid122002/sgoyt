@@ -1,0 +1,632 @@
+{
+    "game_id": "112138",
+    "game_name": "Krosmaster: Arena",
+    "bgg_link": "https://boardgamegeek.com/boardgame/112138",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "175551",
+            "geeklist_item_id": "3339123",
+            "year_month": "2014/07",
+            "year": "2014",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/175551/item/3339123#item3339123",
+            "geeklist_host": "Woelf",
+            "contributor": "fractaloon"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3431519",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3431519#item3431519",
+            "geeklist_host": "Malaiser",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3433216",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3433216#item3433216",
+            "geeklist_host": "Malaiser",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3439288",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3439288#item3439288",
+            "geeklist_host": "Malaiser",
+            "contributor": "often"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3474465",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3474465#item3474465",
+            "geeklist_host": "joestin",
+            "contributor": "agramore"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3514207",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3514207#item3514207",
+            "geeklist_host": "joestin",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4656559",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4656559#item4656559",
+            "geeklist_host": "gentle",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4678373",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4678373#item4678373",
+            "geeklist_host": "koinskyz",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4758366",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4758366#item4758366",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4898674",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4898674#item4898674",
+            "geeklist_host": "kikerl",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4962224",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4962224#item4962224",
+            "geeklist_host": "maloma",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4968262",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4968262#item4968262",
+            "geeklist_host": "maloma",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4968327",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4968327#item4968327",
+            "geeklist_host": "maloma",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4971199",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4971199#item4971199",
+            "geeklist_host": "maloma",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4986595",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4986595#item4986595",
+            "geeklist_host": "maloma",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4986824",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4986824#item4986824",
+            "geeklist_host": "maloma",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5043318",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5043318#item5043318",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5073987",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5073987#item5073987",
+            "geeklist_host": "mikolajl",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5338289",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5338289#item5338289",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5339502",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5339502#item5339502",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5752756",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5752756#item5752756",
+            "geeklist_host": "Albia",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5896760",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5896760#item5896760",
+            "geeklist_host": "Jorune",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5921296",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5921296#item5921296",
+            "geeklist_host": "Jorune",
+            "contributor": "slightly askew"
+        }
+    ],
+    "sgoyt_count": 23,
+    "thumbnail": "https://cf.geekdo-images.com/Upp9_QWvDcn7rpBqRtAvFw__thumb/img/OJwlhYsU2-Kuwxb5fLBi65a9vXo=/fit-in/200x150/filters:strip_icc()/pic1573355.png",
+    "year_published": "2012",
+    "designers": [
+        "Murat Celebi",
+        "Nicolas Degouy",
+        "TOT"
+    ],
+    "weight": 2.67,
+    "rating": 6.79,
+    "play_time": "45 - 60",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "19",
+    "categories": [
+        "Collectible Components",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Card Drafting",
+        "Dice Rolling",
+        "Grid Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "164064",
+            "expansion_name": "Krosmaster: Arena - Adamai Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164064"
+        },
+        {
+            "expansion_id": "145538",
+            "expansion_name": "Krosmaster: Arena - Amalia Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145538"
+        },
+        {
+            "expansion_id": "145762",
+            "expansion_name": "Krosmaster: Arena - Argon Gass Exclusive Figure",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145762"
+        },
+        {
+            "expansion_id": "166926",
+            "expansion_name": "Krosmaster: Arena - Arthur Bine Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166926"
+        },
+        {
+            "expansion_id": "187356",
+            "expansion_name": "Krosmaster: Arena - Arty",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187356"
+        },
+        {
+            "expansion_id": "156864",
+            "expansion_name": "Krosmaster: Arena - Brotherhood of Tofu",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/156864"
+        },
+        {
+            "expansion_id": "190570",
+            "expansion_name": "Krosmaster: Arena - Cardboard Tube Samurai",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190570"
+        },
+        {
+            "expansion_id": "164062",
+            "expansion_name": "Krosmaster: Arena - Cleophee Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164062"
+        },
+        {
+            "expansion_id": "145763",
+            "expansion_name": "Krosmaster: Arena - Count Frigost exclusive figure",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145763"
+        },
+        {
+            "expansion_id": "170570",
+            "expansion_name": "Krosmaster: Arena - Dark Heroes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/170570"
+        },
+        {
+            "expansion_id": "181753",
+            "expansion_name": "Krosmaster: Arena - Dark Vlad Mount",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181753"
+        },
+        {
+            "expansion_id": "187355",
+            "expansion_name": "Krosmaster: Arena - Darkli Moon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187355"
+        },
+        {
+            "expansion_id": "246914",
+            "expansion_name": "Krosmaster: Arena - Emperor Jellix Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246914"
+        },
+        {
+            "expansion_id": "228113",
+            "expansion_name": "Krosmaster: Arena - Eternal Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228113"
+        },
+        {
+            "expansion_id": "142236",
+            "expansion_name": "Krosmaster: Arena - Evangelyne Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142236"
+        },
+        {
+            "expansion_id": "141998",
+            "expansion_name": "Krosmaster: Arena - Exp #1 - Fire & Ice",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/141998"
+        },
+        {
+            "expansion_id": "142055",
+            "expansion_name": "Krosmaster: Arena - Exp #2 - Remington Style",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142055"
+        },
+        {
+            "expansion_id": "142052",
+            "expansion_name": "Krosmaster: Arena - Exp #3 - Percimol Rules",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142052"
+        },
+        {
+            "expansion_id": "142060",
+            "expansion_name": "Krosmaster: Arena - Exp #4 - Earth & Wind",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142060"
+        },
+        {
+            "expansion_id": "142065",
+            "expansion_name": "Krosmaster: Arena - Exp #5 - Goultard Control",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142065"
+        },
+        {
+            "expansion_id": "142069",
+            "expansion_name": "Krosmaster: Arena - Exp #6 - Close Quarters",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142069"
+        },
+        {
+            "expansion_id": "142073",
+            "expansion_name": "Krosmaster: Arena - Exp #7 - Bad Boys",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142073"
+        },
+        {
+            "expansion_id": "142072",
+            "expansion_name": "Krosmaster: Arena - Exp #8 - Shak Attack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142072"
+        },
+        {
+            "expansion_id": "145040",
+            "expansion_name": "Krosmaster: Arena - Frigost",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145040"
+        },
+        {
+            "expansion_id": "301535",
+            "expansion_name": "Krosmaster: Arena - Gloomy Grove Classic Pack 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/301535"
+        },
+        {
+            "expansion_id": "301536",
+            "expansion_name": "Krosmaster: Arena - Gloomy Grove Classic Pack 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/301536"
+        },
+        {
+            "expansion_id": "301533",
+            "expansion_name": "Krosmaster: Arena - Gloomy Grove Elite Pack 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/301533"
+        },
+        {
+            "expansion_id": "301534",
+            "expansion_name": "Krosmaster: Arena - Gloomy Grove Elite Pack 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/301534"
+        },
+        {
+            "expansion_id": "187357",
+            "expansion_name": "Krosmaster: Arena - Goldenrod Terminatot",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187357"
+        },
+        {
+            "expansion_id": "145542",
+            "expansion_name": "Krosmaster: Arena - Goultard the Barbarian Exclusive Figure",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145542"
+        },
+        {
+            "expansion_id": "190569",
+            "expansion_name": "Krosmaster: Arena - Grampy: Shopkeeper",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190569"
+        },
+        {
+            "expansion_id": "190568",
+            "expansion_name": "Krosmaster: Arena - Grougaloragran: Old",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190568"
+        },
+        {
+            "expansion_id": "168701",
+            "expansion_name": "Krosmaster: Arena - Hypergames Warriors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168701"
+        },
+        {
+            "expansion_id": "154662",
+            "expansion_name": "Krosmaster: Arena - Joris Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154662"
+        },
+        {
+            "expansion_id": "190567",
+            "expansion_name": "Krosmaster: Arena - Joris: Master",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190567"
+        },
+        {
+            "expansion_id": "172562",
+            "expansion_name": "Krosmaster: Arena - Kerub's Bazaar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172562"
+        },
+        {
+            "expansion_id": "153046",
+            "expansion_name": "Krosmaster: Arena - Lou Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153046"
+        },
+        {
+            "expansion_id": "246918",
+            "expansion_name": "Krosmaster: Arena - Maskemane: Classic Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246918"
+        },
+        {
+            "expansion_id": "246919",
+            "expansion_name": "Krosmaster: Arena - Maskemane: Coward Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246919"
+        },
+        {
+            "expansion_id": "246916",
+            "expansion_name": "Krosmaster: Arena - Missiz Burnzz Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246916"
+        },
+        {
+            "expansion_id": "151544",
+            "expansion_name": "Krosmaster: Arena - Multiman",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151544"
+        },
+        {
+            "expansion_id": "190566",
+            "expansion_name": "Krosmaster: Arena - Nemesis Samurai",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190566"
+        },
+        {
+            "expansion_id": "145541",
+            "expansion_name": "Krosmaster: Arena - Nox Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145541"
+        },
+        {
+            "expansion_id": "154661",
+            "expansion_name": "Krosmaster: Arena - Old Kerubim Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154661"
+        },
+        {
+            "expansion_id": "145540",
+            "expansion_name": "Krosmaster: Arena - Percedal Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145540"
+        },
+        {
+            "expansion_id": "164063",
+            "expansion_name": "Krosmaster: Arena - Percedal Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164063"
+        },
+        {
+            "expansion_id": "164061",
+            "expansion_name": "Krosmaster: Arena - Phaeris Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164061"
+        },
+        {
+            "expansion_id": "181413",
+            "expansion_name": "Krosmaster: Arena - Piwate Island",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181413"
+        },
+        {
+            "expansion_id": "164066",
+            "expansion_name": "Krosmaster: Arena - Qilby Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164066"
+        },
+        {
+            "expansion_id": "145539",
+            "expansion_name": "Krosmaster: Arena - Ruel Stroud Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145539"
+        },
+        {
+            "expansion_id": "151711",
+            "expansion_name": "Krosmaster: Arena - Season 1 Alternate Terrain and Demonic Rewards Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151711"
+        },
+        {
+            "expansion_id": "166925",
+            "expansion_name": "Krosmaster: Arena - Season 2 Exp #1 - Riktus Assault",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166925"
+        },
+        {
+            "expansion_id": "166918",
+            "expansion_name": "Krosmaster: Arena - Season 2 Exp #2 - A Lucky Guy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166918"
+        },
+        {
+            "expansion_id": "166923",
+            "expansion_name": "Krosmaster: Arena - Season 2 Exp #3 - Head Hunters",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166923"
+        },
+        {
+            "expansion_id": "166919",
+            "expansion_name": "Krosmaster: Arena - Season 2 Exp #4 - Armored Botherhood",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166919"
+        },
+        {
+            "expansion_id": "166922",
+            "expansion_name": "Krosmaster: Arena - Season 2 Exp #5 - Dura Lex Duc Rex",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166922"
+        },
+        {
+            "expansion_id": "166921",
+            "expansion_name": "Krosmaster: Arena - Season 2 Exp #6 - Dragoon Power",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166921"
+        },
+        {
+            "expansion_id": "166920",
+            "expansion_name": "Krosmaster: Arena - Season 2 Exp #7 - Bam-Boom",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166920"
+        },
+        {
+            "expansion_id": "166924",
+            "expansion_name": "Krosmaster: Arena - Season 2 Exp #8 - Holy Missile",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166924"
+        },
+        {
+            "expansion_id": "184850",
+            "expansion_name": "Krosmaster: Arena - Season 3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/184850"
+        },
+        {
+            "expansion_id": "228111",
+            "expansion_name": "Krosmaster: Arena - Season 4: Cemetery Park",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228111"
+        },
+        {
+            "expansion_id": "154660",
+            "expansion_name": "Krosmaster: Arena - Terminatot Stasis Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154660"
+        },
+        {
+            "expansion_id": "154659",
+            "expansion_name": "Krosmaster: Arena - The Not Mines",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154659"
+        },
+        {
+            "expansion_id": "228114",
+            "expansion_name": "Krosmaster: Arena - Wakfu OVA Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228114"
+        },
+        {
+            "expansion_id": "154658",
+            "expansion_name": "Krosmaster: Arena - Wakfu Terminatot Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154658"
+        },
+        {
+            "expansion_id": "154664",
+            "expansion_name": "Krosmaster: Arena - Young Kerubim Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154664"
+        },
+        {
+            "expansion_id": "187354",
+            "expansion_name": "Krosmaster: Arena - Young Ogrest",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187354"
+        },
+        {
+            "expansion_id": "145465",
+            "expansion_name": "Krosmaster: Arena - Yugo Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145465"
+        },
+        {
+            "expansion_id": "187715",
+            "expansion_name": "Krosmaster: Arena - Yugo Unleashed",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187715"
+        },
+        {
+            "expansion_id": "164065",
+            "expansion_name": "Krosmaster: Arena - Yugo Young King Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164065"
+        },
+        {
+            "expansion_id": "257005",
+            "expansion_name": "Krosmaster: Brotherhood of the Forgotten",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257005"
+        },
+        {
+            "expansion_id": "243242",
+            "expansion_name": "Krosmaster: Wild Realms",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/243242"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Murat Celebi; Nicolas Degouy; TOT",
+    "categories_string": "Collectible Components; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Action Points; Card Drafting; Dice Rolling; Grid Movement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '164064', 'expansion_name': 'Krosmaster: Arena - Adamai Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164064'}; {'expansion_id': '145538', 'expansion_name': 'Krosmaster: Arena - Amalia Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145538'}; {'expansion_id': '145762', 'expansion_name': 'Krosmaster: Arena - Argon Gass Exclusive Figure', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145762'}; {'expansion_id': '166926', 'expansion_name': 'Krosmaster: Arena - Arthur Bine Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166926'}; {'expansion_id': '187356', 'expansion_name': 'Krosmaster: Arena - Arty', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187356'}; {'expansion_id': '156864', 'expansion_name': 'Krosmaster: Arena - Brotherhood of Tofu', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/156864'}; {'expansion_id': '190570', 'expansion_name': 'Krosmaster: Arena - Cardboard Tube Samurai', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190570'}; {'expansion_id': '164062', 'expansion_name': 'Krosmaster: Arena - Cleophee Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164062'}; {'expansion_id': '145763', 'expansion_name': 'Krosmaster: Arena - Count Frigost exclusive figure', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145763'}; {'expansion_id': '170570', 'expansion_name': 'Krosmaster: Arena - Dark Heroes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/170570'}; {'expansion_id': '181753', 'expansion_name': 'Krosmaster: Arena - Dark Vlad Mount', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181753'}; {'expansion_id': '187355', 'expansion_name': 'Krosmaster: Arena - Darkli Moon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187355'}; {'expansion_id': '246914', 'expansion_name': 'Krosmaster: Arena - Emperor Jellix Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246914'}; {'expansion_id': '228113', 'expansion_name': 'Krosmaster: Arena - Eternal Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228113'}; {'expansion_id': '142236', 'expansion_name': 'Krosmaster: Arena - Evangelyne Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142236'}; {'expansion_id': '141998', 'expansion_name': 'Krosmaster: Arena - Exp #1 - Fire & Ice', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/141998'}; {'expansion_id': '142055', 'expansion_name': 'Krosmaster: Arena - Exp #2 - Remington Style', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142055'}; {'expansion_id': '142052', 'expansion_name': 'Krosmaster: Arena - Exp #3 - Percimol Rules', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142052'}; {'expansion_id': '142060', 'expansion_name': 'Krosmaster: Arena - Exp #4 - Earth & Wind', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142060'}; {'expansion_id': '142065', 'expansion_name': 'Krosmaster: Arena - Exp #5 - Goultard Control', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142065'}; {'expansion_id': '142069', 'expansion_name': 'Krosmaster: Arena - Exp #6 - Close Quarters', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142069'}; {'expansion_id': '142073', 'expansion_name': 'Krosmaster: Arena - Exp #7 - Bad Boys', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142073'}; {'expansion_id': '142072', 'expansion_name': 'Krosmaster: Arena - Exp #8 - Shak Attack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142072'}; {'expansion_id': '145040', 'expansion_name': 'Krosmaster: Arena - Frigost', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145040'}; {'expansion_id': '301535', 'expansion_name': 'Krosmaster: Arena - Gloomy Grove Classic Pack 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/301535'}; {'expansion_id': '301536', 'expansion_name': 'Krosmaster: Arena - Gloomy Grove Classic Pack 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/301536'}; {'expansion_id': '301533', 'expansion_name': 'Krosmaster: Arena - Gloomy Grove Elite Pack 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/301533'}; {'expansion_id': '301534', 'expansion_name': 'Krosmaster: Arena - Gloomy Grove Elite Pack 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/301534'}; {'expansion_id': '187357', 'expansion_name': 'Krosmaster: Arena - Goldenrod Terminatot', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187357'}; {'expansion_id': '145542', 'expansion_name': 'Krosmaster: Arena - Goultard the Barbarian Exclusive Figure', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145542'}; {'expansion_id': '190569', 'expansion_name': 'Krosmaster: Arena - Grampy: Shopkeeper', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190569'}; {'expansion_id': '190568', 'expansion_name': 'Krosmaster: Arena - Grougaloragran: Old', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190568'}; {'expansion_id': '168701', 'expansion_name': 'Krosmaster: Arena - Hypergames Warriors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168701'}; {'expansion_id': '154662', 'expansion_name': 'Krosmaster: Arena - Joris Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154662'}; {'expansion_id': '190567', 'expansion_name': 'Krosmaster: Arena - Joris: Master', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190567'}; {'expansion_id': '172562', 'expansion_name': \"Krosmaster: Arena - Kerub's Bazaar\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172562'}; {'expansion_id': '153046', 'expansion_name': 'Krosmaster: Arena - Lou Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153046'}; {'expansion_id': '246918', 'expansion_name': 'Krosmaster: Arena - Maskemane: Classic Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246918'}; {'expansion_id': '246919', 'expansion_name': 'Krosmaster: Arena - Maskemane: Coward Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246919'}; {'expansion_id': '246916', 'expansion_name': 'Krosmaster: Arena - Missiz Burnzz Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246916'}; {'expansion_id': '151544', 'expansion_name': 'Krosmaster: Arena - Multiman', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151544'}; {'expansion_id': '190566', 'expansion_name': 'Krosmaster: Arena - Nemesis Samurai', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190566'}; {'expansion_id': '145541', 'expansion_name': 'Krosmaster: Arena - Nox Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145541'}; {'expansion_id': '154661', 'expansion_name': 'Krosmaster: Arena - Old Kerubim Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154661'}; {'expansion_id': '145540', 'expansion_name': 'Krosmaster: Arena - Percedal Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145540'}; {'expansion_id': '164063', 'expansion_name': 'Krosmaster: Arena - Percedal Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164063'}; {'expansion_id': '164061', 'expansion_name': 'Krosmaster: Arena - Phaeris Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164061'}; {'expansion_id': '181413', 'expansion_name': 'Krosmaster: Arena - Piwate Island', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181413'}; {'expansion_id': '164066', 'expansion_name': 'Krosmaster: Arena - Qilby Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164066'}; {'expansion_id': '145539', 'expansion_name': 'Krosmaster: Arena - Ruel Stroud Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145539'}; {'expansion_id': '151711', 'expansion_name': 'Krosmaster: Arena - Season 1 Alternate Terrain and Demonic Rewards Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151711'}; {'expansion_id': '166925', 'expansion_name': 'Krosmaster: Arena - Season 2 Exp #1 - Riktus Assault', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166925'}; {'expansion_id': '166918', 'expansion_name': 'Krosmaster: Arena - Season 2 Exp #2 - A Lucky Guy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166918'}; {'expansion_id': '166923', 'expansion_name': 'Krosmaster: Arena - Season 2 Exp #3 - Head Hunters', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166923'}; {'expansion_id': '166919', 'expansion_name': 'Krosmaster: Arena - Season 2 Exp #4 - Armored Botherhood', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166919'}; {'expansion_id': '166922', 'expansion_name': 'Krosmaster: Arena - Season 2 Exp #5 - Dura Lex Duc Rex', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166922'}; {'expansion_id': '166921', 'expansion_name': 'Krosmaster: Arena - Season 2 Exp #6 - Dragoon Power', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166921'}; {'expansion_id': '166920', 'expansion_name': 'Krosmaster: Arena - Season 2 Exp #7 - Bam-Boom', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166920'}; {'expansion_id': '166924', 'expansion_name': 'Krosmaster: Arena - Season 2 Exp #8 - Holy Missile', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166924'}; {'expansion_id': '184850', 'expansion_name': 'Krosmaster: Arena - Season 3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/184850'}; {'expansion_id': '228111', 'expansion_name': 'Krosmaster: Arena - Season 4: Cemetery Park', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228111'}; {'expansion_id': '154660', 'expansion_name': 'Krosmaster: Arena - Terminatot Stasis Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154660'}; {'expansion_id': '154659', 'expansion_name': 'Krosmaster: Arena - The Not Mines', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154659'}; {'expansion_id': '228114', 'expansion_name': 'Krosmaster: Arena - Wakfu OVA Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228114'}; {'expansion_id': '154658', 'expansion_name': 'Krosmaster: Arena - Wakfu Terminatot Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154658'}; {'expansion_id': '154664', 'expansion_name': 'Krosmaster: Arena - Young Kerubim Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154664'}; {'expansion_id': '187354', 'expansion_name': 'Krosmaster: Arena - Young Ogrest', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187354'}; {'expansion_id': '145465', 'expansion_name': 'Krosmaster: Arena - Yugo Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145465'}; {'expansion_id': '187715', 'expansion_name': 'Krosmaster: Arena - Yugo Unleashed', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187715'}; {'expansion_id': '164065', 'expansion_name': 'Krosmaster: Arena - Yugo Young King Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164065'}; {'expansion_id': '257005', 'expansion_name': 'Krosmaster: Brotherhood of the Forgotten', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257005'}; {'expansion_id': '243242', 'expansion_name': 'Krosmaster: Wild Realms', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/243242'}",
+    "expansions_for_string": ""
+}

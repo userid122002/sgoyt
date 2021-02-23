@@ -1,0 +1,145 @@
+{
+    "game_id": "226441",
+    "game_name": "Fields of Arle: Tea & Trade",
+    "bgg_link": "https://boardgamegeek.com/boardgame/226441",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5998810",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5998810#item5998810",
+            "geeklist_host": "radthanael",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6007301",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6007301#item6007301",
+            "geeklist_host": "busdjur",
+            "contributor": "Joakley815"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7631167",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7631167#item7631167",
+            "geeklist_host": "threepointthed",
+            "contributor": "jh_ytth"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7956081",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7956081#item7956081",
+            "geeklist_host": "Albia",
+            "contributor": "custom golf clubs"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7975823",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7975823#item7975823",
+            "geeklist_host": "Albia",
+            "contributor": "lostphd"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7987679",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7987679#item7987679",
+            "geeklist_host": "Albia",
+            "contributor": "Marctimmins89"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8010607",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8010607#item8010607",
+            "geeklist_host": "airzonk1",
+            "contributor": "lostphd"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8037926",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8037926#item8037926",
+            "geeklist_host": "airzonk1",
+            "contributor": "lostphd"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8073729",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8073729#item8073729",
+            "geeklist_host": "Swizze",
+            "contributor": "Arcturian"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8111048",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8111048#item8111048",
+            "geeklist_host": "Swizze",
+            "contributor": "lostphd"
+        }
+    ],
+    "sgoyt_count": 10,
+    "thumbnail": "https://cf.geekdo-images.com/BkW1yeftgIEOp1Nv6SaBWw__thumb/img/_RYXiEU9CaGwAe5MsJsiqooQvig=/fit-in/200x150/filters:strip_icc()/pic3789936.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Tido Lorenz",
+        "Uwe Rosenberg"
+    ],
+    "weight": 3.94,
+    "rating": 8.47,
+    "play_time": "60 - 150",
+    "best": "7",
+    "recommended": "9",
+    "not_recommended": "2",
+    "categories": [
+        "Economic",
+        "Farming",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Highest-Lowest Scoring",
+        "Income",
+        "Solo / Solitaire Game",
+        "Tile Placement",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "159675",
+            "game_name": "Fields of Arle",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/159675"
+        }
+    ],
+    "designers_string": "Tido Lorenz; Uwe Rosenberg",
+    "categories_string": "Economic; Farming; Industry / Manufacturing",
+    "mechanics_string": "Highest-Lowest Scoring; Income; Solo / Solitaire Game; Tile Placement; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '159675', 'game_name': 'Fields of Arle', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/159675'}"
+}

@@ -1,0 +1,58 @@
+{
+    "game_id": "181278",
+    "game_name": "Darkest Night: Mercenary Promo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/181278",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4159671",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4159671#item4159671",
+            "geeklist_host": "lukather",
+            "contributor": "repairmanjack"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/OeQit_5mSyAogcmSrrySIQ__thumb/img/35ZgalMuBjTO0oU_XxJ8VF_lavo=/fit-in/200x150/filters:strip_icc()/pic2601981.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Jeremy Lennert"
+    ],
+    "weight": 3.00,
+    "rating": 7.76,
+    "play_time": "150",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "7",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "128445",
+            "game_name": "Darkest Night",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/128445"
+        },
+        {
+            "game_id": "153703",
+            "game_name": "Darkest Night: Necromancer Bundle",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/153703"
+        }
+    ],
+    "designers_string": "Jeremy Lennert",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy; Horror",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '128445', 'game_name': 'Darkest Night', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/128445'}; {'game_id': '153703', 'game_name': 'Darkest Night: Necromancer Bundle', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/153703'}"
+}

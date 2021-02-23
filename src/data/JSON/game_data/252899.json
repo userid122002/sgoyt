@@ -1,0 +1,79 @@
+{
+    "game_id": "252899",
+    "game_name": "Arkham Horror: The Card Game - Guardians of the Abyss: Scenario Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/252899",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6609757",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6609757#item6609757",
+            "geeklist_host": "squarepegsys",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6786504",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6786504#item6786504",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "gar0u"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6802271",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6802271#item6802271",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "gar0u"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/sYEya9jwGlTNEYCc2kwDJw__thumb/img/lO4Epw2eyYSIOxG8E4ct7hqXRwQ=/fit-in/200x150/filters:strip_icc()/pic4278768.png",
+    "year_published": "2018",
+    "designers": [
+        "Matthew Newman"
+    ],
+    "weight": 3.80,
+    "rating": 8.19,
+    "play_time": "60 - 120",
+    "best": "3",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Collectible Components",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        }
+    ],
+    "designers_string": "Matthew Newman",
+    "categories_string": "Adventure; Card Game; Collectible Components; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Action Points; Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Role Playing; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}"
+}

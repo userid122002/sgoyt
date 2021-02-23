@@ -1,0 +1,64 @@
+{
+    "game_id": "94731",
+    "game_name": "Heroica: Fortaan",
+    "bgg_link": "https://boardgamegeek.com/boardgame/94731",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3605974",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3605974#item3605974",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "ad79"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/C_it6oojezxZ6rFe5z2MIA__thumb/img/AFAr3eZ8qaORP8gluzTjXsxbIIA=/fit-in/200x150/filters:strip_icc()/pic1087316.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Nicolas Assenbrunner",
+        "Cephas Howard",
+        "Thomas Robert Van der Heiden"
+    ],
+    "weight": 1.42,
+    "rating": 5.97,
+    "play_time": "20",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "6",
+    "categories": [
+        "Adventure",
+        "Dice",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Modular Board",
+        "Roll / Spin and Move"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "185788",
+            "expansion_name": "Heroica: Character Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185788"
+        },
+        {
+            "expansion_id": "116733",
+            "expansion_name": "Heroica: Ganrash",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/116733"
+        },
+        {
+            "expansion_id": "103988",
+            "expansion_name": "Heroica: Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/103988"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Nicolas Assenbrunner; Cephas Howard; Thomas Robert Van der Heiden",
+    "categories_string": "Adventure; Dice; Fantasy",
+    "mechanics_string": "Dice Rolling; Modular Board; Roll / Spin and Move",
+    "expansions_string": "{'expansion_id': '185788', 'expansion_name': 'Heroica: Character Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185788'}; {'expansion_id': '116733', 'expansion_name': 'Heroica: Ganrash', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/116733'}; {'expansion_id': '103988', 'expansion_name': 'Heroica: Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/103988'}",
+    "expansions_for_string": ""
+}

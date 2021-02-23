@@ -1,0 +1,111 @@
+{
+    "game_id": "264055",
+    "game_name": "Draftosaurus",
+    "bgg_link": "https://boardgamegeek.com/boardgame/264055",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7430322",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7430322#item7430322",
+            "geeklist_host": "jomurph86",
+            "contributor": "DSteph"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7726244",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7726244#item7726244",
+            "geeklist_host": "Elida",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7729229",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7729229#item7729229",
+            "geeklist_host": "Elida",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7743408",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7743408#item7743408",
+            "geeklist_host": "Elida",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7807543",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7807543#item7807543",
+            "geeklist_host": "mithoron",
+            "contributor": "Elida"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/JahbLRZ_jEe8P8gisXUtJw__thumb/img/XGKi6qBOizS_IdLqOHny-rf0JZw=/fit-in/200x150/filters:strip_icc()/pic4447676.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Antoine Bauza",
+        "Corentin Lebrat",
+        "Ludovic Maublanc",
+        "Theo Riviere"
+    ],
+    "weight": 1.22,
+    "rating": 7.20,
+    "play_time": "15",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "35",
+    "categories": [
+        "Animals",
+        "Prehistoric"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Drafting",
+        "Set Collection",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "320778",
+            "expansion_name": "Draftosaurus: Aerial Show",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/320778"
+        },
+        {
+            "expansion_id": "318382",
+            "expansion_name": "Draftosaurus: Goodie Tile",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/318382"
+        },
+        {
+            "expansion_id": "320777",
+            "expansion_name": "Draftosaurus: Marina",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/320777"
+        },
+        {
+            "expansion_id": "324761",
+            "expansion_name": "Special Attractions (fan expansion for Draftosaurus)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324761"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Antoine Bauza; Corentin Lebrat; Ludovic Maublanc; Theo Riviere",
+    "categories_string": "Animals; Prehistoric",
+    "mechanics_string": "Card Drafting; Dice Rolling; Drafting; Set Collection; Simultaneous Action Selection",
+    "expansions_string": "{'expansion_id': '320778', 'expansion_name': 'Draftosaurus: Aerial Show', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/320778'}; {'expansion_id': '318382', 'expansion_name': 'Draftosaurus: Goodie Tile', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/318382'}; {'expansion_id': '320777', 'expansion_name': 'Draftosaurus: Marina', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/320777'}; {'expansion_id': '324761', 'expansion_name': 'Special Attractions (fan expansion for Draftosaurus)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324761'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,73 @@
+{
+    "game_id": "145056",
+    "game_name": "Darkest Night: With an Inner Light",
+    "bgg_link": "https://boardgamegeek.com/boardgame/145056",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2798499",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2798499#item2798499",
+            "geeklist_host": "pusherman42",
+            "contributor": "Elyklord"
+        },
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2801608",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2801608#item2801608",
+            "geeklist_host": "pusherman42",
+            "contributor": "Elyklord"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3405373",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3405373#item3405373",
+            "geeklist_host": "Malaiser",
+            "contributor": "theritzes"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/UCgnr4WgZubVU3etcNf7Bg__thumb/img/Syu_8w_8_8Ht55fthkAoV0BAkN4=/fit-in/200x150/filters:strip_icc()/pic1726255.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Jeremy Lennert"
+    ],
+    "weight": 2.67,
+    "rating": 7.64,
+    "play_time": "150",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "128445",
+            "game_name": "Darkest Night",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/128445"
+        }
+    ],
+    "designers_string": "Jeremy Lennert",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy; Horror",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '128445', 'game_name': 'Darkest Night', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/128445'}"
+}

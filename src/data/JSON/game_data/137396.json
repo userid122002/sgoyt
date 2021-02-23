@@ -1,0 +1,54 @@
+{
+    "game_id": "137396",
+    "game_name": "Kingdom Builder: Crossroads",
+    "bgg_link": "https://boardgamegeek.com/boardgame/137396",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7406858",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7406858#item7406858",
+            "geeklist_host": "jeffrhind",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/rqpI-ulKugcZDqstHEXBow__thumb/img/wgOlz14Kotu3Hqmh-EDxO41mYKM=/fit-in/200x150/filters:strip_icc()/pic1550248.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Donald X. Vaccarino"
+    ],
+    "weight": 2.36,
+    "rating": 7.59,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "8",
+    "categories": [
+        "Expansion for Base-game",
+        "Medieval",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Enclosure",
+        "Grid Movement",
+        "Modular Board",
+        "Network and Route Building"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "107529",
+            "game_name": "Kingdom Builder",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/107529"
+        }
+    ],
+    "designers_string": "Donald X. Vaccarino",
+    "categories_string": "Expansion for Base-game; Medieval; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Enclosure; Grid Movement; Modular Board; Network and Route Building",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '107529', 'game_name': 'Kingdom Builder', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/107529'}"
+}

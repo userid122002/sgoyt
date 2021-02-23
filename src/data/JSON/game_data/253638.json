@@ -1,0 +1,64 @@
+{
+    "game_id": "253638",
+    "game_name": "Heroes of Land, Air & Sea: Pestilence",
+    "bgg_link": "https://boardgamegeek.com/boardgame/253638",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6844634",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6844634#item6844634",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Zouave"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Kbf0aqFzpW0kCdeuo3CGKQ__thumb/img/Tag7cvH_84JO9yId38UbjJgoEVM=/fit-in/200x150/filters:strip_icc()/pic4143139.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Scott Almes"
+    ],
+    "weight": 3.75,
+    "rating": 8.19,
+    "play_time": "120 - 180",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Medieval",
+        "Miniatures",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Take That",
+        "Variable Player Powers",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "274790",
+            "expansion_name": "Heroes of Land, Air & Sea: Pestilence Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/274790"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "198830",
+            "game_name": "Heroes of Land, Air & Sea",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/198830"
+        }
+    ],
+    "designers_string": "Scott Almes",
+    "categories_string": "Expansion for Base-game; Exploration; Fantasy; Fighting; Medieval; Miniatures; Wargame",
+    "mechanics_string": "Action Points; Area Majority / Influence; Take That; Variable Player Powers; Worker Placement",
+    "expansions_string": "{'expansion_id': '274790', 'expansion_name': 'Heroes of Land, Air & Sea: Pestilence Booster Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/274790'}",
+    "expansions_for_string": "{'game_id': '198830', 'game_name': 'Heroes of Land, Air & Sea', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/198830'}"
+}

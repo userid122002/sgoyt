@@ -1,0 +1,105 @@
+{
+    "game_id": "143884",
+    "game_name": "Machi Koro",
+    "bgg_link": "https://boardgamegeek.com/boardgame/143884",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "171598",
+            "geeklist_item_id": "3190588",
+            "year_month": "2014/04",
+            "year": "2014",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/171598/item/3190588#item3190588",
+            "geeklist_host": "Malaiser",
+            "contributor": "mikolajl"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3608543",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3608543#item3608543",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "oldhoss"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/_lI2eUDHfesfe5SswJiFAg__thumb/img/tCTP0XMMmsAfNqzb0iYmp0b-YUc=/fit-in/200x150/filters:strip_icc()/pic4783831.png",
+    "year_published": "2012",
+    "designers": [
+        "Masao Suganuma"
+    ],
+    "weight": 1.53,
+    "rating": 6.63,
+    "play_time": "30",
+    "best": "1",
+    "recommended": "2",
+    "not_recommended": "175",
+    "categories": [
+        "City Building",
+        "Dice"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Random Production"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "308160",
+            "expansion_name": "Machi Karo: Plus",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/308160"
+        },
+        {
+            "expansion_id": "207143",
+            "expansion_name": "Machi Koro: Dice Tower Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207143"
+        },
+        {
+            "expansion_id": "171044",
+            "expansion_name": "Machi Koro: Fabrique de jouets du Pere Noel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/171044"
+        },
+        {
+            "expansion_id": "158624",
+            "expansion_name": "Machi Koro: Gaming Mega Store",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158624"
+        },
+        {
+            "expansion_id": "181336",
+            "expansion_name": "Machi Koro: Grostadt-Erweiterung",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181336"
+        },
+        {
+            "expansion_id": "143789",
+            "expansion_name": "Machi Koro: Harbor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143789"
+        },
+        {
+            "expansion_id": "160154",
+            "expansion_name": "Machi Koro: Millionaire's Row",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160154"
+        },
+        {
+            "expansion_id": "280191",
+            "expansion_name": "Machi Koro: The Harbor & Millionaire's Row Expansions",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/280191"
+        },
+        {
+            "expansion_id": "185279",
+            "expansion_name": "Minivilles: 5-6 Extension",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185279"
+        },
+        {
+            "expansion_id": "186885",
+            "expansion_name": "Stadt Land Spielt Limitierte Sonderdrucke 2015",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186885"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Masao Suganuma",
+    "categories_string": "City Building; Dice",
+    "mechanics_string": "Dice Rolling; Random Production",
+    "expansions_string": "{'expansion_id': '308160', 'expansion_name': 'Machi Karo: Plus', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/308160'}; {'expansion_id': '207143', 'expansion_name': 'Machi Koro: Dice Tower Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207143'}; {'expansion_id': '171044', 'expansion_name': 'Machi Koro: Fabrique de jouets du Pere Noel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/171044'}; {'expansion_id': '158624', 'expansion_name': 'Machi Koro: Gaming Mega Store', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158624'}; {'expansion_id': '181336', 'expansion_name': 'Machi Koro: Grostadt-Erweiterung', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181336'}; {'expansion_id': '143789', 'expansion_name': 'Machi Koro: Harbor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143789'}; {'expansion_id': '160154', 'expansion_name': \"Machi Koro: Millionaire's Row\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160154'}; {'expansion_id': '280191', 'expansion_name': \"Machi Koro: The Harbor & Millionaire's Row Expansions\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/280191'}; {'expansion_id': '185279', 'expansion_name': 'Minivilles: 5-6 Extension', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185279'}; {'expansion_id': '186885', 'expansion_name': 'Stadt Land Spielt Limitierte Sonderdrucke 2015', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186885'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,63 @@
+{
+    "game_id": "1442",
+    "game_name": "Victory in the Pacific",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1442",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6123369",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6123369#item6123369",
+            "geeklist_host": "Pjandy",
+            "contributor": "catosulla"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/_QJdkcAaSOi_ir5zF-_U1g__thumb/img/R1b-n3W70HGFX22-4ZWGJeDX4dk=/fit-in/200x150/filters:strip_icc()/pic188896.jpg",
+    "year_published": "1977",
+    "designers": [
+        "Richard Hamblen"
+    ],
+    "weight": 2.37,
+    "rating": 7.21,
+    "play_time": "300",
+    "best": "0",
+    "recommended": "9",
+    "not_recommended": "6",
+    "categories": [
+        "Nautical",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Dice Rolling",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "219285",
+            "expansion_name": "Hell in the Pacific: Plan Orange 1931 and 1935",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219285"
+        },
+        {
+            "expansion_id": "38951",
+            "expansion_name": "Victory at Sea",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38951"
+        },
+        {
+            "expansion_id": "85870",
+            "expansion_name": "VITP variant: Story of the Eight-Eight fleet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/85870"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Richard Hamblen",
+    "categories_string": "Nautical; Wargame; World War II",
+    "mechanics_string": "Area Majority / Influence; Area Movement; Dice Rolling; Simulation",
+    "expansions_string": "{'expansion_id': '219285', 'expansion_name': 'Hell in the Pacific: Plan Orange 1931 and 1935', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219285'}; {'expansion_id': '38951', 'expansion_name': 'Victory at Sea', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38951'}; {'expansion_id': '85870', 'expansion_name': 'VITP variant: Story of the Eight-Eight fleet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/85870'}",
+    "expansions_for_string": ""
+}

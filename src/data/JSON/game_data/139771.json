@@ -1,0 +1,1232 @@
+{
+    "game_id": "139771",
+    "game_name": "Star Trek: Attack Wing",
+    "bgg_link": "https://boardgamegeek.com/boardgame/139771",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3250684",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3250684#item3250684",
+            "geeklist_host": "fractaloon",
+            "contributor": "Conphas"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3474898",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3474898#item3474898",
+            "geeklist_host": "joestin",
+            "contributor": "Conphas"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3488959",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3488959#item3488959",
+            "geeklist_host": "joestin",
+            "contributor": "Arrakhan"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5155665",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5155665#item5155665",
+            "geeklist_host": "settlerdave",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5378006",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5378006#item5378006",
+            "geeklist_host": "maloma",
+            "contributor": "carbon_dragon"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/HG8b7l5Eiwkh68SoS7DzDQ__thumb/img/GGxrseB5XiydFI2IKak_tS4hXhg=/fit-in/200x150/filters:strip_icc()/pic1731799.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Christopher Guild",
+        "Andrew Parks"
+    ],
+    "weight": 2.70,
+    "rating": 7.51,
+    "play_time": "60",
+    "best": "2",
+    "recommended": "8",
+    "not_recommended": "31",
+    "categories": [
+        "Aviation / Flight",
+        "Collectible Components",
+        "Miniatures",
+        "Movies / TV / Radio theme",
+        "Science Fiction",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Dice Rolling",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "165108",
+            "expansion_name": "Star Trek: Attack Wing - 1st Wave Attack Fighters Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165108"
+        },
+        {
+            "expansion_id": "184001",
+            "expansion_name": "Star Trek: Attack Wing - 2015-2016 Organized Play Reinforcement Booster Brick",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/184001"
+        },
+        {
+            "expansion_id": "159490",
+            "expansion_name": "Star Trek: Attack Wing - 2nd Division Cruiser Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159490"
+        },
+        {
+            "expansion_id": "161875",
+            "expansion_name": "Star Trek: Attack Wing - 3rd Wing Attack Ship: Collective Blind Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161875"
+        },
+        {
+            "expansion_id": "149972",
+            "expansion_name": "Star Trek: Attack Wing - 4th Division Battleship Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149972"
+        },
+        {
+            "expansion_id": "246393",
+            "expansion_name": "Star Trek: Attack Wing - 4th Wing Patrol Ship Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246393"
+        },
+        {
+            "expansion_id": "147602",
+            "expansion_name": "Star Trek: Attack Wing - 5th Wing Patrol Ship Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147602"
+        },
+        {
+            "expansion_id": "166040",
+            "expansion_name": "Star Trek: Attack Wing - Advanced Targeting Systems Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166040"
+        },
+        {
+            "expansion_id": "183389",
+            "expansion_name": "Star Trek: Attack Wing - Advanced Technology Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183389"
+        },
+        {
+            "expansion_id": "154256",
+            "expansion_name": "Star Trek: Attack Wing - Akorem Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154256"
+        },
+        {
+            "expansion_id": "207938",
+            "expansion_name": "Star Trek: Attack Wing - All Stop Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207938"
+        },
+        {
+            "expansion_id": "165110",
+            "expansion_name": "Star Trek: Attack Wing - Alpha Hunter Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165110"
+        },
+        {
+            "expansion_id": "282854",
+            "expansion_name": "Star Trek: Attack Wing - Animated Series Faction Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/282854"
+        },
+        {
+            "expansion_id": "166044",
+            "expansion_name": "Star Trek: Attack Wing - Assimilated Vessel 64758 Dominion/Borg Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166044"
+        },
+        {
+            "expansion_id": "182308",
+            "expansion_name": "Star Trek: Attack Wing - Assimilated Vessel 77139 Expansion Pack (cancelled)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182308"
+        },
+        {
+            "expansion_id": "166043",
+            "expansion_name": "Star Trek: Attack Wing - Assimilated Vessel 80279 Klingon/Borg Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166043"
+        },
+        {
+            "expansion_id": "164387",
+            "expansion_name": "Star Trek: Attack Wing - Assimilation Target Prime Mirror Universe Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164387"
+        },
+        {
+            "expansion_id": "207936",
+            "expansion_name": "Star Trek: Attack Wing - Auxiliary Power Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207936"
+        },
+        {
+            "expansion_id": "179768",
+            "expansion_name": "Star Trek: Attack Wing - Azati Prime Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179768"
+        },
+        {
+            "expansion_id": "150502",
+            "expansion_name": "Star Trek: Attack Wing - Bioship Alpha Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/150502"
+        },
+        {
+            "expansion_id": "173312",
+            "expansion_name": "Star Trek: Attack Wing - Bioship Beta Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173312"
+        },
+        {
+            "expansion_id": "191951",
+            "expansion_name": "Star Trek: Attack Wing - Borg Cube With Sphere Port Premium Figure",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/191951"
+        },
+        {
+            "expansion_id": "282855",
+            "expansion_name": "Star Trek: Attack Wing - Borg Faction Pack: Resistance is Futile",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/282855"
+        },
+        {
+            "expansion_id": "150501",
+            "expansion_name": "Star Trek: Attack Wing - Borg Sphere 4270 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/150501"
+        },
+        {
+            "expansion_id": "207038",
+            "expansion_name": "Star Trek: Attack Wing - Calindra Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207038"
+        },
+        {
+            "expansion_id": "240144",
+            "expansion_name": "Star Trek: Attack Wing - Captain's Chair Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240144"
+        },
+        {
+            "expansion_id": "165103",
+            "expansion_name": "Star Trek: Attack Wing - Chang's Bird-of-Prey Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165103"
+        },
+        {
+            "expansion_id": "159487",
+            "expansion_name": "Star Trek: Attack Wing - Chief Engineer Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159487"
+        },
+        {
+            "expansion_id": "225420",
+            "expansion_name": "Star Trek: Attack Wing - Co-Pilot Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/225420"
+        },
+        {
+            "expansion_id": "149632",
+            "expansion_name": "Star Trek: Attack Wing - Command Tokens Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149632"
+        },
+        {
+            "expansion_id": "203868",
+            "expansion_name": "Star Trek: Attack Wing - Condition Alert Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/203868"
+        },
+        {
+            "expansion_id": "162368",
+            "expansion_name": "Star Trek: Attack Wing - Counter Attack Die Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162368"
+        },
+        {
+            "expansion_id": "168890",
+            "expansion_name": "Star Trek: Attack Wing - Cube 112 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168890"
+        },
+        {
+            "expansion_id": "152860",
+            "expansion_name": "Star Trek: Attack Wing - D'Kyr Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152860"
+        },
+        {
+            "expansion_id": "175898",
+            "expansion_name": "Star Trek: Attack Wing - Damage Control Teams Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175898"
+        },
+        {
+            "expansion_id": "244209",
+            "expansion_name": "Star Trek: Attack Wing - Data",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244209"
+        },
+        {
+            "expansion_id": "149422",
+            "expansion_name": "Star Trek: Attack Wing - Deep Space 9 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149422"
+        },
+        {
+            "expansion_id": "168891",
+            "expansion_name": "Star Trek: Attack Wing - Deep Space Nine Expansion Pack (Retail Variant)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168891"
+        },
+        {
+            "expansion_id": "178315",
+            "expansion_name": "Star Trek: Attack Wing - Denorios Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178315"
+        },
+        {
+            "expansion_id": "179770",
+            "expansion_name": "Star Trek: Attack Wing - Diaspora Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179770"
+        },
+        {
+            "expansion_id": "240140",
+            "expansion_name": "Star Trek: Attack Wing - Dominion Faction Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240140"
+        },
+        {
+            "expansion_id": "233493",
+            "expansion_name": "Star Trek: Attack Wing - Dreadnought Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233493"
+        },
+        {
+            "expansion_id": "178316",
+            "expansion_name": "Star Trek: Attack Wing - Dreadnought Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178316"
+        },
+        {
+            "expansion_id": "164071",
+            "expansion_name": "Star Trek: Attack Wing - DS9 Upgrade Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164071"
+        },
+        {
+            "expansion_id": "149624",
+            "expansion_name": "Star Trek: Attack Wing - Elite Attack Die Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149624"
+        },
+        {
+            "expansion_id": "244214",
+            "expansion_name": "Star Trek: Attack Wing - Elizabeth Shelby",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244214"
+        },
+        {
+            "expansion_id": "179772",
+            "expansion_name": "Star Trek: Attack Wing - Emergency Force Field Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179772"
+        },
+        {
+            "expansion_id": "194800",
+            "expansion_name": "Star Trek: Attack Wing - Emergency Power Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194800"
+        },
+        {
+            "expansion_id": "197482",
+            "expansion_name": "Star Trek: Attack Wing - Encounter at Farpoint Q Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197482"
+        },
+        {
+            "expansion_id": "160884",
+            "expansion_name": "Star Trek: Attack Wing - Enterprise NX-01 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160884"
+        },
+        {
+            "expansion_id": "175896",
+            "expansion_name": "Star Trek: Attack Wing - Evasive Action Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175896"
+        },
+        {
+            "expansion_id": "154258",
+            "expansion_name": "Star Trek: Attack Wing - Federation Attack Fighters Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154258"
+        },
+        {
+            "expansion_id": "244207",
+            "expansion_name": "Star Trek: Attack Wing - Ferengi Faction Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244207"
+        },
+        {
+            "expansion_id": "165953",
+            "expansion_name": "Star Trek: Attack Wing - Ferengi: Bok's Marauder - Resistance is Futile Blind Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165953"
+        },
+        {
+            "expansion_id": "165111",
+            "expansion_name": "Star Trek: Attack Wing - Fighter Squadron 6 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165111"
+        },
+        {
+            "expansion_id": "262779",
+            "expansion_name": "Star Trek: Attack Wing - Fighter Squadrons 1 & 3 Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/262779"
+        },
+        {
+            "expansion_id": "165106",
+            "expansion_name": "Star Trek: Attack Wing - Fina Prime Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165106"
+        },
+        {
+            "expansion_id": "153579",
+            "expansion_name": "Star Trek: Attack Wing - Flagship Cards Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153579"
+        },
+        {
+            "expansion_id": "163494",
+            "expansion_name": "Star Trek: Attack Wing - Fleet Captains Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163494"
+        },
+        {
+            "expansion_id": "207933",
+            "expansion_name": "Star Trek: Attack Wing - Fleet Commander Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207933"
+        },
+        {
+            "expansion_id": "240145",
+            "expansion_name": "Star Trek: Attack Wing - Frontline Retrofit Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240145"
+        },
+        {
+            "expansion_id": "159486",
+            "expansion_name": "Star Trek: Attack Wing - Full Alert",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159486"
+        },
+        {
+            "expansion_id": "161876",
+            "expansion_name": "Star Trek: Attack Wing - Gavroche Independent Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161876"
+        },
+        {
+            "expansion_id": "194799",
+            "expansion_name": "Star Trek: Attack Wing - General Orders Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194799"
+        },
+        {
+            "expansion_id": "143725",
+            "expansion_name": "Star Trek: Attack Wing - Gor Portas Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143725"
+        },
+        {
+            "expansion_id": "165119",
+            "expansion_name": "Star Trek: Attack Wing - Gornarus Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165119"
+        },
+        {
+            "expansion_id": "243145",
+            "expansion_name": "Star Trek: Attack Wing - Goss' Marauder Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/243145"
+        },
+        {
+            "expansion_id": "246395",
+            "expansion_name": "Star Trek: Attack Wing - Gress'Sril Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246395"
+        },
+        {
+            "expansion_id": "194806",
+            "expansion_name": "Star Trek: Attack Wing - H.M.S. Bounty Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194806"
+        },
+        {
+            "expansion_id": "176801",
+            "expansion_name": "Star Trek: Attack Wing - Halik Raider Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176801"
+        },
+        {
+            "expansion_id": "154257",
+            "expansion_name": "Star Trek: Attack Wing - Hideki Class Attack Fighters Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154257"
+        },
+        {
+            "expansion_id": "166041",
+            "expansion_name": "Star Trek: Attack Wing - High Yield Photon Torpedoes Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166041"
+        },
+        {
+            "expansion_id": "262778",
+            "expansion_name": "Star Trek: Attack Wing - Hirogen Hunting Vessel Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/262778"
+        },
+        {
+            "expansion_id": "182303",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Amar Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182303"
+        },
+        {
+            "expansion_id": "207932",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Bor'tas Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207932"
+        },
+        {
+            "expansion_id": "149388",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Ch'Tang Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149388"
+        },
+        {
+            "expansion_id": "197533",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Drovana Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197533"
+        },
+        {
+            "expansion_id": "143730",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Gr'oth Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143730"
+        },
+        {
+            "expansion_id": "207934",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Hegh'ta Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207934"
+        },
+        {
+            "expansion_id": "182306",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Klothos Expansion Pack (cancelled)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182306"
+        },
+        {
+            "expansion_id": "149031",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Koraga Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149031"
+        },
+        {
+            "expansion_id": "175888",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Korinar Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175888"
+        },
+        {
+            "expansion_id": "147605",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Kronos One Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147605"
+        },
+        {
+            "expansion_id": "143732",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Negh'Var Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143732"
+        },
+        {
+            "expansion_id": "165126",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Ning'Tao Klingon Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165126"
+        },
+        {
+            "expansion_id": "170204",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Pagh Klingon Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/170204"
+        },
+        {
+            "expansion_id": "176583",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Rotarran Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176583"
+        },
+        {
+            "expansion_id": "149967",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Somraw Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149967"
+        },
+        {
+            "expansion_id": "173315",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. T'Ong Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173315"
+        },
+        {
+            "expansion_id": "206326",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Toh'Kaht Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206326"
+        },
+        {
+            "expansion_id": "207937",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Toral Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207937"
+        },
+        {
+            "expansion_id": "233491",
+            "expansion_name": "Star Trek: Attack Wing - I.K.S. Ves Batlh Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233491"
+        },
+        {
+            "expansion_id": "197534",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Algeron Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197534"
+        },
+        {
+            "expansion_id": "166038",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Avatar of Tomed Romulan/Borg Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166038"
+        },
+        {
+            "expansion_id": "182307",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Devoras Expansion Pack (cancelled)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182307"
+        },
+        {
+            "expansion_id": "149968",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Gal Gath'thong Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149968"
+        },
+        {
+            "expansion_id": "165114",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Haakona Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165114"
+        },
+        {
+            "expansion_id": "182304",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Jazkal Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182304"
+        },
+        {
+            "expansion_id": "147612",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Praetus Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147612"
+        },
+        {
+            "expansion_id": "194803",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Rateg: OP Prize",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194803"
+        },
+        {
+            "expansion_id": "183445",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. T'Met",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183445"
+        },
+        {
+            "expansion_id": "175889",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Terix Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175889"
+        },
+        {
+            "expansion_id": "143733",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Valdore Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143733"
+        },
+        {
+            "expansion_id": "161874",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Vorta Vor: Collective OP Blind Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161874"
+        },
+        {
+            "expansion_id": "173316",
+            "expansion_name": "Star Trek: Attack Wing - I.R.W. Vrax Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173316"
+        },
+        {
+            "expansion_id": "165116",
+            "expansion_name": "Star Trek: Attack Wing - I.S.S. Avenger Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165116"
+        },
+        {
+            "expansion_id": "165102",
+            "expansion_name": "Star Trek: Attack Wing - I.S.S. Defiant Mirror Universe Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165102"
+        },
+        {
+            "expansion_id": "176250",
+            "expansion_name": "Star Trek: Attack Wing - I.S.S. Enterprise Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176250"
+        },
+        {
+            "expansion_id": "194801",
+            "expansion_name": "Star Trek: Attack Wing - Improved Hull Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194801"
+        },
+        {
+            "expansion_id": "166039",
+            "expansion_name": "Star Trek: Attack Wing - Improved Shields Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166039"
+        },
+        {
+            "expansion_id": "262776",
+            "expansion_name": "Star Trek: Attack Wing - Independents Faction Pack: A Motley Fleet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/262776"
+        },
+        {
+            "expansion_id": "203211",
+            "expansion_name": "Star Trek: Attack Wing - Intercepted Messages Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/203211"
+        },
+        {
+            "expansion_id": "152857",
+            "expansion_name": "Star Trek: Attack Wing - Interceptor 5 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152857"
+        },
+        {
+            "expansion_id": "260608",
+            "expansion_name": "Star Trek: Attack Wing - Kal-If-Fee",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260608"
+        },
+        {
+            "expansion_id": "143672",
+            "expansion_name": "Star Trek: Attack Wing - Khan Singh",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143672"
+        },
+        {
+            "expansion_id": "161873",
+            "expansion_name": "Star Trek: Attack Wing - Klingon: I.K.S. B'Moth - Collective OP Blind Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161873"
+        },
+        {
+            "expansion_id": "197313",
+            "expansion_name": "Star Trek: Attack Wing - Kohlar's Battle Cruiser",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197313"
+        },
+        {
+            "expansion_id": "149034",
+            "expansion_name": "Star Trek: Attack Wing - Koranak Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149034"
+        },
+        {
+            "expansion_id": "143731",
+            "expansion_name": "Star Trek: Attack Wing - Kraxon Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143731"
+        },
+        {
+            "expansion_id": "149240",
+            "expansion_name": "Star Trek: Attack Wing - Krayton Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149240"
+        },
+        {
+            "expansion_id": "165134",
+            "expansion_name": "Star Trek: Attack Wing - Kreechta Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165134"
+        },
+        {
+            "expansion_id": "194805",
+            "expansion_name": "Star Trek: Attack Wing - Kruge's Bird-of-Prey Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194805"
+        },
+        {
+            "expansion_id": "178762",
+            "expansion_name": "Star Trek: Attack Wing - Kumari Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178762"
+        },
+        {
+            "expansion_id": "165124",
+            "expansion_name": "Star Trek: Attack Wing - Kyana Prime Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165124"
+        },
+        {
+            "expansion_id": "243147",
+            "expansion_name": "Star Trek: Attack Wing - Long-Range Probe Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/243147"
+        },
+        {
+            "expansion_id": "183390",
+            "expansion_name": "Star Trek: Attack Wing - Main Power Grid Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183390"
+        },
+        {
+            "expansion_id": "170207",
+            "expansion_name": "Star Trek: Attack Wing - Master Strategist Token Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/170207"
+        },
+        {
+            "expansion_id": "262775",
+            "expansion_name": "Star Trek: Attack Wing - Mirror Universe Faction Pack: The Kelvin Timeline",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/262775"
+        },
+        {
+            "expansion_id": "207559",
+            "expansion_name": "Star Trek: Attack Wing - Muratas Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207559"
+        },
+        {
+            "expansion_id": "222216",
+            "expansion_name": "Star Trek: Attack Wing - Mutiny Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222216"
+        },
+        {
+            "expansion_id": "244210",
+            "expansion_name": "Star Trek: Attack Wing - Nanclus",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244210"
+        },
+        {
+            "expansion_id": "160883",
+            "expansion_name": "Star Trek: Attack Wing - Ni'Var Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160883"
+        },
+        {
+            "expansion_id": "150503",
+            "expansion_name": "Star Trek: Attack Wing - Nistrim Raider Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/150503"
+        },
+        {
+            "expansion_id": "233049",
+            "expansion_name": "Star Trek: Attack Wing - Oberth Class Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233049"
+        },
+        {
+            "expansion_id": "164464",
+            "expansion_name": "Star Trek: Attack Wing - Officer Cards Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164464"
+        },
+        {
+            "expansion_id": "170206",
+            "expansion_name": "Star Trek: Attack Wing - Officer Exchange Program Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/170206"
+        },
+        {
+            "expansion_id": "165112",
+            "expansion_name": "Star Trek: Attack Wing - Ogla-Razik Kazon Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165112"
+        },
+        {
+            "expansion_id": "207037",
+            "expansion_name": "Star Trek: Attack Wing - Orassin Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207037"
+        },
+        {
+            "expansion_id": "149973",
+            "expansion_name": "Star Trek: Attack Wing - P.W.B. Aj'rmr Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149973"
+        },
+        {
+            "expansion_id": "244211",
+            "expansion_name": "Star Trek: Attack Wing - Photonic Cannon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244211"
+        },
+        {
+            "expansion_id": "165956",
+            "expansion_name": "Star Trek: Attack Wing - Prakesh Mirror Universe Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165956"
+        },
+        {
+            "expansion_id": "183388",
+            "expansion_name": "Star Trek: Attack Wing - Protocol Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183388"
+        },
+        {
+            "expansion_id": "165109",
+            "expansion_name": "Star Trek: Attack Wing - Prototype 01 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165109"
+        },
+        {
+            "expansion_id": "179915",
+            "expansion_name": "Star Trek: Attack Wing - Q Continuum Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179915"
+        },
+        {
+            "expansion_id": "173313",
+            "expansion_name": "Star Trek: Attack Wing - Quark's Treasure Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173313"
+        },
+        {
+            "expansion_id": "243146",
+            "expansion_name": "Star Trek: Attack Wing - Queen Vessel Prime Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/243146"
+        },
+        {
+            "expansion_id": "158273",
+            "expansion_name": "Star Trek: Attack Wing - Queen Vessel Prime Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158273"
+        },
+        {
+            "expansion_id": "143716",
+            "expansion_name": "Star Trek: Attack Wing - R.I.S. Apnex Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143716"
+        },
+        {
+            "expansion_id": "178761",
+            "expansion_name": "Star Trek: Attack Wing - R.I.S. Pi Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178761"
+        },
+        {
+            "expansion_id": "176584",
+            "expansion_name": "Star Trek: Attack Wing - R.I.S. Talvath Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176584"
+        },
+        {
+            "expansion_id": "149033",
+            "expansion_name": "Star Trek: Attack Wing - R.I.S. Vo Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149033"
+        },
+        {
+            "expansion_id": "165129",
+            "expansion_name": "Star Trek: Attack Wing - Ratosha Bajoran Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165129"
+        },
+        {
+            "expansion_id": "154255",
+            "expansion_name": "Star Trek: Attack Wing - Rav Laerst Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154255"
+        },
+        {
+            "expansion_id": "175899",
+            "expansion_name": "Star Trek: Attack Wing - Ready Room Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175899"
+        },
+        {
+            "expansion_id": "159485",
+            "expansion_name": "Star Trek: Attack Wing - Red Alert",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159485"
+        },
+        {
+            "expansion_id": "150088",
+            "expansion_name": "Star Trek: Attack Wing - Redshirt",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/150088"
+        },
+        {
+            "expansion_id": "165107",
+            "expansion_name": "Star Trek: Attack Wing - Regent's Flagship Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165107"
+        },
+        {
+            "expansion_id": "153576",
+            "expansion_name": "Star Trek: Attack Wing - Reinforcements Sideboard Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153576"
+        },
+        {
+            "expansion_id": "165121",
+            "expansion_name": "Star Trek: Attack Wing - Reklar Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165121"
+        },
+        {
+            "expansion_id": "165955",
+            "expansion_name": "Star Trek: Attack Wing - Relora-Sankur Kazon Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165955"
+        },
+        {
+            "expansion_id": "178314",
+            "expansion_name": "Star Trek: Attack Wing - Robinson Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178314"
+        },
+        {
+            "expansion_id": "233492",
+            "expansion_name": "Star Trek: Attack Wing - Romulan Drone Ship Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233492"
+        },
+        {
+            "expansion_id": "240141",
+            "expansion_name": "Star Trek: Attack Wing - Romulan Faction Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240141"
+        },
+        {
+            "expansion_id": "244213",
+            "expansion_name": "Star Trek: Attack Wing - Romulan Pilot",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244213"
+        },
+        {
+            "expansion_id": "160880",
+            "expansion_name": "Star Trek: Attack Wing - S'Gorn Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160880"
+        },
+        {
+            "expansion_id": "181666",
+            "expansion_name": "Star Trek: Attack Wing - Sabotage Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181666"
+        },
+        {
+            "expansion_id": "244215",
+            "expansion_name": "Star Trek: Attack Wing - Sabotaged Systems",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244215"
+        },
+        {
+            "expansion_id": "170205",
+            "expansion_name": "Star Trek: Attack Wing - Sakharov Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/170205"
+        },
+        {
+            "expansion_id": "207035",
+            "expansion_name": "Star Trek: Attack Wing - Scan Cycle Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207035"
+        },
+        {
+            "expansion_id": "165104",
+            "expansion_name": "Star Trek: Attack Wing - Scimitar Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165104"
+        },
+        {
+            "expansion_id": "176802",
+            "expansion_name": "Star Trek: Attack Wing - Scorpion 4 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176802"
+        },
+        {
+            "expansion_id": "165957",
+            "expansion_name": "Star Trek: Attack Wing - Scout 255 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165957"
+        },
+        {
+            "expansion_id": "160885",
+            "expansion_name": "Star Trek: Attack Wing - Scout 608 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160885"
+        },
+        {
+            "expansion_id": "207939",
+            "expansion_name": "Star Trek: Attack Wing - Sela's Warbird Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207939"
+        },
+        {
+            "expansion_id": "219229",
+            "expansion_name": "Star Trek: Attack Wing - Senior Staff Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219229"
+        },
+        {
+            "expansion_id": "260603",
+            "expansion_name": "Star Trek: Attack Wing - Sickbay Ressource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260603"
+        },
+        {
+            "expansion_id": "159484",
+            "expansion_name": "Star Trek: Attack Wing - Skilled Helmsman Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159484"
+        },
+        {
+            "expansion_id": "159488",
+            "expansion_name": "Star Trek: Attack Wing - Soong Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159488"
+        },
+        {
+            "expansion_id": "194798",
+            "expansion_name": "Star Trek: Attack Wing - Structural Damage Check Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194798"
+        },
+        {
+            "expansion_id": "166045",
+            "expansion_name": "Star Trek: Attack Wing - Tactical Cube 001 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166045"
+        },
+        {
+            "expansion_id": "152856",
+            "expansion_name": "Star Trek: Attack Wing - Tactical Cube 138 Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152856"
+        },
+        {
+            "expansion_id": "194797",
+            "expansion_name": "Star Trek: Attack Wing - Tactics Resource",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194797"
+        },
+        {
+            "expansion_id": "165954",
+            "expansion_name": "Star Trek: Attack Wing - Tal'Kir Vulcan Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165954"
+        },
+        {
+            "expansion_id": "183392",
+            "expansion_name": "Star Trek: Attack Wing - Temporal Cold War Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183392"
+        },
+        {
+            "expansion_id": "162250",
+            "expansion_name": "Star Trek: Attack Wing - The Collective Month 1 Organized Play Borg Cube and tokens",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162250"
+        },
+        {
+            "expansion_id": "163497",
+            "expansion_name": "Star Trek: Attack Wing - The Collective Month 2 Organized Play Borg Cube and tokens",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163497"
+        },
+        {
+            "expansion_id": "165958",
+            "expansion_name": "Star Trek: Attack Wing - The Collective Month 3 Organized Play Borg Cube and tokens",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165958"
+        },
+        {
+            "expansion_id": "159483",
+            "expansion_name": "Star Trek: Attack Wing - Tholia One Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159483"
+        },
+        {
+            "expansion_id": "165113",
+            "expansion_name": "Star Trek: Attack Wing - Tholia One Expansion Pack (Retail)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165113"
+        },
+        {
+            "expansion_id": "161778",
+            "expansion_name": "Star Trek: Attack Wing - Tholian Web Organized Play tokens",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161778"
+        },
+        {
+            "expansion_id": "163495",
+            "expansion_name": "Star Trek: Attack Wing - Ti'Mur Vulcan Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163495"
+        },
+        {
+            "expansion_id": "179767",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Bellerophon Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179767"
+        },
+        {
+            "expansion_id": "194802",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Cairo Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194802"
+        },
+        {
+            "expansion_id": "183446",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Constellation Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183446"
+        },
+        {
+            "expansion_id": "165132",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Dauntless Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165132"
+        },
+        {
+            "expansion_id": "147600",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Defiant Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147600"
+        },
+        {
+            "expansion_id": "215501",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Defiant NCC-1764",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/215501"
+        },
+        {
+            "expansion_id": "176582",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Delta Flyer Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176582"
+        },
+        {
+            "expansion_id": "215502",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Delta Flyer II",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/215502"
+        },
+        {
+            "expansion_id": "159489",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Enterprise (Refit) Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159489"
+        },
+        {
+            "expansion_id": "143718",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Enterprise Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143718"
+        },
+        {
+            "expansion_id": "194807",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Enterprise-A Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194807"
+        },
+        {
+            "expansion_id": "207034",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Enterprise-B Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207034"
+        },
+        {
+            "expansion_id": "219723",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Enterprise-D Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219723"
+        },
+        {
+            "expansion_id": "158272",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Enterprise-E Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158272"
+        },
+        {
+            "expansion_id": "149966",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Equinox Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149966"
+        },
+        {
+            "expansion_id": "149032",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Excelsior Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149032"
+        },
+        {
+            "expansion_id": "176800",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Hathaway Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176800"
+        },
+        {
+            "expansion_id": "175887",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Hood Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175887"
+        },
+        {
+            "expansion_id": "181665",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Intrepid Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181665"
+        },
+        {
+            "expansion_id": "182302",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Montgolfier Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182302"
+        },
+        {
+            "expansion_id": "165133",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Pasteur Federation Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165133"
+        },
+        {
+            "expansion_id": "165125",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Pegasus Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165125"
+        },
+        {
+            "expansion_id": "173311",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Phoenix Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173311"
+        },
+        {
+            "expansion_id": "165131",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Prometheus Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165131"
+        },
+        {
+            "expansion_id": "163496",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Raven Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163496"
+        },
+        {
+            "expansion_id": "143734",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Reliant Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143734"
+        },
+        {
+            "expansion_id": "194804",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Reliant Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194804"
+        },
+        {
+            "expansion_id": "164386",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Stargazer Federation Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164386"
+        },
+        {
+            "expansion_id": "149974",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Sutherland Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149974"
+        },
+        {
+            "expansion_id": "173314",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Thunderchild Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173314"
+        },
+        {
+            "expansion_id": "178760",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Valiant Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178760"
+        },
+        {
+            "expansion_id": "202714",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Venture Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202714"
+        },
+        {
+            "expansion_id": "150499",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Voyager Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/150499"
+        },
+        {
+            "expansion_id": "161872",
+            "expansion_name": "Star Trek: Attack Wing - U.S.S. Yeager Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161872"
+        },
+        {
+            "expansion_id": "158271",
+            "expansion_name": "Star Trek: Attack Wing - Val Jean Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158271"
+        },
+        {
+            "expansion_id": "179771",
+            "expansion_name": "Star Trek: Attack Wing - Weapon Zero Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179771"
+        },
+        {
+            "expansion_id": "179769",
+            "expansion_name": "Star Trek: Attack Wing - Xindus Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179769"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Christopher Guild; Andrew Parks",
+    "categories_string": "Aviation / Flight; Collectible Components; Miniatures; Movies / TV / Radio theme; Science Fiction; Wargame",
+    "mechanics_string": "Action Queue; Dice Rolling; Simultaneous Action Selection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '165108', 'expansion_name': 'Star Trek: Attack Wing - 1st Wave Attack Fighters Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165108'}; {'expansion_id': '184001', 'expansion_name': 'Star Trek: Attack Wing - 2015-2016 Organized Play Reinforcement Booster Brick', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/184001'}; {'expansion_id': '159490', 'expansion_name': 'Star Trek: Attack Wing - 2nd Division Cruiser Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159490'}; {'expansion_id': '161875', 'expansion_name': 'Star Trek: Attack Wing - 3rd Wing Attack Ship: Collective Blind Booster Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161875'}; {'expansion_id': '149972', 'expansion_name': 'Star Trek: Attack Wing - 4th Division Battleship Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149972'}; {'expansion_id': '246393', 'expansion_name': 'Star Trek: Attack Wing - 4th Wing Patrol Ship Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246393'}; {'expansion_id': '147602', 'expansion_name': 'Star Trek: Attack Wing - 5th Wing Patrol Ship Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147602'}; {'expansion_id': '166040', 'expansion_name': 'Star Trek: Attack Wing - Advanced Targeting Systems Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166040'}; {'expansion_id': '183389', 'expansion_name': 'Star Trek: Attack Wing - Advanced Technology Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183389'}; {'expansion_id': '154256', 'expansion_name': 'Star Trek: Attack Wing - Akorem Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154256'}; {'expansion_id': '207938', 'expansion_name': 'Star Trek: Attack Wing - All Stop Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207938'}; {'expansion_id': '165110', 'expansion_name': 'Star Trek: Attack Wing - Alpha Hunter Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165110'}; {'expansion_id': '282854', 'expansion_name': 'Star Trek: Attack Wing - Animated Series Faction Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/282854'}; {'expansion_id': '166044', 'expansion_name': 'Star Trek: Attack Wing - Assimilated Vessel 64758 Dominion/Borg Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166044'}; {'expansion_id': '182308', 'expansion_name': 'Star Trek: Attack Wing - Assimilated Vessel 77139 Expansion Pack (cancelled)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182308'}; {'expansion_id': '166043', 'expansion_name': 'Star Trek: Attack Wing - Assimilated Vessel 80279 Klingon/Borg Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166043'}; {'expansion_id': '164387', 'expansion_name': 'Star Trek: Attack Wing - Assimilation Target Prime Mirror Universe Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164387'}; {'expansion_id': '207936', 'expansion_name': 'Star Trek: Attack Wing - Auxiliary Power Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207936'}; {'expansion_id': '179768', 'expansion_name': 'Star Trek: Attack Wing - Azati Prime Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179768'}; {'expansion_id': '150502', 'expansion_name': 'Star Trek: Attack Wing - Bioship Alpha Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/150502'}; {'expansion_id': '173312', 'expansion_name': 'Star Trek: Attack Wing - Bioship Beta Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173312'}; {'expansion_id': '191951', 'expansion_name': 'Star Trek: Attack Wing - Borg Cube With Sphere Port Premium Figure', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/191951'}; {'expansion_id': '282855', 'expansion_name': 'Star Trek: Attack Wing - Borg Faction Pack: Resistance is Futile', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/282855'}; {'expansion_id': '150501', 'expansion_name': 'Star Trek: Attack Wing - Borg Sphere 4270 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/150501'}; {'expansion_id': '207038', 'expansion_name': 'Star Trek: Attack Wing - Calindra Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207038'}; {'expansion_id': '240144', 'expansion_name': \"Star Trek: Attack Wing - Captain's Chair Resource\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240144'}; {'expansion_id': '165103', 'expansion_name': \"Star Trek: Attack Wing - Chang's Bird-of-Prey Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165103'}; {'expansion_id': '159487', 'expansion_name': 'Star Trek: Attack Wing - Chief Engineer Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159487'}; {'expansion_id': '225420', 'expansion_name': 'Star Trek: Attack Wing - Co-Pilot Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/225420'}; {'expansion_id': '149632', 'expansion_name': 'Star Trek: Attack Wing - Command Tokens Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149632'}; {'expansion_id': '203868', 'expansion_name': 'Star Trek: Attack Wing - Condition Alert Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/203868'}; {'expansion_id': '162368', 'expansion_name': 'Star Trek: Attack Wing - Counter Attack Die Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162368'}; {'expansion_id': '168890', 'expansion_name': 'Star Trek: Attack Wing - Cube 112 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168890'}; {'expansion_id': '152860', 'expansion_name': \"Star Trek: Attack Wing - D'Kyr Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152860'}; {'expansion_id': '175898', 'expansion_name': 'Star Trek: Attack Wing - Damage Control Teams Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175898'}; {'expansion_id': '244209', 'expansion_name': 'Star Trek: Attack Wing - Data', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244209'}; {'expansion_id': '149422', 'expansion_name': 'Star Trek: Attack Wing - Deep Space 9 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149422'}; {'expansion_id': '168891', 'expansion_name': 'Star Trek: Attack Wing - Deep Space Nine Expansion Pack (Retail Variant)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168891'}; {'expansion_id': '178315', 'expansion_name': 'Star Trek: Attack Wing - Denorios Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178315'}; {'expansion_id': '179770', 'expansion_name': 'Star Trek: Attack Wing - Diaspora Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179770'}; {'expansion_id': '240140', 'expansion_name': 'Star Trek: Attack Wing - Dominion Faction Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240140'}; {'expansion_id': '233493', 'expansion_name': 'Star Trek: Attack Wing - Dreadnought Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233493'}; {'expansion_id': '178316', 'expansion_name': 'Star Trek: Attack Wing - Dreadnought Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178316'}; {'expansion_id': '164071', 'expansion_name': 'Star Trek: Attack Wing - DS9 Upgrade Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164071'}; {'expansion_id': '149624', 'expansion_name': 'Star Trek: Attack Wing - Elite Attack Die Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149624'}; {'expansion_id': '244214', 'expansion_name': 'Star Trek: Attack Wing - Elizabeth Shelby', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244214'}; {'expansion_id': '179772', 'expansion_name': 'Star Trek: Attack Wing - Emergency Force Field Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179772'}; {'expansion_id': '194800', 'expansion_name': 'Star Trek: Attack Wing - Emergency Power Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194800'}; {'expansion_id': '197482', 'expansion_name': 'Star Trek: Attack Wing - Encounter at Farpoint Q Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197482'}; {'expansion_id': '160884', 'expansion_name': 'Star Trek: Attack Wing - Enterprise NX-01 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160884'}; {'expansion_id': '175896', 'expansion_name': 'Star Trek: Attack Wing - Evasive Action Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175896'}; {'expansion_id': '154258', 'expansion_name': 'Star Trek: Attack Wing - Federation Attack Fighters Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154258'}; {'expansion_id': '244207', 'expansion_name': 'Star Trek: Attack Wing - Ferengi Faction Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244207'}; {'expansion_id': '165953', 'expansion_name': \"Star Trek: Attack Wing - Ferengi: Bok's Marauder - Resistance is Futile Blind Booster Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165953'}; {'expansion_id': '165111', 'expansion_name': 'Star Trek: Attack Wing - Fighter Squadron 6 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165111'}; {'expansion_id': '262779', 'expansion_name': 'Star Trek: Attack Wing - Fighter Squadrons 1 & 3 Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/262779'}; {'expansion_id': '165106', 'expansion_name': 'Star Trek: Attack Wing - Fina Prime Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165106'}; {'expansion_id': '153579', 'expansion_name': 'Star Trek: Attack Wing - Flagship Cards Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153579'}; {'expansion_id': '163494', 'expansion_name': 'Star Trek: Attack Wing - Fleet Captains Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163494'}; {'expansion_id': '207933', 'expansion_name': 'Star Trek: Attack Wing - Fleet Commander Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207933'}; {'expansion_id': '240145', 'expansion_name': 'Star Trek: Attack Wing - Frontline Retrofit Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240145'}; {'expansion_id': '159486', 'expansion_name': 'Star Trek: Attack Wing - Full Alert', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159486'}; {'expansion_id': '161876', 'expansion_name': 'Star Trek: Attack Wing - Gavroche Independent Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161876'}; {'expansion_id': '194799', 'expansion_name': 'Star Trek: Attack Wing - General Orders Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194799'}; {'expansion_id': '143725', 'expansion_name': 'Star Trek: Attack Wing - Gor Portas Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143725'}; {'expansion_id': '165119', 'expansion_name': 'Star Trek: Attack Wing - Gornarus Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165119'}; {'expansion_id': '243145', 'expansion_name': \"Star Trek: Attack Wing - Goss' Marauder Card Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/243145'}; {'expansion_id': '246395', 'expansion_name': \"Star Trek: Attack Wing - Gress'Sril Card Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246395'}; {'expansion_id': '194806', 'expansion_name': 'Star Trek: Attack Wing - H.M.S. Bounty Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194806'}; {'expansion_id': '176801', 'expansion_name': 'Star Trek: Attack Wing - Halik Raider Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176801'}; {'expansion_id': '154257', 'expansion_name': 'Star Trek: Attack Wing - Hideki Class Attack Fighters Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154257'}; {'expansion_id': '166041', 'expansion_name': 'Star Trek: Attack Wing - High Yield Photon Torpedoes Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166041'}; {'expansion_id': '262778', 'expansion_name': 'Star Trek: Attack Wing - Hirogen Hunting Vessel Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/262778'}; {'expansion_id': '182303', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Amar Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182303'}; {'expansion_id': '207932', 'expansion_name': \"Star Trek: Attack Wing - I.K.S. Bor'tas Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207932'}; {'expansion_id': '149388', 'expansion_name': \"Star Trek: Attack Wing - I.K.S. Ch'Tang Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149388'}; {'expansion_id': '197533', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Drovana Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197533'}; {'expansion_id': '143730', 'expansion_name': \"Star Trek: Attack Wing - I.K.S. Gr'oth Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143730'}; {'expansion_id': '207934', 'expansion_name': \"Star Trek: Attack Wing - I.K.S. Hegh'ta Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207934'}; {'expansion_id': '182306', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Klothos Expansion Pack (cancelled)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182306'}; {'expansion_id': '149031', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Koraga Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149031'}; {'expansion_id': '175888', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Korinar Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175888'}; {'expansion_id': '147605', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Kronos One Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147605'}; {'expansion_id': '143732', 'expansion_name': \"Star Trek: Attack Wing - I.K.S. Negh'Var Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143732'}; {'expansion_id': '165126', 'expansion_name': \"Star Trek: Attack Wing - I.K.S. Ning'Tao Klingon Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165126'}; {'expansion_id': '170204', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Pagh Klingon Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/170204'}; {'expansion_id': '176583', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Rotarran Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176583'}; {'expansion_id': '149967', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Somraw Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149967'}; {'expansion_id': '173315', 'expansion_name': \"Star Trek: Attack Wing - I.K.S. T'Ong Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173315'}; {'expansion_id': '206326', 'expansion_name': \"Star Trek: Attack Wing - I.K.S. Toh'Kaht Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206326'}; {'expansion_id': '207937', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Toral Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207937'}; {'expansion_id': '233491', 'expansion_name': 'Star Trek: Attack Wing - I.K.S. Ves Batlh Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233491'}; {'expansion_id': '197534', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Algeron Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197534'}; {'expansion_id': '166038', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Avatar of Tomed Romulan/Borg Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166038'}; {'expansion_id': '182307', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Devoras Expansion Pack (cancelled)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182307'}; {'expansion_id': '149968', 'expansion_name': \"Star Trek: Attack Wing - I.R.W. Gal Gath'thong Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149968'}; {'expansion_id': '165114', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Haakona Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165114'}; {'expansion_id': '182304', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Jazkal Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182304'}; {'expansion_id': '147612', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Praetus Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147612'}; {'expansion_id': '194803', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Rateg: OP Prize', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194803'}; {'expansion_id': '183445', 'expansion_name': \"Star Trek: Attack Wing - I.R.W. T'Met\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183445'}; {'expansion_id': '175889', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Terix Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175889'}; {'expansion_id': '143733', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Valdore Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143733'}; {'expansion_id': '161874', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Vorta Vor: Collective OP Blind Booster Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161874'}; {'expansion_id': '173316', 'expansion_name': 'Star Trek: Attack Wing - I.R.W. Vrax Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173316'}; {'expansion_id': '165116', 'expansion_name': 'Star Trek: Attack Wing - I.S.S. Avenger Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165116'}; {'expansion_id': '165102', 'expansion_name': 'Star Trek: Attack Wing - I.S.S. Defiant Mirror Universe Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165102'}; {'expansion_id': '176250', 'expansion_name': 'Star Trek: Attack Wing - I.S.S. Enterprise Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176250'}; {'expansion_id': '194801', 'expansion_name': 'Star Trek: Attack Wing - Improved Hull Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194801'}; {'expansion_id': '166039', 'expansion_name': 'Star Trek: Attack Wing - Improved Shields Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166039'}; {'expansion_id': '262776', 'expansion_name': 'Star Trek: Attack Wing - Independents Faction Pack: A Motley Fleet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/262776'}; {'expansion_id': '203211', 'expansion_name': 'Star Trek: Attack Wing - Intercepted Messages Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/203211'}; {'expansion_id': '152857', 'expansion_name': 'Star Trek: Attack Wing - Interceptor 5 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152857'}; {'expansion_id': '260608', 'expansion_name': 'Star Trek: Attack Wing - Kal-If-Fee', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260608'}; {'expansion_id': '143672', 'expansion_name': 'Star Trek: Attack Wing - Khan Singh', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143672'}; {'expansion_id': '161873', 'expansion_name': \"Star Trek: Attack Wing - Klingon: I.K.S. B'Moth - Collective OP Blind Booster Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161873'}; {'expansion_id': '197313', 'expansion_name': \"Star Trek: Attack Wing - Kohlar's Battle Cruiser\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197313'}; {'expansion_id': '149034', 'expansion_name': 'Star Trek: Attack Wing - Koranak Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149034'}; {'expansion_id': '143731', 'expansion_name': 'Star Trek: Attack Wing - Kraxon Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143731'}; {'expansion_id': '149240', 'expansion_name': 'Star Trek: Attack Wing - Krayton Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149240'}; {'expansion_id': '165134', 'expansion_name': 'Star Trek: Attack Wing - Kreechta Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165134'}; {'expansion_id': '194805', 'expansion_name': \"Star Trek: Attack Wing - Kruge's Bird-of-Prey Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194805'}; {'expansion_id': '178762', 'expansion_name': 'Star Trek: Attack Wing - Kumari Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178762'}; {'expansion_id': '165124', 'expansion_name': 'Star Trek: Attack Wing - Kyana Prime Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165124'}; {'expansion_id': '243147', 'expansion_name': 'Star Trek: Attack Wing - Long-Range Probe Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/243147'}; {'expansion_id': '183390', 'expansion_name': 'Star Trek: Attack Wing - Main Power Grid Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183390'}; {'expansion_id': '170207', 'expansion_name': 'Star Trek: Attack Wing - Master Strategist Token Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/170207'}; {'expansion_id': '262775', 'expansion_name': 'Star Trek: Attack Wing - Mirror Universe Faction Pack: The Kelvin Timeline', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/262775'}; {'expansion_id': '207559', 'expansion_name': 'Star Trek: Attack Wing - Muratas Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207559'}; {'expansion_id': '222216', 'expansion_name': 'Star Trek: Attack Wing - Mutiny Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222216'}; {'expansion_id': '244210', 'expansion_name': 'Star Trek: Attack Wing - Nanclus', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244210'}; {'expansion_id': '160883', 'expansion_name': \"Star Trek: Attack Wing - Ni'Var Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160883'}; {'expansion_id': '150503', 'expansion_name': 'Star Trek: Attack Wing - Nistrim Raider Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/150503'}; {'expansion_id': '233049', 'expansion_name': 'Star Trek: Attack Wing - Oberth Class Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233049'}; {'expansion_id': '164464', 'expansion_name': 'Star Trek: Attack Wing - Officer Cards Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164464'}; {'expansion_id': '170206', 'expansion_name': 'Star Trek: Attack Wing - Officer Exchange Program Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/170206'}; {'expansion_id': '165112', 'expansion_name': 'Star Trek: Attack Wing - Ogla-Razik Kazon Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165112'}; {'expansion_id': '207037', 'expansion_name': 'Star Trek: Attack Wing - Orassin Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207037'}; {'expansion_id': '149973', 'expansion_name': \"Star Trek: Attack Wing - P.W.B. Aj'rmr Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149973'}; {'expansion_id': '244211', 'expansion_name': 'Star Trek: Attack Wing - Photonic Cannon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244211'}; {'expansion_id': '165956', 'expansion_name': 'Star Trek: Attack Wing - Prakesh Mirror Universe Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165956'}; {'expansion_id': '183388', 'expansion_name': 'Star Trek: Attack Wing - Protocol Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183388'}; {'expansion_id': '165109', 'expansion_name': 'Star Trek: Attack Wing - Prototype 01 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165109'}; {'expansion_id': '179915', 'expansion_name': 'Star Trek: Attack Wing - Q Continuum Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179915'}; {'expansion_id': '173313', 'expansion_name': \"Star Trek: Attack Wing - Quark's Treasure Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173313'}; {'expansion_id': '243146', 'expansion_name': 'Star Trek: Attack Wing - Queen Vessel Prime Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/243146'}; {'expansion_id': '158273', 'expansion_name': 'Star Trek: Attack Wing - Queen Vessel Prime Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158273'}; {'expansion_id': '143716', 'expansion_name': 'Star Trek: Attack Wing - R.I.S. Apnex Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143716'}; {'expansion_id': '178761', 'expansion_name': 'Star Trek: Attack Wing - R.I.S. Pi Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178761'}; {'expansion_id': '176584', 'expansion_name': 'Star Trek: Attack Wing - R.I.S. Talvath Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176584'}; {'expansion_id': '149033', 'expansion_name': 'Star Trek: Attack Wing - R.I.S. Vo Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149033'}; {'expansion_id': '165129', 'expansion_name': 'Star Trek: Attack Wing - Ratosha Bajoran Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165129'}; {'expansion_id': '154255', 'expansion_name': 'Star Trek: Attack Wing - Rav Laerst Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154255'}; {'expansion_id': '175899', 'expansion_name': 'Star Trek: Attack Wing - Ready Room Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175899'}; {'expansion_id': '159485', 'expansion_name': 'Star Trek: Attack Wing - Red Alert', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159485'}; {'expansion_id': '150088', 'expansion_name': 'Star Trek: Attack Wing - Redshirt', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/150088'}; {'expansion_id': '165107', 'expansion_name': \"Star Trek: Attack Wing - Regent's Flagship Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165107'}; {'expansion_id': '153576', 'expansion_name': 'Star Trek: Attack Wing - Reinforcements Sideboard Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153576'}; {'expansion_id': '165121', 'expansion_name': 'Star Trek: Attack Wing - Reklar Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165121'}; {'expansion_id': '165955', 'expansion_name': 'Star Trek: Attack Wing - Relora-Sankur Kazon Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165955'}; {'expansion_id': '178314', 'expansion_name': 'Star Trek: Attack Wing - Robinson Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178314'}; {'expansion_id': '233492', 'expansion_name': 'Star Trek: Attack Wing - Romulan Drone Ship Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233492'}; {'expansion_id': '240141', 'expansion_name': 'Star Trek: Attack Wing - Romulan Faction Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240141'}; {'expansion_id': '244213', 'expansion_name': 'Star Trek: Attack Wing - Romulan Pilot', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244213'}; {'expansion_id': '160880', 'expansion_name': \"Star Trek: Attack Wing - S'Gorn Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160880'}; {'expansion_id': '181666', 'expansion_name': 'Star Trek: Attack Wing - Sabotage Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181666'}; {'expansion_id': '244215', 'expansion_name': 'Star Trek: Attack Wing - Sabotaged Systems', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244215'}; {'expansion_id': '170205', 'expansion_name': 'Star Trek: Attack Wing - Sakharov Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/170205'}; {'expansion_id': '207035', 'expansion_name': 'Star Trek: Attack Wing - Scan Cycle Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207035'}; {'expansion_id': '165104', 'expansion_name': 'Star Trek: Attack Wing - Scimitar Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165104'}; {'expansion_id': '176802', 'expansion_name': 'Star Trek: Attack Wing - Scorpion 4 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176802'}; {'expansion_id': '165957', 'expansion_name': 'Star Trek: Attack Wing - Scout 255 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165957'}; {'expansion_id': '160885', 'expansion_name': 'Star Trek: Attack Wing - Scout 608 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160885'}; {'expansion_id': '207939', 'expansion_name': \"Star Trek: Attack Wing - Sela's Warbird Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207939'}; {'expansion_id': '219229', 'expansion_name': 'Star Trek: Attack Wing - Senior Staff Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219229'}; {'expansion_id': '260603', 'expansion_name': 'Star Trek: Attack Wing - Sickbay Ressource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260603'}; {'expansion_id': '159484', 'expansion_name': 'Star Trek: Attack Wing - Skilled Helmsman Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159484'}; {'expansion_id': '159488', 'expansion_name': 'Star Trek: Attack Wing - Soong Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159488'}; {'expansion_id': '194798', 'expansion_name': 'Star Trek: Attack Wing - Structural Damage Check Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194798'}; {'expansion_id': '166045', 'expansion_name': 'Star Trek: Attack Wing - Tactical Cube 001 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166045'}; {'expansion_id': '152856', 'expansion_name': 'Star Trek: Attack Wing - Tactical Cube 138 Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152856'}; {'expansion_id': '194797', 'expansion_name': 'Star Trek: Attack Wing - Tactics Resource', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194797'}; {'expansion_id': '165954', 'expansion_name': \"Star Trek: Attack Wing - Tal'Kir Vulcan Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165954'}; {'expansion_id': '183392', 'expansion_name': 'Star Trek: Attack Wing - Temporal Cold War Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183392'}; {'expansion_id': '162250', 'expansion_name': 'Star Trek: Attack Wing - The Collective Month 1 Organized Play Borg Cube and tokens', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162250'}; {'expansion_id': '163497', 'expansion_name': 'Star Trek: Attack Wing - The Collective Month 2 Organized Play Borg Cube and tokens', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163497'}; {'expansion_id': '165958', 'expansion_name': 'Star Trek: Attack Wing - The Collective Month 3 Organized Play Borg Cube and tokens', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165958'}; {'expansion_id': '159483', 'expansion_name': 'Star Trek: Attack Wing - Tholia One Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159483'}; {'expansion_id': '165113', 'expansion_name': 'Star Trek: Attack Wing - Tholia One Expansion Pack (Retail)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165113'}; {'expansion_id': '161778', 'expansion_name': 'Star Trek: Attack Wing - Tholian Web Organized Play tokens', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161778'}; {'expansion_id': '163495', 'expansion_name': \"Star Trek: Attack Wing - Ti'Mur Vulcan Expansion Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163495'}; {'expansion_id': '179767', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Bellerophon Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179767'}; {'expansion_id': '194802', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Cairo Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194802'}; {'expansion_id': '183446', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Constellation Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183446'}; {'expansion_id': '165132', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Dauntless Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165132'}; {'expansion_id': '147600', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Defiant Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147600'}; {'expansion_id': '215501', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Defiant NCC-1764', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/215501'}; {'expansion_id': '176582', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Delta Flyer Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176582'}; {'expansion_id': '215502', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Delta Flyer II', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/215502'}; {'expansion_id': '159489', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Enterprise (Refit) Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159489'}; {'expansion_id': '143718', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Enterprise Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143718'}; {'expansion_id': '194807', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Enterprise-A Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194807'}; {'expansion_id': '207034', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Enterprise-B Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207034'}; {'expansion_id': '219723', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Enterprise-D Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219723'}; {'expansion_id': '158272', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Enterprise-E Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158272'}; {'expansion_id': '149966', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Equinox Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149966'}; {'expansion_id': '149032', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Excelsior Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149032'}; {'expansion_id': '176800', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Hathaway Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176800'}; {'expansion_id': '175887', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Hood Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175887'}; {'expansion_id': '181665', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Intrepid Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181665'}; {'expansion_id': '182302', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Montgolfier Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182302'}; {'expansion_id': '165133', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Pasteur Federation Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165133'}; {'expansion_id': '165125', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Pegasus Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165125'}; {'expansion_id': '173311', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Phoenix Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173311'}; {'expansion_id': '165131', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Prometheus Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165131'}; {'expansion_id': '163496', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Raven Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163496'}; {'expansion_id': '143734', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Reliant Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143734'}; {'expansion_id': '194804', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Reliant Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194804'}; {'expansion_id': '164386', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Stargazer Federation Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164386'}; {'expansion_id': '149974', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Sutherland Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149974'}; {'expansion_id': '173314', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Thunderchild Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173314'}; {'expansion_id': '178760', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Valiant Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178760'}; {'expansion_id': '202714', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Venture Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202714'}; {'expansion_id': '150499', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Voyager Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/150499'}; {'expansion_id': '161872', 'expansion_name': 'Star Trek: Attack Wing - U.S.S. Yeager Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161872'}; {'expansion_id': '158271', 'expansion_name': 'Star Trek: Attack Wing - Val Jean Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158271'}; {'expansion_id': '179771', 'expansion_name': 'Star Trek: Attack Wing - Weapon Zero Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179771'}; {'expansion_id': '179769', 'expansion_name': 'Star Trek: Attack Wing - Xindus Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179769'}",
+    "expansions_for_string": ""
+}

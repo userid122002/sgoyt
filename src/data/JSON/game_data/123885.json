@@ -1,0 +1,54 @@
+{
+    "game_id": "123885",
+    "game_name": "Pick-a-Dog",
+    "bgg_link": "https://boardgamegeek.com/boardgame/123885",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6571058",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6571058#item6571058",
+            "geeklist_host": "squarepegsys",
+            "contributor": "squarepegsys"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/tId8rrxxO4U2U3zNLOgNTQ__thumb/img/ajxQnDYcUu_r2KdiyVie0t0kN9I=/fit-in/200x150/filters:strip_icc()/pic1303394.png",
+    "year_published": "2012",
+    "designers": [
+        "Torsten Landsvogt"
+    ],
+    "weight": 1.07,
+    "rating": 6.16,
+    "play_time": "15",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "6",
+    "categories": [
+        "Action / Dexterity",
+        "Animals",
+        "Card Game",
+        "Children's Game",
+        "Party Game",
+        "Puzzle",
+        "Real-time"
+    ],
+    "mechanics": [
+        "Pattern Recognition"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "167989",
+            "expansion_name": "Pick-a-Dog: Polar Bear Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167989"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Torsten Landsvogt",
+    "categories_string": "Action / Dexterity; Animals; Card Game; Children's Game; Party Game; Puzzle; Real-time",
+    "mechanics_string": "Pattern Recognition",
+    "expansions_string": "{'expansion_id': '167989', 'expansion_name': 'Pick-a-Dog: Polar Bear Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167989'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,119 @@
+{
+    "game_id": "181817",
+    "game_name": "Eldritch Horror: Under the Pyramids",
+    "bgg_link": "https://boardgamegeek.com/boardgame/181817",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4480145",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4480145#item4480145",
+            "geeklist_host": "Woelf",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4489864",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4489864#item4489864",
+            "geeklist_host": "Woelf",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4489911",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4489911#item4489911",
+            "geeklist_host": "Woelf",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4664831",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4664831#item4664831",
+            "geeklist_host": "koinskyz",
+            "contributor": "taeryn"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5291362",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5291362#item5291362",
+            "geeklist_host": "suzyvitale",
+            "contributor": "taeryn"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5473383",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5473383#item5473383",
+            "geeklist_host": "koinskyz",
+            "contributor": "Jorune"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6163972",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6163972#item6163972",
+            "geeklist_host": "Pjandy",
+            "contributor": "snoweel"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/YqOHAsl8zBL6MUfi3ZTHEg__thumb/img/ifBM-25dl3QGt_87f2zqTB5h58o=/fit-in/200x150/filters:strip_icc()/pic2628036.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Nikki Valens"
+    ],
+    "weight": 3.20,
+    "rating": 8.38,
+    "play_time": "180 - 0",
+    "best": "2",
+    "recommended": "9",
+    "not_recommended": "2",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Horror",
+        "Novel-based",
+        "Travel"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Point to Point Movement",
+        "Role Playing",
+        "Storytelling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "146021",
+            "game_name": "Eldritch Horror",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/146021"
+        }
+    ],
+    "designers_string": "Nikki Valens",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy; Fighting; Horror; Novel-based; Travel",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Point to Point Movement; Role Playing; Storytelling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '146021', 'game_name': 'Eldritch Horror', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/146021'}"
+}

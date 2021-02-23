@@ -1,0 +1,89 @@
+{
+    "game_id": "3201",
+    "game_name": "Lord of the Rings: The Confrontation",
+    "bgg_link": "https://boardgamegeek.com/boardgame/3201",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3534178",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3534178#item3534178",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3598011",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3598011#item3598011",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3841087",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3841087#item3841087",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4653720",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4653720#item4653720",
+            "geeklist_host": "gentle",
+            "contributor": "PaulRadagast"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/_hBlhE0at6aow5G1I8-NMg__thumb/img/bsfevmaHrJxqdDW-OKfWKy9eUdM=/fit-in/200x150/filters:strip_icc()/pic69357.jpg",
+    "year_published": "2002",
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "weight": 2.19,
+    "rating": 7.19,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "46",
+    "categories": [
+        "Adventure",
+        "Bluffing",
+        "Deduction",
+        "Fantasy",
+        "Movies / TV / Radio theme",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Card Play Conflict Resolution",
+        "Hand Management",
+        "Memory",
+        "Secret Unit Deployment",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "127581",
+            "expansion_name": "Locust Horde (fan expansion for Lord of the Rings: The Confrontation)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127581"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Reiner Knizia",
+    "categories_string": "Adventure; Bluffing; Deduction; Fantasy; Movies / TV / Radio theme; Novel-based",
+    "mechanics_string": "Area Movement; Card Play Conflict Resolution; Hand Management; Memory; Secret Unit Deployment; Simultaneous Action Selection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '127581', 'expansion_name': 'Locust Horde (fan expansion for Lord of the Rings: The Confrontation)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127581'}",
+    "expansions_for_string": ""
+}

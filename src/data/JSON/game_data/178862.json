@@ -1,0 +1,65 @@
+{
+    "game_id": "178862",
+    "game_name": "The Lord of the Rings: The Card Game - The Battle of Carn Dum",
+    "bgg_link": "https://boardgamegeek.com/boardgame/178862",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4624190",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4624190#item4624190",
+            "geeklist_host": "gentle",
+            "contributor": "hervuli"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/LAFKqVUFPymxMxK90RwrDw__thumb/img/u_kSCTZbetFtmdo6anOhXzgwaWk=/fit-in/200x150/filters:strip_icc()/pic2547572.png",
+    "year_published": "2015",
+    "designers": [
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 3.20,
+    "rating": 7.84,
+    "play_time": "30 - 90",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "218784",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: The Battle of Carn Dum",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218784"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        },
+        {
+            "game_id": "164313",
+            "game_name": "The Lord of the Rings: The Card Game - The Lost Realm",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/164313"
+        }
+    ],
+    "designers_string": "Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '218784', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: The Battle of Carn Dum', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218784'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}; {'game_id': '164313', 'game_name': 'The Lord of the Rings: The Card Game - The Lost Realm', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/164313'}"
+}

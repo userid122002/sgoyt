@@ -1,0 +1,71 @@
+{
+    "game_id": "247665",
+    "game_name": "This War of Mine: Tales from the Ruined City",
+    "bgg_link": "https://boardgamegeek.com/boardgame/247665",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7405225",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7405225#item7405225",
+            "geeklist_host": "jeffrhind",
+            "contributor": "celdom"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7261809",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7261809#item7261809",
+            "geeklist_host": "narcher007",
+            "contributor": "Kyuss"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/zQkM10Zet79y2obhiIpicg__thumb/img/2C41QmTv__lQOj-cWJ_4dqjorQs=/fit-in/200x150/filters:strip_icc()/pic4013946.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Marek Mydel",
+        "Micha Oracz",
+        "Jakub Wisniewski"
+    ],
+    "weight": 3.36,
+    "rating": 8.48,
+    "play_time": "45 - 120",
+    "best": "5",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Exploration",
+        "Mature / Adult",
+        "Modern Warfare",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Grid Movement",
+        "Push Your Luck",
+        "Simulation",
+        "Storytelling",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "188920",
+            "game_name": "This War of Mine: The Board Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/188920"
+        }
+    ],
+    "designers_string": "Marek Mydel; Micha Oracz; Jakub Wisniewski",
+    "categories_string": "Adventure; Expansion for Base-game; Exploration; Mature / Adult; Modern Warfare; Video Game Theme",
+    "mechanics_string": "Action Points; Cooperative Game; Grid Movement; Push Your Luck; Simulation; Storytelling; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '188920', 'game_name': 'This War of Mine: The Board Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/188920'}"
+}

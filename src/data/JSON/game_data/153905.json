@@ -1,0 +1,71 @@
+{
+    "game_id": "153905",
+    "game_name": "Warband: Against the Darkness",
+    "bgg_link": "https://boardgamegeek.com/boardgame/153905",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5644469",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5644469#item5644469",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "family_gamer"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5763295",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5763295#item5763295",
+            "geeklist_host": "Albia",
+            "contributor": "Raygun1966"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5783423",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5783423#item5783423",
+            "geeklist_host": "Albia",
+            "contributor": "Raygun1966"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/Yi6Rt9Zmq-imh12KmNyJYQ__thumb/img/hOLf8e4eNnt0dLvECC0V-zC2dbs=/fit-in/200x150/filters:strip_icc()/pic2060503.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Micah Fuller"
+    ],
+    "weight": 2.67,
+    "rating": 6.74,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "4",
+    "categories": [
+        "Fighting",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "177327",
+            "expansion_name": "Warband: Emerging Races",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/177327"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Micah Fuller",
+    "categories_string": "Fighting; Territory Building",
+    "mechanics_string": "Action Points; Area Majority / Influence; Set Collection",
+    "expansions_string": "{'expansion_id': '177327', 'expansion_name': 'Warband: Emerging Races', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/177327'}",
+    "expansions_for_string": ""
+}

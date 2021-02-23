@@ -1,0 +1,161 @@
+{
+    "game_id": "40849",
+    "game_name": "Pandemic: On the Brink",
+    "bgg_link": "https://boardgamegeek.com/boardgame/40849",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4036688",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4036688#item4036688",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "familygaming"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4094448",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4094448#item4094448",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4120754",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4120754#item4120754",
+            "geeklist_host": "lukather",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5018003",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5018003#item5018003",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Gizensha"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5255403",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5255403#item5255403",
+            "geeklist_host": "suzyvitale",
+            "contributor": "dopeysponge"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7393159",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7393159#item7393159",
+            "geeklist_host": "jeffrhind",
+            "contributor": "Marctimmins89"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7694599",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7694599#item7694599",
+            "geeklist_host": "gentle",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7724678",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7724678#item7724678",
+            "geeklist_host": "Elida",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7749263",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7749263#item7749263",
+            "geeklist_host": "repairmanjack",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7825112",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7825112#item7825112",
+            "geeklist_host": "mithoron",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 10,
+    "thumbnail": "https://cf.geekdo-images.com/qkQdSURi9GkphP1oHzoT5g__thumb/img/9w4LU3oCZFbJKUWTAc1XZtT99-w=/fit-in/200x150/filters:strip_icc()/pic1546621.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Matt Leacock",
+        "Thomas Lehmann"
+    ],
+    "weight": 2.65,
+    "rating": 8.07,
+    "play_time": "45",
+    "best": "6",
+    "recommended": "47",
+    "not_recommended": "42",
+    "categories": [
+        "Environmental",
+        "Expansion for Base-game",
+        "Medical",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Hand Management",
+        "Point to Point Movement",
+        "Secret Unit Deployment",
+        "Set Collection",
+        "Team-Based Game",
+        "Trading",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "137136",
+            "expansion_name": "Pandemic: In the Lab",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/137136"
+        },
+        {
+            "expansion_id": "168703",
+            "expansion_name": "Pandemic: State of Emergency",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168703"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "30549",
+            "game_name": "Pandemic",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/30549"
+        }
+    ],
+    "designers_string": "Matt Leacock; Thomas Lehmann",
+    "categories_string": "Environmental; Expansion for Base-game; Medical; Science Fiction",
+    "mechanics_string": "Action Points; Cooperative Game; Hand Management; Point to Point Movement; Secret Unit Deployment; Set Collection; Team-Based Game; Trading; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '137136', 'expansion_name': 'Pandemic: In the Lab', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/137136'}; {'expansion_id': '168703', 'expansion_name': 'Pandemic: State of Emergency', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168703'}",
+    "expansions_for_string": "{'game_id': '30549', 'game_name': 'Pandemic', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/30549'}"
+}

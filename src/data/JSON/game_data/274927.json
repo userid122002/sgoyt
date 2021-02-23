@@ -1,0 +1,56 @@
+{
+    "game_id": "274927",
+    "game_name": "Aeon's End: Into the Wild",
+    "bgg_link": "https://boardgamegeek.com/boardgame/274927",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7970474",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7970474#item7970474",
+            "geeklist_host": "Albia",
+            "contributor": "Marctimmins89"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/bITWeh84BYVwwF-beDCsrA__thumb/img/oNTbtjS5RBubfwGqNFob6pNSer4=/fit-in/200x150/filters:strip_icc()/pic4673375.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Kevin Riley"
+    ],
+    "weight": 3.50,
+    "rating": 8.60,
+    "play_time": "60",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Variable Phase Order",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "270633",
+            "game_name": "Aeon's End: The New Age",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/270633"
+        }
+    ],
+    "designers_string": "Kevin Riley",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Science Fiction",
+    "mechanics_string": "Card Drafting; Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Variable Phase Order; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '270633', 'game_name': \"Aeon's End: The New Age\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/270633'}"
+}

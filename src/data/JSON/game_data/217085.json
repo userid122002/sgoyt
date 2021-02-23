@@ -1,0 +1,89 @@
+{
+    "game_id": "217085",
+    "game_name": "Unearth",
+    "bgg_link": "https://boardgamegeek.com/boardgame/217085",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5791975",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5791975#item5791975",
+            "geeklist_host": "Albia",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5793094",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5793094#item5793094",
+            "geeklist_host": "Albia",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7387140",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7387140#item7387140",
+            "geeklist_host": "jeffrhind",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8135375",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8135375#item8135375",
+            "geeklist_host": "ArianneH",
+            "contributor": "ArianneH"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/0olGvNCDk-VmFW2LDOnI_Q__thumb/img/3J2ogaftEzBzwUO3kyJ7DXH-3HE=/fit-in/200x150/filters:strip_icc()/pic3579391.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Jason Harner",
+        "Matthew Ransom"
+    ],
+    "weight": 1.97,
+    "rating": 6.91,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "36",
+    "categories": [
+        "Card Game",
+        "Dice",
+        "Exploration"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Set Collection",
+        "Tile Placement",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "234211",
+            "expansion_name": "Unearth: Promo Card Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/234211"
+        },
+        {
+            "expansion_id": "276821",
+            "expansion_name": "Unearth: The Lost Tribe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/276821"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jason Harner; Matthew Ransom",
+    "categories_string": "Card Game; Dice; Exploration",
+    "mechanics_string": "Dice Rolling; Set Collection; Tile Placement; Worker Placement",
+    "expansions_string": "{'expansion_id': '234211', 'expansion_name': 'Unearth: Promo Card Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/234211'}; {'expansion_id': '276821', 'expansion_name': 'Unearth: The Lost Tribe', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/276821'}",
+    "expansions_for_string": ""
+}

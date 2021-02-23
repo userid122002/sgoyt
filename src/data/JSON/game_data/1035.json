@@ -1,0 +1,114 @@
+{
+    "game_id": "1035",
+    "game_name": "Squad Leader",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1035",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5242305",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5242305#item5242305",
+            "geeklist_host": "Ibbo",
+            "contributor": "petegs"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7800868",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7800868#item7800868",
+            "geeklist_host": "mithoron",
+            "contributor": "boshar"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/jj6tUJH0tQPCEuCjAhioMA__thumb/img/_Z9LnUr4Sp4L9HD0VGHIY4NhA28=/fit-in/200x150/filters:strip_icc()/pic232451.jpg",
+    "year_published": "1977",
+    "designers": [
+        "John Hill (I)"
+    ],
+    "weight": 4.03,
+    "rating": 7.51,
+    "play_time": "60",
+    "best": "1",
+    "recommended": "21",
+    "not_recommended": "14",
+    "categories": [
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Critical Hits and Failures",
+        "Dice Rolling",
+        "Events",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Modular Board",
+        "Movement Points",
+        "Ratio / Combat Results Table",
+        "Scenario / Mission / Campaign Game",
+        "Simulation",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "9447",
+            "expansion_name": "Blood & Sand: Pacific Variant for Squad Leader",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/9447"
+        },
+        {
+            "expansion_id": "3609",
+            "expansion_name": "Crescendo of Doom",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/3609"
+        },
+        {
+            "expansion_id": "2587",
+            "expansion_name": "Cross of Iron: A Squad Leader Gamette",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/2587"
+        },
+        {
+            "expansion_id": "5293",
+            "expansion_name": "G.I. Anvil of Victory",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/5293"
+        },
+        {
+            "expansion_id": "108577",
+            "expansion_name": "G.I. Anvil of Victory: Scenarios 91-100",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108577"
+        },
+        {
+            "expansion_id": "108581",
+            "expansion_name": "Rogue Scenarios",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108581"
+        },
+        {
+            "expansion_id": "108578",
+            "expansion_name": "Scenario 100's",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108578"
+        },
+        {
+            "expansion_id": "108579",
+            "expansion_name": "Scenario 200's",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108579"
+        },
+        {
+            "expansion_id": "108580",
+            "expansion_name": "Scenario 300's",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108580"
+        },
+        {
+            "expansion_id": "108464",
+            "expansion_name": "Squad Leader Scenarios 81-90",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108464"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "John Hill (I)",
+    "categories_string": "Wargame; World War II",
+    "mechanics_string": "Critical Hits and Failures; Dice Rolling; Events; Grid Movement; Hexagon Grid; Modular Board; Movement Points; Ratio / Combat Results Table; Scenario / Mission / Campaign Game; Simulation; Variable Set-up",
+    "expansions_string": "{'expansion_id': '9447', 'expansion_name': 'Blood & Sand: Pacific Variant for Squad Leader', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/9447'}; {'expansion_id': '3609', 'expansion_name': 'Crescendo of Doom', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/3609'}; {'expansion_id': '2587', 'expansion_name': 'Cross of Iron: A Squad Leader Gamette', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/2587'}; {'expansion_id': '5293', 'expansion_name': 'G.I. Anvil of Victory', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/5293'}; {'expansion_id': '108577', 'expansion_name': 'G.I. Anvil of Victory: Scenarios 91-100', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108577'}; {'expansion_id': '108581', 'expansion_name': 'Rogue Scenarios', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108581'}; {'expansion_id': '108578', 'expansion_name': \"Scenario 100's\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108578'}; {'expansion_id': '108579', 'expansion_name': \"Scenario 200's\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108579'}; {'expansion_id': '108580', 'expansion_name': \"Scenario 300's\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108580'}; {'expansion_id': '108464', 'expansion_name': 'Squad Leader Scenarios 81-90', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108464'}",
+    "expansions_for_string": ""
+}

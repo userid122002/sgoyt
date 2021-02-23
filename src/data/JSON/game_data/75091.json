@@ -1,0 +1,51 @@
+{
+    "game_id": "75091",
+    "game_name": "Norenberc",
+    "bgg_link": "https://boardgamegeek.com/boardgame/75091",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5173174",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5173174#item5173174",
+            "geeklist_host": "settlerdave",
+            "contributor": "radchad"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/SJTef65WoYnvo2vjSExdGQ__thumb/img/_Wk0qDDnjQSxQ8RJ72M5PgE6ya8=/fit-in/200x150/filters:strip_icc()/pic890010.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Andreas Steding"
+    ],
+    "weight": 3.00,
+    "rating": 6.80,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "19",
+    "categories": [
+        "Economic",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Set Collection",
+        "Simultaneous Action Selection",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "85592",
+            "expansion_name": "Norenberc: Bonus Townsmen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/85592"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Andreas Steding",
+    "categories_string": "Economic; Medieval",
+    "mechanics_string": "Set Collection; Simultaneous Action Selection; Worker Placement",
+    "expansions_string": "{'expansion_id': '85592', 'expansion_name': 'Norenberc: Bonus Townsmen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/85592'}",
+    "expansions_for_string": ""
+}

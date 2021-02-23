@@ -1,0 +1,62 @@
+{
+    "game_id": "38643",
+    "game_name": "Runebound: The Frozen Wastes",
+    "bgg_link": "https://boardgamegeek.com/boardgame/38643",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7634445",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7634445#item7634445",
+            "geeklist_host": "threepointthed",
+            "contributor": "moonfrog"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7892799",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7892799#item7892799",
+            "geeklist_host": "Elida",
+            "contributor": "mournful"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Xh5BALtVXd0NAdiW7ePHwA__thumb/img/qlyBGfM5zJJ6YWF9nLH2ke_E2RA=/fit-in/200x150/filters:strip_icc()/pic381255.jpg",
+    "year_published": "2009",
+    "designers": [
+        "John Goodenough",
+        "Jonathan Moriarity",
+        "Jason Steinhurst"
+    ],
+    "weight": 2.79,
+    "rating": 7.56,
+    "play_time": "120 - 180",
+    "best": "3",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Role Playing"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "21523",
+            "game_name": "Runebound: Second Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/21523"
+        }
+    ],
+    "designers_string": "John Goodenough; Jonathan Moriarity; Jason Steinhurst",
+    "categories_string": "Dice; Expansion for Base-game",
+    "mechanics_string": "Dice Rolling; Role Playing",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '21523', 'game_name': 'Runebound: Second Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/21523'}"
+}

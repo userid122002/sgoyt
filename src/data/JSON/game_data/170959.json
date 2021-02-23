@@ -1,0 +1,61 @@
+{
+    "game_id": "170959",
+    "game_name": "Descent: Journeys in the Dark (Second Edition) - Nature's Ire",
+    "bgg_link": "https://boardgamegeek.com/boardgame/170959",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3766187",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3766187#item3766187",
+            "geeklist_host": "HRune",
+            "contributor": "Zouave"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/px4dXDjt3F-Ev8Fm4L2U9Q__thumb/img/rxlHBNZm21V05yxxXW_eswGnMqM=/fit-in/200x150/filters:strip_icc()/pic2365032.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Jonathan E Bove",
+        "Nathan I. Hajek"
+    ],
+    "weight": 2.60,
+    "rating": 7.88,
+    "play_time": "150",
+    "best": "4",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Campaign / Battle Card Driven",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Modular Board",
+        "Team-Based Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "104162",
+            "game_name": "Descent: Journeys in the Dark (Second Edition)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/104162"
+        }
+    ],
+    "designers_string": "Jonathan E Bove; Nathan I. Hajek",
+    "categories_string": "Adventure; Expansion for Base-game; Exploration; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Action Points; Campaign / Battle Card Driven; Cooperative Game; Dice Rolling; Grid Movement; Modular Board; Team-Based Game; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '104162', 'game_name': 'Descent: Journeys in the Dark (Second Edition)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/104162'}"
+}

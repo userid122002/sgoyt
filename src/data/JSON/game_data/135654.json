@@ -1,0 +1,85 @@
+{
+    "game_id": "135654",
+    "game_name": "New Dawn",
+    "bgg_link": "https://boardgamegeek.com/boardgame/135654",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5553246",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5553246#item5553246",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Freeloading Phill"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5902456",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5902456#item5902456",
+            "geeklist_host": "Jorune",
+            "contributor": "Freeloading Phill"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7059296",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7059296#item7059296",
+            "geeklist_host": "labrhat22",
+            "contributor": "Freeloading Phill"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/8edFA5e8T-EAjPgk_cQzNQ__thumb/img/wyh0A_XToVip47eTQHi-GY_Hqgw=/fit-in/200x150/filters:strip_icc()/pic2630496.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Konstantinos Kokkinis",
+        "Sotirios Tsantilas"
+    ],
+    "weight": 3.02,
+    "rating": 6.90,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "6",
+    "categories": [
+        "Economic",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Hand Management",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "167877",
+            "expansion_name": "New Dawn: Bonus Game Material",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167877"
+        },
+        {
+            "expansion_id": "182883",
+            "expansion_name": "New Dawn: Exodai",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182883"
+        },
+        {
+            "expansion_id": "167900",
+            "expansion_name": "New Dawn: U-Cannon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167900"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Konstantinos Kokkinis; Sotirios Tsantilas",
+    "categories_string": "Economic; Science Fiction; Space Exploration",
+    "mechanics_string": "Area Majority / Influence; Dice Rolling; Hand Management; Tile Placement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '167877', 'expansion_name': 'New Dawn: Bonus Game Material', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167877'}; {'expansion_id': '182883', 'expansion_name': 'New Dawn: Exodai', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182883'}; {'expansion_id': '167900', 'expansion_name': 'New Dawn: U-Cannon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167900'}",
+    "expansions_for_string": ""
+}

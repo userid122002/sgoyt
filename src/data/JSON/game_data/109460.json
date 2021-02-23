@@ -1,0 +1,81 @@
+{
+    "game_id": "109460",
+    "game_name": "World at War: Into the Breach",
+    "bgg_link": "https://boardgamegeek.com/boardgame/109460",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3401473",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3401473#item3401473",
+            "geeklist_host": "Malaiser",
+            "contributor": "jon7167"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7392173",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7392173#item7392173",
+            "geeklist_host": "jeffrhind",
+            "contributor": "JLPreiser"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7646308",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7646308#item7646308",
+            "geeklist_host": "threepointthed",
+            "contributor": "JLPreiser"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/SpqogGfU87xGISSUxfd2Aw__thumb/img/X7WlJl7jqZyCKJt-bwHQ9lKx8B0=/fit-in/200x150/filters:strip_icc()/pic1106332.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Ralph Ferrari",
+        "General Sir John Hackett",
+        "Matt Lohse",
+        "Jeff Schulte",
+        "Mark H. Walker"
+    ],
+    "weight": 2.38,
+    "rating": 8.07,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Modern Warfare",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Chit-Pull System",
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "134044",
+            "expansion_name": "World at War: Counterattack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134044"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "41934",
+            "game_name": "World at War: The Untold Stories",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/41934"
+        }
+    ],
+    "designers_string": "Ralph Ferrari; General Sir John Hackett; Matt Lohse; Jeff Schulte; Mark H. Walker",
+    "categories_string": "Expansion for Base-game; Modern Warfare; Wargame",
+    "mechanics_string": "Chit-Pull System; Hexagon Grid",
+    "expansions_string": "{'expansion_id': '134044', 'expansion_name': 'World at War: Counterattack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134044'}",
+    "expansions_for_string": "{'game_id': '41934', 'game_name': 'World at War: The Untold Stories', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/41934'}"
+}

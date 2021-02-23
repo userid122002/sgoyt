@@ -1,0 +1,97 @@
+{
+    "game_id": "200454",
+    "game_name": "Planetarium",
+    "bgg_link": "https://boardgamegeek.com/boardgame/200454",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5250500",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5250500#item5250500",
+            "geeklist_host": "suzyvitale",
+            "contributor": "WingTale"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5392703",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5392703#item5392703",
+            "geeklist_host": "maloma",
+            "contributor": "jeffrhind"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5721621",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5721621#item5721621",
+            "geeklist_host": "cornishlee",
+            "contributor": "kldonnelly"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5723042",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5723042#item5723042",
+            "geeklist_host": "cornishlee",
+            "contributor": "kldonnelly"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7636567",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7636567#item7636567",
+            "geeklist_host": "threepointthed",
+            "contributor": "SpaceAlien"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/AJEBXgU3LiC50ov95rGGvQ__thumb/img/TYzBcPN-sMZde8jTmSApEZah0ow=/fit-in/200x150/filters:strip_icc()/pic3224251.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Stephane Vachon"
+    ],
+    "weight": 2.07,
+    "rating": 7.03,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "6",
+    "categories": [
+        "Educational",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Point to Point Movement",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "259994",
+            "expansion_name": "Planetarium: Primordial",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/259994"
+        },
+        {
+            "expansion_id": "221886",
+            "expansion_name": "Planetarium: Sci-Fi Set 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/221886"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stephane Vachon",
+    "categories_string": "Educational; Science Fiction; Space Exploration",
+    "mechanics_string": "Hand Management; Point to Point Movement; Set Collection",
+    "expansions_string": "{'expansion_id': '259994', 'expansion_name': 'Planetarium: Primordial', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/259994'}; {'expansion_id': '221886', 'expansion_name': 'Planetarium: Sci-Fi Set 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/221886'}",
+    "expansions_for_string": ""
+}

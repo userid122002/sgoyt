@@ -1,0 +1,87 @@
+{
+    "game_id": "127981",
+    "game_name": "Dungeon Heroes",
+    "bgg_link": "https://boardgamegeek.com/boardgame/127981",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "164593",
+            "geeklist_item_id": "2946871",
+            "year_month": "2013/11",
+            "year": "2013",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/164593/item/2946871#item2946871",
+            "geeklist_host": "mikolajl",
+            "contributor": "Marlowespade"
+        },
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3266296",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3266296#item3266296",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "fractaloon"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3993422",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3993422#item3993422",
+            "geeklist_host": "joestin",
+            "contributor": "petegs"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7906612",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7906612#item7906612",
+            "geeklist_host": "Elida",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/3NkMM9492TfW8d-mEkBeEw__thumb/img/Nf3N-UKUnRFG2CdJGZ4X3vxHx04=/fit-in/200x150/filters:strip_icc()/pic1501593.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Michael Coe"
+    ],
+    "weight": 1.95,
+    "rating": 6.35,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "2",
+    "categories": [
+        "Bluffing",
+        "Exploration",
+        "Fantasy",
+        "Medieval",
+        "Memory"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Enclosure",
+        "Grid Movement",
+        "Memory",
+        "Push Your Luck",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "135612",
+            "expansion_name": "Dungeon Heroes: Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/135612"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Michael Coe",
+    "categories_string": "Bluffing; Exploration; Fantasy; Medieval; Memory",
+    "mechanics_string": "Action Points; Enclosure; Grid Movement; Memory; Push Your Luck; Tile Placement",
+    "expansions_string": "{'expansion_id': '135612', 'expansion_name': 'Dungeon Heroes: Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/135612'}",
+    "expansions_for_string": ""
+}

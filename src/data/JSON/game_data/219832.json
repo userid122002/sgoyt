@@ -1,0 +1,79 @@
+{
+    "game_id": "219832",
+    "game_name": "Barbarians: The Invasion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/219832",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6077999",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6077999#item6077999",
+            "geeklist_host": "skeletonhat",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7725114",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7725114#item7725114",
+            "geeklist_host": "Elida",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7729902",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7729902#item7729902",
+            "geeklist_host": "Elida",
+            "contributor": "gentle"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/LzgWcBw7NPniFDX1EYnZ4A__thumb/img/iwseg3hky1tMdKEVgqEcRug83-s=/fit-in/200x150/filters:strip_icc()/pic3847850.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Martino Chiacchiera",
+        "Marta Ciaccasassi",
+        "Pierluca Zizzi"
+    ],
+    "weight": 3.26,
+    "rating": 7.53,
+    "play_time": "90",
+    "best": "3",
+    "recommended": "16",
+    "not_recommended": "4",
+    "categories": [
+        "Civilization",
+        "Economic",
+        "Exploration",
+        "Fantasy",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Network and Route Building",
+        "Set Collection",
+        "Variable Phase Order",
+        "Variable Player Powers",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "291133",
+            "expansion_name": "Barbarians: The Invasion - Mystics Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291133"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Martino Chiacchiera; Marta Ciaccasassi; Pierluca Zizzi",
+    "categories_string": "Civilization; Economic; Exploration; Fantasy; Miniatures",
+    "mechanics_string": "Area Majority / Influence; Network and Route Building; Set Collection; Variable Phase Order; Variable Player Powers; Worker Placement",
+    "expansions_string": "{'expansion_id': '291133', 'expansion_name': 'Barbarians: The Invasion - Mystics Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291133'}",
+    "expansions_for_string": ""
+}

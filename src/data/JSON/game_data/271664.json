@@ -1,0 +1,126 @@
+{
+    "game_id": "271664",
+    "game_name": "Euphoria: Ignorance Is Bliss",
+    "bgg_link": "https://boardgamegeek.com/boardgame/271664",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6821248",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6821248#item6821248",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "cnhstreet"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6826059",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6826059#item6826059",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "neotrunks2002"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6828792",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6828792#item6828792",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "neotrunks2002"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6830250",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6830250#item6830250",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "neotrunks2002"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6911007",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6911007#item6911007",
+            "geeklist_host": "Woelf",
+            "contributor": "mithoron"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6932243",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6932243#item6932243",
+            "geeklist_host": "Woelf",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6992917",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6992917#item6992917",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Rapscallion_69"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7305358",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7305358#item7305358",
+            "geeklist_host": "narcher007",
+            "contributor": "mithoron"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/YtkpptYfdM73a_KBxKJogg__thumb/img/KML8PDurxQDPPJOJOQsrPWrI7NA=/fit-in/200x150/filters:strip_icc()/pic4562579.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Morten Monrad Pedersen",
+        "Nick Shaw",
+        "David J. Studley"
+    ],
+    "weight": 2.90,
+    "rating": 8.00,
+    "play_time": "40 - 90",
+    "best": "7",
+    "recommended": "5",
+    "not_recommended": "1",
+    "categories": [
+        "Dice",
+        "Economic",
+        "Expansion for Base-game",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Set Collection",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "133848",
+            "game_name": "Euphoria: Build a Better Dystopia",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/133848"
+        }
+    ],
+    "designers_string": "Morten Monrad Pedersen; Nick Shaw; David J. Studley",
+    "categories_string": "Dice; Economic; Expansion for Base-game; Science Fiction",
+    "mechanics_string": "Dice Rolling; Hand Management; Set Collection; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '133848', 'game_name': 'Euphoria: Build a Better Dystopia', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/133848'}"
+}

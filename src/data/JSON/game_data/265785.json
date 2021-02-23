@@ -1,0 +1,76 @@
+{
+    "game_id": "265785",
+    "game_name": "Rune",
+    "bgg_link": "https://boardgamegeek.com/boardgame/265785",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7567419",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7567419#item7567419",
+            "geeklist_host": "Doc_H",
+            "contributor": "Rindel"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7567705",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7567705#item7567705",
+            "geeklist_host": "Doc_H",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/6bt21rB4fOYWv4X29K-DBQ__thumb/img/GsPpfUqbaQJ6zt3NIglJhmYelZw=/fit-in/200x150/filters:strip_icc()/pic4439887.png",
+    "year_published": "2019",
+    "designers": [
+        "Zemilio"
+    ],
+    "weight": 1.75,
+    "rating": 7.07,
+    "play_time": "5 - 15",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "2",
+    "categories": [
+        "Abstract Strategy",
+        "Card Game",
+        "Puzzle"
+    ],
+    "mechanics": [
+        "Connections",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "324235",
+            "expansion_name": "Rune: Adepts Micro Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324235"
+        },
+        {
+            "expansion_id": "326524",
+            "expansion_name": "Rune: Dark Master Micro Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/326524"
+        },
+        {
+            "expansion_id": "277268",
+            "expansion_name": "Rune: Grand Master Micro Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/277268"
+        },
+        {
+            "expansion_id": "326525",
+            "expansion_name": "Rune: The Third Master",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/326525"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Zemilio",
+    "categories_string": "Abstract Strategy; Card Game; Puzzle",
+    "mechanics_string": "Connections; Tile Placement",
+    "expansions_string": "{'expansion_id': '324235', 'expansion_name': 'Rune: Adepts Micro Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324235'}; {'expansion_id': '326524', 'expansion_name': 'Rune: Dark Master Micro Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/326524'}; {'expansion_id': '277268', 'expansion_name': 'Rune: Grand Master Micro Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/277268'}; {'expansion_id': '326525', 'expansion_name': 'Rune: The Third Master', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/326525'}",
+    "expansions_for_string": ""
+}

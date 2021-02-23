@@ -1,0 +1,79 @@
+{
+    "game_id": "183251",
+    "game_name": "Karuba",
+    "bgg_link": "https://boardgamegeek.com/boardgame/183251",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6708118",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6708118#item6708118",
+            "geeklist_host": "The_Omnius",
+            "contributor": "Ann D"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7828251",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7828251#item7828251",
+            "geeklist_host": "mithoron",
+            "contributor": "dukefanblue2005"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/hhV3JiYZUHEi_glLhC0v8w__thumb/img/_XHxgYraTvLmBnHpY8snFa2ma9o=/fit-in/200x150/filters:strip_icc()/pic2727088.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Rudiger Dorn"
+    ],
+    "weight": 1.46,
+    "rating": 7.21,
+    "play_time": "30 - 40",
+    "best": "0",
+    "recommended": "6",
+    "not_recommended": "56",
+    "categories": [
+        "Puzzle",
+        "Racing"
+    ],
+    "mechanics": [
+        "Bingo",
+        "Connections",
+        "Grid Movement",
+        "Network and Route Building",
+        "Simultaneous Action Selection",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "204573",
+            "expansion_name": "Brettspiel Adventskalender 2016",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204573"
+        },
+        {
+            "expansion_id": "190682",
+            "expansion_name": "Karuba extension: bonus tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190682"
+        },
+        {
+            "expansion_id": "218540",
+            "expansion_name": "Karuba: Add-on",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218540"
+        },
+        {
+            "expansion_id": "213220",
+            "expansion_name": "Karuba: The Volcano",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213220"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Rudiger Dorn",
+    "categories_string": "Puzzle; Racing",
+    "mechanics_string": "Bingo; Connections; Grid Movement; Network and Route Building; Simultaneous Action Selection; Tile Placement",
+    "expansions_string": "{'expansion_id': '204573', 'expansion_name': 'Brettspiel Adventskalender 2016', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204573'}; {'expansion_id': '190682', 'expansion_name': 'Karuba extension: bonus tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190682'}; {'expansion_id': '218540', 'expansion_name': 'Karuba: Add-on', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218540'}; {'expansion_id': '213220', 'expansion_name': 'Karuba: The Volcano', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213220'}",
+    "expansions_for_string": ""
+}

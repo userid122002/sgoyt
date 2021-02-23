@@ -1,0 +1,68 @@
+{
+    "game_id": "10547",
+    "game_name": "Betrayal at House on the Hill",
+    "bgg_link": "https://boardgamegeek.com/boardgame/10547",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3571103",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3571103#item3571103",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "repairmanjack"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__thumb/img/EDOmDbRhLy4za2PHkJ5IbhNxZmk=/fit-in/200x150/filters:strip_icc()/pic5146864.png",
+    "year_published": "2004",
+    "designers": [
+        "Bruce Glassco",
+        "Rob Daviau",
+        "Bill McQuillan",
+        "Mike Selinker",
+        "Teeuwynn Woodruff"
+    ],
+    "weight": 2.39,
+    "rating": 7.06,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "322",
+    "categories": [
+        "Adventure",
+        "Exploration",
+        "Horror",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Map Addition",
+        "Modular Board",
+        "Player Elimination",
+        "Role Playing",
+        "Storytelling",
+        "Team-Based Game",
+        "Traitor Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "238032",
+            "expansion_name": "Betrayal at Baldur's Gate and House on the Hill Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/238032"
+        },
+        {
+            "expansion_id": "198452",
+            "expansion_name": "Betrayal at House on the Hill: Widow's Walk",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/198452"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Bruce Glassco; Rob Daviau; Bill McQuillan; Mike Selinker; Teeuwynn Woodruff",
+    "categories_string": "Adventure; Exploration; Horror; Miniatures",
+    "mechanics_string": "Dice Rolling; Map Addition; Modular Board; Player Elimination; Role Playing; Storytelling; Team-Based Game; Traitor Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '238032', 'expansion_name': \"Betrayal at Baldur's Gate and House on the Hill Promo Cards\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/238032'}; {'expansion_id': '198452', 'expansion_name': \"Betrayal at House on the Hill: Widow's Walk\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/198452'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,63 @@
+{
+    "game_id": "122891",
+    "game_name": "Courtier",
+    "bgg_link": "https://boardgamegeek.com/boardgame/122891",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3924117",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3924117#item3924117",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4728217",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4728217#item4728217",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "eastwoodk"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/rNiJutCHntDywMBkfx3fOA__thumb/img/qC3_HHclpZNBapzfydy2FI-AInM=/fit-in/200x150/filters:strip_icc()/pic1355948.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Philip duBarry"
+    ],
+    "weight": 2.34,
+    "rating": 6.66,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "11",
+    "categories": [
+        "Card Game",
+        "Renaissance",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Card Drafting",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "248447",
+            "expansion_name": "Courtier: Power Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/248447"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Philip duBarry",
+    "categories_string": "Card Game; Renaissance; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Card Drafting; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '248447', 'expansion_name': 'Courtier: Power Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/248447'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,133 @@
+{
+    "game_id": "248591",
+    "game_name": "Dinosaur Island: Totally Liquid",
+    "bgg_link": "https://boardgamegeek.com/boardgame/248591",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6637525",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6637525#item6637525",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "Dubious Bryn"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6643260",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6643260#item6643260",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6648614",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6648614#item6648614",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6654798",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6654798#item6654798",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6656793",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6656793#item6656793",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6659015",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6659015#item6659015",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7139304",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7139304#item7139304",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7146973",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7146973#item7146973",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "carbon_dragon"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/ua6A8K1kW5MishcBfq9H1g__thumb/img/Neloa2LgkG91rBHQSuO8-feWeao=/fit-in/200x150/filters:strip_icc()/pic4033324.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Jonathan Gilmour",
+        "Brian Lewis",
+        "Ian Moss"
+    ],
+    "weight": 3.29,
+    "rating": 8.08,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "7",
+    "not_recommended": "5",
+    "categories": [
+        "Animals",
+        "Economic",
+        "Expansion for Base-game",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Set Collection",
+        "Tile Placement",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "289938",
+            "expansion_name": "Dinosaur Island: Space Dinosaur Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/289938"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "221194",
+            "game_name": "Dinosaur Island",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/221194"
+        }
+    ],
+    "designers_string": "Jonathan Gilmour; Brian Lewis; Ian Moss",
+    "categories_string": "Animals; Economic; Expansion for Base-game; Science Fiction",
+    "mechanics_string": "Action Points; Dice Rolling; Set Collection; Tile Placement; Worker Placement",
+    "expansions_string": "{'expansion_id': '289938', 'expansion_name': 'Dinosaur Island: Space Dinosaur Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/289938'}",
+    "expansions_for_string": "{'game_id': '221194', 'game_name': 'Dinosaur Island', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/221194'}"
+}

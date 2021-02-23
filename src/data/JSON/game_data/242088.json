@@ -1,0 +1,62 @@
+{
+    "game_id": "242088",
+    "game_name": "Arkham Horror: The Card Game - Dim Carcosa: Mythos Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/242088",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6325993",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6325993#item6325993",
+            "geeklist_host": "spaceman23",
+            "contributor": "MadMihi"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/tM-iGXlGLQBA0QQ7xnHPZw__thumb/img/pshqm_4jODbGDLrYc_-A7ESlDkk=/fit-in/200x150/filters:strip_icc()/pic3948883.png",
+    "year_published": "2018",
+    "designers": [],
+    "weight": 4.00,
+    "rating": 8.47,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Collectible Components",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        },
+        {
+            "game_id": "225563",
+            "game_name": "Arkham Horror: The Card Game - The Path to Carcosa: Expansion",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/225563"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Adventure; Card Game; Collectible Components; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Action Points; Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Role Playing; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}; {'game_id': '225563', 'game_name': 'Arkham Horror: The Card Game - The Path to Carcosa: Expansion', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/225563'}"
+}

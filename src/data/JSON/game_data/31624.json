@@ -1,0 +1,49 @@
+{
+    "game_id": "31624",
+    "game_name": "League of Six",
+    "bgg_link": "https://boardgamegeek.com/boardgame/31624",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7116464",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7116464#item7116464",
+            "geeklist_host": "Venom Snake",
+            "contributor": "cirdan"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/a8syc3DFcDpa1zm_mfNYXw__thumb/img/iwSkFqqnn6BmeYfZZFod39x51qE=/fit-in/200x150/filters:strip_icc()/pic273655.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Vladimir Suchy"
+    ],
+    "weight": 2.89,
+    "rating": 6.80,
+    "play_time": "75 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "16",
+    "categories": [
+        "Medieval"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Pick-up and Deliver"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "38522",
+            "expansion_name": "League of Six: Loyal Retinue",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38522"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vladimir Suchy",
+    "categories_string": "Medieval",
+    "mechanics_string": "Auction/Bidding; Pick-up and Deliver",
+    "expansions_string": "{'expansion_id': '38522', 'expansion_name': 'League of Six: Loyal Retinue', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38522'}",
+    "expansions_for_string": ""
+}

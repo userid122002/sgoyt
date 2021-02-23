@@ -1,0 +1,146 @@
+{
+    "game_id": "113942",
+    "game_name": "Space Empires: Close Encounters",
+    "bgg_link": "https://boardgamegeek.com/boardgame/113942",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2843911",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2843911#item2843911",
+            "geeklist_host": "pusherman42",
+            "contributor": "CRB31"
+        },
+        {
+            "geeklist_id": "171598",
+            "geeklist_item_id": "3197014",
+            "year_month": "2014/04",
+            "year": "2014",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/171598/item/3197014#item3197014",
+            "geeklist_host": "Malaiser",
+            "contributor": "Yaboo"
+        },
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3203579",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3203579#item3203579",
+            "geeklist_host": "fractaloon",
+            "contributor": "Yaboo"
+        },
+        {
+            "geeklist_id": "175551",
+            "geeklist_item_id": "3305204",
+            "year_month": "2014/07",
+            "year": "2014",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/175551/item/3305204#item3305204",
+            "geeklist_host": "Woelf",
+            "contributor": "Yaboo"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3671390",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3671390#item3671390",
+            "geeklist_host": "bikefreak",
+            "contributor": "Deathworks"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5577595",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5577595#item5577595",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Garbinho"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6941426",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6941426#item6941426",
+            "geeklist_host": "Woelf",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6947615",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6947615#item6947615",
+            "geeklist_host": "Woelf",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6992269",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6992269#item6992269",
+            "geeklist_host": "magic_erwt",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7593981",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7593981#item7593981",
+            "geeklist_host": "jwml",
+            "contributor": "de_la_poer"
+        }
+    ],
+    "sgoyt_count": 10,
+    "thumbnail": "https://cf.geekdo-images.com/CCOvy46H7tNU17LWfBN1XQ__thumb/img/9FI1XJT9lyfDb3bi4UjY72Xykk8=/fit-in/200x150/filters:strip_icc()/pic1391437.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Jim Krohn"
+    ],
+    "weight": 3.56,
+    "rating": 8.31,
+    "play_time": "180",
+    "best": "2",
+    "recommended": "9",
+    "not_recommended": "1",
+    "categories": [
+        "Bluffing",
+        "Civilization",
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Secret Unit Deployment",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "84419",
+            "game_name": "Space Empires: 4X",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/84419"
+        }
+    ],
+    "designers_string": "Jim Krohn",
+    "categories_string": "Bluffing; Civilization; Expansion for Base-game; Science Fiction; Space Exploration; Wargame",
+    "mechanics_string": "Dice Rolling; Hexagon Grid; Secret Unit Deployment; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '84419', 'game_name': 'Space Empires: 4X', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/84419'}"
+}

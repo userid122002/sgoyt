@@ -1,0 +1,69 @@
+{
+    "game_id": "245934",
+    "game_name": "Carpe Diem",
+    "bgg_link": "https://boardgamegeek.com/boardgame/245934",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6468673",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6468673#item6468673",
+            "geeklist_host": "kevinruns262",
+            "contributor": "mjrobertson"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7558026",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7558026#item7558026",
+            "geeklist_host": "Doc_H",
+            "contributor": "GameRulesforOne"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7928980",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7928980#item7928980",
+            "geeklist_host": "Elida",
+            "contributor": "ankno"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/MS6IGVNzi4jirZSYJH5uSg__thumb/img/QbFE_-YYkaIpmUHG43n4K13zyaY=/fit-in/200x150/filters:strip_icc()/pic5929511.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Stefan Feld"
+    ],
+    "weight": 2.51,
+    "rating": 7.58,
+    "play_time": "45 - 75",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "42",
+    "categories": [
+        "Ancient"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "292011",
+            "expansion_name": "Carpe Diem: 1st Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292011"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stefan Feld",
+    "categories_string": "Ancient",
+    "mechanics_string": "Card Drafting; Tile Placement",
+    "expansions_string": "{'expansion_id': '292011', 'expansion_name': 'Carpe Diem: 1st Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292011'}",
+    "expansions_for_string": ""
+}

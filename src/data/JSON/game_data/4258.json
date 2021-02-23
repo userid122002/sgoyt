@@ -1,0 +1,54 @@
+{
+    "game_id": "4258",
+    "game_name": "Totaler Krieg!",
+    "bgg_link": "https://boardgamegeek.com/boardgame/4258",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6957699",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6957699#item6957699",
+            "geeklist_host": "magic_erwt",
+            "contributor": "catosulla"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Zfu6WZohZi3KFRNmuVIxmQ__thumb/img/KfrYpHva4F_FluEpoYWzcxugmGg=/fit-in/200x150/filters:strip_icc()/pic20360.jpg",
+    "year_published": "1999",
+    "designers": [
+        "Alan Emrich",
+        "Steve Kosakowski"
+    ],
+    "weight": 4.04,
+    "rating": 7.43,
+    "play_time": "360",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "6",
+    "categories": [
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "34604",
+            "expansion_name": "Totaler Krieg! Player's Guide & Expansion Kit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34604"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Alan Emrich; Steve Kosakowski",
+    "categories_string": "Wargame; World War II",
+    "mechanics_string": "Action Queue; Dice Rolling; Grid Movement; Hexagon Grid; Simulation",
+    "expansions_string": "{'expansion_id': '34604', 'expansion_name': \"Totaler Krieg! Player's Guide & Expansion Kit\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34604'}",
+    "expansions_for_string": ""
+}

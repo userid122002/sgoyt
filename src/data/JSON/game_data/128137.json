@@ -1,0 +1,64 @@
+{
+    "game_id": "128137",
+    "game_name": "Damage Report",
+    "bgg_link": "https://boardgamegeek.com/boardgame/128137",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3458349",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3458349#item3458349",
+            "geeklist_host": "Malaiser",
+            "contributor": "CarpeGuitarrem"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/NEAiaCP2zzxSHb8VXqUcpQ__thumb/img/Sesj4bGrPWEfkUiTI7ACAhlP_eY=/fit-in/200x150/filters:strip_icc()/pic1740401.png",
+    "year_published": "2014",
+    "designers": [
+        "Alex Barbieri"
+    ],
+    "weight": 2.60,
+    "rating": 6.47,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "3",
+    "categories": [
+        "Real-time",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Timer",
+        "Cooperative Game",
+        "Modular Board",
+        "Pick-up and Deliver",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "158946",
+            "expansion_name": "Damage Report: Backer Crew",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158946"
+        },
+        {
+            "expansion_id": "149111",
+            "expansion_name": "Damage Report: On Fire",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149111"
+        },
+        {
+            "expansion_id": "149113",
+            "expansion_name": "Damage Report: Problems with Puffballs Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149113"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Alex Barbieri",
+    "categories_string": "Real-time; Science Fiction",
+    "mechanics_string": "Action Timer; Cooperative Game; Modular Board; Pick-up and Deliver; Simultaneous Action Selection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '158946', 'expansion_name': 'Damage Report: Backer Crew', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158946'}; {'expansion_id': '149111', 'expansion_name': 'Damage Report: On Fire', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149111'}; {'expansion_id': '149113', 'expansion_name': 'Damage Report: Problems with Puffballs Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149113'}",
+    "expansions_for_string": ""
+}

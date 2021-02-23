@@ -1,0 +1,87 @@
+{
+    "game_id": "35767",
+    "game_name": "Lock 'n Load Tactical: Dark July 43",
+    "bgg_link": "https://boardgamegeek.com/boardgame/35767",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7491345",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7491345#item7491345",
+            "geeklist_host": "jomurph86",
+            "contributor": "JLPreiser"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7500163",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7500163#item7500163",
+            "geeklist_host": "Doc_H",
+            "contributor": "JLPreiser"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/jZYsfzuu4RnytQMeKqt2Rw__thumb/img/szsd4i4z6O3XLlr4f2fJLOL0G20=/fit-in/200x150/filters:strip_icc()/pic3365939.jpg",
+    "year_published": "2008",
+    "designers": [
+        "Juan Carlos Cebrian",
+        "Jeff Lewis"
+    ],
+    "weight": 2.85,
+    "rating": 8.10,
+    "play_time": "90 - 280",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "319877",
+            "expansion_name": "Lock 'n Load Tactical: Battle Generator v2.0",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/319877"
+        },
+        {
+            "expansion_id": "250502",
+            "expansion_name": "Lock 'n Load Tactical: Core Rules v5.0",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/250502"
+        },
+        {
+            "expansion_id": "209830",
+            "expansion_name": "Lock 'n Load Tactical: Solo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/209830"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "184563",
+            "game_name": "Lock 'n Load Tactical: Heroes of the Motherland",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/184563"
+        },
+        {
+            "game_id": "18460",
+            "game_name": "Lock 'n Load: Band of Heroes",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/18460"
+        },
+        {
+            "game_id": "29807",
+            "game_name": "Lock 'n Load: Not One Step Back",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/29807"
+        }
+    ],
+    "designers_string": "Juan Carlos Cebrian; Jeff Lewis",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Hexagon Grid",
+    "expansions_string": "{'expansion_id': '319877', 'expansion_name': \"Lock 'n Load Tactical: Battle Generator v2.0\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/319877'}; {'expansion_id': '250502', 'expansion_name': \"Lock 'n Load Tactical: Core Rules v5.0\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/250502'}; {'expansion_id': '209830', 'expansion_name': \"Lock 'n Load Tactical: Solo\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/209830'}",
+    "expansions_for_string": "{'game_id': '184563', 'game_name': \"Lock 'n Load Tactical: Heroes of the Motherland\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/184563'}; {'game_id': '18460', 'game_name': \"Lock 'n Load: Band of Heroes\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/18460'}; {'game_id': '29807', 'game_name': \"Lock 'n Load: Not One Step Back\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/29807'}"
+}

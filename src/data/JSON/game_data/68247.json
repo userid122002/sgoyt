@@ -1,0 +1,59 @@
+{
+    "game_id": "68247",
+    "game_name": "The Mines of Zavandor",
+    "bgg_link": "https://boardgamegeek.com/boardgame/68247",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "175551",
+            "geeklist_item_id": "3342024",
+            "year_month": "2014/07",
+            "year": "2014",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/175551/item/3342024#item3342024",
+            "geeklist_host": "Woelf",
+            "contributor": "Ibbo"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3642194",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3642194#item3642194",
+            "geeklist_host": "bikefreak",
+            "contributor": "True_Dave"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/yzxDqGxeXBch_8yF5WGbfA__thumb/img/sotJuSBVsFaRR0yuRyf6TxvoL4s=/fit-in/200x150/filters:strip_icc()/pic844487.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Alexander Pfister"
+    ],
+    "weight": 2.60,
+    "rating": 6.59,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "10",
+    "categories": [
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Trading"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "132120",
+            "expansion_name": "Die Minen von Zavandor: Die verlorenen Spruchrollen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132120"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Alexander Pfister",
+    "categories_string": "Fantasy",
+    "mechanics_string": "Auction/Bidding; Trading",
+    "expansions_string": "{'expansion_id': '132120', 'expansion_name': 'Die Minen von Zavandor: Die verlorenen Spruchrollen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132120'}",
+    "expansions_for_string": ""
+}

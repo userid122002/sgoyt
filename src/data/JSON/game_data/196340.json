@@ -1,0 +1,76 @@
+{
+    "game_id": "196340",
+    "game_name": "Yokohama",
+    "bgg_link": "https://boardgamegeek.com/boardgame/196340",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5522886",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5522886#item5522886",
+            "geeklist_host": "Mishko",
+            "contributor": "mithoron"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5523170",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5523170#item5523170",
+            "geeklist_host": "Mishko",
+            "contributor": "radchad"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5726904",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5726904#item5726904",
+            "geeklist_host": "cornishlee",
+            "contributor": "eastwoodk"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/ocI_xrJ7A-cDTTMUoYBNzw__thumb/img/FV_oHALnYd3AHo0FPCfYMkSedBM=/fit-in/200x150/filters:strip_icc()/pic3600984.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Hisashi Hayashi"
+    ],
+    "weight": 3.27,
+    "rating": 7.86,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "77",
+    "categories": [
+        "Economic"
+    ],
+    "mechanics": [
+        "Contracts",
+        "End Game Bonuses",
+        "Grid Movement",
+        "Modular Board",
+        "Network and Route Building",
+        "Set Collection",
+        "Variable Set-up",
+        "Worker Placement",
+        "Worker Placement, Different Worker Types"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "232352",
+            "expansion_name": "Yokohama: Achievements & Free Agents Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/232352"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Hisashi Hayashi",
+    "categories_string": "Economic",
+    "mechanics_string": "Contracts; End Game Bonuses; Grid Movement; Modular Board; Network and Route Building; Set Collection; Variable Set-up; Worker Placement; Worker Placement, Different Worker Types",
+    "expansions_string": "{'expansion_id': '232352', 'expansion_name': 'Yokohama: Achievements & Free Agents Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/232352'}",
+    "expansions_for_string": ""
+}

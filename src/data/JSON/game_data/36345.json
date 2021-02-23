@@ -1,0 +1,72 @@
+{
+    "game_id": "36345",
+    "game_name": "Monty Python Fluxx",
+    "bgg_link": "https://boardgamegeek.com/boardgame/36345",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7432956",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7432956#item7432956",
+            "geeklist_host": "jomurph86",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/5uikyTtFuRIsHWK6Gz0ekQ__thumb/img/psfzxL2YIT5mFi8UDb_K6sIImGI=/fit-in/200x150/filters:strip_icc()/pic385725.jpg",
+    "year_published": "2008",
+    "designers": [
+        "Andrew Looney"
+    ],
+    "weight": 1.35,
+    "rating": 6.06,
+    "play_time": "40",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "18",
+    "categories": [
+        "Card Game",
+        "Humor",
+        "Movies / TV / Radio theme"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Set Collection",
+        "Singing"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "177946",
+            "expansion_name": "Fluxx Dice",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/177946"
+        },
+        {
+            "expansion_id": "44489",
+            "expansion_name": "Fluxx Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/44489"
+        },
+        {
+            "expansion_id": "92206",
+            "expansion_name": "Fluxx: BoardGameGeek Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92206"
+        },
+        {
+            "expansion_id": "255018",
+            "expansion_name": "Monty Python Fluxx: Black Knight Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/255018"
+        },
+        {
+            "expansion_id": "40887",
+            "expansion_name": "Monty Python Fluxx: Castle Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40887"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Andrew Looney",
+    "categories_string": "Card Game; Humor; Movies / TV / Radio theme",
+    "mechanics_string": "Hand Management; Set Collection; Singing",
+    "expansions_string": "{'expansion_id': '177946', 'expansion_name': 'Fluxx Dice', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/177946'}; {'expansion_id': '44489', 'expansion_name': 'Fluxx Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/44489'}; {'expansion_id': '92206', 'expansion_name': 'Fluxx: BoardGameGeek Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92206'}; {'expansion_id': '255018', 'expansion_name': 'Monty Python Fluxx: Black Knight Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/255018'}; {'expansion_id': '40887', 'expansion_name': 'Monty Python Fluxx: Castle Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40887'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,104 @@
+{
+    "game_id": "207991",
+    "game_name": "Quodd Heroes",
+    "bgg_link": "https://boardgamegeek.com/boardgame/207991",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6917396",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6917396#item6917396",
+            "geeklist_host": "Woelf",
+            "contributor": "Razoupaf"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7622957",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7622957#item7622957",
+            "geeklist_host": "threepointthed",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7624573",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7624573#item7624573",
+            "geeklist_host": "threepointthed",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7822867",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7822867#item7822867",
+            "geeklist_host": "mithoron",
+            "contributor": "BunniCladwell"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/r_ponwLZ3U8NeHPwAPTiww__thumb/img/0QoNFpmSRaxKeKpTNTV4X9aHxgQ=/fit-in/200x150/filters:strip_icc()/pic3796365.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Ryan Iler"
+    ],
+    "weight": 3.12,
+    "rating": 7.44,
+    "play_time": "30 - 90",
+    "best": "14",
+    "recommended": "7",
+    "not_recommended": "4",
+    "categories": [
+        "Adventure",
+        "Exploration",
+        "Fantasy",
+        "Miniatures",
+        "Puzzle",
+        "Racing"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Cooperative Game",
+        "Grid Movement",
+        "Modular Board",
+        "Pick-up and Deliver",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "225336",
+            "expansion_name": "Quodd Heroes: Fringe Underground Map Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/225336"
+        },
+        {
+            "expansion_id": "270118",
+            "expansion_name": "Quodd Heroes: Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/270118"
+        },
+        {
+            "expansion_id": "292815",
+            "expansion_name": "Quodd Heroes: Promo Pack 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292815"
+        },
+        {
+            "expansion_id": "326882",
+            "expansion_name": "Quodd Heroes: Tom's Brew",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/326882"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ryan Iler",
+    "categories_string": "Adventure; Exploration; Fantasy; Miniatures; Puzzle; Racing",
+    "mechanics_string": "Action Queue; Cooperative Game; Grid Movement; Modular Board; Pick-up and Deliver; Solo / Solitaire Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '225336', 'expansion_name': 'Quodd Heroes: Fringe Underground Map Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/225336'}; {'expansion_id': '270118', 'expansion_name': 'Quodd Heroes: Promo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/270118'}; {'expansion_id': '292815', 'expansion_name': 'Quodd Heroes: Promo Pack 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292815'}; {'expansion_id': '326882', 'expansion_name': \"Quodd Heroes: Tom's Brew\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/326882'}",
+    "expansions_for_string": ""
+}

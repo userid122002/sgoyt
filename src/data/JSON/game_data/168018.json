@@ -1,0 +1,148 @@
+{
+    "game_id": "168018",
+    "game_name": "Onirim (Second Edition): Sphinx, Diver and Confusion Promo Cards",
+    "bgg_link": "https://boardgamegeek.com/boardgame/168018",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3915267",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3915267#item3915267",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4837578",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4837578#item4837578",
+            "geeklist_host": "govmiller",
+            "contributor": "Gribbon"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5324641",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5324641#item5324641",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Danneq"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5420584",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5420584#item5420584",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Danneq"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6930995",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6930995#item6930995",
+            "geeklist_host": "Woelf",
+            "contributor": "Dubious Bryn"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7695477",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7695477#item7695477",
+            "geeklist_host": "gentle",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7736218",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7736218#item7736218",
+            "geeklist_host": "Elida",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7831649",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7831649#item7831649",
+            "geeklist_host": "mithoron",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7891206",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7891206#item7891206",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7894878",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7894878#item7894878",
+            "geeklist_host": "Elida",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 10,
+    "thumbnail": "https://cf.geekdo-images.com/r2fKaKpfRsMwwQqv_WpvFw__thumb/img/0meMV1u4mPD0Uuf-5_W6npxHGdI=/fit-in/200x150/filters:strip_icc()/pic2282446.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Shadi Torbey"
+    ],
+    "weight": 2.00,
+    "rating": 7.21,
+    "play_time": "0",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Exploration"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Cooperative Game",
+        "Hand Management",
+        "Set Collection"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "71836",
+            "game_name": "Onirim",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/71836"
+        },
+        {
+            "game_id": "156336",
+            "game_name": "Onirim (Second Edition)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/156336"
+        }
+    ],
+    "designers_string": "Shadi Torbey",
+    "categories_string": "Card Game; Expansion for Base-game; Exploration",
+    "mechanics_string": "Card Drafting; Cooperative Game; Hand Management; Set Collection",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '71836', 'game_name': 'Onirim', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/71836'}; {'game_id': '156336', 'game_name': 'Onirim (Second Edition)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/156336'}"
+}

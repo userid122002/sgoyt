@@ -1,0 +1,65 @@
+{
+    "game_id": "106891",
+    "game_name": "Nations at War: White Star Rising - Operation Cobra",
+    "bgg_link": "https://boardgamegeek.com/boardgame/106891",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3635261",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3635261#item3635261",
+            "geeklist_host": "bikefreak",
+            "contributor": "drbeaker13"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/8H1Wy2-6bTvsBB9T6AtBzQ__thumb/img/kPIQC0xxjqH2gVKYVc3O0bul_vQ=/fit-in/200x150/filters:strip_icc()/pic2530509.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Matt Lohse",
+        "Arrigo Velicogna"
+    ],
+    "weight": 2.60,
+    "rating": 7.45,
+    "play_time": "60",
+    "best": "1",
+    "recommended": "3",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Chit-Pull System",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "133581",
+            "expansion_name": "Line of Fire #13",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133581"
+        },
+        {
+            "expansion_id": "132493",
+            "expansion_name": "White Star Rising Tournament Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132493"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "35400",
+            "game_name": "Nations at War: White Star Rising",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/35400"
+        }
+    ],
+    "designers_string": "Matt Lohse; Arrigo Velicogna",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Chit-Pull System; Dice Rolling; Hexagon Grid; Simulation",
+    "expansions_string": "{'expansion_id': '133581', 'expansion_name': 'Line of Fire #13', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133581'}; {'expansion_id': '132493', 'expansion_name': 'White Star Rising Tournament Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132493'}",
+    "expansions_for_string": "{'game_id': '35400', 'game_name': 'Nations at War: White Star Rising', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/35400'}"
+}

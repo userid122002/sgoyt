@@ -1,0 +1,76 @@
+{
+    "game_id": "204055",
+    "game_name": "Warehouse 13: The Board Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/204055",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7139256",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7139256#item7139256",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Woelf"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7741708",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7741708#item7741708",
+            "geeklist_host": "Elida",
+            "contributor": "Woelf"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/xkhubY9kZqnmc3U3A-CEZw__thumb/img/Tm6Iaj7cjPVMow0VfYdif5KF9EY=/fit-in/200x150/filters:strip_icc()/pic3358873.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Michael Aldridge",
+        "Russ Rupe",
+        "M. Shawn Smith, II"
+    ],
+    "weight": 3.12,
+    "rating": 7.33,
+    "play_time": "120 - 150",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "7",
+    "categories": [
+        "Bluffing",
+        "Deduction",
+        "Dice",
+        "Movies / TV / Radio theme",
+        "Science Fiction",
+        "Spies/Secret Agents"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Team-Based Game",
+        "Traitor Game",
+        "Variable Player Powers",
+        "Voting"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "288170",
+            "expansion_name": "Warehouse 13: Leena",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288170"
+        },
+        {
+            "expansion_id": "297667",
+            "expansion_name": "Warehouse 13: Tutankhamun's Senet Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/297667"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Michael Aldridge; Russ Rupe; M. Shawn Smith, II",
+    "categories_string": "Bluffing; Deduction; Dice; Movies / TV / Radio theme; Science Fiction; Spies/Secret Agents",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Hand Management; Team-Based Game; Traitor Game; Variable Player Powers; Voting",
+    "expansions_string": "{'expansion_id': '288170', 'expansion_name': 'Warehouse 13: Leena', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288170'}; {'expansion_id': '297667', 'expansion_name': \"Warehouse 13: Tutankhamun's Senet Set\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/297667'}",
+    "expansions_for_string": ""
+}

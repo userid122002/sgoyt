@@ -1,0 +1,73 @@
+{
+    "game_id": "198585",
+    "game_name": "Caves of the Kobold Slave-Masters: A Solitaire Adventure for Four Against Darkness",
+    "bgg_link": "https://boardgamegeek.com/boardgame/198585",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6159829",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6159829#item6159829",
+            "geeklist_host": "Pjandy",
+            "contributor": "raimundb"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6843154",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6843154#item6843154",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Mity42"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7822191",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7822191#item7822191",
+            "geeklist_host": "mithoron",
+            "contributor": "ArtemisX"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/GlHS_QlRqC3yfJ6297MdkQ__thumb/img/pClEbsrkqxm5oR3blcHY4Xc68rc=/fit-in/200x150/filters:strip_icc()/pic3012620.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Andrea Sfiligoi"
+    ],
+    "weight": 0.00,
+    "rating": 7.53,
+    "play_time": "0",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Book",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Paper-and-Pencil",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "197097",
+            "game_name": "Four Against Darkness",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/197097"
+        }
+    ],
+    "designers_string": "Andrea Sfiligoi",
+    "categories_string": "Book; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Dice Rolling; Paper-and-Pencil; Role Playing; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '197097', 'game_name': 'Four Against Darkness', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/197097'}"
+}

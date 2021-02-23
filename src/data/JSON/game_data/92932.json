@@ -1,0 +1,67 @@
+{
+    "game_id": "92932",
+    "game_name": "Race for the Galaxy: Alien Artifacts",
+    "bgg_link": "https://boardgamegeek.com/boardgame/92932",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4012339",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4012339#item4012339",
+            "geeklist_host": "joestin",
+            "contributor": "familygaming"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7596012",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7596012#item7596012",
+            "geeklist_host": "jwml",
+            "contributor": "Fried Egg"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/XMLKG9ZCbjHArCpE3MjHEg__thumb/img/MtxgQhx5THTatg1KeA6CbORmxd8=/fit-in/200x150/filters:strip_icc()/pic1839311.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Thomas Lehmann"
+    ],
+    "weight": 2.92,
+    "rating": 7.50,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "10",
+    "categories": [
+        "Card Game",
+        "Civilization",
+        "Economic",
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Grid Movement",
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "28143",
+            "game_name": "Race for the Galaxy",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/28143"
+        }
+    ],
+    "designers_string": "Thomas Lehmann",
+    "categories_string": "Card Game; Civilization; Economic; Expansion for Base-game; Science Fiction; Space Exploration",
+    "mechanics_string": "Grid Movement; Hand Management; Simultaneous Action Selection; Tile Placement; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '28143', 'game_name': 'Race for the Galaxy', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/28143'}"
+}

@@ -1,0 +1,573 @@
+{
+    "game_id": "69789",
+    "game_name": "Ascension: Deckbuilding Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/69789",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "170533",
+            "geeklist_item_id": "3121623",
+            "year_month": "2014/03",
+            "year": "2014",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/170533/item/3121623#item3121623",
+            "geeklist_host": "pusherman42",
+            "contributor": "barnetto"
+        },
+        {
+            "geeklist_id": "175551",
+            "geeklist_item_id": "3302917",
+            "year_month": "2014/07",
+            "year": "2014",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/175551/item/3302917#item3302917",
+            "geeklist_host": "Woelf",
+            "contributor": "True_Dave"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3466650",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3466650#item3466650",
+            "geeklist_host": "Malaiser",
+            "contributor": "andytaylor"
+        },
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3768340",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3768340#item3768340",
+            "geeklist_host": "HRune",
+            "contributor": "andytaylor"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3756395",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3756395#item3756395",
+            "geeklist_host": "Woelf",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3923263",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3923263#item3923263",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "weyrbrat"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3928832",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3928832#item3928832",
+            "geeklist_host": "koinskyz",
+            "contributor": "weyrbrat"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4025141",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4025141#item4025141",
+            "geeklist_host": "joestin",
+            "contributor": "weyrbrat"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4194860",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4194860#item4194860",
+            "geeklist_host": "SBGrad",
+            "contributor": "jdarnold"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4275639",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4275639#item4275639",
+            "geeklist_host": "rangerx",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4853643",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4853643#item4853643",
+            "geeklist_host": "kikerl",
+            "contributor": "Lemoneg"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5354309",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5354309#item5354309",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "magic_erwt"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5402439",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5402439#item5402439",
+            "geeklist_host": "maloma",
+            "contributor": "GreatMilenko"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6812129",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6812129#item6812129",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "DrHenryArmitage"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7574862",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7574862#item7574862",
+            "geeklist_host": "jwml",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7608248",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7608248#item7608248",
+            "geeklist_host": "jwml",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7629568",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7629568#item7629568",
+            "geeklist_host": "threepointthed",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8045006",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8045006#item8045006",
+            "geeklist_host": "airzonk1",
+            "contributor": "BunniCladwell"
+        }
+    ],
+    "sgoyt_count": 18,
+    "thumbnail": "https://cf.geekdo-images.com/DP20jf4R3RcsjJUwwV1vCw__thumb/img/SWczusxnG6IavIPNQXwvorFfqwo=/fit-in/200x150/filters:strip_icc()/pic2382123.jpg",
+    "year_published": "2010",
+    "designers": [
+        "John Fiorillo",
+        "Justin Gary",
+        "Brian M. Kibler"
+    ],
+    "weight": 2.15,
+    "rating": 7.03,
+    "play_time": "30",
+    "best": "5",
+    "recommended": "17",
+    "not_recommended": "95",
+    "categories": [
+        "Card Game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "227645",
+            "expansion_name": "Ascension: Alliances",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227645"
+        },
+        {
+            "expansion_id": "179427",
+            "expansion_name": "Ascension: Archival Expert Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179427"
+        },
+        {
+            "expansion_id": "183644",
+            "expansion_name": "Ascension: Cetra, Benefactor of All Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183644"
+        },
+        {
+            "expansion_id": "307491",
+            "expansion_name": "Ascension: Chamber of Drunken Monks Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/307491"
+        },
+        {
+            "expansion_id": "141254",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Big Bad Bunny Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/141254"
+        },
+        {
+            "expansion_id": "149559",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Constricting Horror Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149559"
+        },
+        {
+            "expansion_id": "109064",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Control Room Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/109064"
+        },
+        {
+            "expansion_id": "96361",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Deep Drone Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/96361"
+        },
+        {
+            "expansion_id": "156393",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Defender of Vigil Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/156393"
+        },
+        {
+            "expansion_id": "151851",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Disciple of Sadranis Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151851"
+        },
+        {
+            "expansion_id": "161215",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Eye of Potential Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161215"
+        },
+        {
+            "expansion_id": "148347",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Eye of the Serpent Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/148347"
+        },
+        {
+            "expansion_id": "156394",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Foul Replicant Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/156394"
+        },
+        {
+            "expansion_id": "103260",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Journeyman Sage Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/103260"
+        },
+        {
+            "expansion_id": "158263",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - N.I.N.E. Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158263"
+        },
+        {
+            "expansion_id": "103574",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Nethersnare Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/103574"
+        },
+        {
+            "expansion_id": "148345",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Ogo Tracker Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/148345"
+        },
+        {
+            "expansion_id": "92090",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Pathwarden Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92090"
+        },
+        {
+            "expansion_id": "141256",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Shuffletron 2K13 Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/141256"
+        },
+        {
+            "expansion_id": "148346",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - The Looking Glass Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/148346"
+        },
+        {
+            "expansion_id": "158262",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Vault of the Askara Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158262"
+        },
+        {
+            "expansion_id": "88487",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Vedah, Sage of Swords Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/88487"
+        },
+        {
+            "expansion_id": "104410",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Void Mesmer Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/104410"
+        },
+        {
+            "expansion_id": "113387",
+            "expansion_name": "Ascension: Chronicle of the Godslayer - Vortex Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/113387"
+        },
+        {
+            "expansion_id": "147173",
+            "expansion_name": "Ascension: Darkness Unleashed - Covetous Kraken Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147173"
+        },
+        {
+            "expansion_id": "149633",
+            "expansion_name": "Ascension: David, Prophetic Guide Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149633"
+        },
+        {
+            "expansion_id": "180815",
+            "expansion_name": "Ascension: Dawn of Champions - Rys, Dark Muse Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180815"
+        },
+        {
+            "expansion_id": "278221",
+            "expansion_name": "Ascension: Delirium - Askara Templar Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278221"
+        },
+        {
+            "expansion_id": "278008",
+            "expansion_name": "Ascension: Deliverance - Verza'Tull, The Voidwyrm Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278008"
+        },
+        {
+            "expansion_id": "207462",
+            "expansion_name": "Ascension: Dreamscape - Nova, Born of Chaos Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207462"
+        },
+        {
+            "expansion_id": "164090",
+            "expansion_name": "Ascension: Eternal Tormentor Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164090"
+        },
+        {
+            "expansion_id": "165511",
+            "expansion_name": "Ascension: Explosive Swarm Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165511"
+        },
+        {
+            "expansion_id": "161002",
+            "expansion_name": "Ascension: Forrest, Beastwarden Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161002"
+        },
+        {
+            "expansion_id": "307490",
+            "expansion_name": "Ascension: Gian, Lord of Fall Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/307490"
+        },
+        {
+            "expansion_id": "254375",
+            "expansion_name": "Ascension: Gift of the Elements - Lirys, Skirmish Seer Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/254375"
+        },
+        {
+            "expansion_id": "169758",
+            "expansion_name": "Ascension: Hedron Dreidel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169758"
+        },
+        {
+            "expansion_id": "129389",
+            "expansion_name": "Ascension: Immortal Heroes - Arha Sanctuary Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/129389"
+        },
+        {
+            "expansion_id": "179428",
+            "expansion_name": "Ascension: Lunar Matriarch Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179428"
+        },
+        {
+            "expansion_id": "151875",
+            "expansion_name": "Ascension: Michelle, Star Oracle Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151875"
+        },
+        {
+            "expansion_id": "143991",
+            "expansion_name": "Ascension: Miles, Golden Prodigy Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143991"
+        },
+        {
+            "expansion_id": "183645",
+            "expansion_name": "Ascension: Nyxian Corruptor Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183645"
+        },
+        {
+            "expansion_id": "101513",
+            "expansion_name": "Ascension: Return of the Fallen - Kythis, the Gatekeeper Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/101513"
+        },
+        {
+            "expansion_id": "146607",
+            "expansion_name": "Ascension: Rise of Vigil - Ethereal Huntress Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146607"
+        },
+        {
+            "expansion_id": "142625",
+            "expansion_name": "Ascension: Rise of Vigil - Mudfin Angler Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142625"
+        },
+        {
+            "expansion_id": "142624",
+            "expansion_name": "Ascension: Rise of Vigil - Raving Prophet Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142624"
+        },
+        {
+            "expansion_id": "183646",
+            "expansion_name": "Ascension: Sadistic Laboratory Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183646"
+        },
+        {
+            "expansion_id": "207457",
+            "expansion_name": "Ascension: Shadow Piercer Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207457"
+        },
+        {
+            "expansion_id": "278273",
+            "expansion_name": "Ascension: Skulls and Sails - Honorless Thief Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278273"
+        },
+        {
+            "expansion_id": "117836",
+            "expansion_name": "Ascension: Storm of Souls - Askara of Fortune Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/117836"
+        },
+        {
+            "expansion_id": "125923",
+            "expansion_name": "Ascension: Storm of Souls - Assimilation Plant Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/125923"
+        },
+        {
+            "expansion_id": "123077",
+            "expansion_name": "Ascension: Storm of Souls - Cetra, Guide of Ogo Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/123077"
+        },
+        {
+            "expansion_id": "128913",
+            "expansion_name": "Ascension: Storm of Souls - Cobra, the Sordid Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/128913"
+        },
+        {
+            "expansion_id": "123502",
+            "expansion_name": "Ascension: Storm of Souls - Ender of Days Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/123502"
+        },
+        {
+            "expansion_id": "122874",
+            "expansion_name": "Ascension: Storm of Souls - Hedron Flare Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/122874"
+        },
+        {
+            "expansion_id": "128912",
+            "expansion_name": "Ascension: Storm of Souls - Moon Staff Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/128912"
+        },
+        {
+            "expansion_id": "119437",
+            "expansion_name": "Ascension: Storm of Souls - Ring of Life Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/119437"
+        },
+        {
+            "expansion_id": "114448",
+            "expansion_name": "Ascension: Storm of Souls - Soul Collector Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/114448"
+        },
+        {
+            "expansion_id": "207460",
+            "expansion_name": "Ascension: Storm's Eye Monk Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207460"
+        },
+        {
+            "expansion_id": "307489",
+            "expansion_name": "Ascension: Talya, The Decider Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/307489"
+        },
+        {
+            "expansion_id": "164089",
+            "expansion_name": "Ascension: Temporal Excavator Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164089"
+        },
+        {
+            "expansion_id": "180805",
+            "expansion_name": "Ascension: Theme Pack - Cupid Cultist",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180805"
+        },
+        {
+            "expansion_id": "103262",
+            "expansion_name": "Ascension: Theme Pack - Leprechaun",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/103262"
+        },
+        {
+            "expansion_id": "186882",
+            "expansion_name": "Ascension: Theme Pack - Location Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186882"
+        },
+        {
+            "expansion_id": "235547",
+            "expansion_name": "Ascension: Theme Pack - Portals",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/235547"
+        },
+        {
+            "expansion_id": "86663",
+            "expansion_name": "Ascension: Theme Pack - Rat King",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/86663"
+        },
+        {
+            "expansion_id": "125922",
+            "expansion_name": "Ascension: Theme Pack - Rat Queen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/125922"
+        },
+        {
+            "expansion_id": "135160",
+            "expansion_name": "Ascension: Theme Pack - Samael Claus",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/135160"
+        },
+        {
+            "expansion_id": "314544",
+            "expansion_name": "Ascension: Turzan, Lion of Uzkara",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/314544"
+        },
+        {
+            "expansion_id": "224717",
+            "expansion_name": "Ascension: Valley Guardian Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224717"
+        },
+        {
+            "expansion_id": "240739",
+            "expansion_name": "Ascension: Valley of the Ancients - Project Beta Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240739"
+        },
+        {
+            "expansion_id": "307488",
+            "expansion_name": "Ascension: Wave Tyrant Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/307488"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "John Fiorillo; Justin Gary; Brian M. Kibler",
+    "categories_string": "Card Game; Fantasy",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Hand Management",
+    "expansions_string": "{'expansion_id': '227645', 'expansion_name': 'Ascension: Alliances', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227645'}; {'expansion_id': '179427', 'expansion_name': 'Ascension: Archival Expert Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179427'}; {'expansion_id': '183644', 'expansion_name': 'Ascension: Cetra, Benefactor of All Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183644'}; {'expansion_id': '307491', 'expansion_name': 'Ascension: Chamber of Drunken Monks Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/307491'}; {'expansion_id': '141254', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Big Bad Bunny Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/141254'}; {'expansion_id': '149559', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Constricting Horror Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149559'}; {'expansion_id': '109064', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Control Room Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/109064'}; {'expansion_id': '96361', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Deep Drone Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/96361'}; {'expansion_id': '156393', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Defender of Vigil Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/156393'}; {'expansion_id': '151851', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Disciple of Sadranis Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151851'}; {'expansion_id': '161215', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Eye of Potential Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161215'}; {'expansion_id': '148347', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Eye of the Serpent Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/148347'}; {'expansion_id': '156394', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Foul Replicant Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/156394'}; {'expansion_id': '103260', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Journeyman Sage Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/103260'}; {'expansion_id': '158263', 'expansion_name': 'Ascension: Chronicle of the Godslayer - N.I.N.E. Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158263'}; {'expansion_id': '103574', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Nethersnare Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/103574'}; {'expansion_id': '148345', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Ogo Tracker Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/148345'}; {'expansion_id': '92090', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Pathwarden Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92090'}; {'expansion_id': '141256', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Shuffletron 2K13 Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/141256'}; {'expansion_id': '148346', 'expansion_name': 'Ascension: Chronicle of the Godslayer - The Looking Glass Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/148346'}; {'expansion_id': '158262', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Vault of the Askara Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158262'}; {'expansion_id': '88487', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Vedah, Sage of Swords Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/88487'}; {'expansion_id': '104410', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Void Mesmer Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/104410'}; {'expansion_id': '113387', 'expansion_name': 'Ascension: Chronicle of the Godslayer - Vortex Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/113387'}; {'expansion_id': '147173', 'expansion_name': 'Ascension: Darkness Unleashed - Covetous Kraken Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147173'}; {'expansion_id': '149633', 'expansion_name': 'Ascension: David, Prophetic Guide Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149633'}; {'expansion_id': '180815', 'expansion_name': 'Ascension: Dawn of Champions - Rys, Dark Muse Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180815'}; {'expansion_id': '278221', 'expansion_name': 'Ascension: Delirium - Askara Templar Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278221'}; {'expansion_id': '278008', 'expansion_name': \"Ascension: Deliverance - Verza'Tull, The Voidwyrm Promo Card\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278008'}; {'expansion_id': '207462', 'expansion_name': 'Ascension: Dreamscape - Nova, Born of Chaos Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207462'}; {'expansion_id': '164090', 'expansion_name': 'Ascension: Eternal Tormentor Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164090'}; {'expansion_id': '165511', 'expansion_name': 'Ascension: Explosive Swarm Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165511'}; {'expansion_id': '161002', 'expansion_name': 'Ascension: Forrest, Beastwarden Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161002'}; {'expansion_id': '307490', 'expansion_name': 'Ascension: Gian, Lord of Fall Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/307490'}; {'expansion_id': '254375', 'expansion_name': 'Ascension: Gift of the Elements - Lirys, Skirmish Seer Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/254375'}; {'expansion_id': '169758', 'expansion_name': 'Ascension: Hedron Dreidel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169758'}; {'expansion_id': '129389', 'expansion_name': 'Ascension: Immortal Heroes - Arha Sanctuary Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/129389'}; {'expansion_id': '179428', 'expansion_name': 'Ascension: Lunar Matriarch Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179428'}; {'expansion_id': '151875', 'expansion_name': 'Ascension: Michelle, Star Oracle Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151875'}; {'expansion_id': '143991', 'expansion_name': 'Ascension: Miles, Golden Prodigy Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143991'}; {'expansion_id': '183645', 'expansion_name': 'Ascension: Nyxian Corruptor Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183645'}; {'expansion_id': '101513', 'expansion_name': 'Ascension: Return of the Fallen - Kythis, the Gatekeeper Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/101513'}; {'expansion_id': '146607', 'expansion_name': 'Ascension: Rise of Vigil - Ethereal Huntress Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146607'}; {'expansion_id': '142625', 'expansion_name': 'Ascension: Rise of Vigil - Mudfin Angler Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142625'}; {'expansion_id': '142624', 'expansion_name': 'Ascension: Rise of Vigil - Raving Prophet Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142624'}; {'expansion_id': '183646', 'expansion_name': 'Ascension: Sadistic Laboratory Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183646'}; {'expansion_id': '207457', 'expansion_name': 'Ascension: Shadow Piercer Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207457'}; {'expansion_id': '278273', 'expansion_name': 'Ascension: Skulls and Sails - Honorless Thief Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278273'}; {'expansion_id': '117836', 'expansion_name': 'Ascension: Storm of Souls - Askara of Fortune Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/117836'}; {'expansion_id': '125923', 'expansion_name': 'Ascension: Storm of Souls - Assimilation Plant Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/125923'}; {'expansion_id': '123077', 'expansion_name': 'Ascension: Storm of Souls - Cetra, Guide of Ogo Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/123077'}; {'expansion_id': '128913', 'expansion_name': 'Ascension: Storm of Souls - Cobra, the Sordid Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/128913'}; {'expansion_id': '123502', 'expansion_name': 'Ascension: Storm of Souls - Ender of Days Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/123502'}; {'expansion_id': '122874', 'expansion_name': 'Ascension: Storm of Souls - Hedron Flare Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/122874'}; {'expansion_id': '128912', 'expansion_name': 'Ascension: Storm of Souls - Moon Staff Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/128912'}; {'expansion_id': '119437', 'expansion_name': 'Ascension: Storm of Souls - Ring of Life Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/119437'}; {'expansion_id': '114448', 'expansion_name': 'Ascension: Storm of Souls - Soul Collector Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/114448'}; {'expansion_id': '207460', 'expansion_name': \"Ascension: Storm's Eye Monk Promo Card\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207460'}; {'expansion_id': '307489', 'expansion_name': 'Ascension: Talya, The Decider Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/307489'}; {'expansion_id': '164089', 'expansion_name': 'Ascension: Temporal Excavator Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164089'}; {'expansion_id': '180805', 'expansion_name': 'Ascension: Theme Pack - Cupid Cultist', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180805'}; {'expansion_id': '103262', 'expansion_name': 'Ascension: Theme Pack - Leprechaun', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/103262'}; {'expansion_id': '186882', 'expansion_name': 'Ascension: Theme Pack - Location Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186882'}; {'expansion_id': '235547', 'expansion_name': 'Ascension: Theme Pack - Portals', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/235547'}; {'expansion_id': '86663', 'expansion_name': 'Ascension: Theme Pack - Rat King', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/86663'}; {'expansion_id': '125922', 'expansion_name': 'Ascension: Theme Pack - Rat Queen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/125922'}; {'expansion_id': '135160', 'expansion_name': 'Ascension: Theme Pack - Samael Claus', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/135160'}; {'expansion_id': '314544', 'expansion_name': 'Ascension: Turzan, Lion of Uzkara', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/314544'}; {'expansion_id': '224717', 'expansion_name': 'Ascension: Valley Guardian Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224717'}; {'expansion_id': '240739', 'expansion_name': 'Ascension: Valley of the Ancients - Project Beta Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240739'}; {'expansion_id': '307488', 'expansion_name': 'Ascension: Wave Tyrant Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/307488'}",
+    "expansions_for_string": ""
+}

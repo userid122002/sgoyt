@@ -1,0 +1,71 @@
+{
+    "game_id": "194062",
+    "game_name": "Master of the Galaxy",
+    "bgg_link": "https://boardgamegeek.com/boardgame/194062",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7566805",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7566805#item7566805",
+            "geeklist_host": "Doc_H",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7586310",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7586310#item7586310",
+            "geeklist_host": "jwml",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7750623",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7750623#item7750623",
+            "geeklist_host": "repairmanjack",
+            "contributor": "BunniCladwell"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/zTcZtLu-IKwJTKCUcOioTQ__thumb/img/xKL6GpLRMM5iTZ7s_FuFo672Ooo=/fit-in/200x150/filters:strip_icc()/pic4083215.png",
+    "year_published": "2018",
+    "designers": [
+        "Timofey Bokarev",
+        "Konstantin Seleznev"
+    ],
+    "weight": 2.58,
+    "rating": 6.68,
+    "play_time": "45 - 120",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "6",
+    "categories": [
+        "Civilization",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Deck, Bag, and Pool Building"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "269515",
+            "expansion_name": "Master of the Galaxy: The Weavers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/269515"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Timofey Bokarev; Konstantin Seleznev",
+    "categories_string": "Civilization; Space Exploration",
+    "mechanics_string": "Area Majority / Influence; Deck, Bag, and Pool Building",
+    "expansions_string": "{'expansion_id': '269515', 'expansion_name': 'Master of the Galaxy: The Weavers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/269515'}",
+    "expansions_for_string": ""
+}

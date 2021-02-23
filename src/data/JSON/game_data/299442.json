@@ -1,0 +1,52 @@
+{
+    "game_id": "299442",
+    "game_name": "Detective: Signature Series - Dig Deeper",
+    "bgg_link": "https://boardgamegeek.com/boardgame/299442",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8062527",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8062527#item8062527",
+            "geeklist_host": "Swizze",
+            "contributor": "Ender37"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/mjh6Z6wYwRIPDZjLosby2Q__thumb/img/EmkZHu3IwAXHMp5hBvsxLWa_rtc=/fit-in/200x150/filters:strip_icc()/pic5224136.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Rob Daviau"
+    ],
+    "weight": 2.60,
+    "rating": 7.63,
+    "play_time": "90 - 120",
+    "best": "1",
+    "recommended": "3",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Deduction",
+        "Murder/Mystery"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Solo / Solitaire Game",
+        "Storytelling"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "223321",
+            "game_name": "Detective: A Modern Crime Board Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/223321"
+        }
+    ],
+    "designers_string": "Rob Daviau",
+    "categories_string": "Expansion for Base-game; Deduction; Murder/Mystery",
+    "mechanics_string": "Cooperative Game; Solo / Solitaire Game; Storytelling",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '223321', 'game_name': 'Detective: A Modern Crime Board Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/223321'}"
+}

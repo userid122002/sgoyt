@@ -1,0 +1,51 @@
+{
+    "game_id": "89627",
+    "game_name": "Dennewitz 20",
+    "bgg_link": "https://boardgamegeek.com/boardgame/89627",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5876856",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5876856#item5876856",
+            "geeklist_host": "Jorune",
+            "contributor": "catosulla"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Og78nxKoAf0AoBvEsTbo4w__thumb/img/Up5YANx2iWfdeOWlw54x8z2fmxg=/fit-in/200x150/filters:strip_icc()/pic884893.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Lance McMillan"
+    ],
+    "weight": 2.00,
+    "rating": 7.93,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "10",
+    "categories": [
+        "Expansion for Base-game",
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Hexagon Grid"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "85023",
+            "game_name": "Grossbeeren 20",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/85023"
+        }
+    ],
+    "designers_string": "Lance McMillan",
+    "categories_string": "Expansion for Base-game; Napoleonic; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Hexagon Grid",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '85023', 'game_name': 'Grossbeeren 20', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/85023'}"
+}

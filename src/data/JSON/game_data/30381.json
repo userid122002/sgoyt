@@ -1,0 +1,56 @@
+{
+    "game_id": "30381",
+    "game_name": "Hamburgum",
+    "bgg_link": "https://boardgamegeek.com/boardgame/30381",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6188360",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6188360#item6188360",
+            "geeklist_host": "Gribbon",
+            "contributor": "settlerdave"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/cl4IPnlurFyQ1rNdFCyQkg__thumb/img/4d2N1XvHYRCp_jshOv6si_T1oy8=/fit-in/200x150/filters:strip_icc()/pic260141.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Mac Gerdts"
+    ],
+    "weight": 3.08,
+    "rating": 7.06,
+    "play_time": "75",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "25",
+    "categories": [
+        "City Building",
+        "Economic",
+        "Pike and Shot"
+    ],
+    "mechanics": [
+        "Rondel",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "81848",
+            "expansion_name": "Hamburgum: Antverpia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/81848"
+        },
+        {
+            "expansion_id": "34295",
+            "expansion_name": "Hamburgum: Lisboa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34295"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Mac Gerdts",
+    "categories_string": "City Building; Economic; Pike and Shot",
+    "mechanics_string": "Rondel; Set Collection",
+    "expansions_string": "{'expansion_id': '81848', 'expansion_name': 'Hamburgum: Antverpia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/81848'}; {'expansion_id': '34295', 'expansion_name': 'Hamburgum: Lisboa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34295'}",
+    "expansions_for_string": ""
+}

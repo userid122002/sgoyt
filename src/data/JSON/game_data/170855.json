@@ -1,0 +1,89 @@
+{
+    "game_id": "170855",
+    "game_name": "Exodus: Edge of Extinction",
+    "bgg_link": "https://boardgamegeek.com/boardgame/170855",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4377285",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4377285#item4377285",
+            "geeklist_host": "suzyvitale",
+            "contributor": "NewbieGamingDad"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/MmUTvowBim0ffkXEhnjilA__thumb/img/nSsJUyj3k3jNQj-s_PGvJgvTcQw=/fit-in/200x150/filters:strip_icc()/pic2554664.png",
+    "year_published": "2015",
+    "designers": [
+        "Andrei Novac"
+    ],
+    "weight": 3.29,
+    "rating": 7.99,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Civilization",
+        "Expansion for Base-game",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Area Movement",
+        "Auction/Bidding",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Simultaneous Action Selection",
+        "Variable Player Powers",
+        "Voting"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "189970",
+            "expansion_name": "Exodus: Edge of Extinction - Kickstarter Limited Action Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189970"
+        },
+        {
+            "expansion_id": "189972",
+            "expansion_name": "Exodus: Edge of Extinction - Kickstarter Limited Combat Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189972"
+        },
+        {
+            "expansion_id": "186858",
+            "expansion_name": "Exodus: Edge of Extinction - Kickstarter Limited Components",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186858"
+        },
+        {
+            "expansion_id": "189971",
+            "expansion_name": "Exodus: Edge of Extinction - Kickstarter Limited Political Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189971"
+        },
+        {
+            "expansion_id": "265063",
+            "expansion_name": "Exodus: Proxima Centauri - ECID-S14 Mini-Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/265063"
+        },
+        {
+            "expansion_id": "237410",
+            "expansion_name": "Exodus: Proxima Centauri - Ymnighet Mini-Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/237410"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "122842",
+            "game_name": "Exodus: Proxima Centauri",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/122842"
+        }
+    ],
+    "designers_string": "Andrei Novac",
+    "categories_string": "Civilization; Expansion for Base-game; Science Fiction",
+    "mechanics_string": "Action Points; Area Majority / Influence; Area Movement; Auction/Bidding; Dice Rolling; Hexagon Grid; Simultaneous Action Selection; Variable Player Powers; Voting",
+    "expansions_string": "{'expansion_id': '189970', 'expansion_name': 'Exodus: Edge of Extinction - Kickstarter Limited Action Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189970'}; {'expansion_id': '189972', 'expansion_name': 'Exodus: Edge of Extinction - Kickstarter Limited Combat Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189972'}; {'expansion_id': '186858', 'expansion_name': 'Exodus: Edge of Extinction - Kickstarter Limited Components', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186858'}; {'expansion_id': '189971', 'expansion_name': 'Exodus: Edge of Extinction - Kickstarter Limited Political Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189971'}; {'expansion_id': '265063', 'expansion_name': 'Exodus: Proxima Centauri - ECID-S14 Mini-Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/265063'}; {'expansion_id': '237410', 'expansion_name': 'Exodus: Proxima Centauri - Ymnighet Mini-Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/237410'}",
+    "expansions_for_string": "{'game_id': '122842', 'game_name': 'Exodus: Proxima Centauri', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/122842'}"
+}

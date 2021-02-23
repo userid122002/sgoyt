@@ -1,0 +1,74 @@
+{
+    "game_id": "195520",
+    "game_name": "Hoplomachus: Army of One",
+    "bgg_link": "https://boardgamegeek.com/boardgame/195520",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4535871",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4535871#item4535871",
+            "geeklist_host": "pusherman42",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4541353",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4541353#item4541353",
+            "geeklist_host": "pusherman42",
+            "contributor": "Iz Nibz"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/DrxEcybj_miCOz_mEjTMDw__thumb/img/q5531075dr8WhWKLfUDblSzcq8s=/fit-in/200x150/filters:strip_icc()/pic3879928.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Adam Carlson",
+        "Josh J. Carlson"
+    ],
+    "weight": 2.50,
+    "rating": 8.24,
+    "play_time": "0 - 30",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Fighting",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Enclosure"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "176524",
+            "game_name": "Hoplomachus: Origins",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/176524"
+        },
+        {
+            "game_id": "139131",
+            "game_name": "Hoplomachus: Rise of Rome",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/139131"
+        },
+        {
+            "game_id": "124839",
+            "game_name": "Hoplomachus: The Lost Cities",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/124839"
+        }
+    ],
+    "designers_string": "Adam Carlson; Josh J. Carlson",
+    "categories_string": "Dice; Expansion for Base-game; Fighting; Wargame",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Enclosure",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '176524', 'game_name': 'Hoplomachus: Origins', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/176524'}; {'game_id': '139131', 'game_name': 'Hoplomachus: Rise of Rome', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/139131'}; {'game_id': '124839', 'game_name': 'Hoplomachus: The Lost Cities', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/124839'}"
+}

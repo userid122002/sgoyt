@@ -1,0 +1,625 @@
+{
+    "game_id": "218417",
+    "game_name": "Aeon's End: War Eternal",
+    "bgg_link": "https://boardgamegeek.com/boardgame/218417",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5654011",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5654011#item5654011",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "notwebsafe"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5654951",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5654951#item5654951",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "splindeman"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5740337",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5740337#item5740337",
+            "geeklist_host": "Albia",
+            "contributor": "Razoupaf"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5771456",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5771456#item5771456",
+            "geeklist_host": "Albia",
+            "contributor": "DocSavage2001"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5774490",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5774490#item5774490",
+            "geeklist_host": "Albia",
+            "contributor": "ipreuss"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5807505",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5807505#item5807505",
+            "geeklist_host": "Albia",
+            "contributor": "kittenhoarder"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5890005",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5890005#item5890005",
+            "geeklist_host": "Jorune",
+            "contributor": "splindeman"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5952832",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5952832#item5952832",
+            "geeklist_host": "radthanael",
+            "contributor": "splindeman"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5998209",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5998209#item5998209",
+            "geeklist_host": "radthanael",
+            "contributor": "DocSavage2001"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6006843",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6006843#item6006843",
+            "geeklist_host": "busdjur",
+            "contributor": "DocSavage2001"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6008130",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6008130#item6008130",
+            "geeklist_host": "busdjur",
+            "contributor": "jeffrhind"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6022891",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6022891#item6022891",
+            "geeklist_host": "busdjur",
+            "contributor": "jeffrhind"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6023871",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6023871#item6023871",
+            "geeklist_host": "busdjur",
+            "contributor": "xemxi"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6027870",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6027870#item6027870",
+            "geeklist_host": "busdjur",
+            "contributor": "darkdays"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6029515",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6029515#item6029515",
+            "geeklist_host": "busdjur",
+            "contributor": "darkdays"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6149048",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6149048#item6149048",
+            "geeklist_host": "Pjandy",
+            "contributor": "Donutz McGoo"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6165486",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6165486#item6165486",
+            "geeklist_host": "Pjandy",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6177596",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6177596#item6177596",
+            "geeklist_host": "Pjandy",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6344815",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6344815#item6344815",
+            "geeklist_host": "spaceman23",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6199534",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6199534#item6199534",
+            "geeklist_host": "Gribbon",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6252276",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6252276#item6252276",
+            "geeklist_host": "emodiu5",
+            "contributor": "FlyingMuttley"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6580291",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6580291#item6580291",
+            "geeklist_host": "squarepegsys",
+            "contributor": "philjc"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6580527",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6580527#item6580527",
+            "geeklist_host": "squarepegsys",
+            "contributor": "KillerPower"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6587053",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6587053#item6587053",
+            "geeklist_host": "squarepegsys",
+            "contributor": "Burnout189"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6606007",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6606007#item6606007",
+            "geeklist_host": "squarepegsys",
+            "contributor": "electronsonmars"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6367882",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6367882#item6367882",
+            "geeklist_host": "dobrazil",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6547101",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6547101#item6547101",
+            "geeklist_host": "Albia",
+            "contributor": "electronsonmars"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6564309",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6564309#item6564309",
+            "geeklist_host": "Albia",
+            "contributor": "Klaun86"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6777471",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6777471#item6777471",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "BiggityBogle"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6797310",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6797310#item6797310",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "KillerPower"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6841783",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6841783#item6841783",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6843288",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6843288#item6843288",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6858438",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6858438#item6858438",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "electronsonmars"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6867134",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6867134#item6867134",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "KillerPower"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6751389",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6751389#item6751389",
+            "geeklist_host": "The_Omnius",
+            "contributor": "hubyx"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6772734",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6772734#item6772734",
+            "geeklist_host": "The_Omnius",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7031834",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7031834#item7031834",
+            "geeklist_host": "labrhat22",
+            "contributor": "Secretsofthesky"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7054877",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7054877#item7054877",
+            "geeklist_host": "labrhat22",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6893658",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6893658#item6893658",
+            "geeklist_host": "Woelf",
+            "contributor": "hubyx"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6902401",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6902401#item6902401",
+            "geeklist_host": "Woelf",
+            "contributor": "Moe45673"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6923928",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6923928#item6923928",
+            "geeklist_host": "Woelf",
+            "contributor": "KillerPower"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6958985",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6958985#item6958985",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Farydia"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6994301",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6994301#item6994301",
+            "geeklist_host": "magic_erwt",
+            "contributor": "KillerPower"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6997222",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6997222#item6997222",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Moe45673"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "7003910",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/7003910#item7003910",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Secretsofthesky"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7191361",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7191361#item7191361",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Arven"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7249111",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7249111#item7249111",
+            "geeklist_host": "narcher007",
+            "contributor": "Arven"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7495587",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7495587#item7495587",
+            "geeklist_host": "jomurph86",
+            "contributor": "simpsonps121"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7511926",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7511926#item7511926",
+            "geeklist_host": "Doc_H",
+            "contributor": "Dekryr"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7522490",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7522490#item7522490",
+            "geeklist_host": "Doc_H",
+            "contributor": "simpsonps121"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7592762",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7592762#item7592762",
+            "geeklist_host": "jwml",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7593892",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7593892#item7593892",
+            "geeklist_host": "jwml",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7596356",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7596356#item7596356",
+            "geeklist_host": "jwml",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7871896",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7871896#item7871896",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "FaintlyMacabre66"
+        }
+    ],
+    "sgoyt_count": 54,
+    "thumbnail": "https://cf.geekdo-images.com/H2st1bZH4O0FM46NhKMqyQ__thumb/img/UqZx4Zn9Td--__2bRSdCDsddi_s=/fit-in/200x150/filters:strip_icc()/pic3430893.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Kevin Riley"
+    ],
+    "weight": 2.90,
+    "rating": 8.41,
+    "play_time": "60",
+    "best": "12",
+    "recommended": "56",
+    "not_recommended": "6",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Variable Phase Order",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "246805",
+            "expansion_name": "Aeon's End: Buried Secrets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246805"
+        },
+        {
+            "expansion_id": "272755",
+            "expansion_name": "Aeon's End: Echo Stone and Splinter Missile Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/272755"
+        },
+        {
+            "expansion_id": "264007",
+            "expansion_name": "Aeon's End: Fleeting Vision Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264007"
+        },
+        {
+            "expansion_id": "222126",
+            "expansion_name": "Aeon's End: Tabletop Day 2017 Promos - Drown in Flames / Glyph Enigma",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222126"
+        },
+        {
+            "expansion_id": "287915",
+            "expansion_name": "Aeon's End: The New Age - Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/287915"
+        },
+        {
+            "expansion_id": "228552",
+            "expansion_name": "Aeon's End: The Outer Dark",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228552"
+        },
+        {
+            "expansion_id": "223914",
+            "expansion_name": "Aeon's End: The Void",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/223914"
+        },
+        {
+            "expansion_id": "244236",
+            "expansion_name": "Aeon's End: Thieving Spirit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244236"
+        },
+        {
+            "expansion_id": "278956",
+            "expansion_name": "Aeon's End: War Eternal - Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278956"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Kevin Riley",
+    "categories_string": "Card Game; Fantasy; Science Fiction",
+    "mechanics_string": "Card Drafting; Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Variable Phase Order; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '246805', 'expansion_name': \"Aeon's End: Buried Secrets\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246805'}; {'expansion_id': '272755', 'expansion_name': \"Aeon's End: Echo Stone and Splinter Missile Promo\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/272755'}; {'expansion_id': '264007', 'expansion_name': \"Aeon's End: Fleeting Vision Promo\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264007'}; {'expansion_id': '222126', 'expansion_name': \"Aeon's End: Tabletop Day 2017 Promos - Drown in Flames / Glyph Enigma\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222126'}; {'expansion_id': '287915', 'expansion_name': \"Aeon's End: The New Age - Promo Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/287915'}; {'expansion_id': '228552', 'expansion_name': \"Aeon's End: The Outer Dark\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228552'}; {'expansion_id': '223914', 'expansion_name': \"Aeon's End: The Void\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/223914'}; {'expansion_id': '244236', 'expansion_name': \"Aeon's End: Thieving Spirit\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244236'}; {'expansion_id': '278956', 'expansion_name': \"Aeon's End: War Eternal - Promo Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278956'}",
+    "expansions_for_string": ""
+}

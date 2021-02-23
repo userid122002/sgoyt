@@ -1,0 +1,668 @@
+{
+    "game_id": "212445",
+    "game_name": "Blood Bowl (2016 Edition)",
+    "bgg_link": "https://boardgamegeek.com/boardgame/212445",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5055764",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5055764#item5055764",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Gameruman"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5062493",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5062493#item5062493",
+            "geeklist_host": "mikolajl",
+            "contributor": "Gameruman"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5148706",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5148706#item5148706",
+            "geeklist_host": "settlerdave",
+            "contributor": "mikolajl"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6221481",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6221481#item6221481",
+            "geeklist_host": "Gribbon",
+            "contributor": "EastCoast"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/1To3fG0-1ZpX1vfcHGHHYg__thumb/img/CmBNLOWNnA-qMjMUZ-39OsNpD9w=/fit-in/200x150/filters:strip_icc()/pic3254491.jpg",
+    "year_published": "2016",
+    "designers": [
+        "James M. Hewitt",
+        "Andy Hoare",
+        "Jervis Johnson"
+    ],
+    "weight": 3.46,
+    "rating": 8.07,
+    "play_time": "45 - 120",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "12",
+    "categories": [
+        "Collectible Components",
+        "Fantasy",
+        "Fighting",
+        "Miniatures",
+        "Sports"
+    ],
+    "mechanics": [
+        "Critical Hits and Failures",
+        "Dice Rolling",
+        "Grid Movement",
+        "Movement Points",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "266341",
+            "expansion_name": "Blood Bowl (2016 edition): 2018 Blood Bowl Almanac",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/266341"
+        },
+        {
+            "expansion_id": "293397",
+            "expansion_name": "Blood Bowl (2016 edition): 2019 Blood Bowl Almanac",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293397"
+        },
+        {
+            "expansion_id": "279984",
+            "expansion_name": "Blood Bowl (2016 edition): Athelorn Avengers - Wood Elf Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279984"
+        },
+        {
+            "expansion_id": "220128",
+            "expansion_name": "Blood Bowl (2016 edition): Blitzmania Special Play Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220128"
+        },
+        {
+            "expansion_id": "227356",
+            "expansion_name": "Blood Bowl (2016 edition): Blood Bowl Goblins",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227356"
+        },
+        {
+            "expansion_id": "216171",
+            "expansion_name": "Blood Bowl (2016 edition): Blood on the Snow Pitch",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216171"
+        },
+        {
+            "expansion_id": "263995",
+            "expansion_name": "Blood Bowl (2016 edition): Champions of Death - Shambling Undead Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263995"
+        },
+        {
+            "expansion_id": "256910",
+            "expansion_name": "Blood Bowl (2016 edition): Chaos Chosen Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256910"
+        },
+        {
+            "expansion_id": "254841",
+            "expansion_name": "Blood Bowl (2016 Edition): Chaos Chosen Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/254841"
+        },
+        {
+            "expansion_id": "312385",
+            "expansion_name": "Blood Bowl (2016 edition): Crud Creek Nosepickers - Snotlings Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/312385"
+        },
+        {
+            "expansion_id": "257710",
+            "expansion_name": "Blood Bowl (2016 edition): Dark Elf Assassins",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257710"
+        },
+        {
+            "expansion_id": "256909",
+            "expansion_name": "Blood Bowl (2016 edition): Dark Elf Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256909"
+        },
+        {
+            "expansion_id": "256767",
+            "expansion_name": "Blood Bowl (2016 Edition): Dark Elf Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256767"
+        },
+        {
+            "expansion_id": "213298",
+            "expansion_name": "Blood Bowl (2016 edition): Death Zone - Season One",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213298"
+        },
+        {
+            "expansion_id": "227336",
+            "expansion_name": "Blood Bowl (2016 edition): Death Zone - Season Two",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227336"
+        },
+        {
+            "expansion_id": "279874",
+            "expansion_name": "Blood Bowl (2016 edition): Deeproot Strongbranch - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279874"
+        },
+        {
+            "expansion_id": "224820",
+            "expansion_name": "Blood Bowl (2016 edition): Dwarf Deathroller",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224820"
+        },
+        {
+            "expansion_id": "256766",
+            "expansion_name": "Blood Bowl (2016 Edition): Dwarf Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256766"
+        },
+        {
+            "expansion_id": "257708",
+            "expansion_name": "Blood Bowl (2016 edition): Eldril Sidewinder - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257708"
+        },
+        {
+            "expansion_id": "242260",
+            "expansion_name": "Blood Bowl (2016 edition): Elven Union Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/242260"
+        },
+        {
+            "expansion_id": "242257",
+            "expansion_name": "Blood Bowl (2016 edition): Elven Union Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/242257"
+        },
+        {
+            "expansion_id": "282507",
+            "expansion_name": "Blood Bowl (2016 edition): Gassy Eruption Special Play Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/282507"
+        },
+        {
+            "expansion_id": "230905",
+            "expansion_name": "Blood Bowl (2016 edition): Glart Smashrip - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230905"
+        },
+        {
+            "expansion_id": "312858",
+            "expansion_name": "Blood Bowl (2016 edition): Gloriel Summerbloom - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/312858"
+        },
+        {
+            "expansion_id": "224086",
+            "expansion_name": "Blood Bowl (2016 edition): Go Full Beard Special Play Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224086"
+        },
+        {
+            "expansion_id": "224254",
+            "expansion_name": "Blood Bowl (2016 edition): Goblin & Halfling Referees",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224254"
+        },
+        {
+            "expansion_id": "268931",
+            "expansion_name": "Blood Bowl (2016 edition): Goblin Killer Kontraptions",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268931"
+        },
+        {
+            "expansion_id": "242259",
+            "expansion_name": "Blood Bowl (2016 edition): Goblin Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/242259"
+        },
+        {
+            "expansion_id": "228609",
+            "expansion_name": "Blood Bowl (2016 edition): Goblin Secret Weapons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228609"
+        },
+        {
+            "expansion_id": "293012",
+            "expansion_name": "Blood Bowl (2016 Edition): Goblin Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293012"
+        },
+        {
+            "expansion_id": "219019",
+            "expansion_name": "Blood Bowl (2016 edition): Grak and Crumbleberry - Star Player Duo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219019"
+        },
+        {
+            "expansion_id": "275035",
+            "expansion_name": "Blood Bowl (2016 edition): Greenfield Grasshuggers - Halfling Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/275035"
+        },
+        {
+            "expansion_id": "222971",
+            "expansion_name": "Blood Bowl (2016 edition): Griff Oberwald - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222971"
+        },
+        {
+            "expansion_id": "226120",
+            "expansion_name": "Blood Bowl (2016 edition): Grim Ironjaw - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/226120"
+        },
+        {
+            "expansion_id": "226209",
+            "expansion_name": "Blood Bowl (2016 edition): Grombrindal and the Black Gobbo - Star Player Duo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/226209"
+        },
+        {
+            "expansion_id": "287726",
+            "expansion_name": "Blood Bowl (2016 edition): Gwaka'moli Crater Gators - Lizardmen Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/287726"
+        },
+        {
+            "expansion_id": "227279",
+            "expansion_name": "Blood Bowl (2016 edition): Hakflem Skuttlespike - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227279"
+        },
+        {
+            "expansion_id": "279977",
+            "expansion_name": "Blood Bowl (2016 edition): Halfling Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279977"
+        },
+        {
+            "expansion_id": "279980",
+            "expansion_name": "Blood Bowl (2016 Edition): Halfling Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279980"
+        },
+        {
+            "expansion_id": "293013",
+            "expansion_name": "Blood Bowl (2016 edition): Head Coach's Rules & Accessories Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293013"
+        },
+        {
+            "expansion_id": "268927",
+            "expansion_name": "Blood Bowl (2016 edition): Helmut Wulf - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268927"
+        },
+        {
+            "expansion_id": "257711",
+            "expansion_name": "Blood Bowl (2016 edition): Human Team Booster",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257711"
+        },
+        {
+            "expansion_id": "242256",
+            "expansion_name": "Blood Bowl (2016 edition): Human Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/242256"
+        },
+        {
+            "expansion_id": "256914",
+            "expansion_name": "Blood Bowl (2016 edition): Josef Bugman - Coach & Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256914"
+        },
+        {
+            "expansion_id": "268928",
+            "expansion_name": "Blood Bowl (2016 edition): Karla von Kill - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268928"
+        },
+        {
+            "expansion_id": "291495",
+            "expansion_name": "Blood Bowl (2016 edition): Lizardmen Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291495"
+        },
+        {
+            "expansion_id": "293011",
+            "expansion_name": "Blood Bowl (2016 edition): Lizardmen Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293011"
+        },
+        {
+            "expansion_id": "279875",
+            "expansion_name": "Blood Bowl (2016 edition): Lord Borak the Despoiler - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279875"
+        },
+        {
+            "expansion_id": "279981",
+            "expansion_name": "Blood Bowl (2016 Edition): Match Inducements Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279981"
+        },
+        {
+            "expansion_id": "253957",
+            "expansion_name": "Blood Bowl (2016 edition): Minotaur",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253957"
+        },
+        {
+            "expansion_id": "222969",
+            "expansion_name": "Blood Bowl (2016 edition): Morg 'N' Thorg - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222969"
+        },
+        {
+            "expansion_id": "241398",
+            "expansion_name": "Blood Bowl (2016 edition): Naughty or Nice Special Play Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/241398"
+        },
+        {
+            "expansion_id": "258671",
+            "expansion_name": "Blood Bowl (2016 edition): Nurgle Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/258671"
+        },
+        {
+            "expansion_id": "268932",
+            "expansion_name": "Blood Bowl (2016 edition): Nurgle Rotspawn",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268932"
+        },
+        {
+            "expansion_id": "258670",
+            "expansion_name": "Blood Bowl (2016 Edition): Nurgle Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/258670"
+        },
+        {
+            "expansion_id": "258669",
+            "expansion_name": "Blood Bowl (2016 edition): Nurgle's Rotters - Nurgle Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/258669"
+        },
+        {
+            "expansion_id": "222966",
+            "expansion_name": "Blood Bowl (2016 edition): Ogre",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222966"
+        },
+        {
+            "expansion_id": "296451",
+            "expansion_name": "Blood Bowl (2016 edition): Ogre Team Booster",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/296451"
+        },
+        {
+            "expansion_id": "296160",
+            "expansion_name": "Blood Bowl (2016 Edition): Ogre Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/296160"
+        },
+        {
+            "expansion_id": "296161",
+            "expansion_name": "Blood Bowl (2016 edition): Ogre Team Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/296161"
+        },
+        {
+            "expansion_id": "313898",
+            "expansion_name": "Blood Bowl (2016 edition): Old World Alliance & Underworld Denizens Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313898"
+        },
+        {
+            "expansion_id": "313896",
+            "expansion_name": "Blood Bowl (2016 Edition): Old World Alliance Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313896"
+        },
+        {
+            "expansion_id": "266890",
+            "expansion_name": "Blood Bowl (2016 edition): Orc Team Booster",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/266890"
+        },
+        {
+            "expansion_id": "242255",
+            "expansion_name": "Blood Bowl (2016 edition): Orc Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/242255"
+        },
+        {
+            "expansion_id": "222970",
+            "expansion_name": "Blood Bowl (2016 edition): Rat Ogre",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222970"
+        },
+        {
+            "expansion_id": "257709",
+            "expansion_name": "Blood Bowl (2016 edition): Roxanna Darknail - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257709"
+        },
+        {
+            "expansion_id": "264487",
+            "expansion_name": "Blood Bowl (2016 edition): Shambling Undead Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264487"
+        },
+        {
+            "expansion_id": "264485",
+            "expansion_name": "Blood Bowl (2016 Edition): Shambling Undead Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264485"
+        },
+        {
+            "expansion_id": "219668",
+            "expansion_name": "Blood Bowl (2016 edition): Skaven and Dwarf Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219668"
+        },
+        {
+            "expansion_id": "229096",
+            "expansion_name": "Blood Bowl (2016 edition): Skaven Team Booster",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/229096"
+        },
+        {
+            "expansion_id": "254840",
+            "expansion_name": "Blood Bowl (2016 Edition): Skaven Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/254840"
+        },
+        {
+            "expansion_id": "317903",
+            "expansion_name": "Blood Bowl (2016 edition): Snotling Pitch and Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/317903"
+        },
+        {
+            "expansion_id": "317904",
+            "expansion_name": "Blood Bowl (2016 Edition): Snotling Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/317904"
+        },
+        {
+            "expansion_id": "224255",
+            "expansion_name": "Blood Bowl (2016 edition): Special Ball Rules",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224255"
+        },
+        {
+            "expansion_id": "219020",
+            "expansion_name": "Blood Bowl (2016 edition): Special Play Cards - Hall of Fame Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219020"
+        },
+        {
+            "expansion_id": "224089",
+            "expansion_name": "Blood Bowl (2016 edition): Special Play Cards - Team Titans Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224089"
+        },
+        {
+            "expansion_id": "260795",
+            "expansion_name": "Blood Bowl (2016 Edition): Spike! Journal #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260795"
+        },
+        {
+            "expansion_id": "317902",
+            "expansion_name": "Blood Bowl (2016 Edition): Spike! Journal #10",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/317902"
+        },
+        {
+            "expansion_id": "260797",
+            "expansion_name": "Blood Bowl (2016 Edition): Spike! Journal #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260797"
+        },
+        {
+            "expansion_id": "260798",
+            "expansion_name": "Blood Bowl (2016 Edition): Spike! Journal #3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260798"
+        },
+        {
+            "expansion_id": "273939",
+            "expansion_name": "Blood Bowl (2016 Edition): Spike! Journal #4",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/273939"
+        },
+        {
+            "expansion_id": "279979",
+            "expansion_name": "Blood Bowl (2016 Edition): Spike! Journal #5",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279979"
+        },
+        {
+            "expansion_id": "284076",
+            "expansion_name": "Blood Bowl (2016 edition): Spike! Journal #6",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284076"
+        },
+        {
+            "expansion_id": "293010",
+            "expansion_name": "Blood Bowl (2016 edition): Spike! Journal #7",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293010"
+        },
+        {
+            "expansion_id": "296162",
+            "expansion_name": "Blood Bowl (2016 Edition): Spike! Journal #8",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/296162"
+        },
+        {
+            "expansion_id": "313895",
+            "expansion_name": "Blood Bowl (2016 Edition): Spike! Journal #9",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313895"
+        },
+        {
+            "expansion_id": "257223",
+            "expansion_name": "Blood Bowl (2016 edition): Star Players Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257223"
+        },
+        {
+            "expansion_id": "226388",
+            "expansion_name": "Blood Bowl (2016 edition): The Bright Crusaders - Human Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/226388"
+        },
+        {
+            "expansion_id": "257715",
+            "expansion_name": "Blood Bowl (2016 edition): The Damned Damsels - Chaos Cheerleading Squad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257715"
+        },
+        {
+            "expansion_id": "252900",
+            "expansion_name": "Blood Bowl (2016 edition): The Doom Lords - Chaos Chosen Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/252900"
+        },
+        {
+            "expansion_id": "219016",
+            "expansion_name": "Blood Bowl (2016 edition): The Dwarf Giants - Dwarf Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219016"
+        },
+        {
+            "expansion_id": "224085",
+            "expansion_name": "Blood Bowl (2016 edition): The Early Bird Special Play Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224085"
+        },
+        {
+            "expansion_id": "241383",
+            "expansion_name": "Blood Bowl (2016 edition): The Elfheim Eagles - Elven Union Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/241383"
+        },
+        {
+            "expansion_id": "263994",
+            "expansion_name": "Blood Bowl (2016 edition): The Elfheim Eaglettes - Elf Cheerleading Squad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263994"
+        },
+        {
+            "expansion_id": "293396",
+            "expansion_name": "Blood Bowl (2016 edition): The Fire Mountain Gut Busters - Ogre Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293396"
+        },
+        {
+            "expansion_id": "224887",
+            "expansion_name": "Blood Bowl (2016 edition): The Gouged Eye - Orc Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224887"
+        },
+        {
+            "expansion_id": "241380",
+            "expansion_name": "Blood Bowl (2016 edition): The Inaugural Blood Bowl Almanac",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/241380"
+        },
+        {
+            "expansion_id": "313900",
+            "expansion_name": "Blood Bowl (2016 edition): The Middenheim Maulers - Old World Alliance Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313900"
+        },
+        {
+            "expansion_id": "222967",
+            "expansion_name": "Blood Bowl (2016 edition): The Mighty Zug - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222967"
+        },
+        {
+            "expansion_id": "296227",
+            "expansion_name": "Blood Bowl (2016 edition): The NAF Fun Police Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/296227"
+        },
+        {
+            "expansion_id": "256912",
+            "expansion_name": "Blood Bowl (2016 edition): The Naggaroth Nightmares - Dark Elf Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256912"
+        },
+        {
+            "expansion_id": "257712",
+            "expansion_name": "Blood Bowl (2016 edition): The Night Terrors - Dark Elf Cheerleading Squad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257712"
+        },
+        {
+            "expansion_id": "229615",
+            "expansion_name": "Blood Bowl (2016 edition): The Orcland Raiders - Orc Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/229615"
+        },
+        {
+            "expansion_id": "257714",
+            "expansion_name": "Blood Bowl (2016 edition): The Reaverettes - Human Cheerleading Squad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257714"
+        },
+        {
+            "expansion_id": "221806",
+            "expansion_name": "Blood Bowl (2016 edition): The Reikland Reavers - Human Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/221806"
+        },
+        {
+            "expansion_id": "227355",
+            "expansion_name": "Blood Bowl (2016 edition): The Scarcrag Snivellers - Goblin Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227355"
+        },
+        {
+            "expansion_id": "215008",
+            "expansion_name": "Blood Bowl (2016 edition): The Skavenblight Scramblers - Skaven Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/215008"
+        },
+        {
+            "expansion_id": "263993",
+            "expansion_name": "Blood Bowl (2016 edition): The Swift Twins - Star Players",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263993"
+        },
+        {
+            "expansion_id": "313901",
+            "expansion_name": "Blood Bowl (2016 edition): The Underworld Creepers - Underworld Denizens Blood Bowl Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313901"
+        },
+        {
+            "expansion_id": "257713",
+            "expansion_name": "Blood Bowl (2016 edition): The Waaaghs! - Orc Cheerleading Squad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257713"
+        },
+        {
+            "expansion_id": "312725",
+            "expansion_name": "Blood Bowl (2016 edition): Treeman",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/312725"
+        },
+        {
+            "expansion_id": "224709",
+            "expansion_name": "Blood Bowl (2016 edition): Troll",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224709"
+        },
+        {
+            "expansion_id": "222968",
+            "expansion_name": "Blood Bowl (2016 edition): Varag Ghoul-Chewer - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222968"
+        },
+        {
+            "expansion_id": "279982",
+            "expansion_name": "Blood Bowl (2016 edition): Willow Rosebark - Star Player",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279982"
+        },
+        {
+            "expansion_id": "224250",
+            "expansion_name": "Blood Bowl (2016 edition): Winter Bowl Inducement Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224250"
+        },
+        {
+            "expansion_id": "284079",
+            "expansion_name": "Blood Bowl (2016 edition): Wood Elf Pitch & Dugout Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284079"
+        },
+        {
+            "expansion_id": "284077",
+            "expansion_name": "Blood Bowl (2016 edition): Wood Elf Team Card Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284077"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "James M. Hewitt; Andy Hoare; Jervis Johnson",
+    "categories_string": "Collectible Components; Fantasy; Fighting; Miniatures; Sports",
+    "mechanics_string": "Critical Hits and Failures; Dice Rolling; Grid Movement; Movement Points; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '266341', 'expansion_name': 'Blood Bowl (2016 edition): 2018 Blood Bowl Almanac', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/266341'}; {'expansion_id': '293397', 'expansion_name': 'Blood Bowl (2016 edition): 2019 Blood Bowl Almanac', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293397'}; {'expansion_id': '279984', 'expansion_name': 'Blood Bowl (2016 edition): Athelorn Avengers - Wood Elf Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279984'}; {'expansion_id': '220128', 'expansion_name': 'Blood Bowl (2016 edition): Blitzmania Special Play Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220128'}; {'expansion_id': '227356', 'expansion_name': 'Blood Bowl (2016 edition): Blood Bowl Goblins', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227356'}; {'expansion_id': '216171', 'expansion_name': 'Blood Bowl (2016 edition): Blood on the Snow Pitch', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216171'}; {'expansion_id': '263995', 'expansion_name': 'Blood Bowl (2016 edition): Champions of Death - Shambling Undead Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263995'}; {'expansion_id': '256910', 'expansion_name': 'Blood Bowl (2016 edition): Chaos Chosen Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256910'}; {'expansion_id': '254841', 'expansion_name': 'Blood Bowl (2016 Edition): Chaos Chosen Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/254841'}; {'expansion_id': '312385', 'expansion_name': 'Blood Bowl (2016 edition): Crud Creek Nosepickers - Snotlings Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/312385'}; {'expansion_id': '257710', 'expansion_name': 'Blood Bowl (2016 edition): Dark Elf Assassins', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257710'}; {'expansion_id': '256909', 'expansion_name': 'Blood Bowl (2016 edition): Dark Elf Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256909'}; {'expansion_id': '256767', 'expansion_name': 'Blood Bowl (2016 Edition): Dark Elf Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256767'}; {'expansion_id': '213298', 'expansion_name': 'Blood Bowl (2016 edition): Death Zone - Season One', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213298'}; {'expansion_id': '227336', 'expansion_name': 'Blood Bowl (2016 edition): Death Zone - Season Two', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227336'}; {'expansion_id': '279874', 'expansion_name': 'Blood Bowl (2016 edition): Deeproot Strongbranch - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279874'}; {'expansion_id': '224820', 'expansion_name': 'Blood Bowl (2016 edition): Dwarf Deathroller', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224820'}; {'expansion_id': '256766', 'expansion_name': 'Blood Bowl (2016 Edition): Dwarf Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256766'}; {'expansion_id': '257708', 'expansion_name': 'Blood Bowl (2016 edition): Eldril Sidewinder - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257708'}; {'expansion_id': '242260', 'expansion_name': 'Blood Bowl (2016 edition): Elven Union Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/242260'}; {'expansion_id': '242257', 'expansion_name': 'Blood Bowl (2016 edition): Elven Union Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/242257'}; {'expansion_id': '282507', 'expansion_name': 'Blood Bowl (2016 edition): Gassy Eruption Special Play Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/282507'}; {'expansion_id': '230905', 'expansion_name': 'Blood Bowl (2016 edition): Glart Smashrip - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230905'}; {'expansion_id': '312858', 'expansion_name': 'Blood Bowl (2016 edition): Gloriel Summerbloom - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/312858'}; {'expansion_id': '224086', 'expansion_name': 'Blood Bowl (2016 edition): Go Full Beard Special Play Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224086'}; {'expansion_id': '224254', 'expansion_name': 'Blood Bowl (2016 edition): Goblin & Halfling Referees', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224254'}; {'expansion_id': '268931', 'expansion_name': 'Blood Bowl (2016 edition): Goblin Killer Kontraptions', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268931'}; {'expansion_id': '242259', 'expansion_name': 'Blood Bowl (2016 edition): Goblin Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/242259'}; {'expansion_id': '228609', 'expansion_name': 'Blood Bowl (2016 edition): Goblin Secret Weapons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228609'}; {'expansion_id': '293012', 'expansion_name': 'Blood Bowl (2016 Edition): Goblin Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293012'}; {'expansion_id': '219019', 'expansion_name': 'Blood Bowl (2016 edition): Grak and Crumbleberry - Star Player Duo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219019'}; {'expansion_id': '275035', 'expansion_name': 'Blood Bowl (2016 edition): Greenfield Grasshuggers - Halfling Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/275035'}; {'expansion_id': '222971', 'expansion_name': 'Blood Bowl (2016 edition): Griff Oberwald - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222971'}; {'expansion_id': '226120', 'expansion_name': 'Blood Bowl (2016 edition): Grim Ironjaw - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/226120'}; {'expansion_id': '226209', 'expansion_name': 'Blood Bowl (2016 edition): Grombrindal and the Black Gobbo - Star Player Duo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/226209'}; {'expansion_id': '287726', 'expansion_name': \"Blood Bowl (2016 edition): Gwaka'moli Crater Gators - Lizardmen Blood Bowl Team\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/287726'}; {'expansion_id': '227279', 'expansion_name': 'Blood Bowl (2016 edition): Hakflem Skuttlespike - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227279'}; {'expansion_id': '279977', 'expansion_name': 'Blood Bowl (2016 edition): Halfling Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279977'}; {'expansion_id': '279980', 'expansion_name': 'Blood Bowl (2016 Edition): Halfling Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279980'}; {'expansion_id': '293013', 'expansion_name': \"Blood Bowl (2016 edition): Head Coach's Rules & Accessories Pack\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293013'}; {'expansion_id': '268927', 'expansion_name': 'Blood Bowl (2016 edition): Helmut Wulf - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268927'}; {'expansion_id': '257711', 'expansion_name': 'Blood Bowl (2016 edition): Human Team Booster', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257711'}; {'expansion_id': '242256', 'expansion_name': 'Blood Bowl (2016 edition): Human Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/242256'}; {'expansion_id': '256914', 'expansion_name': 'Blood Bowl (2016 edition): Josef Bugman - Coach & Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256914'}; {'expansion_id': '268928', 'expansion_name': 'Blood Bowl (2016 edition): Karla von Kill - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268928'}; {'expansion_id': '291495', 'expansion_name': 'Blood Bowl (2016 edition): Lizardmen Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291495'}; {'expansion_id': '293011', 'expansion_name': 'Blood Bowl (2016 edition): Lizardmen Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293011'}; {'expansion_id': '279875', 'expansion_name': 'Blood Bowl (2016 edition): Lord Borak the Despoiler - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279875'}; {'expansion_id': '279981', 'expansion_name': 'Blood Bowl (2016 Edition): Match Inducements Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279981'}; {'expansion_id': '253957', 'expansion_name': 'Blood Bowl (2016 edition): Minotaur', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253957'}; {'expansion_id': '222969', 'expansion_name': \"Blood Bowl (2016 edition): Morg 'N' Thorg - Star Player\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222969'}; {'expansion_id': '241398', 'expansion_name': 'Blood Bowl (2016 edition): Naughty or Nice Special Play Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/241398'}; {'expansion_id': '258671', 'expansion_name': 'Blood Bowl (2016 edition): Nurgle Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/258671'}; {'expansion_id': '268932', 'expansion_name': 'Blood Bowl (2016 edition): Nurgle Rotspawn', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268932'}; {'expansion_id': '258670', 'expansion_name': 'Blood Bowl (2016 Edition): Nurgle Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/258670'}; {'expansion_id': '258669', 'expansion_name': \"Blood Bowl (2016 edition): Nurgle's Rotters - Nurgle Blood Bowl Team\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/258669'}; {'expansion_id': '222966', 'expansion_name': 'Blood Bowl (2016 edition): Ogre', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222966'}; {'expansion_id': '296451', 'expansion_name': 'Blood Bowl (2016 edition): Ogre Team Booster', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/296451'}; {'expansion_id': '296160', 'expansion_name': 'Blood Bowl (2016 Edition): Ogre Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/296160'}; {'expansion_id': '296161', 'expansion_name': 'Blood Bowl (2016 edition): Ogre Team Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/296161'}; {'expansion_id': '313898', 'expansion_name': 'Blood Bowl (2016 edition): Old World Alliance & Underworld Denizens Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313898'}; {'expansion_id': '313896', 'expansion_name': 'Blood Bowl (2016 Edition): Old World Alliance Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313896'}; {'expansion_id': '266890', 'expansion_name': 'Blood Bowl (2016 edition): Orc Team Booster', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/266890'}; {'expansion_id': '242255', 'expansion_name': 'Blood Bowl (2016 edition): Orc Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/242255'}; {'expansion_id': '222970', 'expansion_name': 'Blood Bowl (2016 edition): Rat Ogre', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222970'}; {'expansion_id': '257709', 'expansion_name': 'Blood Bowl (2016 edition): Roxanna Darknail - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257709'}; {'expansion_id': '264487', 'expansion_name': 'Blood Bowl (2016 edition): Shambling Undead Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264487'}; {'expansion_id': '264485', 'expansion_name': 'Blood Bowl (2016 Edition): Shambling Undead Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264485'}; {'expansion_id': '219668', 'expansion_name': 'Blood Bowl (2016 edition): Skaven and Dwarf Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219668'}; {'expansion_id': '229096', 'expansion_name': 'Blood Bowl (2016 edition): Skaven Team Booster', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/229096'}; {'expansion_id': '254840', 'expansion_name': 'Blood Bowl (2016 Edition): Skaven Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/254840'}; {'expansion_id': '317903', 'expansion_name': 'Blood Bowl (2016 edition): Snotling Pitch and Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/317903'}; {'expansion_id': '317904', 'expansion_name': 'Blood Bowl (2016 Edition): Snotling Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/317904'}; {'expansion_id': '224255', 'expansion_name': 'Blood Bowl (2016 edition): Special Ball Rules', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224255'}; {'expansion_id': '219020', 'expansion_name': 'Blood Bowl (2016 edition): Special Play Cards - Hall of Fame Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219020'}; {'expansion_id': '224089', 'expansion_name': 'Blood Bowl (2016 edition): Special Play Cards - Team Titans Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224089'}; {'expansion_id': '260795', 'expansion_name': 'Blood Bowl (2016 Edition): Spike! Journal #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260795'}; {'expansion_id': '317902', 'expansion_name': 'Blood Bowl (2016 Edition): Spike! Journal #10', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/317902'}; {'expansion_id': '260797', 'expansion_name': 'Blood Bowl (2016 Edition): Spike! Journal #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260797'}; {'expansion_id': '260798', 'expansion_name': 'Blood Bowl (2016 Edition): Spike! Journal #3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260798'}; {'expansion_id': '273939', 'expansion_name': 'Blood Bowl (2016 Edition): Spike! Journal #4', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/273939'}; {'expansion_id': '279979', 'expansion_name': 'Blood Bowl (2016 Edition): Spike! Journal #5', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279979'}; {'expansion_id': '284076', 'expansion_name': 'Blood Bowl (2016 edition): Spike! Journal #6', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284076'}; {'expansion_id': '293010', 'expansion_name': 'Blood Bowl (2016 edition): Spike! Journal #7', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293010'}; {'expansion_id': '296162', 'expansion_name': 'Blood Bowl (2016 Edition): Spike! Journal #8', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/296162'}; {'expansion_id': '313895', 'expansion_name': 'Blood Bowl (2016 Edition): Spike! Journal #9', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313895'}; {'expansion_id': '257223', 'expansion_name': 'Blood Bowl (2016 edition): Star Players Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257223'}; {'expansion_id': '226388', 'expansion_name': 'Blood Bowl (2016 edition): The Bright Crusaders - Human Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/226388'}; {'expansion_id': '257715', 'expansion_name': 'Blood Bowl (2016 edition): The Damned Damsels - Chaos Cheerleading Squad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257715'}; {'expansion_id': '252900', 'expansion_name': 'Blood Bowl (2016 edition): The Doom Lords - Chaos Chosen Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/252900'}; {'expansion_id': '219016', 'expansion_name': 'Blood Bowl (2016 edition): The Dwarf Giants - Dwarf Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219016'}; {'expansion_id': '224085', 'expansion_name': 'Blood Bowl (2016 edition): The Early Bird Special Play Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224085'}; {'expansion_id': '241383', 'expansion_name': 'Blood Bowl (2016 edition): The Elfheim Eagles - Elven Union Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/241383'}; {'expansion_id': '263994', 'expansion_name': 'Blood Bowl (2016 edition): The Elfheim Eaglettes - Elf Cheerleading Squad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263994'}; {'expansion_id': '293396', 'expansion_name': 'Blood Bowl (2016 edition): The Fire Mountain Gut Busters - Ogre Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293396'}; {'expansion_id': '224887', 'expansion_name': 'Blood Bowl (2016 edition): The Gouged Eye - Orc Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224887'}; {'expansion_id': '241380', 'expansion_name': 'Blood Bowl (2016 edition): The Inaugural Blood Bowl Almanac', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/241380'}; {'expansion_id': '313900', 'expansion_name': 'Blood Bowl (2016 edition): The Middenheim Maulers - Old World Alliance Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313900'}; {'expansion_id': '222967', 'expansion_name': 'Blood Bowl (2016 edition): The Mighty Zug - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222967'}; {'expansion_id': '296227', 'expansion_name': 'Blood Bowl (2016 edition): The NAF Fun Police Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/296227'}; {'expansion_id': '256912', 'expansion_name': 'Blood Bowl (2016 edition): The Naggaroth Nightmares - Dark Elf Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256912'}; {'expansion_id': '257712', 'expansion_name': 'Blood Bowl (2016 edition): The Night Terrors - Dark Elf Cheerleading Squad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257712'}; {'expansion_id': '229615', 'expansion_name': 'Blood Bowl (2016 edition): The Orcland Raiders - Orc Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/229615'}; {'expansion_id': '257714', 'expansion_name': 'Blood Bowl (2016 edition): The Reaverettes - Human Cheerleading Squad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257714'}; {'expansion_id': '221806', 'expansion_name': 'Blood Bowl (2016 edition): The Reikland Reavers - Human Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/221806'}; {'expansion_id': '227355', 'expansion_name': 'Blood Bowl (2016 edition): The Scarcrag Snivellers - Goblin Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227355'}; {'expansion_id': '215008', 'expansion_name': 'Blood Bowl (2016 edition): The Skavenblight Scramblers - Skaven Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/215008'}; {'expansion_id': '263993', 'expansion_name': 'Blood Bowl (2016 edition): The Swift Twins - Star Players', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263993'}; {'expansion_id': '313901', 'expansion_name': 'Blood Bowl (2016 edition): The Underworld Creepers - Underworld Denizens Blood Bowl Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313901'}; {'expansion_id': '257713', 'expansion_name': 'Blood Bowl (2016 edition): The Waaaghs! - Orc Cheerleading Squad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257713'}; {'expansion_id': '312725', 'expansion_name': 'Blood Bowl (2016 edition): Treeman', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/312725'}; {'expansion_id': '224709', 'expansion_name': 'Blood Bowl (2016 edition): Troll', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224709'}; {'expansion_id': '222968', 'expansion_name': 'Blood Bowl (2016 edition): Varag Ghoul-Chewer - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222968'}; {'expansion_id': '279982', 'expansion_name': 'Blood Bowl (2016 edition): Willow Rosebark - Star Player', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279982'}; {'expansion_id': '224250', 'expansion_name': 'Blood Bowl (2016 edition): Winter Bowl Inducement Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224250'}; {'expansion_id': '284079', 'expansion_name': 'Blood Bowl (2016 edition): Wood Elf Pitch & Dugout Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284079'}; {'expansion_id': '284077', 'expansion_name': 'Blood Bowl (2016 edition): Wood Elf Team Card Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284077'}",
+    "expansions_for_string": ""
+}

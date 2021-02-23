@@ -1,0 +1,54 @@
+{
+    "game_id": "12414",
+    "game_name": "La Batalla de los Arapiles",
+    "bgg_link": "https://boardgamegeek.com/boardgame/12414",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3267966",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3267966#item3267966",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "petegs"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Ta_2YDcj43RzookXTXu7wQ__thumb/img/pAsUmHKTtIsjcbYzT53bjKOwkVU=/fit-in/200x150/filters:strip_icc()/pic76337.jpg",
+    "year_published": "1995",
+    "designers": [
+        "Jose Luis Arcon Dominguez"
+    ],
+    "weight": 3.75,
+    "rating": 7.99,
+    "play_time": "210 - 2400",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Paper-and-Pencil",
+        "Secret Unit Deployment",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "189306",
+            "expansion_name": "Los Refuerzos de Extremadura",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189306"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jose Luis Arcon Dominguez",
+    "categories_string": "Napoleonic; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Dice Rolling; Hexagon Grid; Paper-and-Pencil; Secret Unit Deployment; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '189306', 'expansion_name': 'Los Refuerzos de Extremadura', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189306'}",
+    "expansions_for_string": ""
+}

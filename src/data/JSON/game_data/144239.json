@@ -1,0 +1,109 @@
+{
+    "game_id": "144239",
+    "game_name": "Impulse",
+    "bgg_link": "https://boardgamegeek.com/boardgame/144239",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5296224",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5296224#item5296224",
+            "geeklist_host": "suzyvitale",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5609541",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5609541#item5609541",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "GameRulesforOne"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5674952",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5674952#item5674952",
+            "geeklist_host": "cornishlee",
+            "contributor": "RitterFips"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6664493",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6664493#item6664493",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "ZombieBoard"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6996569",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6996569#item6996569",
+            "geeklist_host": "magic_erwt",
+            "contributor": "gentle"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/_Z3f513K1T7Nd99UGtyC9Q__thumb/img/v61Nk7eHaXuDkMsalSV7FzJt_Fs=/fit-in/200x150/filters:strip_icc()/pic3496684.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Carl Chudyk"
+    ],
+    "weight": 2.98,
+    "rating": 6.85,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "33",
+    "categories": [
+        "Bluffing",
+        "Card Game",
+        "Economic",
+        "Fighting",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Area Majority / Influence",
+        "Card Play Conflict Resolution",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Player Elimination",
+        "Race",
+        "Team-Based Game",
+        "Variable Phase Order",
+        "Variable Player Powers",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "224816",
+            "expansion_name": "Impulse: All Your Base",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224816"
+        },
+        {
+            "expansion_id": "224817",
+            "expansion_name": "Impulse: Brake for Launch",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224817"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Carl Chudyk",
+    "categories_string": "Bluffing; Card Game; Economic; Fighting; Science Fiction; Space Exploration",
+    "mechanics_string": "Action Queue; Area Majority / Influence; Card Play Conflict Resolution; Grid Movement; Hand Management; Modular Board; Player Elimination; Race; Team-Based Game; Variable Phase Order; Variable Player Powers; Variable Set-up",
+    "expansions_string": "{'expansion_id': '224816', 'expansion_name': 'Impulse: All Your Base', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224816'}; {'expansion_id': '224817', 'expansion_name': 'Impulse: Brake for Launch', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224817'}",
+    "expansions_for_string": ""
+}

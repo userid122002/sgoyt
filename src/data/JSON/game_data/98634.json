@@ -1,0 +1,144 @@
+{
+    "game_id": "98634",
+    "game_name": "The Lord of the Rings: The Card Game - The Hills of Emyn Muil",
+    "bgg_link": "https://boardgamegeek.com/boardgame/98634",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3231772",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3231772#item3231772",
+            "geeklist_host": "fractaloon",
+            "contributor": "aeneas2467"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3511859",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3511859#item3511859",
+            "geeklist_host": "joestin",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3601268",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3601268#item3601268",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "V3rItaS"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3705556",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3705556#item3705556",
+            "geeklist_host": "bikefreak",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3937550",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3937550#item3937550",
+            "geeklist_host": "koinskyz",
+            "contributor": "modernlife"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4015105",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4015105#item4015105",
+            "geeklist_host": "joestin",
+            "contributor": "Ryanmobile"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4823489",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4823489#item4823489",
+            "geeklist_host": "govmiller",
+            "contributor": "cornishlee"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6651247",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6651247#item6651247",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "ArtyomTrityak"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7060962",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7060962#item7060962",
+            "geeklist_host": "Venom Snake",
+            "contributor": "runaway_meeple"
+        }
+    ],
+    "sgoyt_count": 9,
+    "thumbnail": "https://cf.geekdo-images.com/pQ9nzZ-bT9_fSeM5F995aw__thumb/img/EFn1Yol6BdbmmDm2KBhtrXFPiLU=/fit-in/200x150/filters:strip_icc()/pic1004129.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Nate French"
+    ],
+    "weight": 2.75,
+    "rating": 7.20,
+    "play_time": "60",
+    "best": "3",
+    "recommended": "4",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "148062",
+            "expansion_name": "The Lord of the Rings: The Card Game - Game Night Kit 2013 Season Three",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/148062"
+        },
+        {
+            "expansion_id": "154425",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: The Hills of Emyn Muil",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154425"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        }
+    ],
+    "designers_string": "Nate French",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '148062', 'expansion_name': 'The Lord of the Rings: The Card Game - Game Night Kit 2013 Season Three', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/148062'}; {'expansion_id': '154425', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: The Hills of Emyn Muil', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154425'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}"
+}

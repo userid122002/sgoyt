@@ -1,0 +1,62 @@
+{
+    "game_id": "195856",
+    "game_name": "Bloodborne: The Card Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/195856",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5537747",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5537747#item5537747",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Guuthulhu"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/zczRMJvEEGhqLGwxxOQQuw__thumb/img/du70HBRGXpFIpyTiyZlp0wtZLns=/fit-in/200x150/filters:strip_icc()/pic3297526.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Eric M. Lang"
+    ],
+    "weight": 2.07,
+    "rating": 6.93,
+    "play_time": "30 - 45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "25",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Horror",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Hand Management",
+        "Push Your Luck",
+        "Set Collection",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "252718",
+            "expansion_name": "Bloodborne: The Card Game - Moon Presence",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/252718"
+        },
+        {
+            "expansion_id": "233468",
+            "expansion_name": "Bloodborne: The Card Game - The Hunter's Nightmare",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233468"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Eric M. Lang",
+    "categories_string": "Card Game; Fantasy; Horror; Video Game Theme",
+    "mechanics_string": "Card Drafting; Dice Rolling; Hand Management; Push Your Luck; Set Collection; Simultaneous Action Selection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '252718', 'expansion_name': 'Bloodborne: The Card Game - Moon Presence', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/252718'}; {'expansion_id': '233468', 'expansion_name': \"Bloodborne: The Card Game - The Hunter's Nightmare\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233468'}",
+    "expansions_for_string": ""
+}

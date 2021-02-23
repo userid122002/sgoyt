@@ -1,0 +1,94 @@
+{
+    "game_id": "200147",
+    "game_name": "Kanagawa",
+    "bgg_link": "https://boardgamegeek.com/boardgame/200147",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5075768",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5075768#item5075768",
+            "geeklist_host": "mikolajl",
+            "contributor": "markmorrise"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5117217",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5117217#item5117217",
+            "geeklist_host": "settlerdave",
+            "contributor": "laraya"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5126090",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5126090#item5126090",
+            "geeklist_host": "settlerdave",
+            "contributor": "taeryn"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5154241",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5154241#item5154241",
+            "geeklist_host": "settlerdave",
+            "contributor": "Drugo81"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6219636",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6219636#item6219636",
+            "geeklist_host": "Gribbon",
+            "contributor": "Antidotum"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/Rr2JrRztCFzzikJ9YL5-Dw__thumb/img/x9MtKEQlcQ_jS-5AVMeZ28NOC0s=/fit-in/200x150/filters:strip_icc()/pic3105168.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Bruno Cathala",
+        "Charles Chevallier"
+    ],
+    "weight": 2.03,
+    "rating": 7.10,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "53",
+    "categories": [
+        "Animals",
+        "Card Game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Pattern Building",
+        "Push Your Luck",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "264398",
+            "expansion_name": "Kanagawa: Yokai",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264398"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Bruno Cathala; Charles Chevallier",
+    "categories_string": "Animals; Card Game",
+    "mechanics_string": "Card Drafting; Hand Management; Pattern Building; Push Your Luck; Set Collection",
+    "expansions_string": "{'expansion_id': '264398', 'expansion_name': 'Kanagawa: Yokai', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264398'}",
+    "expansions_for_string": ""
+}

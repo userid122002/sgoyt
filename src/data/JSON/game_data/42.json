@@ -1,0 +1,69 @@
+{
+    "game_id": "42",
+    "game_name": "Tigris & Euphrates",
+    "bgg_link": "https://boardgamegeek.com/boardgame/42",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5489037",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5489037#item5489037",
+            "geeklist_host": "Mishko",
+            "contributor": "JJ_Euro"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5506325",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5506325#item5506325",
+            "geeklist_host": "Mishko",
+            "contributor": "Danneq"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/soAzNVWglCdVBacNjoCTJw__thumb/img/0UPEyOaSFyqEH1ikrSig_218RQ0=/fit-in/200x150/filters:strip_icc()/pic2338267.jpg",
+    "year_published": "1997",
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "weight": 3.51,
+    "rating": 7.70,
+    "play_time": "90",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "306",
+    "categories": [
+        "Ancient",
+        "Civilization",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Connections",
+        "Hand Management",
+        "Highest-Lowest Scoring",
+        "Income",
+        "Pieces as Map",
+        "Set Collection",
+        "Square Grid",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "43490",
+            "expansion_name": "Euphrat & Tigris: Die Zikkurat",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/43490"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Reiner Knizia",
+    "categories_string": "Ancient; Civilization; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Area Movement; Connections; Hand Management; Highest-Lowest Scoring; Income; Pieces as Map; Set Collection; Square Grid; Tile Placement",
+    "expansions_string": "{'expansion_id': '43490', 'expansion_name': 'Euphrat & Tigris: Die Zikkurat', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/43490'}",
+    "expansions_for_string": ""
+}

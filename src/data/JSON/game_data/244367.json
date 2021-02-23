@@ -1,0 +1,53 @@
+{
+    "game_id": "244367",
+    "game_name": "Valeria: Card Kingdoms - Shadowvale",
+    "bgg_link": "https://boardgamegeek.com/boardgame/244367",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6114215",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6114215#item6114215",
+            "geeklist_host": "Pjandy",
+            "contributor": "RadKit"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/T1EqKqsj0Mt07AkLbmzPzg__thumb/img/MuJCaNZChBPA16E54NMAPLZID4k=/fit-in/200x150/filters:strip_icc()/pic3946899.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Isaias Vallejo"
+    ],
+    "weight": 2.50,
+    "rating": 7.90,
+    "play_time": "30 - 45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "170561",
+            "game_name": "Valeria: Card Kingdoms",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/170561"
+        }
+    ],
+    "designers_string": "Isaias Vallejo",
+    "categories_string": "Card Game; Dice; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Dice Rolling",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '170561', 'game_name': 'Valeria: Card Kingdoms', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/170561'}"
+}

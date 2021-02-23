@@ -1,0 +1,83 @@
+{
+    "game_id": "257063",
+    "game_name": "SiegeStorm: SiegeMode",
+    "bgg_link": "https://boardgamegeek.com/boardgame/257063",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6887323",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6887323#item6887323",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "KillerPower"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7107798",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7107798#item7107798",
+            "geeklist_host": "Venom Snake",
+            "contributor": "tyk567"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Ai3RWFxc3hoZzj75HMhbGA__thumb/img/RNfC5QHsynQ30XYhxwKyxZDmwzI=/fit-in/200x150/filters:strip_icc()/pic4560150.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Kamil 'Sanex' Ciesla",
+        "Marcin Swierkot"
+    ],
+    "weight": 2.62,
+    "rating": 7.83,
+    "play_time": "20 - 30",
+    "best": "2",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Card Game",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Cooperative Game",
+        "Hand Management",
+        "Take That"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "291383",
+            "expansion_name": "Siege Storm: Styxia Faction",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291383"
+        },
+        {
+            "expansion_id": "257338",
+            "expansion_name": "SiegeStorm: Frost Giants",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257338"
+        },
+        {
+            "expansion_id": "320811",
+            "expansion_name": "SiegeStorm: Seraphia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/320811"
+        },
+        {
+            "expansion_id": "257340",
+            "expansion_name": "SiegeStorm: Shade Slayers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257340"
+        },
+        {
+            "expansion_id": "257339",
+            "expansion_name": "SiegeStorm: Wild Fairies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257339"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Kamil 'Sanex' Ciesla; Marcin Swierkot",
+    "categories_string": "Card Game; Fighting",
+    "mechanics_string": "Card Drafting; Cooperative Game; Hand Management; Take That",
+    "expansions_string": "{'expansion_id': '291383', 'expansion_name': 'Siege Storm: Styxia Faction', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291383'}; {'expansion_id': '257338', 'expansion_name': 'SiegeStorm: Frost Giants', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257338'}; {'expansion_id': '320811', 'expansion_name': 'SiegeStorm: Seraphia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/320811'}; {'expansion_id': '257340', 'expansion_name': 'SiegeStorm: Shade Slayers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257340'}; {'expansion_id': '257339', 'expansion_name': 'SiegeStorm: Wild Fairies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257339'}",
+    "expansions_for_string": ""
+}

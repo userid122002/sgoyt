@@ -1,0 +1,99 @@
+{
+    "game_id": "256999",
+    "game_name": "Project: ELITE",
+    "bgg_link": "https://boardgamegeek.com/boardgame/256999",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7741053",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7741053#item7741053",
+            "geeklist_host": "Elida",
+            "contributor": "Kilerazn"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7743175",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7743175#item7743175",
+            "geeklist_host": "repairmanjack",
+            "contributor": "drevilz4l"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/5vp2W-DZ7waaaeZBFGF7LA__thumb/img/dd42jLxcgnHlvZdd0EOt8JZcUDI=/fit-in/200x150/filters:strip_icc()/pic5740623.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Konstantinos Kokkinis",
+        "Marco Portugal",
+        "Sotirios Tsantilas"
+    ],
+    "weight": 2.37,
+    "rating": 8.16,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "9",
+    "categories": [
+        "Fighting",
+        "Miniatures",
+        "Real-time",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Elapsed Real Time Ending",
+        "Grid Movement",
+        "Line of Sight",
+        "Real-Time",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "264687",
+            "expansion_name": "Project: ELITE - Alien Allies Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264687"
+        },
+        {
+            "expansion_id": "264689",
+            "expansion_name": "Project: ELITE - Alienship Rescue Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264689"
+        },
+        {
+            "expansion_id": "265058",
+            "expansion_name": "Project: ELITE - Ammo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/265058"
+        },
+        {
+            "expansion_id": "264811",
+            "expansion_name": "Project: ELITE - Deathmaw Valley",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264811"
+        },
+        {
+            "expansion_id": "264721",
+            "expansion_name": "Project: ELITE - R.O.O.K Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264721"
+        },
+        {
+            "expansion_id": "305563",
+            "expansion_name": "Project: ELITE - Terran Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305563"
+        },
+        {
+            "expansion_id": "264688",
+            "expansion_name": "Project: ELITE - Zombicide: Invader Crossover Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264688"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Konstantinos Kokkinis; Marco Portugal; Sotirios Tsantilas",
+    "categories_string": "Fighting; Miniatures; Real-time; Science Fiction",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Elapsed Real Time Ending; Grid Movement; Line of Sight; Real-Time; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '264687', 'expansion_name': 'Project: ELITE - Alien Allies Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264687'}; {'expansion_id': '264689', 'expansion_name': 'Project: ELITE - Alienship Rescue Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264689'}; {'expansion_id': '265058', 'expansion_name': 'Project: ELITE - Ammo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/265058'}; {'expansion_id': '264811', 'expansion_name': 'Project: ELITE - Deathmaw Valley', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264811'}; {'expansion_id': '264721', 'expansion_name': 'Project: ELITE - R.O.O.K Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264721'}; {'expansion_id': '305563', 'expansion_name': 'Project: ELITE - Terran Box', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305563'}; {'expansion_id': '264688', 'expansion_name': 'Project: ELITE - Zombicide: Invader Crossover Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264688'}",
+    "expansions_for_string": ""
+}

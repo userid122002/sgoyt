@@ -1,0 +1,82 @@
+{
+    "game_id": "288513",
+    "game_name": "Tranquility",
+    "bgg_link": "https://boardgamegeek.com/boardgame/288513",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7848763",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7848763#item7848763",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "ankno"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7893011",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7893011#item7893011",
+            "geeklist_host": "Elida",
+            "contributor": "ankno"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7927055",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7927055#item7927055",
+            "geeklist_host": "Elida",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7953018",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7953018#item7953018",
+            "geeklist_host": "Albia",
+            "contributor": "ankno"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/gsUEMtPMowuZMPqb7w-5qQ__thumb/img/9tew0XvBoZ-1bqFic3RNelnhjWY=/fit-in/200x150/filters:strip_icc()/pic4945575.png",
+    "year_published": "2020",
+    "designers": [
+        "James Emmerson"
+    ],
+    "weight": 1.50,
+    "rating": 7.51,
+    "play_time": "15 - 20",
+    "best": "5",
+    "recommended": "3",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Number"
+    ],
+    "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Hand Management",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "304914",
+            "expansion_name": "Tranquility: Stormy Seas",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/304914"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "James Emmerson",
+    "categories_string": "Card Game; Number",
+    "mechanics_string": "Communication Limits; Cooperative Game; Hand Management; Tile Placement",
+    "expansions_string": "{'expansion_id': '304914', 'expansion_name': 'Tranquility: Stormy Seas', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/304914'}",
+    "expansions_for_string": ""
+}

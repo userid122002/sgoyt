@@ -1,0 +1,104 @@
+{
+    "game_id": "1827",
+    "game_name": "Chainsaw Warrior",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1827",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "175551",
+            "geeklist_item_id": "3338728",
+            "year_month": "2014/07",
+            "year": "2014",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/175551/item/3338728#item3338728",
+            "geeklist_host": "Woelf",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3545771",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3545771#item3545771",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4283083",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4283083#item4283083",
+            "geeklist_host": "rangerx",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4804268",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4804268#item4804268",
+            "geeklist_host": "govmiller",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5672904",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5672904#item5672904",
+            "geeklist_host": "cornishlee",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6370601",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6370601#item6370601",
+            "geeklist_host": "dobrazil",
+            "contributor": "alaitoc"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/2rYXQV43QkwYZuCTGLnsjQ__thumb/img/fiWSUsXTz8upN0LYAJ3ldYlYDp0=/fit-in/200x150/filters:strip_icc()/pic430399.jpg",
+    "year_published": "1987",
+    "designers": [
+        "Stephen Hand"
+    ],
+    "weight": 1.92,
+    "rating": 5.87,
+    "play_time": "60",
+    "best": "14",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Exploration",
+        "Fighting",
+        "Horror"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Move Through Deck"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "2050",
+            "expansion_name": "Life & Death & An American Chainsaw",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/2050"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stephen Hand",
+    "categories_string": "Adventure; Card Game; Exploration; Fighting; Horror",
+    "mechanics_string": "Campaign / Battle Card Driven; Dice Rolling; Move Through Deck",
+    "expansions_string": "{'expansion_id': '2050', 'expansion_name': 'Life & Death & An American Chainsaw', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/2050'}",
+    "expansions_for_string": ""
+}

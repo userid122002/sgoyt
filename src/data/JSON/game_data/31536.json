@@ -1,0 +1,72 @@
+{
+    "game_id": "31536",
+    "game_name": "Arkham Horror: Kingsport Horror Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/31536",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3633719",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3633719#item3633719",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "kikerl"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6055387",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6055387#item6055387",
+            "geeklist_host": "busdjur",
+            "contributor": "xemxi"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/_LL_3mm0vDCxgJZM_NAgRA__thumb/img/ZOa5fH22Z-9zxFW563-JSl1Z5Cw=/fit-in/200x150/filters:strip_icc()/pic261702.jpg",
+    "year_published": "2008",
+    "designers": [
+        "Richard Launius",
+        "Kevin Wilson"
+    ],
+    "weight": 3.38,
+    "rating": 7.45,
+    "play_time": "120 - 240",
+    "best": "3",
+    "recommended": "15",
+    "not_recommended": "17",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fighting",
+        "Horror",
+        "Novel-based",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "93465",
+            "expansion_name": "Arkham Horror: Miskatonic Horror Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93465"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "15987",
+            "game_name": "Arkham Horror",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/15987"
+        }
+    ],
+    "designers_string": "Richard Launius; Kevin Wilson",
+    "categories_string": "Adventure; Expansion for Base-game; Fighting; Horror; Novel-based; Science Fiction",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Hand Management",
+    "expansions_string": "{'expansion_id': '93465', 'expansion_name': 'Arkham Horror: Miskatonic Horror Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93465'}",
+    "expansions_for_string": "{'game_id': '15987', 'game_name': 'Arkham Horror', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/15987'}"
+}

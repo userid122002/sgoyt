@@ -1,0 +1,53 @@
+{
+    "game_id": "266748",
+    "game_name": "Mr. Cabbagehead's Garden: Maisy Ballentyne",
+    "bgg_link": "https://boardgamegeek.com/boardgame/266748",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8043156",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8043156#item8043156",
+            "geeklist_host": "airzonk1",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/bkv0jHWF7HgVkxY2cSQS_Q__thumb/img/lx1ca2VHz8HQzNdnr4drybQLPoY=/fit-in/200x150/filters:strip_icc()/pic5844304.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Todd Sanders"
+    ],
+    "weight": 0.00,
+    "rating": 7.28,
+    "play_time": "10 - 20",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Farming",
+        "Puzzle"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Pattern Recognition",
+        "Set Collection"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "192312",
+            "game_name": "Mr. Cabbagehead's Garden",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/192312"
+        }
+    ],
+    "designers_string": "Todd Sanders",
+    "categories_string": "Card Game; Expansion for Base-game; Farming; Puzzle",
+    "mechanics_string": "Card Drafting; Pattern Recognition; Set Collection",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '192312', 'game_name': \"Mr. Cabbagehead's Garden\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/192312'}"
+}

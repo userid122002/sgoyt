@@ -1,0 +1,118 @@
+{
+    "game_id": "172",
+    "game_name": "For Sale",
+    "bgg_link": "https://boardgamegeek.com/boardgame/172",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "156765",
+            "geeklist_item_id": "2650857",
+            "year_month": "2013/05",
+            "year": "2013",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/156765/item/2650857#item2650857",
+            "geeklist_host": "fractaloon",
+            "contributor": "telengard"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3473422",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3473422#item3473422",
+            "geeklist_host": "joestin",
+            "contributor": "kvenosdel"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3585049",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3585049#item3585049",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "kvenosdel"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3586076",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3586076#item3586076",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Malaiser"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3648519",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3648519#item3648519",
+            "geeklist_host": "bikefreak",
+            "contributor": "gatesphere"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3705243",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3705243#item3705243",
+            "geeklist_host": "bikefreak",
+            "contributor": "hiimjosh"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5511831",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5511831#item5511831",
+            "geeklist_host": "Mishko",
+            "contributor": "msaya"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__thumb/img/3cgW5aP-JJeKSpZMjA0NFheMnfY=/fit-in/200x150/filters:strip_icc()/pic1513085.jpg",
+    "year_published": "1997",
+    "designers": [
+        "Stefan Dorra"
+    ],
+    "weight": 1.26,
+    "rating": 7.22,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "195",
+    "categories": [
+        "Card Game",
+        "Economic"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Auction: Sealed Bid",
+        "Auction: Turn Order Until Pass",
+        "Hand Management",
+        "Selection Order Bid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "318710",
+            "expansion_name": "For Sale: Advisors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/318710"
+        },
+        {
+            "expansion_id": "215430",
+            "expansion_name": "For Sale: Hebrew Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/215430"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stefan Dorra",
+    "categories_string": "Card Game; Economic",
+    "mechanics_string": "Auction/Bidding; Auction: Sealed Bid; Auction: Turn Order Until Pass; Hand Management; Selection Order Bid",
+    "expansions_string": "{'expansion_id': '318710', 'expansion_name': 'For Sale: Advisors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/318710'}; {'expansion_id': '215430', 'expansion_name': 'For Sale: Hebrew Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/215430'}",
+    "expansions_for_string": ""
+}

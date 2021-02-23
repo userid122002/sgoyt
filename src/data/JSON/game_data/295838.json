@@ -1,0 +1,56 @@
+{
+    "game_id": "295838",
+    "game_name": "Banned Books: Animals",
+    "bgg_link": "https://boardgamegeek.com/boardgame/295838",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7818719",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7818719#item7818719",
+            "geeklist_host": "mithoron",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/ZaZQ84QyQ6T_QEMHS8GraQ__thumb/img/Bqf-OIGiaFnrUFmToZKHz0XUWcI=/fit-in/200x150/filters:strip_icc()/pic5758097.png",
+    "year_published": "2018",
+    "designers": [
+        "Jason Tagmire"
+    ],
+    "weight": 0.00,
+    "rating": 6.55,
+    "play_time": "15 - 30",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Card Game",
+        "Dice",
+        "Novel-based",
+        "Print & Play",
+        "Spies/Secret Agents"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Push Your Luck",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "254394",
+            "game_name": "Banned Books",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/254394"
+        }
+    ],
+    "designers_string": "Jason Tagmire",
+    "categories_string": "Expansion for Base-game; Card Game; Dice; Novel-based; Print & Play; Spies/Secret Agents",
+    "mechanics_string": "Action Points; Dice Rolling; Push Your Luck; Solo / Solitaire Game",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '254394', 'game_name': 'Banned Books', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/254394'}"
+}

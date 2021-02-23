@@ -1,0 +1,82 @@
+{
+    "game_id": "97842",
+    "game_name": "Last Will",
+    "bgg_link": "https://boardgamegeek.com/boardgame/97842",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6020679",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6020679#item6020679",
+            "geeklist_host": "busdjur",
+            "contributor": "Ann D"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7078966",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7078966#item7078966",
+            "geeklist_host": "Venom Snake",
+            "contributor": "itazzy"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7123193",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7123193#item7123193",
+            "geeklist_host": "Venom Snake",
+            "contributor": "itazzy"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/lJ-yg0oUpHLWI6If6Q-JbA__thumb/img/mq1zlPHslpjaHqfXlJY_H-ZNF7Q=/fit-in/200x150/filters:strip_icc()/pic2442432.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Vladimir Suchy"
+    ],
+    "weight": 2.71,
+    "rating": 7.19,
+    "play_time": "45 - 75",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "40",
+    "categories": [
+        "Card Game",
+        "Economic",
+        "Humor"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Hand Management",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "143063",
+            "expansion_name": "Last Will: Getting Sacked",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143063"
+        },
+        {
+            "expansion_id": "132436",
+            "expansion_name": "Last Will: Messenger Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132436"
+        },
+        {
+            "expansion_id": "111171",
+            "expansion_name": "Last Will: Plan Order Board",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/111171"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vladimir Suchy",
+    "categories_string": "Card Game; Economic; Humor",
+    "mechanics_string": "Action Points; Hand Management; Worker Placement",
+    "expansions_string": "{'expansion_id': '143063', 'expansion_name': 'Last Will: Getting Sacked', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143063'}; {'expansion_id': '132436', 'expansion_name': 'Last Will: Messenger Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132436'}; {'expansion_id': '111171', 'expansion_name': 'Last Will: Plan Order Board', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/111171'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,68 @@
+{
+    "game_id": "231294",
+    "game_name": "Triplock: The Factory Solo Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/231294",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5852824",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5852824#item5852824",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Royds"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5928824",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5928824#item5928824",
+            "geeklist_host": "Jorune",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/DEOlGvgqrsZAVsVL7bqvoQ__thumb/img/V51cq5mZyoDkm4l-0kGD7Hlzy2U=/fit-in/200x150/filters:strip_icc()/pic3635693.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Adam Carlson",
+        "Josh J. Carlson"
+    ],
+    "weight": 2.00,
+    "rating": 7.01,
+    "play_time": "15 - 30",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Deduction",
+        "Expansion for Base-game",
+        "Memory",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Memory",
+        "Pattern Building",
+        "Pattern Recognition",
+        "Set Collection",
+        "Variable Phase Order"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "229791",
+            "game_name": "Triplock",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/229791"
+        }
+    ],
+    "designers_string": "Adam Carlson; Josh J. Carlson",
+    "categories_string": "Deduction; Expansion for Base-game; Memory; Science Fiction",
+    "mechanics_string": "Dice Rolling; Hand Management; Memory; Pattern Building; Pattern Recognition; Set Collection; Variable Phase Order",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '229791', 'game_name': 'Triplock', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/229791'}"
+}

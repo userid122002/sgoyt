@@ -1,0 +1,62 @@
+{
+    "game_id": "239330",
+    "game_name": "Arkham Horror: The Card Game - Black Stars Rise: Mythos Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/239330",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6325989",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6325989#item6325989",
+            "geeklist_host": "spaceman23",
+            "contributor": "MadMihi"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/U9RtFhE4tl7cR1B4ZIna9g__thumb/img/Zd_BlwdpLr-V6gBADK_qdeEP3U4=/fit-in/200x150/filters:strip_icc()/pic3835070.png",
+    "year_published": "2018",
+    "designers": [
+        "Nate French",
+        "Matthew Newman"
+    ],
+    "weight": 3.89,
+    "rating": 8.53,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        },
+        {
+            "game_id": "225563",
+            "game_name": "Arkham Horror: The Card Game - The Path to Carcosa: Expansion",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/225563"
+        }
+    ],
+    "designers_string": "Nate French; Matthew Newman",
+    "categories_string": "Adventure; Card Game; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}; {'game_id': '225563', 'game_name': 'Arkham Horror: The Card Game - The Path to Carcosa: Expansion', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/225563'}"
+}

@@ -1,0 +1,73 @@
+{
+    "game_id": "84838",
+    "game_name": "Yomi (Second Edition)",
+    "bgg_link": "https://boardgamegeek.com/boardgame/84838",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5062057",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5062057#item5062057",
+            "geeklist_host": "mikolajl",
+            "contributor": "Rook96"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6074944",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6074944#item6074944",
+            "geeklist_host": "skeletonhat",
+            "contributor": "canglingy"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7673452",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7673452#item7673452",
+            "geeklist_host": "gentle",
+            "contributor": "Rook96"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/8r8mysKNrkBLGNi85tJGUQ__thumb/img/gc21jQHlHaLjpesto8YHk-Kg7cY=/fit-in/200x150/filters:strip_icc()/pic2380276.png",
+    "year_published": "2014",
+    "designers": [
+        "David Sirlin"
+    ],
+    "weight": 2.74,
+    "rating": 7.61,
+    "play_time": "20",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "6",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Rock-Paper-Scissors",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "167387",
+            "expansion_name": "Yomi EX Powerup",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167387"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "David Sirlin",
+    "categories_string": "Card Game; Fantasy; Fighting",
+    "mechanics_string": "Hand Management; Rock-Paper-Scissors; Simultaneous Action Selection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '167387', 'expansion_name': 'Yomi EX Powerup', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167387'}",
+    "expansions_for_string": ""
+}

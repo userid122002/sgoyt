@@ -1,0 +1,139 @@
+{
+    "game_id": "77130",
+    "game_name": "Sid Meier's Civilization: The Board Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/77130",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "156765",
+            "geeklist_item_id": "2662369",
+            "year_month": "2013/05",
+            "year": "2013",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/156765/item/2662369#item2662369",
+            "geeklist_host": "fractaloon",
+            "contributor": "SirWashington"
+        },
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3790107",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3790107#item3790107",
+            "geeklist_host": "HRune",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4093288",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4093288#item4093288",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "haenggi"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4099886",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4099886#item4099886",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4647372",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4647372#item4647372",
+            "geeklist_host": "gentle",
+            "contributor": "Eraelan"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6002706",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6002706#item6002706",
+            "geeklist_host": "busdjur",
+            "contributor": "schiavonir"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6014668",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6014668#item6014668",
+            "geeklist_host": "busdjur",
+            "contributor": "schiavonir"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6028305",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6028305#item6028305",
+            "geeklist_host": "busdjur",
+            "contributor": "schiavonir"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__thumb/img/2zIfpLPUFyuWfgqLTvtvrHa19Mg=/fit-in/200x150/filters:strip_icc()/pic798666.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Kevin Wilson"
+    ],
+    "weight": 3.89,
+    "rating": 7.41,
+    "play_time": "120 - 240",
+    "best": "0",
+    "recommended": "8",
+    "not_recommended": "162",
+    "categories": [
+        "City Building",
+        "Civilization",
+        "Exploration",
+        "Negotiation",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Rock-Paper-Scissors",
+        "Trading",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "155127",
+            "expansion_name": "Sid Meier's Civilization: The Board Game - die Griechen Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/155127"
+        },
+        {
+            "expansion_id": "108415",
+            "expansion_name": "Sid Meier's Civilization: The Board Game - Fame and Fortune",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108415"
+        },
+        {
+            "expansion_id": "142708",
+            "expansion_name": "Sid Meier's Civilization: The Board Game - Wisdom and Warfare",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142708"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Kevin Wilson",
+    "categories_string": "City Building; Civilization; Exploration; Negotiation; Video Game Theme",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Grid Movement; Hand Management; Modular Board; Rock-Paper-Scissors; Trading; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '155127', 'expansion_name': \"Sid Meier's Civilization: The Board Game - die Griechen Promo Card\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/155127'}; {'expansion_id': '108415', 'expansion_name': \"Sid Meier's Civilization: The Board Game - Fame and Fortune\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108415'}; {'expansion_id': '142708', 'expansion_name': \"Sid Meier's Civilization: The Board Game - Wisdom and Warfare\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142708'}",
+    "expansions_for_string": ""
+}

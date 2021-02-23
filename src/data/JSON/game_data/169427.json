@@ -1,0 +1,590 @@
+{
+    "game_id": "169427",
+    "game_name": "Middara: Unintentional Malum - Act 1",
+    "bgg_link": "https://boardgamegeek.com/boardgame/169427",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6817079",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6817079#item6817079",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6830238",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6830238#item6830238",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Donutz McGoo"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6833557",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6833557#item6833557",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Donutz McGoo"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6842577",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6842577#item6842577",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "kerskine"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6851148",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6851148#item6851148",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Donutz McGoo"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6864055",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6864055#item6864055",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "freudianslip27"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6864725",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6864725#item6864725",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Donutz McGoo"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6868999",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6868999#item6868999",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "freudianslip27"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6872075",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6872075#item6872075",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6874780",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6874780#item6874780",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6875057",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6875057#item6875057",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6879144",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6879144#item6879144",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6880634",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6880634#item6880634",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "BiggityBogle"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6880797",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6880797#item6880797",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6882199",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6882199#item6882199",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6883954",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6883954#item6883954",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6885624",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6885624#item6885624",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6887892",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6887892#item6887892",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6888154",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6888154#item6888154",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7019800",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7019800#item7019800",
+            "geeklist_host": "labrhat22",
+            "contributor": "cookroach"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6890571",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6890571#item6890571",
+            "geeklist_host": "Woelf",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6891849",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6891849#item6891849",
+            "geeklist_host": "Woelf",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6893790",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6893790#item6893790",
+            "geeklist_host": "Woelf",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6895856",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6895856#item6895856",
+            "geeklist_host": "Woelf",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6897036",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6897036#item6897036",
+            "geeklist_host": "Woelf",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6898026",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6898026#item6898026",
+            "geeklist_host": "Woelf",
+            "contributor": "BiggityBogle"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6898078",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6898078#item6898078",
+            "geeklist_host": "Woelf",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6916663",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6916663#item6916663",
+            "geeklist_host": "Woelf",
+            "contributor": "BiggityBogle"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6920781",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6920781#item6920781",
+            "geeklist_host": "Woelf",
+            "contributor": "BiggityBogle"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6949836",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6949836#item6949836",
+            "geeklist_host": "Woelf",
+            "contributor": "neotrunks2002"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6952081",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6952081#item6952081",
+            "geeklist_host": "Woelf",
+            "contributor": "neotrunks2002"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6952256",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6952256#item6952256",
+            "geeklist_host": "Woelf",
+            "contributor": "freudianslip27"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6954909",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6954909#item6954909",
+            "geeklist_host": "Woelf",
+            "contributor": "neotrunks2002"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6955691",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6955691#item6955691",
+            "geeklist_host": "Woelf",
+            "contributor": "crazybear"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6970477",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6970477#item6970477",
+            "geeklist_host": "magic_erwt",
+            "contributor": "neotrunks2002"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6970583",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6970583#item6970583",
+            "geeklist_host": "magic_erwt",
+            "contributor": "BiggityBogle"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6974204",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6974204#item6974204",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Jhonyb"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6978253",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6978253#item6978253",
+            "geeklist_host": "magic_erwt",
+            "contributor": "neotrunks2002"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "7005874",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/7005874#item7005874",
+            "geeklist_host": "magic_erwt",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "7012628",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/7012628#item7012628",
+            "geeklist_host": "magic_erwt",
+            "contributor": "BiggityBogle"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7735925",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7735925#item7735925",
+            "geeklist_host": "Elida",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7737044",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7737044#item7737044",
+            "geeklist_host": "Elida",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7877706",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7877706#item7877706",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "flaeryn"
+        }
+    ],
+    "sgoyt_count": 43,
+    "thumbnail": "https://cf.geekdo-images.com/hRuD1y5BxdNpssgBqamS0A__thumb/img/fpUu1t2YLjJ4EvEzBGTKtZasNv4=/fit-in/200x150/filters:strip_icc()/pic4595897.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Clayton Helme",
+        "Brooklynn Lundberg",
+        "Brenna Moncur",
+        "Ian Tate"
+    ],
+    "weight": 3.82,
+    "rating": 8.69,
+    "play_time": "60",
+    "best": "8",
+    "recommended": "7",
+    "not_recommended": "9",
+    "categories": [
+        "Adventure",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Role Playing",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Storytelling",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "284885",
+            "expansion_name": "Middara: Girtiya, The Imprisoned Witch",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284885"
+        },
+        {
+            "expansion_id": "284953",
+            "expansion_name": "Middara: Alternate Antagonists",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284953"
+        },
+        {
+            "expansion_id": "284880",
+            "expansion_name": "Middara: Casual Nightingale",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284880"
+        },
+        {
+            "expansion_id": "284882",
+            "expansion_name": "Middara: Casual Remi",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284882"
+        },
+        {
+            "expansion_id": "284881",
+            "expansion_name": "Middara: Casual Rook",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284881"
+        },
+        {
+            "expansion_id": "284883",
+            "expansion_name": "Middara: Casual Zeke",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284883"
+        },
+        {
+            "expansion_id": "285034",
+            "expansion_name": "Middara: Count Dalv",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/285034"
+        },
+        {
+            "expansion_id": "284884",
+            "expansion_name": "Middara: Coven Mother",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284884"
+        },
+        {
+            "expansion_id": "284814",
+            "expansion_name": "Middara: Dreamwalker Lymn",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284814"
+        },
+        {
+            "expansion_id": "284886",
+            "expansion_name": "Middara: High Priestess Circe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284886"
+        },
+        {
+            "expansion_id": "284952",
+            "expansion_name": "Middara: KS1 Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284952"
+        },
+        {
+            "expansion_id": "284951",
+            "expansion_name": "Middara: KS2 Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284951"
+        },
+        {
+            "expansion_id": "283419",
+            "expansion_name": "Middara: Pirates of Elenia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/283419"
+        },
+        {
+            "expansion_id": "284724",
+            "expansion_name": "Middara: Silvia, Dark Mother Cultist",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284724"
+        },
+        {
+            "expansion_id": "284955",
+            "expansion_name": "Middara: The Cave Sickle Queen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284955"
+        },
+        {
+            "expansion_id": "284937",
+            "expansion_name": "Middara: The Collector",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284937"
+        },
+        {
+            "expansion_id": "284716",
+            "expansion_name": "Middara: The Pit Boss",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284716"
+        },
+        {
+            "expansion_id": "284930",
+            "expansion_name": "Middara: Tomoe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284930"
+        },
+        {
+            "expansion_id": "284823",
+            "expansion_name": "Middara: Trail of a Princess - An Opportune Tip",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284823"
+        },
+        {
+            "expansion_id": "300084",
+            "expansion_name": "Middara: Unintentional Malum - 1.1 Rulebook",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/300084"
+        },
+        {
+            "expansion_id": "283313",
+            "expansion_name": "Middara: Unintentional Malum - Act 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/283313"
+        },
+        {
+            "expansion_id": "284939",
+            "expansion_name": "Middara: Unintentional Malum - Act 3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284939"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Clayton Helme; Brooklynn Lundberg; Brenna Moncur; Ian Tate",
+    "categories_string": "Adventure; Exploration; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Grid Movement; Hand Management; Modular Board; Role Playing; Scenario / Mission / Campaign Game; Solo / Solitaire Game; Storytelling; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '284885', 'expansion_name': 'Middara: Girtiya, The Imprisoned Witch', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284885'}; {'expansion_id': '284953', 'expansion_name': 'Middara: Alternate Antagonists', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284953'}; {'expansion_id': '284880', 'expansion_name': 'Middara: Casual Nightingale', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284880'}; {'expansion_id': '284882', 'expansion_name': 'Middara: Casual Remi', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284882'}; {'expansion_id': '284881', 'expansion_name': 'Middara: Casual Rook', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284881'}; {'expansion_id': '284883', 'expansion_name': 'Middara: Casual Zeke', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284883'}; {'expansion_id': '285034', 'expansion_name': 'Middara: Count Dalv', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/285034'}; {'expansion_id': '284884', 'expansion_name': 'Middara: Coven Mother', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284884'}; {'expansion_id': '284814', 'expansion_name': 'Middara: Dreamwalker Lymn', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284814'}; {'expansion_id': '284886', 'expansion_name': 'Middara: High Priestess Circe', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284886'}; {'expansion_id': '284952', 'expansion_name': 'Middara: KS1 Promo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284952'}; {'expansion_id': '284951', 'expansion_name': 'Middara: KS2 Promo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284951'}; {'expansion_id': '283419', 'expansion_name': 'Middara: Pirates of Elenia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/283419'}; {'expansion_id': '284724', 'expansion_name': 'Middara: Silvia, Dark Mother Cultist', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284724'}; {'expansion_id': '284955', 'expansion_name': 'Middara: The Cave Sickle Queen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284955'}; {'expansion_id': '284937', 'expansion_name': 'Middara: The Collector', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284937'}; {'expansion_id': '284716', 'expansion_name': 'Middara: The Pit Boss', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284716'}; {'expansion_id': '284930', 'expansion_name': 'Middara: Tomoe', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284930'}; {'expansion_id': '284823', 'expansion_name': 'Middara: Trail of a Princess - An Opportune Tip', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284823'}; {'expansion_id': '300084', 'expansion_name': 'Middara: Unintentional Malum - 1.1 Rulebook', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/300084'}; {'expansion_id': '283313', 'expansion_name': 'Middara: Unintentional Malum - Act 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/283313'}; {'expansion_id': '284939', 'expansion_name': 'Middara: Unintentional Malum - Act 3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284939'}",
+    "expansions_for_string": ""
+}

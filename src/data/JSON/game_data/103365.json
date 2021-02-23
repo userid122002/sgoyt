@@ -1,0 +1,54 @@
+{
+    "game_id": "103365",
+    "game_name": "Ni'ihau: A Solitaire map for Steam (fan expansion for Steam)",
+    "bgg_link": "https://boardgamegeek.com/boardgame/103365",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2808327",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2808327#item2808327",
+            "geeklist_host": "pusherman42",
+            "contributor": "mo7189"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/VP2CDwDWSK8TkrUk1-sUdA__thumb/img/pjRIv5K8S1mOwfBzLb4nBFGxkhI=/fit-in/200x150/filters:strip_icc()/pic1075456.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Miguel Sanhueza"
+    ],
+    "weight": 0.00,
+    "rating": 5.67,
+    "play_time": "20",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Fan Expansion",
+        "Print & Play",
+        "Trains",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "27833",
+            "game_name": "Steam",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/27833"
+        }
+    ],
+    "designers_string": "Miguel Sanhueza",
+    "categories_string": "Expansion for Base-game; Fan Expansion; Print & Play; Trains; Transportation",
+    "mechanics_string": "Network and Route Building; Pick-up and Deliver; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '27833', 'game_name': 'Steam', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/27833'}"
+}

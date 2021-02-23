@@ -1,0 +1,130 @@
+{
+    "game_id": "209728",
+    "game_name": "Arkham Horror: The Card Game - Curse of the Rougarou: Scenario Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/209728",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5046921",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5046921#item5046921",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "benjamininja"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5139846",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5139846#item5139846",
+            "geeklist_host": "settlerdave",
+            "contributor": "CRB31"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5161956",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5161956#item5161956",
+            "geeklist_host": "settlerdave",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5757958",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5757958#item5757958",
+            "geeklist_host": "Albia",
+            "contributor": "taeryn"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5786762",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5786762#item5786762",
+            "geeklist_host": "Albia",
+            "contributor": "DocSavage2001"
+        },
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5835354",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5835354#item5835354",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "phaelen2003"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6081247",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6081247#item6081247",
+            "geeklist_host": "skeletonhat",
+            "contributor": "xemxi"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6178005",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6178005#item6178005",
+            "geeklist_host": "Gribbon",
+            "contributor": "runaway_meeple"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/HoANpm_fHBj2-Tg5_hP8cg__thumb/img/lx4rFSfANxHSWwAGoJT_xKclmVg=/fit-in/200x150/filters:strip_icc()/pic3927285.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Nate French",
+        "Matthew Newman"
+    ],
+    "weight": 3.58,
+    "rating": 7.88,
+    "play_time": "60 - 120",
+    "best": "3",
+    "recommended": "4",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Collectible Components",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        }
+    ],
+    "designers_string": "Nate French; Matthew Newman",
+    "categories_string": "Adventure; Card Game; Collectible Components; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Action Points; Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Role Playing; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}"
+}

@@ -1,0 +1,57 @@
+{
+    "game_id": "293473",
+    "game_name": "Teotihuacan: Shadow of Xitle",
+    "bgg_link": "https://boardgamegeek.com/boardgame/293473",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7614536",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7614536#item7614536",
+            "geeklist_host": "jwml",
+            "contributor": "boyfights"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/QjUjyTIn8WdoDIeO21i6EA__thumb/img/2Bd6p0hfF5zJtFCDMCWBWvqjBpg=/fit-in/200x150/filters:strip_icc()/pic5036680.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Daniele Tascini"
+    ],
+    "weight": 3.00,
+    "rating": 8.11,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Ancient",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Point to Point Movement",
+        "Rondel",
+        "Set Collection",
+        "Tile Placement",
+        "Variable Player Powers",
+        "Variable Set-up",
+        "Worker Placement",
+        "Worker Placement with Dice Workers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "229853",
+            "game_name": "Teotihuacan: City of Gods",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/229853"
+        }
+    ],
+    "designers_string": "Daniele Tascini",
+    "categories_string": "Ancient; Expansion for Base-game",
+    "mechanics_string": "Area Movement; Point to Point Movement; Rondel; Set Collection; Tile Placement; Variable Player Powers; Variable Set-up; Worker Placement; Worker Placement with Dice Workers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '229853', 'game_name': 'Teotihuacan: City of Gods', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/229853'}"
+}

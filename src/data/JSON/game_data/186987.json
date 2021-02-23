@@ -1,0 +1,120 @@
+{
+    "game_id": "186987",
+    "game_name": "The 7th Continent: Facing the Elements",
+    "bgg_link": "https://boardgamegeek.com/boardgame/186987",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7489103",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7489103#item7489103",
+            "geeklist_host": "jomurph86",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7492343",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7492343#item7492343",
+            "geeklist_host": "jomurph86",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7509369",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7509369#item7509369",
+            "geeklist_host": "Doc_H",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7577457",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7577457#item7577457",
+            "geeklist_host": "jwml",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7597543",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7597543#item7597543",
+            "geeklist_host": "jwml",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7618308",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7618308#item7618308",
+            "geeklist_host": "threepointthed",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7753715",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7753715#item7753715",
+            "geeklist_host": "repairmanjack",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/YXf1P_TfjRgQ_BMb39mH0A__thumb/img/BbMMUUT6SAbYXXngD1UY5VgDKUg=/fit-in/200x150/filters:strip_icc()/pic3723334.png",
+    "year_published": "2017",
+    "designers": [
+        "Ludovic Roudy",
+        "Bruno Sautter"
+    ],
+    "weight": 3.00,
+    "rating": 8.14,
+    "play_time": "5 - 1000",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Expansion for Base-game",
+        "Exploration"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Modular Board",
+        "Solo / Solitaire Game",
+        "Storytelling"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "180263",
+            "game_name": "The 7th Continent",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/180263"
+        },
+        {
+            "game_id": "283317",
+            "game_name": "The 7th Continent: Classic Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/283317"
+        }
+    ],
+    "designers_string": "Ludovic Roudy; Bruno Sautter",
+    "categories_string": "Adventure; Card Game; Expansion for Base-game; Exploration",
+    "mechanics_string": "Cooperative Game; Modular Board; Solo / Solitaire Game; Storytelling",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '180263', 'game_name': 'The 7th Continent', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/180263'}; {'game_id': '283317', 'game_name': 'The 7th Continent: Classic Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/283317'}"
+}

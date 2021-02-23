@@ -1,0 +1,76 @@
+{
+    "game_id": "174648",
+    "game_name": "Sylvion: Below Ground",
+    "bgg_link": "https://boardgamegeek.com/boardgame/174648",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4297229",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4297229#item4297229",
+            "geeklist_host": "rangerx",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6188438",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6188438#item6188438",
+            "geeklist_host": "Gribbon",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6245869",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6245869#item6245869",
+            "geeklist_host": "emodiu5",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7805430",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7805430#item7805430",
+            "geeklist_host": "mithoron",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/me_FRPfkpjiUK60-rBCb1g__thumb/img/2k_IsJX3iTDsMK9NUODgLrnc6lU=/fit-in/200x150/filters:strip_icc()/pic2525142.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Shadi Torbey"
+    ],
+    "weight": 2.00,
+    "rating": 7.49,
+    "play_time": "15",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game"
+    ],
+    "mechanics": [],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "143405",
+            "game_name": "Sylvion",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/143405"
+        }
+    ],
+    "designers_string": "Shadi Torbey",
+    "categories_string": "Expansion for Base-game",
+    "mechanics_string": "",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '143405', 'game_name': 'Sylvion', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/143405'}"
+}

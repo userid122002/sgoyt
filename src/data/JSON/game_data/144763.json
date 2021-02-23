@@ -1,0 +1,93 @@
+{
+    "game_id": "144763",
+    "game_name": "Mage Knight Board Game: Krang Character Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/144763",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "164593",
+            "geeklist_item_id": "2902010",
+            "year_month": "2013/11",
+            "year": "2013",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/164593/item/2902010#item2902010",
+            "geeklist_host": "mikolajl",
+            "contributor": "CaptCastle"
+        },
+        {
+            "geeklist_id": "175551",
+            "geeklist_item_id": "3312096",
+            "year_month": "2014/07",
+            "year": "2014",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/175551/item/3312096#item3312096",
+            "geeklist_host": "Woelf",
+            "contributor": "CaptCastle"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3943709",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3943709#item3943709",
+            "geeklist_host": "koinskyz",
+            "contributor": "negmon"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4862738",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4862738#item4862738",
+            "geeklist_host": "kikerl",
+            "contributor": "de_la_poer"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/ngJyY137LjWF_bWuFOw4oA__thumb/img/p_tCTY_F8qC03qp6_f8cZzehmsI=/fit-in/200x150/filters:strip_icc()/pic1883789.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Paul Grogan",
+        "Phil Pettifer"
+    ],
+    "weight": 3.81,
+    "rating": 8.07,
+    "play_time": "90",
+    "best": "15",
+    "recommended": "7",
+    "not_recommended": "1",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Card Drafting",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "96848",
+            "game_name": "Mage Knight Board Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/96848"
+        }
+    ],
+    "designers_string": "Paul Grogan; Phil Pettifer",
+    "categories_string": "Adventure; Expansion for Base-game; Exploration; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Campaign / Battle Card Driven; Card Drafting; Cooperative Game; Deck, Bag, and Pool Building; Dice Rolling; Grid Movement; Hand Management; Modular Board; Role Playing; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '96848', 'game_name': 'Mage Knight Board Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/96848'}"
+}

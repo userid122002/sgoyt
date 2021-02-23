@@ -1,0 +1,92 @@
+{
+    "game_id": "1606",
+    "game_name": "Ambush!: Move Out!",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1606",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5020682",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5020682#item5020682",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "pinios"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6620986",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6620986#item6620986",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "Lhowser"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6779406",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6779406#item6779406",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Lhowser"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6708873",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6708873#item6708873",
+            "geeklist_host": "The_Omnius",
+            "contributor": "Lhowser"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/Yd37Cny_rc8YN3avwjI_zg__thumb/img/ZITYEjWOOAK169SUTqifyZOZIM0=/fit-in/200x150/filters:strip_icc()/pic152920.jpg",
+    "year_published": "1984",
+    "designers": [
+        "Joseph Reiser"
+    ],
+    "weight": 3.11,
+    "rating": 7.59,
+    "play_time": "240",
+    "best": "13",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Exploration",
+        "Fighting",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Line of Sight",
+        "Movement Points",
+        "Ratio / Combat Results Table",
+        "Scenario / Mission / Campaign Game",
+        "Secret Unit Deployment",
+        "Simulation",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "1608",
+            "game_name": "Ambush!",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/1608"
+        }
+    ],
+    "designers_string": "Joseph Reiser",
+    "categories_string": "Expansion for Base-game; Exploration; Fighting; Wargame; World War II",
+    "mechanics_string": "Action Points; Dice Rolling; Grid Movement; Hexagon Grid; Line of Sight; Movement Points; Ratio / Combat Results Table; Scenario / Mission / Campaign Game; Secret Unit Deployment; Simulation; Solo / Solitaire Game",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '1608', 'game_name': 'Ambush!', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/1608'}"
+}

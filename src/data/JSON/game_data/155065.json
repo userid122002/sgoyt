@@ -1,0 +1,87 @@
+{
+    "game_id": "155065",
+    "game_name": "Lifeform",
+    "bgg_link": "https://boardgamegeek.com/boardgame/155065",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7045016",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7045016#item7045016",
+            "geeklist_host": "labrhat22",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7129157",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7129157#item7129157",
+            "geeklist_host": "Venom Snake",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7214223",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7214223#item7214223",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "WingTale"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/MKpU3ZpD_XbvU2kZOr_d1Q__thumb/img/sHLHuaIjp5GrVKia55oPFXatpxI=/fit-in/200x150/filters:strip_icc()/pic1932537.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Mark Chaplin",
+        "Toby Farrands"
+    ],
+    "weight": 3.00,
+    "rating": 7.49,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "3",
+    "categories": [
+        "Bluffing",
+        "Fighting",
+        "Horror",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Hand Management",
+        "Point to Point Movement",
+        "Secret Unit Deployment",
+        "Team-Based Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "253223",
+            "expansion_name": "Lifeform: Calibos",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253223"
+        },
+        {
+            "expansion_id": "250774",
+            "expansion_name": "Lifeform: Dragon's Domain",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/250774"
+        },
+        {
+            "expansion_id": "251582",
+            "expansion_name": "Lifeform: Thirteenth Passenger",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251582"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Mark Chaplin; Toby Farrands",
+    "categories_string": "Bluffing; Fighting; Horror; Science Fiction",
+    "mechanics_string": "Action Points; Hand Management; Point to Point Movement; Secret Unit Deployment; Team-Based Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '253223', 'expansion_name': 'Lifeform: Calibos', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253223'}; {'expansion_id': '250774', 'expansion_name': \"Lifeform: Dragon's Domain\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/250774'}; {'expansion_id': '251582', 'expansion_name': 'Lifeform: Thirteenth Passenger', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251582'}",
+    "expansions_for_string": ""
+}

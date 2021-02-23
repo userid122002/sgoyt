@@ -1,0 +1,57 @@
+{
+    "game_id": "244532",
+    "game_name": "Dead Men Tell No Tales: The Kraken Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/244532",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6578686",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6578686#item6578686",
+            "geeklist_host": "squarepegsys",
+            "contributor": "Klaun86"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/nrPdKYlaHMQ4GJNN5y5zAA__thumb/img/X9T0iu1O-QrfoHDeNGROTW2UD38=/fit-in/200x150/filters:strip_icc()/pic3945051.png",
+    "year_published": "2018",
+    "designers": [
+        "Kane Klenko"
+    ],
+    "weight": 2.83,
+    "rating": 8.20,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "7",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Nautical",
+        "Pirates"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Modular Board"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "141423",
+            "game_name": "Dead Men Tell No Tales",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/141423"
+        }
+    ],
+    "designers_string": "Kane Klenko",
+    "categories_string": "Expansion for Base-game; Exploration; Fantasy; Fighting; Nautical; Pirates",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Grid Movement; Modular Board",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '141423', 'game_name': 'Dead Men Tell No Tales', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/141423'}"
+}

@@ -1,0 +1,137 @@
+{
+    "game_id": "102264",
+    "game_name": "D-Day Dice: Normandy",
+    "bgg_link": "https://boardgamegeek.com/boardgame/102264",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3300750",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3300750#item3300750",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "casey nedry"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3933515",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3933515#item3933515",
+            "geeklist_host": "koinskyz",
+            "contributor": "VincentDarlage"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3941469",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3941469#item3941469",
+            "geeklist_host": "koinskyz",
+            "contributor": "VincentDarlage"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4806361",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4806361#item4806361",
+            "geeklist_host": "govmiller",
+            "contributor": "casey nedry"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4808505",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4808505#item4808505",
+            "geeklist_host": "govmiller",
+            "contributor": "casey nedry"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5038407",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5038407#item5038407",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "cdarlage"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7709819",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7709819#item7709819",
+            "geeklist_host": "Elida",
+            "contributor": "airzonk1"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7744302",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7744302#item7744302",
+            "geeklist_host": "repairmanjack",
+            "contributor": "airzonk1"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7788142",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7788142#item7788142",
+            "geeklist_host": "mithoron",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 9,
+    "thumbnail": "https://cf.geekdo-images.com/E3BjWxeLo-dnlVA4D4p7kg__thumb/img/BkVnYiL9CtxxOMuCUt4PWoiUzJM=/fit-in/200x150/filters:strip_icc()/pic1206265.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Emmanuel Aquin"
+    ],
+    "weight": 2.00,
+    "rating": 7.25,
+    "play_time": "45",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "World War II"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "101785",
+            "game_name": "D-Day Dice",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/101785"
+        },
+        {
+            "game_id": "102260",
+            "game_name": "D-Day Dice: Operation Neptune",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/102260"
+        }
+    ],
+    "designers_string": "Emmanuel Aquin",
+    "categories_string": "Dice; Expansion for Base-game; World War II",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Simultaneous Action Selection",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '101785', 'game_name': 'D-Day Dice', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/101785'}; {'game_id': '102260', 'game_name': 'D-Day Dice: Operation Neptune', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/102260'}"
+}

@@ -1,0 +1,53 @@
+{
+    "game_id": "109144",
+    "game_name": "Steam: Map Expansion #2",
+    "bgg_link": "https://boardgamegeek.com/boardgame/109144",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5184479",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5184479#item5184479",
+            "geeklist_host": "settlerdave",
+            "contributor": "nouvato"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/uAL0-tg5xMWOSNki4jsu-Q__thumb/img/fHqJRkJCQeT-LNJAo0I5-95PFRE=/fit-in/200x150/filters:strip_icc()/pic1102484.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Morgan Dontanville"
+    ],
+    "weight": 4.00,
+    "rating": 7.93,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Trains",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "27833",
+            "game_name": "Steam",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/27833"
+        }
+    ],
+    "designers_string": "Morgan Dontanville",
+    "categories_string": "Expansion for Base-game; Trains; Transportation",
+    "mechanics_string": "Auction/Bidding; Network and Route Building; Pick-up and Deliver; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '27833', 'game_name': 'Steam', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/27833'}"
+}

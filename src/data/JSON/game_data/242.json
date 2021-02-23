@@ -1,0 +1,69 @@
+{
+    "game_id": "242",
+    "game_name": "Junta",
+    "bgg_link": "https://boardgamegeek.com/boardgame/242",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5150914",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5150914#item5150914",
+            "geeklist_host": "settlerdave",
+            "contributor": "petegs"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/CJdl6aOlXL1FyXG7hfSJQg__thumb/img/n_oIzqiT-dscED5jS_U8ygQPPOc=/fit-in/200x150/filters:strip_icc()/pic2497596.jpg",
+    "year_published": "1978",
+    "designers": [
+        "Eric Goldberg",
+        "Ben Grossman",
+        "Steve Marsh (I)",
+        "Steven Marsh (II)",
+        "Vincent Tsao",
+        "Nikola Vrtis"
+    ],
+    "weight": 2.86,
+    "rating": 6.70,
+    "play_time": "240",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "80",
+    "categories": [
+        "Bluffing",
+        "Humor",
+        "Mafia",
+        "Negotiation",
+        "Political",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Dice Rolling",
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Trading",
+        "Variable Player Powers",
+        "Voting"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "37613",
+            "expansion_name": "Junta Expansion Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37613"
+        },
+        {
+            "expansion_id": "293240",
+            "expansion_name": "Super Power",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293240"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Eric Goldberg; Ben Grossman; Steve Marsh (I); Steven Marsh (II); Vincent Tsao; Nikola Vrtis",
+    "categories_string": "Bluffing; Humor; Mafia; Negotiation; Political; Wargame",
+    "mechanics_string": "Area Movement; Dice Rolling; Hand Management; Simultaneous Action Selection; Trading; Variable Player Powers; Voting",
+    "expansions_string": "{'expansion_id': '37613', 'expansion_name': 'Junta Expansion Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37613'}; {'expansion_id': '293240', 'expansion_name': 'Super Power', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293240'}",
+    "expansions_for_string": ""
+}

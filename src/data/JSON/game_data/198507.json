@@ -1,0 +1,75 @@
+{
+    "game_id": "198507",
+    "game_name": "Millennium Blades: Set Rotation",
+    "bgg_link": "https://boardgamegeek.com/boardgame/198507",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5311604",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5311604#item5311604",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5874876",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5874876#item5874876",
+            "geeklist_host": "Jorune",
+            "contributor": "Noobparty"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6037068",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6037068#item6037068",
+            "geeklist_host": "busdjur",
+            "contributor": "DocSavage2001"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/TJHs-7LfPgEk7eelFgpEFA__thumb/img/V9-1c4u57zPybfx-mnXNpd5y19Y=/fit-in/200x150/filters:strip_icc()/pic3066024.jpg",
+    "year_published": "2017",
+    "designers": [
+        "D. Brad Talton, Jr."
+    ],
+    "weight": 3.67,
+    "rating": 8.41,
+    "play_time": "0 - 120",
+    "best": "1",
+    "recommended": "2",
+    "not_recommended": "2",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Real-time"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Commodity Speculation",
+        "Hand Management",
+        "Set Collection",
+        "Simulation",
+        "Trading"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "151347",
+            "game_name": "Millennium Blades",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/151347"
+        }
+    ],
+    "designers_string": "D. Brad Talton, Jr.",
+    "categories_string": "Card Game; Expansion for Base-game; Real-time",
+    "mechanics_string": "Card Drafting; Commodity Speculation; Hand Management; Set Collection; Simulation; Trading",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '151347', 'game_name': 'Millennium Blades', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/151347'}"
+}

@@ -1,0 +1,120 @@
+{
+    "game_id": "237174",
+    "game_name": "So Long, My World",
+    "bgg_link": "https://boardgamegeek.com/boardgame/237174",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6955706",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6955706#item6955706",
+            "geeklist_host": "Woelf",
+            "contributor": "maloma"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6985279",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6985279#item6985279",
+            "geeklist_host": "magic_erwt",
+            "contributor": "KillerPower"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "7009711",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/7009711#item7009711",
+            "geeklist_host": "magic_erwt",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7066785",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7066785#item7066785",
+            "geeklist_host": "Venom Snake",
+            "contributor": "tyk567"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7560857",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7560857#item7560857",
+            "geeklist_host": "Doc_H",
+            "contributor": "budkin"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7611889",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7611889#item7611889",
+            "geeklist_host": "jwml",
+            "contributor": "budkin"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/0irb5MJiVLJnJs1820N2Ew__thumb/img/vRwzVtWhnXqBokerdn9Z3O3qFd4=/fit-in/200x150/filters:strip_icc()/pic5336001.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Enrica Fincati",
+        "Francesco Simioni"
+    ],
+    "weight": 2.73,
+    "rating": 7.47,
+    "play_time": "30 - 40",
+    "best": "8",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Bluffing",
+        "Card Game",
+        "Deduction",
+        "Horror"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "281479",
+            "expansion_name": "So Long, My World: Defier of Fate",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/281479"
+        },
+        {
+            "expansion_id": "256425",
+            "expansion_name": "So Long, My World: Eclipse of My Soul",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256425"
+        },
+        {
+            "expansion_id": "255952",
+            "expansion_name": "So Long, My World: Remnants of the Moon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/255952"
+        },
+        {
+            "expansion_id": "255953",
+            "expansion_name": "So Long, My World: Wells of the Sun",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/255953"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Enrica Fincati; Francesco Simioni",
+    "categories_string": "Bluffing; Card Game; Deduction; Horror",
+    "mechanics_string": "Card Drafting; Hand Management; Simultaneous Action Selection; Solo / Solitaire Game",
+    "expansions_string": "{'expansion_id': '281479', 'expansion_name': 'So Long, My World: Defier of Fate', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/281479'}; {'expansion_id': '256425', 'expansion_name': 'So Long, My World: Eclipse of My Soul', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256425'}; {'expansion_id': '255952', 'expansion_name': 'So Long, My World: Remnants of the Moon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/255952'}; {'expansion_id': '255953', 'expansion_name': 'So Long, My World: Wells of the Sun', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/255953'}",
+    "expansions_for_string": ""
+}

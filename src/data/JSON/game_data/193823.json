@@ -1,0 +1,83 @@
+{
+    "game_id": "193823",
+    "game_name": "Viticulture: Moor Visitors Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/193823",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4575648",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4575648#item4575648",
+            "geeklist_host": "jdarnold",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5985586",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5985586#item5985586",
+            "geeklist_host": "radthanael",
+            "contributor": "Rindel"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6570623",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6570623#item6570623",
+            "geeklist_host": "squarepegsys",
+            "contributor": "Fried Egg"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/txJxuqyrMa3TeTDur4AfLg__thumb/img/7NHC456o5VOBueh6DQPO8Qx5tEk=/fit-in/200x150/filters:strip_icc()/pic2900453.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Uwe Rosenberg",
+        "Jamey Stegmaier",
+        "Alan Stone"
+    ],
+    "weight": 2.78,
+    "rating": 7.99,
+    "play_time": "45 - 90",
+    "best": "1",
+    "recommended": "4",
+    "not_recommended": "1",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Farming"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "128621",
+            "game_name": "Viticulture",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/128621"
+        },
+        {
+            "game_id": "183394",
+            "game_name": "Viticulture Essential Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/183394"
+        },
+        {
+            "game_id": "156455",
+            "game_name": "Viticulture: Complete Collector's Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/156455"
+        }
+    ],
+    "designers_string": "Uwe Rosenberg; Jamey Stegmaier; Alan Stone",
+    "categories_string": "Economic; Expansion for Base-game; Farming",
+    "mechanics_string": "Hand Management; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '128621', 'game_name': 'Viticulture', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/128621'}; {'game_id': '183394', 'game_name': 'Viticulture Essential Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/183394'}; {'game_id': '156455', 'game_name': \"Viticulture: Complete Collector's Edition\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/156455'}"
+}

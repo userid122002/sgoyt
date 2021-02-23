@@ -1,0 +1,70 @@
+{
+    "game_id": "284915",
+    "game_name": "Deadball: Year III",
+    "bgg_link": "https://boardgamegeek.com/boardgame/284915",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7372464",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7372464#item7372464",
+            "geeklist_host": "jeffrhind",
+            "contributor": "Redheaded Pharmacist"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7265758",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7265758#item7265758",
+            "geeklist_host": "narcher007",
+            "contributor": "Redheaded Pharmacist"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/IugqbX6Yp9onTVcYLJ-7OQ__thumb/img/pAadJWFmL_ay1pXJnAMYaBu04gY=/fit-in/200x150/filters:strip_icc()/pic4858352.jpg",
+    "year_published": "2019",
+    "designers": [
+        "W.M. Akers"
+    ],
+    "weight": 2.00,
+    "rating": 9.31,
+    "play_time": "0",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Sports"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Simulation"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "224149",
+            "game_name": "Deadball",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/224149"
+        },
+        {
+            "game_id": "232850",
+            "game_name": "Deadball: 1909",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/232850"
+        },
+        {
+            "game_id": "255624",
+            "game_name": "Deadball: Year II",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/255624"
+        }
+    ],
+    "designers_string": "W.M. Akers",
+    "categories_string": "Expansion for Base-game; Sports",
+    "mechanics_string": "Dice Rolling; Simulation",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '224149', 'game_name': 'Deadball', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/224149'}; {'game_id': '232850', 'game_name': 'Deadball: 1909', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/232850'}; {'game_id': '255624', 'game_name': 'Deadball: Year II', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/255624'}"
+}

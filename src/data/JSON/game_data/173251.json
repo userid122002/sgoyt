@@ -1,0 +1,119 @@
+{
+    "game_id": "173251",
+    "game_name": "Labyrinth: The Awakening, 2010 - ?",
+    "bgg_link": "https://boardgamegeek.com/boardgame/173251",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4902478",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4902478#item4902478",
+            "geeklist_host": "kikerl",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4920689",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4920689#item4920689",
+            "geeklist_host": "maloma",
+            "contributor": "Dancing Frog"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5348889",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5348889#item5348889",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Garbinho"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5363073",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5363073#item5363073",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "westwardhough"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5373919",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5373919#item5373919",
+            "geeklist_host": "maloma",
+            "contributor": "westwardhough"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5388626",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5388626#item5388626",
+            "geeklist_host": "maloma",
+            "contributor": "westwardhough"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5399689",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5399689#item5399689",
+            "geeklist_host": "maloma",
+            "contributor": "tpholt"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/_R6Tn81qaQ3jz0vUT_FbIw__thumb/img/C2uQ--Qg3Huul9p-jsFxBlxswCs=/fit-in/200x150/filters:strip_icc()/pic2986379.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Trevor Bender",
+        "Volko Ruhnke"
+    ],
+    "weight": 3.76,
+    "rating": 8.35,
+    "play_time": "0",
+    "best": "5",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Modern Warfare",
+        "Political",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "280769",
+            "expansion_name": "Labyrinth: The Forever War, 2015-?",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/280769"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "62227",
+            "game_name": "Labyrinth: The War on Terror, 2001 - ?",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/62227"
+        }
+    ],
+    "designers_string": "Trevor Bender; Volko Ruhnke",
+    "categories_string": "Expansion for Base-game; Modern Warfare; Political; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Solo / Solitaire Game",
+    "expansions_string": "{'expansion_id': '280769', 'expansion_name': 'Labyrinth: The Forever War, 2015-?', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/280769'}",
+    "expansions_for_string": "{'game_id': '62227', 'game_name': 'Labyrinth: The War on Terror, 2001 - ?', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/62227'}"
+}

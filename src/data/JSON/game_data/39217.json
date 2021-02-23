@@ -1,0 +1,63 @@
+{
+    "game_id": "39217",
+    "game_name": "Fighting Formations: Grossdeutschland Motorized Infantry Division",
+    "bgg_link": "https://boardgamegeek.com/boardgame/39217",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5013266",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5013266#item5013266",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "petegs"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6307947",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6307947#item6307947",
+            "geeklist_host": "spaceman23",
+            "contributor": "abendoso"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/w8Y_EBucjEChU14vPoVUUg__thumb/img/nnoT4utG_VPZNCGTE9CJqd-ZyOQ=/fit-in/200x150/filters:strip_icc()/pic950244.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Chad Jensen"
+    ],
+    "weight": 3.30,
+    "rating": 7.63,
+    "play_time": "180",
+    "best": "0",
+    "recommended": "9",
+    "not_recommended": "2",
+    "categories": [
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Simulation",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "213802",
+            "expansion_name": "Fighting Formations: Grossdeutschland Division's Battle for Kharkov",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213802"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Chad Jensen",
+    "categories_string": "Wargame; World War II",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Simulation; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '213802', 'expansion_name': \"Fighting Formations: Grossdeutschland Division's Battle for Kharkov\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213802'}",
+    "expansions_for_string": ""
+}

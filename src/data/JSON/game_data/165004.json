@@ -1,0 +1,64 @@
+{
+    "game_id": "165004",
+    "game_name": "ONUS! Rome Vs Carthage",
+    "bgg_link": "https://boardgamegeek.com/boardgame/165004",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4884703",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4884703#item4884703",
+            "geeklist_host": "kikerl",
+            "contributor": "philibin"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/TmKYVodAlF8wpijkJtAvsA__thumb/img/lBRydjz53zNnmmko6dpyv6NDNsg=/fit-in/200x150/filters:strip_icc()/pic3737287.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Luis Alvaro Hernandez",
+        "Alvar Sanz"
+    ],
+    "weight": 2.80,
+    "rating": 7.66,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "12",
+    "not_recommended": "1",
+    "categories": [
+        "Ancient",
+        "Miniatures",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Card Drafting",
+        "Dice Rolling",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "206764",
+            "expansion_name": "ONUS! Campaigns Book",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206764"
+        },
+        {
+            "expansion_id": "185836",
+            "expansion_name": "ONUS! Greeks & Persians",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185836"
+        },
+        {
+            "expansion_id": "185837",
+            "expansion_name": "ONUS! Terrain & Fortresses",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185837"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Luis Alvaro Hernandez; Alvar Sanz",
+    "categories_string": "Ancient; Miniatures; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Card Drafting; Dice Rolling; Simultaneous Action Selection",
+    "expansions_string": "{'expansion_id': '206764', 'expansion_name': 'ONUS! Campaigns Book', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206764'}; {'expansion_id': '185836', 'expansion_name': 'ONUS! Greeks & Persians', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185836'}; {'expansion_id': '185837', 'expansion_name': 'ONUS! Terrain & Fortresses', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185837'}",
+    "expansions_for_string": ""
+}

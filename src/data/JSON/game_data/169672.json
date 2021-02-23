@@ -1,0 +1,50 @@
+{
+    "game_id": "169672",
+    "game_name": "Warfighter: Expansion #6 - United Kingdom",
+    "bgg_link": "https://boardgamegeek.com/boardgame/169672",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4185889",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4185889#item4185889",
+            "geeklist_host": "SBGrad",
+            "contributor": "Dancing Frog"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/CbjaulVTavA3h5kk6nTv1w__thumb/img/gYCgkuKNh8UvaigzNDdmK3pBbGU=/fit-in/200x150/filters:strip_icc()/pic5942576.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Dan Verssen"
+    ],
+    "weight": 2.80,
+    "rating": 7.86,
+    "play_time": "30",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Modern Warfare"
+    ],
+    "mechanics": [
+        "Dice Rolling"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "149951",
+            "game_name": "Warfighter: The Tactical Special Forces Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/149951"
+        }
+    ],
+    "designers_string": "Dan Verssen",
+    "categories_string": "Card Game; Expansion for Base-game; Modern Warfare",
+    "mechanics_string": "Dice Rolling",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '149951', 'game_name': 'Warfighter: The Tactical Special Forces Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/149951'}"
+}

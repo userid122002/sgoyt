@@ -1,0 +1,59 @@
+{
+    "game_id": "30928",
+    "game_name": "Age of Steam Expansion: Jamaica / Puerto Rico",
+    "bgg_link": "https://boardgamegeek.com/boardgame/30928",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3899687",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3899687#item3899687",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "HRune"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/O8o9aDsbR89IR29lwQNdOA__thumb/img/552pTp_l-9Yb1rxsXgJrwN74Jeo=/fit-in/200x150/filters:strip_icc()/pic231654.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Ted Alspach"
+    ],
+    "weight": 3.47,
+    "rating": 7.01,
+    "play_time": "30",
+    "best": "3",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Trains",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Commodity Speculation",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "4098",
+            "game_name": "Age of Steam",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/4098"
+        },
+        {
+            "game_id": "27833",
+            "game_name": "Steam",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/27833"
+        }
+    ],
+    "designers_string": "Ted Alspach",
+    "categories_string": "Expansion for Base-game; Trains; Transportation",
+    "mechanics_string": "Auction/Bidding; Commodity Speculation; Network and Route Building; Pick-up and Deliver; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '4098', 'game_name': 'Age of Steam', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/4098'}; {'game_id': '27833', 'game_name': 'Steam', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/27833'}"
+}

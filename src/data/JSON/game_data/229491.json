@@ -1,0 +1,111 @@
+{
+    "game_id": "229491",
+    "game_name": "Edge of Darkness",
+    "bgg_link": "https://boardgamegeek.com/boardgame/229491",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7050182",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7050182#item7050182",
+            "geeklist_host": "labrhat22",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7054839",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7054839#item7054839",
+            "geeklist_host": "labrhat22",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7085176",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7085176#item7085176",
+            "geeklist_host": "Venom Snake",
+            "contributor": "Razoupaf"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7561548",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7561548#item7561548",
+            "geeklist_host": "Doc_H",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7563025",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7563025#item7563025",
+            "geeklist_host": "Doc_H",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7564175",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7564175#item7564175",
+            "geeklist_host": "Doc_H",
+            "contributor": "carbon_dragon"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/DyesLCFFkjOKcJXqa_ySNg__thumb/img/ScXmjOSuZhbfM7ZOjnvla_BxyZY=/fit-in/200x150/filters:strip_icc()/pic3691121.jpg",
+    "year_published": "2019",
+    "designers": [
+        "John D. Clair"
+    ],
+    "weight": 3.42,
+    "rating": 7.59,
+    "play_time": "120",
+    "best": "5",
+    "recommended": "20",
+    "not_recommended": "9",
+    "categories": [
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Cube Tower",
+        "Deck, Bag, and Pool Building",
+        "Turn Order: Progressive"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "286759",
+            "expansion_name": "Edge of Darkness: Cliffs of Coldharbor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286759"
+        },
+        {
+            "expansion_id": "309143",
+            "expansion_name": "Edge of Darkness: Guilds Power Pack Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/309143"
+        },
+        {
+            "expansion_id": "249499",
+            "expansion_name": "Edge of Darkness: Sands of Dunestar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/249499"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "John D. Clair",
+    "categories_string": "Fantasy",
+    "mechanics_string": "Card Drafting; Cube Tower; Deck, Bag, and Pool Building; Turn Order: Progressive",
+    "expansions_string": "{'expansion_id': '286759', 'expansion_name': 'Edge of Darkness: Cliffs of Coldharbor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286759'}; {'expansion_id': '309143', 'expansion_name': 'Edge of Darkness: Guilds Power Pack Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/309143'}; {'expansion_id': '249499', 'expansion_name': 'Edge of Darkness: Sands of Dunestar', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/249499'}",
+    "expansions_for_string": ""
+}

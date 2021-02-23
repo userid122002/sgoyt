@@ -1,0 +1,99 @@
+{
+    "game_id": "230424",
+    "game_name": "Crisis at Steamfall",
+    "bgg_link": "https://boardgamegeek.com/boardgame/230424",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6664132",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6664132#item6664132",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "Giumangi"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6795200",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6795200#item6795200",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Angie666"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6820555",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6820555#item6820555",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Angie666"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7241306",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7241306#item7241306",
+            "geeklist_host": "narcher007",
+            "contributor": "flaeryn"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7271724",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7271724#item7271724",
+            "geeklist_host": "narcher007",
+            "contributor": "flaeryn"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/PAQaXaentDlgmu0jlE9nNw__thumb/img/mkbJU2KAp9ICjPEhrWX0mNmbKYw=/fit-in/200x150/filters:strip_icc()/pic3912782.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Tom Stasiak"
+    ],
+    "weight": 3.79,
+    "rating": 6.47,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "5",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Movement",
+        "Cooperative Game",
+        "Modular Board",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "289111",
+            "expansion_name": "Crisis at Steamfall: Genesis",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/289111"
+        },
+        {
+            "expansion_id": "263983",
+            "expansion_name": "Crisis at Steamfall: Kickstarter Promo pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263983"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Tom Stasiak",
+    "categories_string": "Adventure; Fantasy",
+    "mechanics_string": "Action Points; Area Movement; Cooperative Game; Modular Board; Role Playing; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '289111', 'expansion_name': 'Crisis at Steamfall: Genesis', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/289111'}; {'expansion_id': '263983', 'expansion_name': 'Crisis at Steamfall: Kickstarter Promo pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263983'}",
+    "expansions_for_string": ""
+}

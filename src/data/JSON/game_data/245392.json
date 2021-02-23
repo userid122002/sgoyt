@@ -1,0 +1,62 @@
+{
+    "game_id": "245392",
+    "game_name": "Obsession: Wessex Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/245392",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6947587",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6947587#item6947587",
+            "geeklist_host": "Woelf",
+            "contributor": "SpaceAlien"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7957736",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7957736#item7957736",
+            "geeklist_host": "Albia",
+            "contributor": "Marctimmins89"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/jWAwPVPCrymaT2C2CnlG5Q__thumb/img/eqWLHHkZsXk48ESxbOuagIcwiXI=/fit-in/200x150/filters:strip_icc()/pic4238863.png",
+    "year_published": "2018",
+    "designers": [
+        "Dan Hallagan"
+    ],
+    "weight": 3.00,
+    "rating": 8.29,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Post-Napoleonic"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Tile Placement",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "231733",
+            "game_name": "Obsession",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/231733"
+        }
+    ],
+    "designers_string": "Dan Hallagan",
+    "categories_string": "Expansion for Base-game; Post-Napoleonic",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Tile Placement; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '231733', 'game_name': 'Obsession', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/231733'}"
+}

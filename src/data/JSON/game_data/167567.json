@@ -1,0 +1,53 @@
+{
+    "game_id": "167567",
+    "game_name": "Die Glasstrae: Oktoberfest",
+    "bgg_link": "https://boardgamegeek.com/boardgame/167567",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7241481",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7241481#item7241481",
+            "geeklist_host": "narcher007",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/dMELNwl6gnemuClCpc_f-A__thumb/img/gjScYjruW1cok2oOwoDjKoxVgXo=/fit-in/200x150/filters:strip_icc()/pic2279664.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "weight": 2.62,
+    "rating": 7.10,
+    "play_time": "75",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "City Building",
+        "Economic",
+        "Expansion for Base-game",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Simultaneous Action Selection",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "143693",
+            "game_name": "Glass Road",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/143693"
+        }
+    ],
+    "designers_string": "Uwe Rosenberg",
+    "categories_string": "Card Game; City Building; Economic; Expansion for Base-game; Medieval",
+    "mechanics_string": "Simultaneous Action Selection; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '143693', 'game_name': 'Glass Road', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/143693'}"
+}

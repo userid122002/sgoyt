@@ -1,0 +1,52 @@
+{
+    "game_id": "38845",
+    "game_name": "Les Colons de Catane: Le jeu de des",
+    "bgg_link": "https://boardgamegeek.com/boardgame/38845",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5775727",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5775727#item5775727",
+            "geeklist_host": "Albia",
+            "contributor": "fredmanson"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/3g3jCXi2-FPlCsCZif_rIw__thumb/img/s-yCd6tXhN5na554UCx0VHXw1bQ=/fit-in/200x150/filters:strip_icc()/pic505434.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "weight": 1.38,
+    "rating": 5.82,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "3",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Print & Play"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Paper-and-Pencil",
+        "Set Collection"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "27710",
+            "game_name": "Catan Dice Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/27710"
+        }
+    ],
+    "designers_string": "Klaus Teuber",
+    "categories_string": "Dice; Expansion for Base-game; Print & Play",
+    "mechanics_string": "Dice Rolling; Paper-and-Pencil; Set Collection",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '27710', 'game_name': 'Catan Dice Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/27710'}"
+}

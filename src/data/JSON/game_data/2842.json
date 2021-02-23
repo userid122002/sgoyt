@@ -1,0 +1,64 @@
+{
+    "game_id": "2842",
+    "game_name": "TransAmerica",
+    "bgg_link": "https://boardgamegeek.com/boardgame/2842",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3707724",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3707724#item3707724",
+            "geeklist_host": "bikefreak",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3713230",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3713230#item3713230",
+            "geeklist_host": "Woelf",
+            "contributor": "BilboAtBagEnd"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/FvWQfKzBokVaMCurlavCwA__thumb/img/pXradG-zENFU6lYHkXCa3IIBoWw=/fit-in/200x150/filters:strip_icc()/pic158561.jpg",
+    "year_published": "2001",
+    "designers": [
+        "Franz-Benno Delonge"
+    ],
+    "weight": 1.35,
+    "rating": 6.67,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "78",
+    "categories": [
+        "Trains"
+    ],
+    "mechanics": [
+        "Connections",
+        "Network and Route Building"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "233091",
+            "expansion_name": "Trans-TK (fan expansion for Trans Europa / TransAmerica)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233091"
+        },
+        {
+            "expansion_id": "29432",
+            "expansion_name": "Vexation",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/29432"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Franz-Benno Delonge",
+    "categories_string": "Trains",
+    "mechanics_string": "Connections; Network and Route Building",
+    "expansions_string": "{'expansion_id': '233091', 'expansion_name': 'Trans-TK (fan expansion for Trans Europa / TransAmerica)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233091'}; {'expansion_id': '29432', 'expansion_name': 'Vexation', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/29432'}",
+    "expansions_for_string": ""
+}

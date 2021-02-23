@@ -1,0 +1,147 @@
+{
+    "game_id": "153113",
+    "game_name": "Slaughterball",
+    "bgg_link": "https://boardgamegeek.com/boardgame/153113",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5094384",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5094384#item5094384",
+            "geeklist_host": "mikolajl",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5097279",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5097279#item5097279",
+            "geeklist_host": "mikolajl",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5098368",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5098368#item5098368",
+            "geeklist_host": "mikolajl",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7870694",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7870694#item7870694",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "reverendunclebastard"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/VZmgdbWPLjDuxZoJoEOY3w__thumb/img/Bdv9Uexup3ZqnqWlSB5c8rpUR2E=/fit-in/200x150/filters:strip_icc()/pic2256638.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Erik Kjerland"
+    ],
+    "weight": 2.56,
+    "rating": 7.85,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "3",
+    "categories": [
+        "Miniatures",
+        "Science Fiction",
+        "Sports"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "258838",
+            "expansion_name": "Slaughterball: Maverick Set KS1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/258838"
+        },
+        {
+            "expansion_id": "172423",
+            "expansion_name": "Slaughterball: Team Carnage Arena - The Dungeon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172423"
+        },
+        {
+            "expansion_id": "172419",
+            "expansion_name": "Slaughterball: Team Fury",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172419"
+        },
+        {
+            "expansion_id": "172424",
+            "expansion_name": "Slaughterball: Team Fury Arena - The Jungle",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172424"
+        },
+        {
+            "expansion_id": "172420",
+            "expansion_name": "Slaughterball: Team Gruesomes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172420"
+        },
+        {
+            "expansion_id": "172425",
+            "expansion_name": "Slaughterball: Team Gruesomes Arena - The Lab",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172425"
+        },
+        {
+            "expansion_id": "172421",
+            "expansion_name": "Slaughterball: Team Katanas",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172421"
+        },
+        {
+            "expansion_id": "172426",
+            "expansion_name": "Slaughterball: Team Katanas Arena - The Dojo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172426"
+        },
+        {
+            "expansion_id": "172422",
+            "expansion_name": "Slaughterball: Team Legion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172422"
+        },
+        {
+            "expansion_id": "172427",
+            "expansion_name": "Slaughterball: Team Legion Arena - The Colosseum",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172427"
+        },
+        {
+            "expansion_id": "172428",
+            "expansion_name": "Slaughterball: Team Nemesis Arena - The Core",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172428"
+        },
+        {
+            "expansion_id": "172429",
+            "expansion_name": "Slaughterball: Team Swords of Damocles Arena - Olympus",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172429"
+        },
+        {
+            "expansion_id": "172430",
+            "expansion_name": "Slaughterball: Team Valkyries Arena - Valhalla",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172430"
+        },
+        {
+            "expansion_id": "221628",
+            "expansion_name": "Slaughterball: The Quad Arena",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/221628"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Erik Kjerland",
+    "categories_string": "Miniatures; Science Fiction; Sports",
+    "mechanics_string": "Dice Rolling; Grid Movement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '258838', 'expansion_name': 'Slaughterball: Maverick Set KS1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/258838'}; {'expansion_id': '172423', 'expansion_name': 'Slaughterball: Team Carnage Arena - The Dungeon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172423'}; {'expansion_id': '172419', 'expansion_name': 'Slaughterball: Team Fury', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172419'}; {'expansion_id': '172424', 'expansion_name': 'Slaughterball: Team Fury Arena - The Jungle', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172424'}; {'expansion_id': '172420', 'expansion_name': 'Slaughterball: Team Gruesomes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172420'}; {'expansion_id': '172425', 'expansion_name': 'Slaughterball: Team Gruesomes Arena - The Lab', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172425'}; {'expansion_id': '172421', 'expansion_name': 'Slaughterball: Team Katanas', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172421'}; {'expansion_id': '172426', 'expansion_name': 'Slaughterball: Team Katanas Arena - The Dojo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172426'}; {'expansion_id': '172422', 'expansion_name': 'Slaughterball: Team Legion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172422'}; {'expansion_id': '172427', 'expansion_name': 'Slaughterball: Team Legion Arena - The Colosseum', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172427'}; {'expansion_id': '172428', 'expansion_name': 'Slaughterball: Team Nemesis Arena - The Core', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172428'}; {'expansion_id': '172429', 'expansion_name': 'Slaughterball: Team Swords of Damocles Arena - Olympus', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172429'}; {'expansion_id': '172430', 'expansion_name': 'Slaughterball: Team Valkyries Arena - Valhalla', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172430'}; {'expansion_id': '221628', 'expansion_name': 'Slaughterball: The Quad Arena', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/221628'}",
+    "expansions_for_string": ""
+}

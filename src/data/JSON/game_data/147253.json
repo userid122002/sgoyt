@@ -1,0 +1,98 @@
+{
+    "game_id": "147253",
+    "game_name": "The Ancient World",
+    "bgg_link": "https://boardgamegeek.com/boardgame/147253",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4300399",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4300399#item4300399",
+            "geeklist_host": "rangerx",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4620430",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4620430#item4620430",
+            "geeklist_host": "gentle",
+            "contributor": "stebourd"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4846878",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4846878#item4846878",
+            "geeklist_host": "kikerl",
+            "contributor": "Ibbo"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4910016",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4910016#item4910016",
+            "geeklist_host": "kikerl",
+            "contributor": "MAJBrown22"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/-trgBZRA5P4kk86FQuuI-A__thumb/img/OMIhsFac59AYy7QyiDbsVgFxQHs=/fit-in/200x150/filters:strip_icc()/pic1951629.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Ryan Laukat"
+    ],
+    "weight": 2.72,
+    "rating": 7.04,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "12",
+    "categories": [
+        "Ancient",
+        "Civilization",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Set Collection",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "169749",
+            "expansion_name": "The Ancient World: The Frog God Statue Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169749"
+        },
+        {
+            "expansion_id": "175377",
+            "expansion_name": "The Ancient World: Citadel of Ivories Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175377"
+        },
+        {
+            "expansion_id": "180395",
+            "expansion_name": "The Ancient World: Kickstarter Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180395"
+        },
+        {
+            "expansion_id": "175316",
+            "expansion_name": "The Ancient World: The Sacred Cave",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175316"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ryan Laukat",
+    "categories_string": "Ancient; Civilization; Fantasy",
+    "mechanics_string": "Card Drafting; Dice Rolling; Set Collection; Worker Placement",
+    "expansions_string": "{'expansion_id': '169749', 'expansion_name': 'The Ancient World: The Frog God Statue Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169749'}; {'expansion_id': '175377', 'expansion_name': 'The Ancient World: Citadel of Ivories Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175377'}; {'expansion_id': '180395', 'expansion_name': 'The Ancient World: Kickstarter Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180395'}; {'expansion_id': '175316', 'expansion_name': 'The Ancient World: The Sacred Cave', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175316'}",
+    "expansions_for_string": ""
+}

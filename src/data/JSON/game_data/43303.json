@@ -1,0 +1,51 @@
+{
+    "game_id": "43303",
+    "game_name": "Formula D: Circuits 2 - Hockenheim and Valencia",
+    "bgg_link": "https://boardgamegeek.com/boardgame/43303",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3219054",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3219054#item3219054",
+            "geeklist_host": "fractaloon",
+            "contributor": "ad79"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/cZPi_1R5bJ4demXY3zWC_g__thumb/img/Ri6OJQr-H9y1bQszU_NvAWbe6R0=/fit-in/200x150/filters:strip_icc()/pic493697.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Laurent Lavaur",
+        "Eric Randall"
+    ],
+    "weight": 1.87,
+    "rating": 7.55,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Racing",
+        "Sports"
+    ],
+    "mechanics": [
+        "Roll / Spin and Move"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "37904",
+            "game_name": "Formula D",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/37904"
+        }
+    ],
+    "designers_string": "Laurent Lavaur; Eric Randall",
+    "categories_string": "Expansion for Base-game; Racing; Sports",
+    "mechanics_string": "Roll / Spin and Move",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '37904', 'game_name': 'Formula D', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/37904'}"
+}

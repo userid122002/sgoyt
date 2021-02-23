@@ -1,0 +1,110 @@
+{
+    "game_id": "66505",
+    "game_name": "The Speicherstadt",
+    "bgg_link": "https://boardgamegeek.com/boardgame/66505",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2862432",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2862432#item2862432",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "telengard"
+        },
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3854982",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3854982#item3854982",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "njshaw2"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3903864",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3903864#item3903864",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "njshaw2"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3907682",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3907682#item3907682",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "casey nedry"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3929325",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3929325#item3929325",
+            "geeklist_host": "koinskyz",
+            "contributor": "njshaw2"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3931458",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3931458#item3931458",
+            "geeklist_host": "koinskyz",
+            "contributor": "rangerx"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4048745",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4048745#item4048745",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "njshaw2"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/x1EVKCtIP_tFTH8h5kvXog__thumb/img/8n5m3ZjWQfD-uwM7hOEyqS_93I4=/fit-in/200x150/filters:strip_icc()/pic686491.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Stefan Feld"
+    ],
+    "weight": 2.27,
+    "rating": 7.03,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "54",
+    "categories": [
+        "Economic"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Auction: Dutch Priority",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "78750",
+            "expansion_name": "Kaispeicher",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/78750"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stefan Feld",
+    "categories_string": "Economic",
+    "mechanics_string": "Auction/Bidding; Auction: Dutch Priority; Set Collection",
+    "expansions_string": "{'expansion_id': '78750', 'expansion_name': 'Kaispeicher', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/78750'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,74 @@
+{
+    "game_id": "173442",
+    "game_name": "Empires: Age of Discovery",
+    "bgg_link": "https://boardgamegeek.com/boardgame/173442",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5139023",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5139023#item5139023",
+            "geeklist_host": "settlerdave",
+            "contributor": "camidon"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/5Z_ZH3J9AcC1cmGce7a2Gw__thumb/img/gGFkuFVIixRjEWT63zBgSVXxNXI=/fit-in/200x150/filters:strip_icc()/pic2420342.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Glenn Drover"
+    ],
+    "weight": 3.34,
+    "rating": 7.90,
+    "play_time": "50 - 150",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "31",
+    "categories": [
+        "Civilization",
+        "Exploration",
+        "Renaissance"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Set Collection",
+        "Variable Player Powers",
+        "Worker Placement",
+        "Worker Placement, Different Worker Types"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "185044",
+            "expansion_name": "Empires: Age of Discovery - Bonus Capital Buildings",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185044"
+        },
+        {
+            "expansion_id": "186013",
+            "expansion_name": "Empires: Age of Discovery - Denmark Player Board and White Figures",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186013"
+        },
+        {
+            "expansion_id": "186015",
+            "expansion_name": "Empires: Age of Discovery - Ottoman Player Board and Gold Figures",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186015"
+        },
+        {
+            "expansion_id": "186016",
+            "expansion_name": "Empires: Age of Discovery - Prussia Player Board and Black Figures",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186016"
+        },
+        {
+            "expansion_id": "185041",
+            "expansion_name": "Empires: Age of Discovery - World Variant Components",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185041"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Glenn Drover",
+    "categories_string": "Civilization; Exploration; Renaissance",
+    "mechanics_string": "Area Majority / Influence; Set Collection; Variable Player Powers; Worker Placement; Worker Placement, Different Worker Types",
+    "expansions_string": "{'expansion_id': '185044', 'expansion_name': 'Empires: Age of Discovery - Bonus Capital Buildings', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185044'}; {'expansion_id': '186013', 'expansion_name': 'Empires: Age of Discovery - Denmark Player Board and White Figures', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186013'}; {'expansion_id': '186015', 'expansion_name': 'Empires: Age of Discovery - Ottoman Player Board and Gold Figures', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186015'}; {'expansion_id': '186016', 'expansion_name': 'Empires: Age of Discovery - Prussia Player Board and Black Figures', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186016'}; {'expansion_id': '185041', 'expansion_name': 'Empires: Age of Discovery - World Variant Components', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185041'}",
+    "expansions_for_string": ""
+}

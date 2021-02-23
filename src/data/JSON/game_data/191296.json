@@ -1,0 +1,56 @@
+{
+    "game_id": "191296",
+    "game_name": "RUMBLESLAM",
+    "bgg_link": "https://boardgamegeek.com/boardgame/191296",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7023113",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7023113#item7023113",
+            "geeklist_host": "labrhat22",
+            "contributor": "celdom"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/-vYF-17vHYnsrgMjqUMLWg__thumb/img/My0aC_Pc1q_4AV2SI0_Gb6Ws-W4=/fit-in/200x150/filters:strip_icc()/pic3963705.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Jason Beckerleg",
+        "Louis Simpson"
+    ],
+    "weight": 2.33,
+    "rating": 8.01,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Action Queue",
+        "Dice Rolling",
+        "Grid Movement",
+        "Player Elimination"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "227835",
+            "expansion_name": "RUMBLESLAM: Vitamir",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227835"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jason Beckerleg; Louis Simpson",
+    "categories_string": "Dice; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Action Points; Action Queue; Dice Rolling; Grid Movement; Player Elimination",
+    "expansions_string": "{'expansion_id': '227835', 'expansion_name': 'RUMBLESLAM: Vitamir', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227835'}",
+    "expansions_for_string": ""
+}

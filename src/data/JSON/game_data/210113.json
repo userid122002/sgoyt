@@ -1,0 +1,79 @@
+{
+    "game_id": "210113",
+    "game_name": "Tank Chess",
+    "bgg_link": "https://boardgamegeek.com/boardgame/210113",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5840266",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5840266#item5840266",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6621550",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6621550#item6621550",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6831882",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6831882#item6831882",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "alexisW"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/s-Vw-CbaEeGyX4E3KjgPDw__thumb/img/KKrhb0bP1TORozWYG0wUTlsjHFM=/fit-in/200x150/filters:strip_icc()/pic3859128.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Dragan Lazovic",
+        "Predrag Lazovic"
+    ],
+    "weight": 2.83,
+    "rating": 7.57,
+    "play_time": "10 - 50",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Abstract Strategy"
+    ],
+    "mechanics": [
+        "Grid Movement",
+        "Line of Sight",
+        "Movement Points",
+        "Scenario / Mission / Campaign Game",
+        "Square Grid",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "286351",
+            "expansion_name": "Tank Chess: Central Square",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286351"
+        },
+        {
+            "expansion_id": "266841",
+            "expansion_name": "Tank Chess: Fun Set expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/266841"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Dragan Lazovic; Predrag Lazovic",
+    "categories_string": "Abstract Strategy",
+    "mechanics_string": "Grid Movement; Line of Sight; Movement Points; Scenario / Mission / Campaign Game; Square Grid; Variable Set-up",
+    "expansions_string": "{'expansion_id': '286351', 'expansion_name': 'Tank Chess: Central Square', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286351'}; {'expansion_id': '266841', 'expansion_name': 'Tank Chess: Fun Set expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/266841'}",
+    "expansions_for_string": ""
+}

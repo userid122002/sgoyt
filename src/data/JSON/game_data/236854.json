@@ -1,0 +1,131 @@
+{
+    "game_id": "236854",
+    "game_name": "The 7th Continent: Comfort Creatures",
+    "bgg_link": "https://boardgamegeek.com/boardgame/236854",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7456104",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7456104#item7456104",
+            "geeklist_host": "jomurph86",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7505372",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7505372#item7505372",
+            "geeklist_host": "Doc_H",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7534467",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7534467#item7534467",
+            "geeklist_host": "Doc_H",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7583449",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7583449#item7583449",
+            "geeklist_host": "jwml",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7636991",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7636991#item7636991",
+            "geeklist_host": "threepointthed",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7671808",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7671808#item7671808",
+            "geeklist_host": "gentle",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7762874",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7762874#item7762874",
+            "geeklist_host": "repairmanjack",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7871993",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7871993#item7871993",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/sGXQy-hckGzroXNyLbwKtw__thumb/img/qqAUVLTMYeCz2mIFl3O4-EW9TjA=/fit-in/200x150/filters:strip_icc()/pic4803369.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Ludovic Roudy",
+        "Bruno Sautter"
+    ],
+    "weight": 2.50,
+    "rating": 8.33,
+    "play_time": "5 - 1000",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Expansion for Base-game",
+        "Exploration"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Modular Board",
+        "Solo / Solitaire Game",
+        "Storytelling"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "180263",
+            "game_name": "The 7th Continent",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/180263"
+        },
+        {
+            "game_id": "283317",
+            "game_name": "The 7th Continent: Classic Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/283317"
+        }
+    ],
+    "designers_string": "Ludovic Roudy; Bruno Sautter",
+    "categories_string": "Adventure; Card Game; Expansion for Base-game; Exploration",
+    "mechanics_string": "Cooperative Game; Hand Management; Modular Board; Solo / Solitaire Game; Storytelling",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '180263', 'game_name': 'The 7th Continent', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/180263'}; {'game_id': '283317', 'game_name': 'The 7th Continent: Classic Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/283317'}"
+}

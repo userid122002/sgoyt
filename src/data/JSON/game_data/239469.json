@@ -1,0 +1,85 @@
+{
+    "game_id": "239469",
+    "game_name": "Legendary: A Marvel Deck Building Game - Champions",
+    "bgg_link": "https://boardgamegeek.com/boardgame/239469",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6354178",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6354178#item6354178",
+            "geeklist_host": "dobrazil",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6357264",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6357264#item6357264",
+            "geeklist_host": "dobrazil",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7712299",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7712299#item7712299",
+            "geeklist_host": "Elida",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7713825",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7713825#item7713825",
+            "geeklist_host": "Elida",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/HNyOSuomwk3ezReYotA_NQ__thumb/img/9BcoPuYzKvH6H970KaQnTkVuSFQ=/fit-in/200x150/filters:strip_icc()/pic4410575.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Devin Low"
+    ],
+    "weight": 2.00,
+    "rating": 8.02,
+    "play_time": "30 - 60",
+    "best": "1",
+    "recommended": "2",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "129437",
+            "game_name": "Legendary: A Marvel Deck Building Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/129437"
+        },
+        {
+            "game_id": "156689",
+            "game_name": "Legendary: A Marvel Deck Building Game - Villains",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/156689"
+        }
+    ],
+    "designers_string": "Devin Low",
+    "categories_string": "Card Game; Expansion for Base-game",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '129437', 'game_name': 'Legendary: A Marvel Deck Building Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/129437'}; {'game_id': '156689', 'game_name': 'Legendary: A Marvel Deck Building Game - Villains', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/156689'}"
+}

@@ -1,0 +1,91 @@
+{
+    "game_id": "245473",
+    "game_name": "Paper Tales: Beyond the Gates",
+    "bgg_link": "https://boardgamegeek.com/boardgame/245473",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6859612",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6859612#item6859612",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "jduteau"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7023326",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7023326#item7023326",
+            "geeklist_host": "labrhat22",
+            "contributor": "DeadSquirrel"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7495745",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7495745#item7495745",
+            "geeklist_host": "Doc_H",
+            "contributor": "MsStandart"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7762572",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7762572#item7762572",
+            "geeklist_host": "repairmanjack",
+            "contributor": "talzaroff"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7947238",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7947238#item7947238",
+            "geeklist_host": "Elida",
+            "contributor": "BunniCladwell"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/d0IWKs0qrVZ8P-AgayYy8Q__thumb/img/XhLRxK4FzYueno_OP0zh5xYQ_qQ=/fit-in/200x150/filters:strip_icc()/pic4261957.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Masato Uesugi"
+    ],
+    "weight": 2.30,
+    "rating": 7.90,
+    "play_time": "30",
+    "best": "9",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "217861",
+            "game_name": "Paper Tales",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/217861"
+        }
+    ],
+    "designers_string": "Masato Uesugi",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Card Drafting; Hand Management",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '217861', 'game_name': 'Paper Tales', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/217861'}"
+}

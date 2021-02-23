@@ -1,0 +1,81 @@
+{
+    "game_id": "42052",
+    "game_name": "Vinhos",
+    "bgg_link": "https://boardgamegeek.com/boardgame/42052",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "170533",
+            "geeklist_item_id": "3142618",
+            "year_month": "2014/03",
+            "year": "2014",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/170533/item/3142618#item3142618",
+            "geeklist_host": "pusherman42",
+            "contributor": "radchad"
+        },
+        {
+            "geeklist_id": "170533",
+            "geeklist_item_id": "3145837",
+            "year_month": "2014/03",
+            "year": "2014",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/170533/item/3145837#item3145837",
+            "geeklist_host": "pusherman42",
+            "contributor": "radchad"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5142115",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5142115#item5142115",
+            "geeklist_host": "settlerdave",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5855346",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5855346#item5855346",
+            "geeklist_host": "Jorune",
+            "contributor": "Doug1020"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/VwuH7Q3HgmTuL8YvUTqoMA__thumb/img/EXQm7HaXKe7-VckI6Zhcpt7KO0U=/fit-in/200x150/filters:strip_icc()/pic815592.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Vital Lacerda"
+    ],
+    "weight": 4.21,
+    "rating": 7.49,
+    "play_time": "60 - 135",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "37",
+    "categories": [
+        "Economic",
+        "Farming",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "163274",
+            "expansion_name": "Vinhos: The Advertisers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163274"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vital Lacerda",
+    "categories_string": "Economic; Farming; Industry / Manufacturing",
+    "mechanics_string": "Area Majority / Influence; Worker Placement",
+    "expansions_string": "{'expansion_id': '163274', 'expansion_name': 'Vinhos: The Advertisers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163274'}",
+    "expansions_for_string": ""
+}

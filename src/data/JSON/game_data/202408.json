@@ -1,0 +1,86 @@
+{
+    "game_id": "202408",
+    "game_name": "Adrenaline",
+    "bgg_link": "https://boardgamegeek.com/boardgame/202408",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5382310",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5382310#item5382310",
+            "geeklist_host": "maloma",
+            "contributor": "Themackern"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7662866",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7662866#item7662866",
+            "geeklist_host": "gentle",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/TiNI7bUCR2RPFMlvKEC9TQ__thumb/img/nnWEA6jjVsxPSuEC_Ooph9kzO_g=/fit-in/200x150/filters:strip_icc()/pic3476604.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Filip Neduk"
+    ],
+    "weight": 2.34,
+    "rating": 7.06,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "56",
+    "categories": [
+        "Fighting",
+        "Miniatures",
+        "Science Fiction",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Card Drafting",
+        "Grid Movement",
+        "Hand Management",
+        "Kill Steal"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "210100",
+            "expansion_name": "Adrenaline: Chainsaw",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/210100"
+        },
+        {
+            "expansion_id": "233474",
+            "expansion_name": "Adrenaline: Chaos Cannon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233474"
+        },
+        {
+            "expansion_id": "216563",
+            "expansion_name": "Adrenaline: Laser-Magnum",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216563"
+        },
+        {
+            "expansion_id": "309209",
+            "expansion_name": "Adrenaline: Solo Play DLC",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/309209"
+        },
+        {
+            "expansion_id": "233233",
+            "expansion_name": "Adrenaline: Team Play DLC",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233233"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Filip Neduk",
+    "categories_string": "Fighting; Miniatures; Science Fiction; Video Game Theme",
+    "mechanics_string": "Action Points; Area Majority / Influence; Card Drafting; Grid Movement; Hand Management; Kill Steal",
+    "expansions_string": "{'expansion_id': '210100', 'expansion_name': 'Adrenaline: Chainsaw', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/210100'}; {'expansion_id': '233474', 'expansion_name': 'Adrenaline: Chaos Cannon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233474'}; {'expansion_id': '216563', 'expansion_name': 'Adrenaline: Laser-Magnum', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216563'}; {'expansion_id': '309209', 'expansion_name': 'Adrenaline: Solo Play DLC', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/309209'}; {'expansion_id': '233233', 'expansion_name': 'Adrenaline: Team Play DLC', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233233'}",
+    "expansions_for_string": ""
+}

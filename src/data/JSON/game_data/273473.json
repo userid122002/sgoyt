@@ -1,0 +1,95 @@
+{
+    "game_id": "273473",
+    "game_name": "Terraforming Mars: Turmoil",
+    "bgg_link": "https://boardgamegeek.com/boardgame/273473",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7267876",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7267876#item7267876",
+            "geeklist_host": "narcher007",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7270589",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7270589#item7270589",
+            "geeklist_host": "narcher007",
+            "contributor": "der_mandarin"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7619569",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7619569#item7619569",
+            "geeklist_host": "threepointthed",
+            "contributor": "XanderF"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7728479",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7728479#item7728479",
+            "geeklist_host": "Elida",
+            "contributor": "XanderF"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/KJHDZ_QwU6nAwrc53ixfJw__thumb/img/EgKltMLq_GTj_TP6HGBml4Y98gk=/fit-in/200x150/filters:strip_icc()/pic4599496.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Jacob Fryxelius"
+    ],
+    "weight": 3.74,
+    "rating": 7.67,
+    "play_time": "120",
+    "best": "3",
+    "recommended": "6",
+    "not_recommended": "8",
+    "categories": [
+        "Economic",
+        "Environmental",
+        "Expansion for Base-game",
+        "Industry / Manufacturing",
+        "Science Fiction",
+        "Space Exploration",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Events",
+        "Hand Management",
+        "Set Collection",
+        "Take That",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "279345",
+            "expansion_name": "Terraforming Mars: Turmoil Promos",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279345"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "167791",
+            "game_name": "Terraforming Mars",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/167791"
+        }
+    ],
+    "designers_string": "Jacob Fryxelius",
+    "categories_string": "Economic; Environmental; Expansion for Base-game; Industry / Manufacturing; Science Fiction; Space Exploration; Territory Building",
+    "mechanics_string": "Card Drafting; Events; Hand Management; Set Collection; Take That; Tile Placement",
+    "expansions_string": "{'expansion_id': '279345', 'expansion_name': 'Terraforming Mars: Turmoil Promos', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279345'}",
+    "expansions_for_string": "{'game_id': '167791', 'game_name': 'Terraforming Mars', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/167791'}"
+}

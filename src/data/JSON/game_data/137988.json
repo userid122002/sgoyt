@@ -1,0 +1,587 @@
+{
+    "game_id": "137988",
+    "game_name": "Zombicide Season 2: Prison Outbreak",
+    "bgg_link": "https://boardgamegeek.com/boardgame/137988",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "175551",
+            "geeklist_item_id": "3343880",
+            "year_month": "2014/07",
+            "year": "2014",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/175551/item/3343880#item3343880",
+            "geeklist_host": "Woelf",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3474989",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3474989#item3474989",
+            "geeklist_host": "joestin",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3486641",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3486641#item3486641",
+            "geeklist_host": "joestin",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3501772",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3501772#item3501772",
+            "geeklist_host": "joestin",
+            "contributor": "Moe45673"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3708809",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3708809#item3708809",
+            "geeklist_host": "bikefreak",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3727566",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3727566#item3727566",
+            "geeklist_host": "Woelf",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3934397",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3934397#item3934397",
+            "geeklist_host": "koinskyz",
+            "contributor": "Oph1d1an"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3935107",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3935107#item3935107",
+            "geeklist_host": "koinskyz",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3960702",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3960702#item3960702",
+            "geeklist_host": "koinskyz",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3973363",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3973363#item3973363",
+            "geeklist_host": "koinskyz",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3973384",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3973384#item3973384",
+            "geeklist_host": "koinskyz",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3979992",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3979992#item3979992",
+            "geeklist_host": "joestin",
+            "contributor": "jog1118"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4134665",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4134665#item4134665",
+            "geeklist_host": "lukather",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5978295",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5978295#item5978295",
+            "geeklist_host": "radthanael",
+            "contributor": "kevinruns262"
+        }
+    ],
+    "sgoyt_count": 14,
+    "thumbnail": "https://cf.geekdo-images.com/bV7_KecPk-fONtD80L-rLA__thumb/img/VDCEEZ8vZiWD4aOE39EYz1EnIes=/fit-in/200x150/filters:strip_icc()/pic1805937.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Raphael Guiton",
+        "Jean-Baptiste Lullien",
+        "Nicolas Raoult"
+    ],
+    "weight": 2.68,
+    "rating": 7.39,
+    "play_time": "60",
+    "best": "2",
+    "recommended": "13",
+    "not_recommended": "7",
+    "categories": [
+        "Horror",
+        "Miniatures",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "199743",
+            "expansion_name": "Cool Mini Or Not Promo Pack 2016",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/199743"
+        },
+        {
+            "expansion_id": "158159",
+            "expansion_name": "Zombicide Compendium 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158159"
+        },
+        {
+            "expansion_id": "206494",
+            "expansion_name": "Zombicide Compendium 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206494"
+        },
+        {
+            "expansion_id": "151067",
+            "expansion_name": "Zombicide Gaming Night #1: Cars, Food or Guns",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151067"
+        },
+        {
+            "expansion_id": "153977",
+            "expansion_name": "Zombicide Gaming Night #2: Black Friday",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153977"
+        },
+        {
+            "expansion_id": "153978",
+            "expansion_name": "Zombicide Gaming Night #3: Zombie Trap",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153978"
+        },
+        {
+            "expansion_id": "140755",
+            "expansion_name": "Zombicide Set #4: Moustache Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140755"
+        },
+        {
+            "expansion_id": "162963",
+            "expansion_name": "Zombicide Set #5: Moustache Pack #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162963"
+        },
+        {
+            "expansion_id": "140605",
+            "expansion_name": "Zombicide Special Guest Box: Adrian Smith",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140605"
+        },
+        {
+            "expansion_id": "162564",
+            "expansion_name": "Zombicide Special Guest Box: Edouard Guiton",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162564"
+        },
+        {
+            "expansion_id": "163032",
+            "expansion_name": "Zombicide Special Guest Box: John Kovalic",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163032"
+        },
+        {
+            "expansion_id": "140606",
+            "expansion_name": "Zombicide Special Guest Box: Karl Kopinski",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140606"
+        },
+        {
+            "expansion_id": "140604",
+            "expansion_name": "Zombicide Special Guest Box: Kevin Walker",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140604"
+        },
+        {
+            "expansion_id": "161848",
+            "expansion_name": "Zombicide Special Guest Box: Miguel Coimbra",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161848"
+        },
+        {
+            "expansion_id": "147258",
+            "expansion_name": "Zombicide Special Guest Box: Paolo Parente",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147258"
+        },
+        {
+            "expansion_id": "139850",
+            "expansion_name": "Zombicide Survivor: Adriana",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139850"
+        },
+        {
+            "expansion_id": "147630",
+            "expansion_name": "Zombicide Survivor: Alyana Heska AKA Elena",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147630"
+        },
+        {
+            "expansion_id": "154453",
+            "expansion_name": "Zombicide Survivor: Audrey",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154453"
+        },
+        {
+            "expansion_id": "193719",
+            "expansion_name": "Zombicide Survivor: Azaghal",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193719"
+        },
+        {
+            "expansion_id": "176632",
+            "expansion_name": "Zombicide Survivor: Bastian",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176632"
+        },
+        {
+            "expansion_id": "162198",
+            "expansion_name": "Zombicide Survivor: Benny",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162198"
+        },
+        {
+            "expansion_id": "153979",
+            "expansion_name": "Zombicide Survivor: Bill",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153979"
+        },
+        {
+            "expansion_id": "136520",
+            "expansion_name": "Zombicide Survivor: Cardboard Tube Samurai",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136520"
+        },
+        {
+            "expansion_id": "176969",
+            "expansion_name": "Zombicide Survivor: Cat",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176969"
+        },
+        {
+            "expansion_id": "136518",
+            "expansion_name": "Zombicide Survivor: Chaz",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136518"
+        },
+        {
+            "expansion_id": "136515",
+            "expansion_name": "Zombicide Survivor: Claudia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136515"
+        },
+        {
+            "expansion_id": "311258",
+            "expansion_name": "Zombicide Survivor: CMON Comics - Vol. 1 extras",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/311258"
+        },
+        {
+            "expansion_id": "163057",
+            "expansion_name": "Zombicide Survivor: Curro",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163057"
+        },
+        {
+            "expansion_id": "139384",
+            "expansion_name": "Zombicide Survivor: Dakota",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139384"
+        },
+        {
+            "expansion_id": "136511",
+            "expansion_name": "Zombicide Survivor: Dave",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136511"
+        },
+        {
+            "expansion_id": "176971",
+            "expansion_name": "Zombicide Survivor: Doc",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176971"
+        },
+        {
+            "expansion_id": "136512",
+            "expansion_name": "Zombicide Survivor: El Cholo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136512"
+        },
+        {
+            "expansion_id": "136517",
+            "expansion_name": "Zombicide Survivor: Eva",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136517"
+        },
+        {
+            "expansion_id": "139408",
+            "expansion_name": "Zombicide Survivor: Fred the Trader",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139408"
+        },
+        {
+            "expansion_id": "176427",
+            "expansion_name": "Zombicide Survivor: Gabriel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176427"
+        },
+        {
+            "expansion_id": "140431",
+            "expansion_name": "Zombicide Survivor: Helen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140431"
+        },
+        {
+            "expansion_id": "136514",
+            "expansion_name": "Zombicide Survivor: Ivy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136514"
+        },
+        {
+            "expansion_id": "176970",
+            "expansion_name": "Zombicide Survivor: Jesse",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176970"
+        },
+        {
+            "expansion_id": "176975",
+            "expansion_name": "Zombicide Survivor: Kabir",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176975"
+        },
+        {
+            "expansion_id": "163110",
+            "expansion_name": "Zombicide Survivor: Kris",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163110"
+        },
+        {
+            "expansion_id": "136521",
+            "expansion_name": "Zombicide Survivor: Kyoko",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136521"
+        },
+        {
+            "expansion_id": "139544",
+            "expansion_name": "Zombicide Survivor: Lea",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139544"
+        },
+        {
+            "expansion_id": "176968",
+            "expansion_name": "Zombicide Survivor: Lucius",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176968"
+        },
+        {
+            "expansion_id": "136516",
+            "expansion_name": "Zombicide Survivor: Marvin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136516"
+        },
+        {
+            "expansion_id": "163146",
+            "expansion_name": "Zombicide Survivor: Miss Trish",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163146"
+        },
+        {
+            "expansion_id": "148340",
+            "expansion_name": "Zombicide Survivor: Mr. Phal",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/148340"
+        },
+        {
+            "expansion_id": "136513",
+            "expansion_name": "Zombicide Survivor: Nick",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136513"
+        },
+        {
+            "expansion_id": "162835",
+            "expansion_name": "Zombicide Survivor: Nikki",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162835"
+        },
+        {
+            "expansion_id": "162199",
+            "expansion_name": "Zombicide Survivor: Oksana",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162199"
+        },
+        {
+            "expansion_id": "162200",
+            "expansion_name": "Zombicide Survivor: Patrick",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162200"
+        },
+        {
+            "expansion_id": "139670",
+            "expansion_name": "Zombicide Survivor: Rick",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139670"
+        },
+        {
+            "expansion_id": "140173",
+            "expansion_name": "Zombicide Survivor: Ross",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140173"
+        },
+        {
+            "expansion_id": "176973",
+            "expansion_name": "Zombicide Survivor: Seth",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176973"
+        },
+        {
+            "expansion_id": "176972",
+            "expansion_name": "Zombicide Survivor: Spencer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176972"
+        },
+        {
+            "expansion_id": "153975",
+            "expansion_name": "Zombicide Survivor: Thiago",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153975"
+        },
+        {
+            "expansion_id": "136519",
+            "expansion_name": "Zombicide Survivor: Troy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136519"
+        },
+        {
+            "expansion_id": "147631",
+            "expansion_name": "Zombicide Survivor: Union Worker #42 AKA Charles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147631"
+        },
+        {
+            "expansion_id": "139995",
+            "expansion_name": "Zombicide Survivor: Will",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139995"
+        },
+        {
+            "expansion_id": "176974",
+            "expansion_name": "Zombicide Survivor: Yuri",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176974"
+        },
+        {
+            "expansion_id": "161920",
+            "expansion_name": "Zombicide: Angry Neighbors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161920"
+        },
+        {
+            "expansion_id": "139492",
+            "expansion_name": "Zombicide: Box of Dogs - Set #6: Dog Companions",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139492"
+        },
+        {
+            "expansion_id": "161938",
+            "expansion_name": "Zombicide: Box of Zombies - Set #10: VIP #1 Very Infected People",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161938"
+        },
+        {
+            "expansion_id": "162563",
+            "expansion_name": "Zombicide: Box of Zombies - Set #11: VIP #2 Very Infected People",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162563"
+        },
+        {
+            "expansion_id": "162042",
+            "expansion_name": "Zombicide: Box of Zombies - Set #12: Murder of Crowz",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162042"
+        },
+        {
+            "expansion_id": "139865",
+            "expansion_name": "Zombicide: Box of Zombies - Set #1: Walk of the Dead",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139865"
+        },
+        {
+            "expansion_id": "139641",
+            "expansion_name": "Zombicide: Box of Zombies - Set #2: Toxic Crowd",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139641"
+        },
+        {
+            "expansion_id": "139866",
+            "expansion_name": "Zombicide: Box of Zombies - Set #3: Angry Zombies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139866"
+        },
+        {
+            "expansion_id": "139867",
+            "expansion_name": "Zombicide: Box of Zombies - Set #4: Walk of the Dead 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139867"
+        },
+        {
+            "expansion_id": "139386",
+            "expansion_name": "Zombicide: Box of Zombies - Set #5: Zombie Dogz",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139386"
+        },
+        {
+            "expansion_id": "163021",
+            "expansion_name": "Zombicide: Box of Zombies - Set #7: Lost Zombivors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163021"
+        },
+        {
+            "expansion_id": "162837",
+            "expansion_name": "Zombicide: Experience Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162837"
+        },
+        {
+            "expansion_id": "199738",
+            "expansion_name": "Zombicide: M134 Gatling Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/199738"
+        },
+        {
+            "expansion_id": "144391",
+            "expansion_name": "Zombicide: Set #1 - Survivors & Zombivors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144391"
+        },
+        {
+            "expansion_id": "147247",
+            "expansion_name": "Zombicide: Set #2 - Survivors & Zombivors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147247"
+        },
+        {
+            "expansion_id": "156916",
+            "expansion_name": "Zombicide: Set #3 - Survivors & Zombivors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/156916"
+        },
+        {
+            "expansion_id": "193718",
+            "expansion_name": "Zombicide: Survivor Jovem Nerd",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193718"
+        },
+        {
+            "expansion_id": "284048",
+            "expansion_name": "Zombicide: Teenage Mutant Ninja Turtles Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284048"
+        },
+        {
+            "expansion_id": "284049",
+            "expansion_name": "Zombicide: Teenage Mutant Ninja Turtles Pack #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284049"
+        },
+        {
+            "expansion_id": "137987",
+            "expansion_name": "Zombicide: Toxic City Mall",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/137987"
+        },
+        {
+            "expansion_id": "162608",
+            "expansion_name": "Zombicide: Ultimate Survivors #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162608"
+        },
+        {
+            "expansion_id": "187336",
+            "expansion_name": "Zombicide: Ultimate Survivors #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187336"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Raphael Guiton; Jean-Baptiste Lullien; Nicolas Raoult",
+    "categories_string": "Horror; Miniatures; Zombies",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Hand Management; Modular Board; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '199743', 'expansion_name': 'Cool Mini Or Not Promo Pack 2016', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/199743'}; {'expansion_id': '158159', 'expansion_name': 'Zombicide Compendium 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158159'}; {'expansion_id': '206494', 'expansion_name': 'Zombicide Compendium 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206494'}; {'expansion_id': '151067', 'expansion_name': 'Zombicide Gaming Night #1: Cars, Food or Guns', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151067'}; {'expansion_id': '153977', 'expansion_name': 'Zombicide Gaming Night #2: Black Friday', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153977'}; {'expansion_id': '153978', 'expansion_name': 'Zombicide Gaming Night #3: Zombie Trap', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153978'}; {'expansion_id': '140755', 'expansion_name': 'Zombicide Set #4: Moustache Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140755'}; {'expansion_id': '162963', 'expansion_name': 'Zombicide Set #5: Moustache Pack #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162963'}; {'expansion_id': '140605', 'expansion_name': 'Zombicide Special Guest Box: Adrian Smith', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140605'}; {'expansion_id': '162564', 'expansion_name': 'Zombicide Special Guest Box: Edouard Guiton', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162564'}; {'expansion_id': '163032', 'expansion_name': 'Zombicide Special Guest Box: John Kovalic', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163032'}; {'expansion_id': '140606', 'expansion_name': 'Zombicide Special Guest Box: Karl Kopinski', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140606'}; {'expansion_id': '140604', 'expansion_name': 'Zombicide Special Guest Box: Kevin Walker', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140604'}; {'expansion_id': '161848', 'expansion_name': 'Zombicide Special Guest Box: Miguel Coimbra', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161848'}; {'expansion_id': '147258', 'expansion_name': 'Zombicide Special Guest Box: Paolo Parente', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147258'}; {'expansion_id': '139850', 'expansion_name': 'Zombicide Survivor: Adriana', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139850'}; {'expansion_id': '147630', 'expansion_name': 'Zombicide Survivor: Alyana Heska AKA Elena', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147630'}; {'expansion_id': '154453', 'expansion_name': 'Zombicide Survivor: Audrey', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154453'}; {'expansion_id': '193719', 'expansion_name': 'Zombicide Survivor: Azaghal', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193719'}; {'expansion_id': '176632', 'expansion_name': 'Zombicide Survivor: Bastian', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176632'}; {'expansion_id': '162198', 'expansion_name': 'Zombicide Survivor: Benny', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162198'}; {'expansion_id': '153979', 'expansion_name': 'Zombicide Survivor: Bill', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153979'}; {'expansion_id': '136520', 'expansion_name': 'Zombicide Survivor: Cardboard Tube Samurai', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136520'}; {'expansion_id': '176969', 'expansion_name': 'Zombicide Survivor: Cat', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176969'}; {'expansion_id': '136518', 'expansion_name': 'Zombicide Survivor: Chaz', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136518'}; {'expansion_id': '136515', 'expansion_name': 'Zombicide Survivor: Claudia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136515'}; {'expansion_id': '311258', 'expansion_name': 'Zombicide Survivor: CMON Comics - Vol. 1 extras', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/311258'}; {'expansion_id': '163057', 'expansion_name': 'Zombicide Survivor: Curro', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163057'}; {'expansion_id': '139384', 'expansion_name': 'Zombicide Survivor: Dakota', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139384'}; {'expansion_id': '136511', 'expansion_name': 'Zombicide Survivor: Dave', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136511'}; {'expansion_id': '176971', 'expansion_name': 'Zombicide Survivor: Doc', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176971'}; {'expansion_id': '136512', 'expansion_name': 'Zombicide Survivor: El Cholo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136512'}; {'expansion_id': '136517', 'expansion_name': 'Zombicide Survivor: Eva', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136517'}; {'expansion_id': '139408', 'expansion_name': 'Zombicide Survivor: Fred the Trader', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139408'}; {'expansion_id': '176427', 'expansion_name': 'Zombicide Survivor: Gabriel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176427'}; {'expansion_id': '140431', 'expansion_name': 'Zombicide Survivor: Helen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140431'}; {'expansion_id': '136514', 'expansion_name': 'Zombicide Survivor: Ivy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136514'}; {'expansion_id': '176970', 'expansion_name': 'Zombicide Survivor: Jesse', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176970'}; {'expansion_id': '176975', 'expansion_name': 'Zombicide Survivor: Kabir', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176975'}; {'expansion_id': '163110', 'expansion_name': 'Zombicide Survivor: Kris', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163110'}; {'expansion_id': '136521', 'expansion_name': 'Zombicide Survivor: Kyoko', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136521'}; {'expansion_id': '139544', 'expansion_name': 'Zombicide Survivor: Lea', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139544'}; {'expansion_id': '176968', 'expansion_name': 'Zombicide Survivor: Lucius', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176968'}; {'expansion_id': '136516', 'expansion_name': 'Zombicide Survivor: Marvin', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136516'}; {'expansion_id': '163146', 'expansion_name': 'Zombicide Survivor: Miss Trish', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163146'}; {'expansion_id': '148340', 'expansion_name': 'Zombicide Survivor: Mr. Phal', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/148340'}; {'expansion_id': '136513', 'expansion_name': 'Zombicide Survivor: Nick', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136513'}; {'expansion_id': '162835', 'expansion_name': 'Zombicide Survivor: Nikki', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162835'}; {'expansion_id': '162199', 'expansion_name': 'Zombicide Survivor: Oksana', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162199'}; {'expansion_id': '162200', 'expansion_name': 'Zombicide Survivor: Patrick', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162200'}; {'expansion_id': '139670', 'expansion_name': 'Zombicide Survivor: Rick', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139670'}; {'expansion_id': '140173', 'expansion_name': 'Zombicide Survivor: Ross', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140173'}; {'expansion_id': '176973', 'expansion_name': 'Zombicide Survivor: Seth', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176973'}; {'expansion_id': '176972', 'expansion_name': 'Zombicide Survivor: Spencer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176972'}; {'expansion_id': '153975', 'expansion_name': 'Zombicide Survivor: Thiago', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153975'}; {'expansion_id': '136519', 'expansion_name': 'Zombicide Survivor: Troy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136519'}; {'expansion_id': '147631', 'expansion_name': 'Zombicide Survivor: Union Worker #42 AKA Charles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147631'}; {'expansion_id': '139995', 'expansion_name': 'Zombicide Survivor: Will', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139995'}; {'expansion_id': '176974', 'expansion_name': 'Zombicide Survivor: Yuri', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176974'}; {'expansion_id': '161920', 'expansion_name': 'Zombicide: Angry Neighbors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161920'}; {'expansion_id': '139492', 'expansion_name': 'Zombicide: Box of Dogs - Set #6: Dog Companions', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139492'}; {'expansion_id': '161938', 'expansion_name': 'Zombicide: Box of Zombies - Set #10: VIP #1 Very Infected People', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161938'}; {'expansion_id': '162563', 'expansion_name': 'Zombicide: Box of Zombies - Set #11: VIP #2 Very Infected People', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162563'}; {'expansion_id': '162042', 'expansion_name': 'Zombicide: Box of Zombies - Set #12: Murder of Crowz', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162042'}; {'expansion_id': '139865', 'expansion_name': 'Zombicide: Box of Zombies - Set #1: Walk of the Dead', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139865'}; {'expansion_id': '139641', 'expansion_name': 'Zombicide: Box of Zombies - Set #2: Toxic Crowd', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139641'}; {'expansion_id': '139866', 'expansion_name': 'Zombicide: Box of Zombies - Set #3: Angry Zombies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139866'}; {'expansion_id': '139867', 'expansion_name': 'Zombicide: Box of Zombies - Set #4: Walk of the Dead 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139867'}; {'expansion_id': '139386', 'expansion_name': 'Zombicide: Box of Zombies - Set #5: Zombie Dogz', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139386'}; {'expansion_id': '163021', 'expansion_name': 'Zombicide: Box of Zombies - Set #7: Lost Zombivors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163021'}; {'expansion_id': '162837', 'expansion_name': 'Zombicide: Experience Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162837'}; {'expansion_id': '199738', 'expansion_name': 'Zombicide: M134 Gatling Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/199738'}; {'expansion_id': '144391', 'expansion_name': 'Zombicide: Set #1 - Survivors & Zombivors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144391'}; {'expansion_id': '147247', 'expansion_name': 'Zombicide: Set #2 - Survivors & Zombivors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147247'}; {'expansion_id': '156916', 'expansion_name': 'Zombicide: Set #3 - Survivors & Zombivors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/156916'}; {'expansion_id': '193718', 'expansion_name': 'Zombicide: Survivor Jovem Nerd', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193718'}; {'expansion_id': '284048', 'expansion_name': 'Zombicide: Teenage Mutant Ninja Turtles Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284048'}; {'expansion_id': '284049', 'expansion_name': 'Zombicide: Teenage Mutant Ninja Turtles Pack #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284049'}; {'expansion_id': '137987', 'expansion_name': 'Zombicide: Toxic City Mall', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/137987'}; {'expansion_id': '162608', 'expansion_name': 'Zombicide: Ultimate Survivors #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162608'}; {'expansion_id': '187336', 'expansion_name': 'Zombicide: Ultimate Survivors #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187336'}",
+    "expansions_for_string": ""
+}

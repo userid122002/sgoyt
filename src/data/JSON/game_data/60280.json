@@ -1,0 +1,59 @@
+{
+    "game_id": "60280",
+    "game_name": "Dresden 20",
+    "bgg_link": "https://boardgamegeek.com/boardgame/60280",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5787780",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5787780#item5787780",
+            "geeklist_host": "Albia",
+            "contributor": "catosulla"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/1-vePl-sj_68DyQ-XDSh3A__thumb/img/sBdmFxGrV_ECZjn7UQK2iZn-nVA=/fit-in/200x150/filters:strip_icc()/pic591672.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Lance McMillan"
+    ],
+    "weight": 1.82,
+    "rating": 7.35,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "100168",
+            "expansion_name": "Gorlitz 20",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/100168"
+        },
+        {
+            "expansion_id": "76243",
+            "expansion_name": "Kulm 20 Expansion Kit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/76243"
+        },
+        {
+            "expansion_id": "42837",
+            "expansion_name": "Napoleonic 20 Expansion Kit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42837"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Lance McMillan",
+    "categories_string": "Napoleonic; Wargame",
+    "mechanics_string": "Hexagon Grid",
+    "expansions_string": "{'expansion_id': '100168', 'expansion_name': 'Gorlitz 20', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/100168'}; {'expansion_id': '76243', 'expansion_name': 'Kulm 20 Expansion Kit', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/76243'}; {'expansion_id': '42837', 'expansion_name': 'Napoleonic 20 Expansion Kit', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42837'}",
+    "expansions_for_string": ""
+}

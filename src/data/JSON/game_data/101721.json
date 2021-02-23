@@ -1,0 +1,452 @@
+{
+    "game_id": "101721",
+    "game_name": "Mage Wars Arena",
+    "bgg_link": "https://boardgamegeek.com/boardgame/101721",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3632732",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3632732#item3632732",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Deathworks"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3641269",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3641269#item3641269",
+            "geeklist_host": "bikefreak",
+            "contributor": "Deathworks"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3657219",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3657219#item3657219",
+            "geeklist_host": "bikefreak",
+            "contributor": "Deathworks"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5462365",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5462365#item5462365",
+            "geeklist_host": "koinskyz",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6015738",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6015738#item6015738",
+            "geeklist_host": "busdjur",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6108630",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6108630#item6108630",
+            "geeklist_host": "skeletonhat",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7894273",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7894273#item7894273",
+            "geeklist_host": "Elida",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/WxajTXKxDza3UvwNMs-PUA__thumb/img/ZHMk4Aqu_VTgP9IFwY5QriZL6W8=/fit-in/200x150/filters:strip_icc()/pic2386027.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Bryan Pope",
+        "Benjamin Pope"
+    ],
+    "weight": 3.67,
+    "rating": 7.64,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "92",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Deck Construction",
+        "Dice Rolling",
+        "Grid Movement",
+        "Line of Sight",
+        "Simultaneous Action Selection",
+        "Turn Order: Progressive",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "195555",
+            "expansion_name": "Mage Wars Academy/Mage Wars: Arena Dice Tower Promo 2016",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/195555"
+        },
+        {
+            "expansion_id": "265753",
+            "expansion_name": "Mage Wars Academy: Druid Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/265753"
+        },
+        {
+            "expansion_id": "266777",
+            "expansion_name": "Mage Wars Academy: Elementalist Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/266777"
+        },
+        {
+            "expansion_id": "228605",
+            "expansion_name": "Mage Wars Academy: Forcemaster Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228605"
+        },
+        {
+            "expansion_id": "273572",
+            "expansion_name": "Mage Wars Academy: Monk Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/273572"
+        },
+        {
+            "expansion_id": "271945",
+            "expansion_name": "Mage Wars Academy: Necromancer Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/271945"
+        },
+        {
+            "expansion_id": "194466",
+            "expansion_name": "Mage Wars Academy: Priestess Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194466"
+        },
+        {
+            "expansion_id": "200504",
+            "expansion_name": "Mage Wars Academy: Warlock Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/200504"
+        },
+        {
+            "expansion_id": "234901",
+            "expansion_name": "Mage Wars Academy: Warlord Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/234901"
+        },
+        {
+            "expansion_id": "174451",
+            "expansion_name": "Mage Wars Arena: Battlegrounds Domination",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/174451"
+        },
+        {
+            "expansion_id": "133798",
+            "expansion_name": "Mage Wars Arena: Forcemaster vs Warlord Expansion Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133798"
+        },
+        {
+            "expansion_id": "197457",
+            "expansion_name": "Mage Wars Arena: Lost Grimoire Volume 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197457"
+        },
+        {
+            "expansion_id": "202760",
+            "expansion_name": "Mage Wars Arena: Paladin vs Siren Expansion Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202760"
+        },
+        {
+            "expansion_id": "174891",
+            "expansion_name": "Mage Wars Arena: Promo Pack 01",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/174891"
+        },
+        {
+            "expansion_id": "167477",
+            "expansion_name": "Mage Wars: Akiro's Favor Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167477"
+        },
+        {
+            "expansion_id": "147094",
+            "expansion_name": "Mage Wars: Altar of Peace Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147094"
+        },
+        {
+            "expansion_id": "146733",
+            "expansion_name": "Mage Wars: Altar of the Iron Guard Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146733"
+        },
+        {
+            "expansion_id": "297411",
+            "expansion_name": "Mage Wars: Ankh of Asyra Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/297411"
+        },
+        {
+            "expansion_id": "164444",
+            "expansion_name": "Mage Wars: Asto Vidatu, Angel Slayer Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164444"
+        },
+        {
+            "expansion_id": "144511",
+            "expansion_name": "Mage Wars: Asyran Defender Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144511"
+        },
+        {
+            "expansion_id": "161332",
+            "expansion_name": "Mage Wars: Bloodwave Greatbow Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161332"
+        },
+        {
+            "expansion_id": "297502",
+            "expansion_name": "Mage Wars: Blur Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/297502"
+        },
+        {
+            "expansion_id": "147099",
+            "expansion_name": "Mage Wars: Clear Mind Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147099"
+        },
+        {
+            "expansion_id": "143092",
+            "expansion_name": "Mage Wars: Conquest of Kumanjaro - Spell Tome Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143092"
+        },
+        {
+            "expansion_id": "146734",
+            "expansion_name": "Mage Wars: Debilitate Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146734"
+        },
+        {
+            "expansion_id": "143358",
+            "expansion_name": "Mage Wars: Dice Tower 2013 funding campaign promo card set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143358"
+        },
+        {
+            "expansion_id": "153831",
+            "expansion_name": "Mage Wars: Dice Tower 2014 funding campaign promo card set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153831"
+        },
+        {
+            "expansion_id": "153832",
+            "expansion_name": "Mage Wars: Dice Tower 2014 Non-Kickstarter promo card set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153832"
+        },
+        {
+            "expansion_id": "180009",
+            "expansion_name": "Mage Wars: Dice Tower 2015 Funding Campaign Promo Card Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180009"
+        },
+        {
+            "expansion_id": "167338",
+            "expansion_name": "Mage Wars: Dispel Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167338"
+        },
+        {
+            "expansion_id": "164443",
+            "expansion_name": "Mage Wars: Dragonclaw Wolverine Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164443"
+        },
+        {
+            "expansion_id": "142359",
+            "expansion_name": "Mage Wars: Druid vs. Necromancer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142359"
+        },
+        {
+            "expansion_id": "252123",
+            "expansion_name": "Mage Wars: Eeker Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/252123"
+        },
+        {
+            "expansion_id": "147055",
+            "expansion_name": "Mage Wars: Elfric's Life Ring Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147055"
+        },
+        {
+            "expansion_id": "161331",
+            "expansion_name": "Mage Wars: Fire Elemental Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161331"
+        },
+        {
+            "expansion_id": "157333",
+            "expansion_name": "Mage Wars: Forged in Fire - Spell Tome Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/157333"
+        },
+        {
+            "expansion_id": "143805",
+            "expansion_name": "Mage Wars: Galador, Protector of Straywood Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143805"
+        },
+        {
+            "expansion_id": "163104",
+            "expansion_name": "Mage Wars: Gravikor Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163104"
+        },
+        {
+            "expansion_id": "146736",
+            "expansion_name": "Mage Wars: Holy Strike Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146736"
+        },
+        {
+            "expansion_id": "167478",
+            "expansion_name": "Mage Wars: Hurl Meteorite Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167478"
+        },
+        {
+            "expansion_id": "147053",
+            "expansion_name": "Mage Wars: Hurl Rock Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147053"
+        },
+        {
+            "expansion_id": "154619",
+            "expansion_name": "Mage Wars: Joseph Trublood, High Cleric Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154619"
+        },
+        {
+            "expansion_id": "168001",
+            "expansion_name": "Mage Wars: Kumanjaran Leopard Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168001"
+        },
+        {
+            "expansion_id": "168002",
+            "expansion_name": "Mage Wars: Leviathan Scale Armor Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168002"
+        },
+        {
+            "expansion_id": "154621",
+            "expansion_name": "Mage Wars: Mana Vampirism Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154621"
+        },
+        {
+            "expansion_id": "144052",
+            "expansion_name": "Mage Wars: Meditation Amulet Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144052"
+        },
+        {
+            "expansion_id": "167339",
+            "expansion_name": "Mage Wars: Minor Heal Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167339"
+        },
+        {
+            "expansion_id": "147096",
+            "expansion_name": "Mage Wars: Mordok's Tome Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147096"
+        },
+        {
+            "expansion_id": "147097",
+            "expansion_name": "Mage Wars: Oscuda Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147097"
+        },
+        {
+            "expansion_id": "167476",
+            "expansion_name": "Mage Wars: Pharaoh's Cheetah Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167476"
+        },
+        {
+            "expansion_id": "146737",
+            "expansion_name": "Mage Wars: Plagued Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146737"
+        },
+        {
+            "expansion_id": "161334",
+            "expansion_name": "Mage Wars: Raincloud Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161334"
+        },
+        {
+            "expansion_id": "207217",
+            "expansion_name": "Mage Wars: Ring of Healing Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207217"
+        },
+        {
+            "expansion_id": "147062",
+            "expansion_name": "Mage Wars: Sandstorm Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147062"
+        },
+        {
+            "expansion_id": "252122",
+            "expansion_name": "Mage Wars: Screaming Zombie Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/252122"
+        },
+        {
+            "expansion_id": "154625",
+            "expansion_name": "Mage Wars: Selesius, the East Wind Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154625"
+        },
+        {
+            "expansion_id": "144512",
+            "expansion_name": "Mage Wars: Sersiryx, Imp Familiar Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144512"
+        },
+        {
+            "expansion_id": "161333",
+            "expansion_name": "Mage Wars: Spiked Armor Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161333"
+        },
+        {
+            "expansion_id": "147054",
+            "expansion_name": "Mage Wars: Spiked Buckler Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147054"
+        },
+        {
+            "expansion_id": "154617",
+            "expansion_name": "Mage Wars: Staff of Storms Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154617"
+        },
+        {
+            "expansion_id": "154623",
+            "expansion_name": "Mage Wars: Storm Drake Hide Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154623"
+        },
+        {
+            "expansion_id": "144514",
+            "expansion_name": "Mage Wars: Stumble Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144514"
+        },
+        {
+            "expansion_id": "147052",
+            "expansion_name": "Mage Wars: Summoning Circle Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147052"
+        },
+        {
+            "expansion_id": "168004",
+            "expansion_name": "Mage Wars: Sunfire Burst Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168004"
+        },
+        {
+            "expansion_id": "164441",
+            "expansion_name": "Mage Wars: Victorian Griffin Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164441"
+        },
+        {
+            "expansion_id": "167479",
+            "expansion_name": "Mage Wars: Vorpal Blade Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167479"
+        },
+        {
+            "expansion_id": "154620",
+            "expansion_name": "Mage Wars: Wall of Force Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154620"
+        },
+        {
+            "expansion_id": "144513",
+            "expansion_name": "Mage Wars: Wand of Healing Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144513"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Bryan Pope; Benjamin Pope",
+    "categories_string": "Card Game; Fantasy; Fighting",
+    "mechanics_string": "Deck Construction; Dice Rolling; Grid Movement; Line of Sight; Simultaneous Action Selection; Turn Order: Progressive; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '195555', 'expansion_name': 'Mage Wars Academy/Mage Wars: Arena Dice Tower Promo 2016', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/195555'}; {'expansion_id': '265753', 'expansion_name': 'Mage Wars Academy: Druid Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/265753'}; {'expansion_id': '266777', 'expansion_name': 'Mage Wars Academy: Elementalist Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/266777'}; {'expansion_id': '228605', 'expansion_name': 'Mage Wars Academy: Forcemaster Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228605'}; {'expansion_id': '273572', 'expansion_name': 'Mage Wars Academy: Monk Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/273572'}; {'expansion_id': '271945', 'expansion_name': 'Mage Wars Academy: Necromancer Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/271945'}; {'expansion_id': '194466', 'expansion_name': 'Mage Wars Academy: Priestess Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194466'}; {'expansion_id': '200504', 'expansion_name': 'Mage Wars Academy: Warlock Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/200504'}; {'expansion_id': '234901', 'expansion_name': 'Mage Wars Academy: Warlord Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/234901'}; {'expansion_id': '174451', 'expansion_name': 'Mage Wars Arena: Battlegrounds Domination', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/174451'}; {'expansion_id': '133798', 'expansion_name': 'Mage Wars Arena: Forcemaster vs Warlord Expansion Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133798'}; {'expansion_id': '197457', 'expansion_name': 'Mage Wars Arena: Lost Grimoire Volume 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197457'}; {'expansion_id': '202760', 'expansion_name': 'Mage Wars Arena: Paladin vs Siren Expansion Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202760'}; {'expansion_id': '174891', 'expansion_name': 'Mage Wars Arena: Promo Pack 01', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/174891'}; {'expansion_id': '167477', 'expansion_name': \"Mage Wars: Akiro's Favor Promo Card\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167477'}; {'expansion_id': '147094', 'expansion_name': 'Mage Wars: Altar of Peace Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147094'}; {'expansion_id': '146733', 'expansion_name': 'Mage Wars: Altar of the Iron Guard Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146733'}; {'expansion_id': '297411', 'expansion_name': 'Mage Wars: Ankh of Asyra Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/297411'}; {'expansion_id': '164444', 'expansion_name': 'Mage Wars: Asto Vidatu, Angel Slayer Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164444'}; {'expansion_id': '144511', 'expansion_name': 'Mage Wars: Asyran Defender Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144511'}; {'expansion_id': '161332', 'expansion_name': 'Mage Wars: Bloodwave Greatbow Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161332'}; {'expansion_id': '297502', 'expansion_name': 'Mage Wars: Blur Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/297502'}; {'expansion_id': '147099', 'expansion_name': 'Mage Wars: Clear Mind Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147099'}; {'expansion_id': '143092', 'expansion_name': 'Mage Wars: Conquest of Kumanjaro - Spell Tome Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143092'}; {'expansion_id': '146734', 'expansion_name': 'Mage Wars: Debilitate Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146734'}; {'expansion_id': '143358', 'expansion_name': 'Mage Wars: Dice Tower 2013 funding campaign promo card set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143358'}; {'expansion_id': '153831', 'expansion_name': 'Mage Wars: Dice Tower 2014 funding campaign promo card set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153831'}; {'expansion_id': '153832', 'expansion_name': 'Mage Wars: Dice Tower 2014 Non-Kickstarter promo card set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153832'}; {'expansion_id': '180009', 'expansion_name': 'Mage Wars: Dice Tower 2015 Funding Campaign Promo Card Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180009'}; {'expansion_id': '167338', 'expansion_name': 'Mage Wars: Dispel Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167338'}; {'expansion_id': '164443', 'expansion_name': 'Mage Wars: Dragonclaw Wolverine Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164443'}; {'expansion_id': '142359', 'expansion_name': 'Mage Wars: Druid vs. Necromancer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142359'}; {'expansion_id': '252123', 'expansion_name': 'Mage Wars: Eeker Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/252123'}; {'expansion_id': '147055', 'expansion_name': \"Mage Wars: Elfric's Life Ring Promo Card\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147055'}; {'expansion_id': '161331', 'expansion_name': 'Mage Wars: Fire Elemental Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161331'}; {'expansion_id': '157333', 'expansion_name': 'Mage Wars: Forged in Fire - Spell Tome Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/157333'}; {'expansion_id': '143805', 'expansion_name': 'Mage Wars: Galador, Protector of Straywood Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143805'}; {'expansion_id': '163104', 'expansion_name': 'Mage Wars: Gravikor Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163104'}; {'expansion_id': '146736', 'expansion_name': 'Mage Wars: Holy Strike Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146736'}; {'expansion_id': '167478', 'expansion_name': 'Mage Wars: Hurl Meteorite Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167478'}; {'expansion_id': '147053', 'expansion_name': 'Mage Wars: Hurl Rock Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147053'}; {'expansion_id': '154619', 'expansion_name': 'Mage Wars: Joseph Trublood, High Cleric Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154619'}; {'expansion_id': '168001', 'expansion_name': 'Mage Wars: Kumanjaran Leopard Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168001'}; {'expansion_id': '168002', 'expansion_name': 'Mage Wars: Leviathan Scale Armor Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168002'}; {'expansion_id': '154621', 'expansion_name': 'Mage Wars: Mana Vampirism Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154621'}; {'expansion_id': '144052', 'expansion_name': 'Mage Wars: Meditation Amulet Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144052'}; {'expansion_id': '167339', 'expansion_name': 'Mage Wars: Minor Heal Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167339'}; {'expansion_id': '147096', 'expansion_name': \"Mage Wars: Mordok's Tome Promo Card\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147096'}; {'expansion_id': '147097', 'expansion_name': 'Mage Wars: Oscuda Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147097'}; {'expansion_id': '167476', 'expansion_name': \"Mage Wars: Pharaoh's Cheetah Promo Card\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167476'}; {'expansion_id': '146737', 'expansion_name': 'Mage Wars: Plagued Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146737'}; {'expansion_id': '161334', 'expansion_name': 'Mage Wars: Raincloud Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161334'}; {'expansion_id': '207217', 'expansion_name': 'Mage Wars: Ring of Healing Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207217'}; {'expansion_id': '147062', 'expansion_name': 'Mage Wars: Sandstorm Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147062'}; {'expansion_id': '252122', 'expansion_name': 'Mage Wars: Screaming Zombie Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/252122'}; {'expansion_id': '154625', 'expansion_name': 'Mage Wars: Selesius, the East Wind Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154625'}; {'expansion_id': '144512', 'expansion_name': 'Mage Wars: Sersiryx, Imp Familiar Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144512'}; {'expansion_id': '161333', 'expansion_name': 'Mage Wars: Spiked Armor Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161333'}; {'expansion_id': '147054', 'expansion_name': 'Mage Wars: Spiked Buckler Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147054'}; {'expansion_id': '154617', 'expansion_name': 'Mage Wars: Staff of Storms Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154617'}; {'expansion_id': '154623', 'expansion_name': 'Mage Wars: Storm Drake Hide Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154623'}; {'expansion_id': '144514', 'expansion_name': 'Mage Wars: Stumble Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144514'}; {'expansion_id': '147052', 'expansion_name': 'Mage Wars: Summoning Circle Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147052'}; {'expansion_id': '168004', 'expansion_name': 'Mage Wars: Sunfire Burst Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168004'}; {'expansion_id': '164441', 'expansion_name': 'Mage Wars: Victorian Griffin Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164441'}; {'expansion_id': '167479', 'expansion_name': 'Mage Wars: Vorpal Blade Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167479'}; {'expansion_id': '154620', 'expansion_name': 'Mage Wars: Wall of Force Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154620'}; {'expansion_id': '144513', 'expansion_name': 'Mage Wars: Wand of Healing Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144513'}",
+    "expansions_for_string": ""
+}

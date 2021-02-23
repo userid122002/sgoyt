@@ -1,0 +1,84 @@
+{
+    "game_id": "150930",
+    "game_name": "Mad City",
+    "bgg_link": "https://boardgamegeek.com/boardgame/150930",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5588648",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5588648#item5588648",
+            "geeklist_host": "kevinruns262",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6224051",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6224051#item6224051",
+            "geeklist_host": "Gribbon",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6288536",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6288536#item6288536",
+            "geeklist_host": "emodiu5",
+            "contributor": "CrazyCatman"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/UDwRjFCJ05Tu0jFU8V9WEA__thumb/img/gqJsMi-kEdgqAd7mB9hEPE71PIA=/fit-in/200x150/filters:strip_icc()/pic1867064.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Kane Klenko"
+    ],
+    "weight": 1.67,
+    "rating": 6.17,
+    "play_time": "20 - 30",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "2",
+    "categories": [
+        "City Building",
+        "Real-time"
+    ],
+    "mechanics": [
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "172625",
+            "expansion_name": "Mad City: General Contractor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172625"
+        },
+        {
+            "expansion_id": "158285",
+            "expansion_name": "Mad City: The Capitol",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158285"
+        },
+        {
+            "expansion_id": "172623",
+            "expansion_name": "Mayfair Games' Limited Edition Promo Expansion Set #14",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172623"
+        },
+        {
+            "expansion_id": "157196",
+            "expansion_name": "Mayfair Games' Limited Edition Promo Expansion Set #8",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/157196"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Kane Klenko",
+    "categories_string": "City Building; Real-time",
+    "mechanics_string": "Tile Placement",
+    "expansions_string": "{'expansion_id': '172625', 'expansion_name': 'Mad City: General Contractor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172625'}; {'expansion_id': '158285', 'expansion_name': 'Mad City: The Capitol', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158285'}; {'expansion_id': '172623', 'expansion_name': \"Mayfair Games' Limited Edition Promo Expansion Set #14\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172623'}; {'expansion_id': '157196', 'expansion_name': \"Mayfair Games' Limited Edition Promo Expansion Set #8\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/157196'}",
+    "expansions_for_string": ""
+}

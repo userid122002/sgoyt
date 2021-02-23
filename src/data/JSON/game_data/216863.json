@@ -1,0 +1,59 @@
+{
+    "game_id": "216863",
+    "game_name": "Imperial Settlers: Aztecs - Common cards",
+    "bgg_link": "https://boardgamegeek.com/boardgame/216863",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5464856",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5464856#item5464856",
+            "geeklist_host": "koinskyz",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/-8SA49VoDIpAhtA2Z6mcqg__thumb/img/dzV02y5n-dsEDfg1h7olyLJfkyI=/fit-in/200x150/filters:strip_icc()/pic4432241.jpg",
+    "year_published": "2016",
+    "designers": [],
+    "weight": 2.67,
+    "rating": 7.45,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Ancient",
+        "Card Game",
+        "City Building",
+        "Civilization",
+        "Economic",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Take That",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "154203",
+            "game_name": "Imperial Settlers",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/154203"
+        },
+        {
+            "game_id": "202459",
+            "game_name": "Imperial Settlers: Aztecs",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/202459"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Ancient; Card Game; City Building; Civilization; Economic; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Hand Management; Take That; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '154203', 'game_name': 'Imperial Settlers', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/154203'}; {'game_id': '202459', 'game_name': 'Imperial Settlers: Aztecs', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/202459'}"
+}

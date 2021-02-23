@@ -1,0 +1,54 @@
+{
+    "game_id": "189434",
+    "game_name": "Lab Wars",
+    "bgg_link": "https://boardgamegeek.com/boardgame/189434",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7784450",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7784450#item7784450",
+            "geeklist_host": "repairmanjack",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/FJSZlPSmYIuogMmxeDwW8A__thumb/img/EZooRHVSOgL7G_hb57D19jHXUTk=/fit-in/200x150/filters:strip_icc()/pic3772032.png",
+    "year_published": "2016",
+    "designers": [
+        "Caezar Al-Jassar",
+        "Kuly Heer"
+    ],
+    "weight": 2.00,
+    "rating": 5.97,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "3",
+    "categories": [
+        "Educational",
+        "Party Game",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Rock-Paper-Scissors",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "202316",
+            "expansion_name": "Lab Wars: Collective Power",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202316"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Caezar Al-Jassar; Kuly Heer",
+    "categories_string": "Educational; Party Game; Science Fiction",
+    "mechanics_string": "Card Drafting; Hand Management; Rock-Paper-Scissors; Simulation",
+    "expansions_string": "{'expansion_id': '202316', 'expansion_name': 'Lab Wars: Collective Power', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202316'}",
+    "expansions_for_string": ""
+}

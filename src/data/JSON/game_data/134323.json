@@ -1,0 +1,129 @@
+{
+    "game_id": "134323",
+    "game_name": "Archipelago: Solo Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/134323",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "171598",
+            "geeklist_item_id": "3170683",
+            "year_month": "2014/04",
+            "year": "2014",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/171598/item/3170683#item3170683",
+            "geeklist_host": "Malaiser",
+            "contributor": "kittenhoarder"
+        },
+        {
+            "geeklist_id": "171598",
+            "geeklist_item_id": "3190463",
+            "year_month": "2014/04",
+            "year": "2014",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/171598/item/3190463#item3190463",
+            "geeklist_host": "Malaiser",
+            "contributor": "shacky22"
+        },
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3226020",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3226020#item3226020",
+            "geeklist_host": "fractaloon",
+            "contributor": "Fumanstu"
+        },
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3271201",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3271201#item3271201",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "sascha36"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3464539",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3464539#item3464539",
+            "geeklist_host": "Malaiser",
+            "contributor": "brkmrtn"
+        },
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3829826",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3829826#item3829826",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4096913",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4096913#item4096913",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "WebKoala"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5297834",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5297834#item5297834",
+            "geeklist_host": "suzyvitale",
+            "contributor": "camidon"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/YtgPl5Xyl9wWnKe_pxaMBA__thumb/img/QAmcD0XnMmaxypgbPMGnMr7XWAI=/fit-in/200x150/filters:strip_icc()/pic1497682.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Christophe Boelinger"
+    ],
+    "weight": 3.53,
+    "rating": 7.18,
+    "play_time": "60",
+    "best": "10",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Civilization",
+        "Economic",
+        "Expansion for Base-game",
+        "Exploration",
+        "Negotiation",
+        "Renaissance"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Auction/Bidding",
+        "Commodity Speculation",
+        "Hexagon Grid",
+        "Modular Board",
+        "Trading",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "105551",
+            "game_name": "Archipelago",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/105551"
+        }
+    ],
+    "designers_string": "Christophe Boelinger",
+    "categories_string": "Civilization; Economic; Expansion for Base-game; Exploration; Negotiation; Renaissance",
+    "mechanics_string": "Area Majority / Influence; Auction/Bidding; Commodity Speculation; Hexagon Grid; Modular Board; Trading; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '105551', 'game_name': 'Archipelago', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/105551'}"
+}

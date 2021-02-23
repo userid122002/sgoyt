@@ -1,0 +1,79 @@
+{
+    "game_id": "150811",
+    "game_name": "Mega Man: The Board Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/150811",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5660866",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5660866#item5660866",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "mournful"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/3Lq7mCthf1UydbXfL42S4A__thumb/img/QHq47qWUtHj9s0bdTbfvTqrVERI=/fit-in/200x150/filters:strip_icc()/pic1877422.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Jason Hawronsky",
+        "Matt Whitaker"
+    ],
+    "weight": 1.67,
+    "rating": 5.30,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "3",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Fighting",
+        "Miniatures",
+        "Movies / TV / Radio theme",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Point to Point Movement",
+        "Team-Based Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "230508",
+            "expansion_name": "Mega Man: The Board Game - Boss Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230508"
+        },
+        {
+            "expansion_id": "209522",
+            "expansion_name": "Mega Man: The Board Game - Proto Man Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/209522"
+        },
+        {
+            "expansion_id": "230507",
+            "expansion_name": "Mega Man: The Board Game - Roll Character",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230507"
+        },
+        {
+            "expansion_id": "230501",
+            "expansion_name": "Mega Man: The Board Game - Rush Character",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230501"
+        },
+        {
+            "expansion_id": "182387",
+            "expansion_name": "Mega Man: The Board Game - Time Man & Oil Man",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182387"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jason Hawronsky; Matt Whitaker",
+    "categories_string": "Adventure; Card Game; Fighting; Miniatures; Movies / TV / Radio theme; Video Game Theme",
+    "mechanics_string": "Action Points; Deck, Bag, and Pool Building; Hand Management; Point to Point Movement; Team-Based Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '230508', 'expansion_name': 'Mega Man: The Board Game - Boss Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230508'}; {'expansion_id': '209522', 'expansion_name': 'Mega Man: The Board Game - Proto Man Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/209522'}; {'expansion_id': '230507', 'expansion_name': 'Mega Man: The Board Game - Roll Character', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230507'}; {'expansion_id': '230501', 'expansion_name': 'Mega Man: The Board Game - Rush Character', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230501'}; {'expansion_id': '182387', 'expansion_name': 'Mega Man: The Board Game - Time Man & Oil Man', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182387'}",
+    "expansions_for_string": ""
+}

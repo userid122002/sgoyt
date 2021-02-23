@@ -1,0 +1,66 @@
+{
+    "game_id": "132425",
+    "game_name": "Snowdonia: Essen 2012 Promo Cards",
+    "bgg_link": "https://boardgamegeek.com/boardgame/132425",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3748160",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3748160#item3748160",
+            "geeklist_host": "Woelf",
+            "contributor": "mikolajl"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7952123",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7952123#item7952123",
+            "geeklist_host": "Albia",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/lBSXqpQKZHXZztAl5SP3cg__thumb/img/pto8u99Ih4vLLzhK17GiSnEEFPo=/fit-in/200x150/filters:strip_icc()/pic1443631.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Tony Boydell"
+    ],
+    "weight": 3.20,
+    "rating": 7.04,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Print & Play",
+        "Trains"
+    ],
+    "mechanics": [
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "138072",
+            "expansion_name": "Snowdonia: Lost Train Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/138072"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "119432",
+            "game_name": "Snowdonia",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/119432"
+        }
+    ],
+    "designers_string": "Tony Boydell",
+    "categories_string": "Expansion for Base-game; Print & Play; Trains",
+    "mechanics_string": "Worker Placement",
+    "expansions_string": "{'expansion_id': '138072', 'expansion_name': 'Snowdonia: Lost Train Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/138072'}",
+    "expansions_for_string": "{'game_id': '119432', 'game_name': 'Snowdonia', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/119432'}"
+}

@@ -1,0 +1,689 @@
+{
+    "game_id": "1540",
+    "game_name": "BattleTech",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1540",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "170533",
+            "geeklist_item_id": "3112913",
+            "year_month": "2014/03",
+            "year": "2014",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/170533/item/3112913#item3112913",
+            "geeklist_host": "pusherman42",
+            "contributor": "Sapper_SB"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6010602",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6010602#item6010602",
+            "geeklist_host": "busdjur",
+            "contributor": "jomurph86"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6159497",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6159497#item6159497",
+            "geeklist_host": "Pjandy",
+            "contributor": "jfardette"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6169717",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6169717#item6169717",
+            "geeklist_host": "Pjandy",
+            "contributor": "jfardette"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7038649",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7038649#item7038649",
+            "geeklist_host": "labrhat22",
+            "contributor": "jomurph86"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/MmCjO907d3IB6IcK3Veqhw__thumb/img/V-c4s6b10_5eWBg4z8GsCL8Uwyg=/fit-in/200x150/filters:strip_icc()/pic1748230.jpg",
+    "year_published": "1985",
+    "designers": [
+        "Forest Brown",
+        "L. R. \"Butch\" Leeper",
+        "Jordan Weisman"
+    ],
+    "weight": 3.41,
+    "rating": 7.06,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "25",
+    "categories": [
+        "Collectible Components",
+        "Fighting",
+        "Miniatures",
+        "Science Fiction",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Movement Points",
+        "Role Playing",
+        "Simulation",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "37494",
+            "expansion_name": "AeroTech 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37494"
+        },
+        {
+            "expansion_id": "39056",
+            "expansion_name": "Battleforce 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39056"
+        },
+        {
+            "expansion_id": "231924",
+            "expansion_name": "BattleMech Manual",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/231924"
+        },
+        {
+            "expansion_id": "30627",
+            "expansion_name": "BattleMech Recognition Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30627"
+        },
+        {
+            "expansion_id": "92615",
+            "expansion_name": "BattleTech BattlePack: Fourth Succession War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92615"
+        },
+        {
+            "expansion_id": "92619",
+            "expansion_name": "BattleTech Field Manual:   Warden Clans",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92619"
+        },
+        {
+            "expansion_id": "92698",
+            "expansion_name": "BattleTech Field Manual: Capellan Confederation",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92698"
+        },
+        {
+            "expansion_id": "92691",
+            "expansion_name": "BattleTech Field Manual: ComStar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92691"
+        },
+        {
+            "expansion_id": "92618",
+            "expansion_name": "BattleTech Field Manual: Crusader Clans",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92618"
+        },
+        {
+            "expansion_id": "92379",
+            "expansion_name": "BattleTech Field Manual: Draconis Combine",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92379"
+        },
+        {
+            "expansion_id": "92789",
+            "expansion_name": "BattleTech Field Manual: Federated Suns",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92789"
+        },
+        {
+            "expansion_id": "92436",
+            "expansion_name": "BattleTech Field Manual: Free World's League",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92436"
+        },
+        {
+            "expansion_id": "92797",
+            "expansion_name": "BattleTech Field Manual: Lyran Alliance",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92797"
+        },
+        {
+            "expansion_id": "92496",
+            "expansion_name": "Battletech Field Manual: Mercenaries",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92496"
+        },
+        {
+            "expansion_id": "92873",
+            "expansion_name": "BattleTech Field Manual: The Periphery",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92873"
+        },
+        {
+            "expansion_id": "41970",
+            "expansion_name": "BattleTech Manual: The Rules of Warfare",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/41970"
+        },
+        {
+            "expansion_id": "122305",
+            "expansion_name": "Battletech Operation: Stiletto",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/122305"
+        },
+        {
+            "expansion_id": "91838",
+            "expansion_name": "BattleTech Record Sheets Volume Five: Vehicles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91838"
+        },
+        {
+            "expansion_id": "91834",
+            "expansion_name": "BattleTech Record Sheets Volume Four: Assault 'Mechs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91834"
+        },
+        {
+            "expansion_id": "91837",
+            "expansion_name": "BattleTech Record Sheets Volume One: Light 'Mechs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91837"
+        },
+        {
+            "expansion_id": "91840",
+            "expansion_name": "BattleTech Record Sheets Volume Six: 3055 'Mechs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91840"
+        },
+        {
+            "expansion_id": "91835",
+            "expansion_name": "BattleTech Record Sheets Volume Three: Heavy 'Mechs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91835"
+        },
+        {
+            "expansion_id": "91836",
+            "expansion_name": "BattleTech Record Sheets Volume Two: Medium 'Mechs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91836"
+        },
+        {
+            "expansion_id": "122303",
+            "expansion_name": "Battletech Record Sheets: 3050",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/122303"
+        },
+        {
+            "expansion_id": "91832",
+            "expansion_name": "BattleTech Record Sheets: 3055 & 3058",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91832"
+        },
+        {
+            "expansion_id": "91833",
+            "expansion_name": "BattleTech Reinforcements: BattleMech Record Sheets 3025",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91833"
+        },
+        {
+            "expansion_id": "97108",
+            "expansion_name": "BattleTech Starter: Fist and Falcon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/97108"
+        },
+        {
+            "expansion_id": "63444",
+            "expansion_name": "BattleTech Tactical Handbook",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/63444"
+        },
+        {
+            "expansion_id": "91398",
+            "expansion_name": "BattleTech Technical Readout: 2750",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91398"
+        },
+        {
+            "expansion_id": "63448",
+            "expansion_name": "BattleTech Technical Readout: 3050",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/63448"
+        },
+        {
+            "expansion_id": "63446",
+            "expansion_name": "BattleTech Technical Readout: 3055",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/63446"
+        },
+        {
+            "expansion_id": "91554",
+            "expansion_name": "BattleTech Technical Readout: 3058",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91554"
+        },
+        {
+            "expansion_id": "231921",
+            "expansion_name": "Battletech Technical Readout: Succession Wars",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/231921"
+        },
+        {
+            "expansion_id": "92328",
+            "expansion_name": "BattleTech: 1st Somerset Strikers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92328"
+        },
+        {
+            "expansion_id": "91842",
+            "expansion_name": "BattleTech: 20 Year Update",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91842"
+        },
+        {
+            "expansion_id": "93101",
+            "expansion_name": "BattleTech: AeroTech 2 Record Sheets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93101"
+        },
+        {
+            "expansion_id": "142526",
+            "expansion_name": "BattleTech: Alpha Strike",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142526"
+        },
+        {
+            "expansion_id": "329503",
+            "expansion_name": "Battletech: Battle of Tukayyid",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/329503"
+        },
+        {
+            "expansion_id": "81581",
+            "expansion_name": "BattleTech: BattleForce - The Galtor Campaign",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/81581"
+        },
+        {
+            "expansion_id": "39553",
+            "expansion_name": "Battletech: Chaos Campaign",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39553"
+        },
+        {
+            "expansion_id": "92365",
+            "expansion_name": "BattleTech: Chaos March",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92365"
+        },
+        {
+            "expansion_id": "284658",
+            "expansion_name": "Battletech: Clan Invasion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284658"
+        },
+        {
+            "expansion_id": "91989",
+            "expansion_name": "BattleTech: ComStar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91989"
+        },
+        {
+            "expansion_id": "89223",
+            "expansion_name": "BattleTech: Cranston Snord's Irregulars",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/89223"
+        },
+        {
+            "expansion_id": "81587",
+            "expansion_name": "Battletech: Day of Heroes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/81587"
+        },
+        {
+            "expansion_id": "30807",
+            "expansion_name": "BattleTech: Die Welt des 31. Jahrhunderts",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30807"
+        },
+        {
+            "expansion_id": "59437",
+            "expansion_name": "BattleTech: DropShips and JumpShips",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/59437"
+        },
+        {
+            "expansion_id": "91549",
+            "expansion_name": "Battletech: Explorer Corps",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91549"
+        },
+        {
+            "expansion_id": "81583",
+            "expansion_name": "Battletech: First Strike",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/81583"
+        },
+        {
+            "expansion_id": "59444",
+            "expansion_name": "BattleTech: Gray Death Legion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/59444"
+        },
+        {
+            "expansion_id": "229799",
+            "expansion_name": "Battletech: Handbook - House Liao",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/229799"
+        },
+        {
+            "expansion_id": "97678",
+            "expansion_name": "BattleTech: Handbook - House Steiner",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/97678"
+        },
+        {
+            "expansion_id": "81589",
+            "expansion_name": "Battletech: Historical Turning Points - Galtor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/81589"
+        },
+        {
+            "expansion_id": "92205",
+            "expansion_name": "BattleTech: Hot Spots",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92205"
+        },
+        {
+            "expansion_id": "92317",
+            "expansion_name": "BattleTech: Invading Clans",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92317"
+        },
+        {
+            "expansion_id": "92050",
+            "expansion_name": "BattleTech: Jade Falcon Sourcebook",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92050"
+        },
+        {
+            "expansion_id": "92200",
+            "expansion_name": "BattleTech: Luthien",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92200"
+        },
+        {
+            "expansion_id": "92129",
+            "expansion_name": "BattleTech: Map Set 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92129"
+        },
+        {
+            "expansion_id": "92130",
+            "expansion_name": "BattleTech: Map Set 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92130"
+        },
+        {
+            "expansion_id": "92131",
+            "expansion_name": "BattleTech: Map Set 3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92131"
+        },
+        {
+            "expansion_id": "92132",
+            "expansion_name": "BattleTech: Map Set 4",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92132"
+        },
+        {
+            "expansion_id": "92135",
+            "expansion_name": "BattleTech: Map Set 5",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92135"
+        },
+        {
+            "expansion_id": "92136",
+            "expansion_name": "BattleTech: Map Set 6",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92136"
+        },
+        {
+            "expansion_id": "92623",
+            "expansion_name": "BattleTech: Master Rules",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92623"
+        },
+        {
+            "expansion_id": "91546",
+            "expansion_name": "BattleTech: Maximum Tech",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91546"
+        },
+        {
+            "expansion_id": "92137",
+            "expansion_name": "BattleTech: McCarron's Armored Cavalry",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92137"
+        },
+        {
+            "expansion_id": "146613",
+            "expansion_name": "BattleTech: Mercenary's Handbook",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146613"
+        },
+        {
+            "expansion_id": "92193",
+            "expansion_name": "BattleTech: Mercenary's Handbook 3055",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92193"
+        },
+        {
+            "expansion_id": "91673",
+            "expansion_name": "BattleTech: More Tales Of The Black Widow",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91673"
+        },
+        {
+            "expansion_id": "92500",
+            "expansion_name": "BattleTech: Northwind Highlanders",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92500"
+        },
+        {
+            "expansion_id": "92315",
+            "expansion_name": "BattleTech: Objective Raids",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92315"
+        },
+        {
+            "expansion_id": "96024",
+            "expansion_name": "BattleTech: Operation Flashpoint",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/96024"
+        },
+        {
+            "expansion_id": "35653",
+            "expansion_name": "BattleTech: Reinforcements",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/35653"
+        },
+        {
+            "expansion_id": "29524",
+            "expansion_name": "BattleTech: Reinforcements 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/29524"
+        },
+        {
+            "expansion_id": "91675",
+            "expansion_name": "BattleTech: Rhonda's Irregulars",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91675"
+        },
+        {
+            "expansion_id": "92686",
+            "expansion_name": "BattleTech: Shattered Sphere",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92686"
+        },
+        {
+            "expansion_id": "28732",
+            "expansion_name": "BattleTech: Solaris VII - The Game World",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28732"
+        },
+        {
+            "expansion_id": "45622",
+            "expansion_name": "BattleTech: Sorenson's Sabres",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/45622"
+        },
+        {
+            "expansion_id": "288367",
+            "expansion_name": "Battletech: Technical Readout - Clan Invasion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288367"
+        },
+        {
+            "expansion_id": "91845",
+            "expansion_name": "BattleTech: The Battle for Twycross",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91845"
+        },
+        {
+            "expansion_id": "92430",
+            "expansion_name": "BattleTech: The Battle of Coventry",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92430"
+        },
+        {
+            "expansion_id": "92321",
+            "expansion_name": "BattleTech: The Black Thorns",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92321"
+        },
+        {
+            "expansion_id": "92544",
+            "expansion_name": "BattleTech: The Dragon Roars",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92544"
+        },
+        {
+            "expansion_id": "92369",
+            "expansion_name": "BattleTech: The Falcon and the Wolf",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92369"
+        },
+        {
+            "expansion_id": "92371",
+            "expansion_name": "BattleTech: The Fall of Terra",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92371"
+        },
+        {
+            "expansion_id": "59439",
+            "expansion_name": "BattleTech: The Fourth Succession War Military Atlas Volume 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/59439"
+        },
+        {
+            "expansion_id": "59441",
+            "expansion_name": "BattleTech: The Fourth Succession War Military Atlas Volume 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/59441"
+        },
+        {
+            "expansion_id": "91843",
+            "expansion_name": "Battletech: The Fourth Succession War Scenarios Volume One",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91843"
+        },
+        {
+            "expansion_id": "91787",
+            "expansion_name": "BattleTech: The Kell Hounds",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91787"
+        },
+        {
+            "expansion_id": "91436",
+            "expansion_name": "Battletech: The Periphery",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91436"
+        },
+        {
+            "expansion_id": "91680",
+            "expansion_name": "BattleTech: The Spider And The Wolf",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91680"
+        },
+        {
+            "expansion_id": "91783",
+            "expansion_name": "BattleTech: The Star League",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91783"
+        },
+        {
+            "expansion_id": "92214",
+            "expansion_name": "BattleTech: Tukayyid",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92214"
+        },
+        {
+            "expansion_id": "92624",
+            "expansion_name": "BattleTech: Twilight Of The Clans",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92624"
+        },
+        {
+            "expansion_id": "91846",
+            "expansion_name": "BattleTech: Wolf Clan Sourcebook",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91846"
+        },
+        {
+            "expansion_id": "92123",
+            "expansion_name": "BattleTech: Wolf's Dragoons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92123"
+        },
+        {
+            "expansion_id": "81579",
+            "expansion_name": "Classic Battletech Field Manual: Mercenaries Revised",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/81579"
+        },
+        {
+            "expansion_id": "93103",
+            "expansion_name": "Classic BattleTech Field Manual: Updates",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93103"
+        },
+        {
+            "expansion_id": "59196",
+            "expansion_name": "Classic BattleTech Map Set #7",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/59196"
+        },
+        {
+            "expansion_id": "239092",
+            "expansion_name": "Classic Battletech: Blake Ascending",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239092"
+        },
+        {
+            "expansion_id": "93097",
+            "expansion_name": "Classic BattleTech: FedCom Civil War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93097"
+        },
+        {
+            "expansion_id": "146615",
+            "expansion_name": "Classic Battletech: Historical - Brush Wars",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146615"
+        },
+        {
+            "expansion_id": "81586",
+            "expansion_name": "Classic Battletech: Historical - War of 3039",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/81586"
+        },
+        {
+            "expansion_id": "122304",
+            "expansion_name": "Classic Battletech: Jihad Hot Spots - 3070",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/122304"
+        },
+        {
+            "expansion_id": "51990",
+            "expansion_name": "Classic Battletech: Mercenaries Supplemental",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/51990"
+        },
+        {
+            "expansion_id": "93096",
+            "expansion_name": "Classic BattleTech: Record Sheets 3067",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93096"
+        },
+        {
+            "expansion_id": "58121",
+            "expansion_name": "Classic Battletech: Record Sheets - 3039",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/58121"
+        },
+        {
+            "expansion_id": "59199",
+            "expansion_name": "Classic Battletech: Technical Readout 3025",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/59199"
+        },
+        {
+            "expansion_id": "58118",
+            "expansion_name": "Classic Battletech: Technical Readout - 3039",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/58118"
+        },
+        {
+            "expansion_id": "58119",
+            "expansion_name": "Classic Battletech: Technical Readout - 3050 Upgrade",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/58119"
+        },
+        {
+            "expansion_id": "89224",
+            "expansion_name": "The Fox's Teeth: Exploits of McKinnon's Raiders",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/89224"
+        },
+        {
+            "expansion_id": "91774",
+            "expansion_name": "House Davion: The Federated Suns",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91774"
+        },
+        {
+            "expansion_id": "60087",
+            "expansion_name": "House Kurita: The Draconis Combine",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/60087"
+        },
+        {
+            "expansion_id": "91683",
+            "expansion_name": "House Liao: The Capellan Confederation",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91683"
+        },
+        {
+            "expansion_id": "91777",
+            "expansion_name": "House Marik: The Free Worlds League",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91777"
+        },
+        {
+            "expansion_id": "91443",
+            "expansion_name": "House Steiner: The Lyran Commonwealth",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91443"
+        },
+        {
+            "expansion_id": "91869",
+            "expansion_name": "MechWarrior: Unbound",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91869"
+        },
+        {
+            "expansion_id": "60049",
+            "expansion_name": "Rolling Thunder",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/60049"
+        },
+        {
+            "expansion_id": "89225",
+            "expansion_name": "Tales of the Black Widow Company",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/89225"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Forest Brown; L. R. \"Butch\" Leeper; Jordan Weisman",
+    "categories_string": "Collectible Components; Fighting; Miniatures; Science Fiction; Wargame",
+    "mechanics_string": "Dice Rolling; Hexagon Grid; Movement Points; Role Playing; Simulation; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '37494', 'expansion_name': 'AeroTech 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37494'}; {'expansion_id': '39056', 'expansion_name': 'Battleforce 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39056'}; {'expansion_id': '231924', 'expansion_name': 'BattleMech Manual', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/231924'}; {'expansion_id': '30627', 'expansion_name': 'BattleMech Recognition Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30627'}; {'expansion_id': '92615', 'expansion_name': 'BattleTech BattlePack: Fourth Succession War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92615'}; {'expansion_id': '92619', 'expansion_name': 'BattleTech Field Manual:   Warden Clans', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92619'}; {'expansion_id': '92698', 'expansion_name': 'BattleTech Field Manual: Capellan Confederation', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92698'}; {'expansion_id': '92691', 'expansion_name': 'BattleTech Field Manual: ComStar', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92691'}; {'expansion_id': '92618', 'expansion_name': 'BattleTech Field Manual: Crusader Clans', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92618'}; {'expansion_id': '92379', 'expansion_name': 'BattleTech Field Manual: Draconis Combine', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92379'}; {'expansion_id': '92789', 'expansion_name': 'BattleTech Field Manual: Federated Suns', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92789'}; {'expansion_id': '92436', 'expansion_name': \"BattleTech Field Manual: Free World's League\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92436'}; {'expansion_id': '92797', 'expansion_name': 'BattleTech Field Manual: Lyran Alliance', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92797'}; {'expansion_id': '92496', 'expansion_name': 'Battletech Field Manual: Mercenaries', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92496'}; {'expansion_id': '92873', 'expansion_name': 'BattleTech Field Manual: The Periphery', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92873'}; {'expansion_id': '41970', 'expansion_name': 'BattleTech Manual: The Rules of Warfare', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/41970'}; {'expansion_id': '122305', 'expansion_name': 'Battletech Operation: Stiletto', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/122305'}; {'expansion_id': '91838', 'expansion_name': 'BattleTech Record Sheets Volume Five: Vehicles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91838'}; {'expansion_id': '91834', 'expansion_name': \"BattleTech Record Sheets Volume Four: Assault 'Mechs\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91834'}; {'expansion_id': '91837', 'expansion_name': \"BattleTech Record Sheets Volume One: Light 'Mechs\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91837'}; {'expansion_id': '91840', 'expansion_name': \"BattleTech Record Sheets Volume Six: 3055 'Mechs\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91840'}; {'expansion_id': '91835', 'expansion_name': \"BattleTech Record Sheets Volume Three: Heavy 'Mechs\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91835'}; {'expansion_id': '91836', 'expansion_name': \"BattleTech Record Sheets Volume Two: Medium 'Mechs\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91836'}; {'expansion_id': '122303', 'expansion_name': 'Battletech Record Sheets: 3050', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/122303'}; {'expansion_id': '91832', 'expansion_name': 'BattleTech Record Sheets: 3055 & 3058', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91832'}; {'expansion_id': '91833', 'expansion_name': 'BattleTech Reinforcements: BattleMech Record Sheets 3025', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91833'}; {'expansion_id': '97108', 'expansion_name': 'BattleTech Starter: Fist and Falcon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/97108'}; {'expansion_id': '63444', 'expansion_name': 'BattleTech Tactical Handbook', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/63444'}; {'expansion_id': '91398', 'expansion_name': 'BattleTech Technical Readout: 2750', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91398'}; {'expansion_id': '63448', 'expansion_name': 'BattleTech Technical Readout: 3050', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/63448'}; {'expansion_id': '63446', 'expansion_name': 'BattleTech Technical Readout: 3055', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/63446'}; {'expansion_id': '91554', 'expansion_name': 'BattleTech Technical Readout: 3058', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91554'}; {'expansion_id': '231921', 'expansion_name': 'Battletech Technical Readout: Succession Wars', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/231921'}; {'expansion_id': '92328', 'expansion_name': 'BattleTech: 1st Somerset Strikers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92328'}; {'expansion_id': '91842', 'expansion_name': 'BattleTech: 20 Year Update', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91842'}; {'expansion_id': '93101', 'expansion_name': 'BattleTech: AeroTech 2 Record Sheets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93101'}; {'expansion_id': '142526', 'expansion_name': 'BattleTech: Alpha Strike', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142526'}; {'expansion_id': '329503', 'expansion_name': 'Battletech: Battle of Tukayyid', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/329503'}; {'expansion_id': '81581', 'expansion_name': 'BattleTech: BattleForce - The Galtor Campaign', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/81581'}; {'expansion_id': '39553', 'expansion_name': 'Battletech: Chaos Campaign', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39553'}; {'expansion_id': '92365', 'expansion_name': 'BattleTech: Chaos March', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92365'}; {'expansion_id': '284658', 'expansion_name': 'Battletech: Clan Invasion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284658'}; {'expansion_id': '91989', 'expansion_name': 'BattleTech: ComStar', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91989'}; {'expansion_id': '89223', 'expansion_name': \"BattleTech: Cranston Snord's Irregulars\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/89223'}; {'expansion_id': '81587', 'expansion_name': 'Battletech: Day of Heroes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/81587'}; {'expansion_id': '30807', 'expansion_name': 'BattleTech: Die Welt des 31. Jahrhunderts', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30807'}; {'expansion_id': '59437', 'expansion_name': 'BattleTech: DropShips and JumpShips', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/59437'}; {'expansion_id': '91549', 'expansion_name': 'Battletech: Explorer Corps', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91549'}; {'expansion_id': '81583', 'expansion_name': 'Battletech: First Strike', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/81583'}; {'expansion_id': '59444', 'expansion_name': 'BattleTech: Gray Death Legion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/59444'}; {'expansion_id': '229799', 'expansion_name': 'Battletech: Handbook - House Liao', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/229799'}; {'expansion_id': '97678', 'expansion_name': 'BattleTech: Handbook - House Steiner', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/97678'}; {'expansion_id': '81589', 'expansion_name': 'Battletech: Historical Turning Points - Galtor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/81589'}; {'expansion_id': '92205', 'expansion_name': 'BattleTech: Hot Spots', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92205'}; {'expansion_id': '92317', 'expansion_name': 'BattleTech: Invading Clans', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92317'}; {'expansion_id': '92050', 'expansion_name': 'BattleTech: Jade Falcon Sourcebook', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92050'}; {'expansion_id': '92200', 'expansion_name': 'BattleTech: Luthien', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92200'}; {'expansion_id': '92129', 'expansion_name': 'BattleTech: Map Set 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92129'}; {'expansion_id': '92130', 'expansion_name': 'BattleTech: Map Set 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92130'}; {'expansion_id': '92131', 'expansion_name': 'BattleTech: Map Set 3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92131'}; {'expansion_id': '92132', 'expansion_name': 'BattleTech: Map Set 4', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92132'}; {'expansion_id': '92135', 'expansion_name': 'BattleTech: Map Set 5', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92135'}; {'expansion_id': '92136', 'expansion_name': 'BattleTech: Map Set 6', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92136'}; {'expansion_id': '92623', 'expansion_name': 'BattleTech: Master Rules', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92623'}; {'expansion_id': '91546', 'expansion_name': 'BattleTech: Maximum Tech', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91546'}; {'expansion_id': '92137', 'expansion_name': \"BattleTech: McCarron's Armored Cavalry\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92137'}; {'expansion_id': '146613', 'expansion_name': \"BattleTech: Mercenary's Handbook\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146613'}; {'expansion_id': '92193', 'expansion_name': \"BattleTech: Mercenary's Handbook 3055\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92193'}; {'expansion_id': '91673', 'expansion_name': 'BattleTech: More Tales Of The Black Widow', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91673'}; {'expansion_id': '92500', 'expansion_name': 'BattleTech: Northwind Highlanders', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92500'}; {'expansion_id': '92315', 'expansion_name': 'BattleTech: Objective Raids', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92315'}; {'expansion_id': '96024', 'expansion_name': 'BattleTech: Operation Flashpoint', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/96024'}; {'expansion_id': '35653', 'expansion_name': 'BattleTech: Reinforcements', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/35653'}; {'expansion_id': '29524', 'expansion_name': 'BattleTech: Reinforcements 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/29524'}; {'expansion_id': '91675', 'expansion_name': \"BattleTech: Rhonda's Irregulars\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91675'}; {'expansion_id': '92686', 'expansion_name': 'BattleTech: Shattered Sphere', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92686'}; {'expansion_id': '28732', 'expansion_name': 'BattleTech: Solaris VII - The Game World', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28732'}; {'expansion_id': '45622', 'expansion_name': \"BattleTech: Sorenson's Sabres\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/45622'}; {'expansion_id': '288367', 'expansion_name': 'Battletech: Technical Readout - Clan Invasion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288367'}; {'expansion_id': '91845', 'expansion_name': 'BattleTech: The Battle for Twycross', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91845'}; {'expansion_id': '92430', 'expansion_name': 'BattleTech: The Battle of Coventry', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92430'}; {'expansion_id': '92321', 'expansion_name': 'BattleTech: The Black Thorns', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92321'}; {'expansion_id': '92544', 'expansion_name': 'BattleTech: The Dragon Roars', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92544'}; {'expansion_id': '92369', 'expansion_name': 'BattleTech: The Falcon and the Wolf', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92369'}; {'expansion_id': '92371', 'expansion_name': 'BattleTech: The Fall of Terra', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92371'}; {'expansion_id': '59439', 'expansion_name': 'BattleTech: The Fourth Succession War Military Atlas Volume 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/59439'}; {'expansion_id': '59441', 'expansion_name': 'BattleTech: The Fourth Succession War Military Atlas Volume 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/59441'}; {'expansion_id': '91843', 'expansion_name': 'Battletech: The Fourth Succession War Scenarios Volume One', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91843'}; {'expansion_id': '91787', 'expansion_name': 'BattleTech: The Kell Hounds', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91787'}; {'expansion_id': '91436', 'expansion_name': 'Battletech: The Periphery', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91436'}; {'expansion_id': '91680', 'expansion_name': 'BattleTech: The Spider And The Wolf', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91680'}; {'expansion_id': '91783', 'expansion_name': 'BattleTech: The Star League', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91783'}; {'expansion_id': '92214', 'expansion_name': 'BattleTech: Tukayyid', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92214'}; {'expansion_id': '92624', 'expansion_name': 'BattleTech: Twilight Of The Clans', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92624'}; {'expansion_id': '91846', 'expansion_name': 'BattleTech: Wolf Clan Sourcebook', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91846'}; {'expansion_id': '92123', 'expansion_name': \"BattleTech: Wolf's Dragoons\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92123'}; {'expansion_id': '81579', 'expansion_name': 'Classic Battletech Field Manual: Mercenaries Revised', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/81579'}; {'expansion_id': '93103', 'expansion_name': 'Classic BattleTech Field Manual: Updates', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93103'}; {'expansion_id': '59196', 'expansion_name': 'Classic BattleTech Map Set #7', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/59196'}; {'expansion_id': '239092', 'expansion_name': 'Classic Battletech: Blake Ascending', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239092'}; {'expansion_id': '93097', 'expansion_name': 'Classic BattleTech: FedCom Civil War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93097'}; {'expansion_id': '146615', 'expansion_name': 'Classic Battletech: Historical - Brush Wars', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146615'}; {'expansion_id': '81586', 'expansion_name': 'Classic Battletech: Historical - War of 3039', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/81586'}; {'expansion_id': '122304', 'expansion_name': 'Classic Battletech: Jihad Hot Spots - 3070', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/122304'}; {'expansion_id': '51990', 'expansion_name': 'Classic Battletech: Mercenaries Supplemental', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/51990'}; {'expansion_id': '93096', 'expansion_name': 'Classic BattleTech: Record Sheets 3067', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93096'}; {'expansion_id': '58121', 'expansion_name': 'Classic Battletech: Record Sheets - 3039', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/58121'}; {'expansion_id': '59199', 'expansion_name': 'Classic Battletech: Technical Readout 3025', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/59199'}; {'expansion_id': '58118', 'expansion_name': 'Classic Battletech: Technical Readout - 3039', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/58118'}; {'expansion_id': '58119', 'expansion_name': 'Classic Battletech: Technical Readout - 3050 Upgrade', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/58119'}; {'expansion_id': '89224', 'expansion_name': \"The Fox's Teeth: Exploits of McKinnon's Raiders\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/89224'}; {'expansion_id': '91774', 'expansion_name': 'House Davion: The Federated Suns', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91774'}; {'expansion_id': '60087', 'expansion_name': 'House Kurita: The Draconis Combine', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/60087'}; {'expansion_id': '91683', 'expansion_name': 'House Liao: The Capellan Confederation', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91683'}; {'expansion_id': '91777', 'expansion_name': 'House Marik: The Free Worlds League', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91777'}; {'expansion_id': '91443', 'expansion_name': 'House Steiner: The Lyran Commonwealth', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91443'}; {'expansion_id': '91869', 'expansion_name': 'MechWarrior: Unbound', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91869'}; {'expansion_id': '60049', 'expansion_name': 'Rolling Thunder', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/60049'}; {'expansion_id': '89225', 'expansion_name': 'Tales of the Black Widow Company', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/89225'}",
+    "expansions_for_string": ""
+}

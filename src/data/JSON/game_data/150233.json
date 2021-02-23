@@ -1,0 +1,135 @@
+{
+    "game_id": "150233",
+    "game_name": "Dungeon Roll: Winter Heroes Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/150233",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3481329",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3481329#item3481329",
+            "geeklist_host": "joestin",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3530765",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3530765#item3530765",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3583768",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3583768#item3583768",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3588244",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3588244#item3588244",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3619591",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3619591#item3619591",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3677537",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3677537#item3677537",
+            "geeklist_host": "bikefreak",
+            "contributor": "uniconfis"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4064161",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4064161#item4064161",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4343566",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4343566#item4343566",
+            "geeklist_host": "mikolajl",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7359153",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7359153#item7359153",
+            "geeklist_host": "jeffrhind",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 9,
+    "thumbnail": "https://cf.geekdo-images.com/kZFAInwLKIxYIZDakYcaZw__thumb/img/tsNdufGc4tOEWft6UvJyJXJSD1g=/fit-in/200x150/filters:strip_icc()/pic2208194.png",
+    "year_published": "2014",
+    "designers": [
+        "Chris Darden",
+        "Seth Jaffee"
+    ],
+    "weight": 1.42,
+    "rating": 6.05,
+    "play_time": "0",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Push Your Luck",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "138788",
+            "game_name": "Dungeon Roll",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/138788"
+        }
+    ],
+    "designers_string": "Chris Darden; Seth Jaffee",
+    "categories_string": "Dice; Expansion for Base-game; Fantasy; Fighting",
+    "mechanics_string": "Dice Rolling; Hand Management; Push Your Luck; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '138788', 'game_name': 'Dungeon Roll', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/138788'}"
+}

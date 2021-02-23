@@ -1,0 +1,79 @@
+{
+    "game_id": "1705",
+    "game_name": "Slapshot",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1705",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7949636",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7949636#item7949636",
+            "geeklist_host": "Albia",
+            "contributor": "garrylloyd"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/G8bC0Xolsmd8QfY923pbwA__thumb/img/4e9AyU0fcTTh9e5rI6KknQbZ7x0=/fit-in/200x150/filters:strip_icc()/pic904899.jpg",
+    "year_published": "1982",
+    "designers": [
+        "Tom Dalgliesh",
+        "Ron Gibson",
+        "John Gordon",
+        "Lance Gutteridge"
+    ],
+    "weight": 1.32,
+    "rating": 6.31,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "12",
+    "categories": [
+        "Card Game",
+        "Sports"
+    ],
+    "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Simultaneous Action Selection",
+        "Trading"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "37298",
+            "expansion_name": "Phantoms of the Ice Sonderspieler",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37298"
+        },
+        {
+            "expansion_id": "121919",
+            "expansion_name": "Phantoms of the Ice: Double Trouble & Magician",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/121919"
+        },
+        {
+            "expansion_id": "121870",
+            "expansion_name": "Phantoms of the Ice: Elfenwizard",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/121870"
+        },
+        {
+            "expansion_id": "124584",
+            "expansion_name": "Phantoms of the Ice: Expansion Card Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/124584"
+        },
+        {
+            "expansion_id": "121869",
+            "expansion_name": "Phantoms of the Ice: Rainbows",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/121869"
+        },
+        {
+            "expansion_id": "121867",
+            "expansion_name": "Phantoms of the Ice: Tricks",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/121867"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Tom Dalgliesh; Ron Gibson; John Gordon; Lance Gutteridge",
+    "categories_string": "Card Game; Sports",
+    "mechanics_string": "Deck, Bag, and Pool Building; Simultaneous Action Selection; Trading",
+    "expansions_string": "{'expansion_id': '37298', 'expansion_name': 'Phantoms of the Ice Sonderspieler', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37298'}; {'expansion_id': '121919', 'expansion_name': 'Phantoms of the Ice: Double Trouble & Magician', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/121919'}; {'expansion_id': '121870', 'expansion_name': 'Phantoms of the Ice: Elfenwizard', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/121870'}; {'expansion_id': '124584', 'expansion_name': 'Phantoms of the Ice: Expansion Card Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/124584'}; {'expansion_id': '121869', 'expansion_name': 'Phantoms of the Ice: Rainbows', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/121869'}; {'expansion_id': '121867', 'expansion_name': 'Phantoms of the Ice: Tricks', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/121867'}",
+    "expansions_for_string": ""
+}

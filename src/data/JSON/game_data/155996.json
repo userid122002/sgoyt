@@ -1,0 +1,70 @@
+{
+    "game_id": "155996",
+    "game_name": "Village: Port",
+    "bgg_link": "https://boardgamegeek.com/boardgame/155996",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3997345",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3997345#item3997345",
+            "geeklist_host": "joestin",
+            "contributor": "splittist"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/WR27exV3j5Nog3jjuU164A__thumb/img/WFhnRcOvIQDG7ElufPiD4s8JeFo=/fit-in/200x150/filters:strip_icc()/pic2760541.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Inka Brand",
+        "Markus Brand"
+    ],
+    "weight": 3.05,
+    "rating": 7.97,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "9",
+    "categories": [
+        "Expansion for Base-game",
+        "Farming",
+        "Medieval",
+        "Nautical"
+    ],
+    "mechanics": [
+        "Pick-up and Deliver",
+        "Point to Point Movement",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "167903",
+            "expansion_name": "20 Jahre Darmstadt Spielt",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167903"
+        },
+        {
+            "expansion_id": "168122",
+            "expansion_name": "Village Port: Schatzkiste",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168122"
+        },
+        {
+            "expansion_id": "166592",
+            "expansion_name": "Village: Customer Expansion 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166592"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "104006",
+            "game_name": "Village",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/104006"
+        }
+    ],
+    "designers_string": "Inka Brand; Markus Brand",
+    "categories_string": "Expansion for Base-game; Farming; Medieval; Nautical",
+    "mechanics_string": "Pick-up and Deliver; Point to Point Movement; Worker Placement",
+    "expansions_string": "{'expansion_id': '167903', 'expansion_name': '20 Jahre Darmstadt Spielt', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167903'}; {'expansion_id': '168122', 'expansion_name': 'Village Port: Schatzkiste', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168122'}; {'expansion_id': '166592', 'expansion_name': 'Village: Customer Expansion 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166592'}",
+    "expansions_for_string": "{'game_id': '104006', 'game_name': 'Village', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/104006'}"
+}

@@ -1,0 +1,106 @@
+{
+    "game_id": "241497",
+    "game_name": "Terraforming Mars: BGG User-Created Corporation Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/241497",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6365120",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6365120#item6365120",
+            "geeklist_host": "dobrazil",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6424220",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6424220#item6424220",
+            "geeklist_host": "kevinruns262",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6818561",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6818561#item6818561",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6757060",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6757060#item6757060",
+            "geeklist_host": "The_Omnius",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7211390",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7211390#item7211390",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Jy0831"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7365191",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7365191#item7365191",
+            "geeklist_host": "jeffrhind",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/ZeVo9iwiUlYw2p_fk6JaHA__thumb/img/2tYMaCI8CLoBYQ08txrA625NNdY=/fit-in/200x150/filters:strip_icc()/pic3952751.jpg",
+    "year_published": "2018",
+    "designers": [
+        "(Uncredited)"
+    ],
+    "weight": 3.12,
+    "rating": 7.94,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Economic",
+        "Environmental",
+        "Expansion for Base-game",
+        "Industry / Manufacturing",
+        "Science Fiction",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "167791",
+            "game_name": "Terraforming Mars",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/167791"
+        }
+    ],
+    "designers_string": "(Uncredited)",
+    "categories_string": "Economic; Environmental; Expansion for Base-game; Industry / Manufacturing; Science Fiction; Territory Building",
+    "mechanics_string": "Card Drafting; Hand Management; Tile Placement; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '167791', 'game_name': 'Terraforming Mars', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/167791'}"
+}

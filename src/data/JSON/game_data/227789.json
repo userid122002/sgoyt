@@ -1,0 +1,58 @@
+{
+    "game_id": "227789",
+    "game_name": "Heaven & Ale",
+    "bgg_link": "https://boardgamegeek.com/boardgame/227789",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7751109",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7751109#item7751109",
+            "geeklist_host": "repairmanjack",
+            "contributor": "kevinruns262"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/P0B68R2CLFTuiD8M9lCYPQ__thumb/img/1Omy3H6zspL0HKrUjgdolrGxmwk=/fit-in/200x150/filters:strip_icc()/pic3563904.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Michael Kiesling",
+        "Andreas Schmidt"
+    ],
+    "weight": 3.24,
+    "rating": 7.59,
+    "play_time": "60 - 90",
+    "best": "3",
+    "recommended": "1",
+    "not_recommended": "57",
+    "categories": [
+        "Economic",
+        "Farming",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Grid Coverage",
+        "Highest-Lowest Scoring",
+        "Once-Per-Game Abilities",
+        "Rondel",
+        "Tile Placement",
+        "Track Movement",
+        "Turn Order: Claim Action",
+        "Turn Order: Pass Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "285961",
+            "expansion_name": "Heaven & Ale: Kegs & More",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/285961"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Michael Kiesling; Andreas Schmidt",
+    "categories_string": "Economic; Farming; Industry / Manufacturing",
+    "mechanics_string": "Grid Coverage; Highest-Lowest Scoring; Once-Per-Game Abilities; Rondel; Tile Placement; Track Movement; Turn Order: Claim Action; Turn Order: Pass Order",
+    "expansions_string": "{'expansion_id': '285961', 'expansion_name': 'Heaven & Ale: Kegs & More', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/285961'}",
+    "expansions_for_string": ""
+}

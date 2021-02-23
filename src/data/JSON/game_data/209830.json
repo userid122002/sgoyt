@@ -1,0 +1,101 @@
+{
+    "game_id": "209830",
+    "game_name": "Lock 'n Load Tactical: Solo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/209830",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5697196",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5697196#item5697196",
+            "geeklist_host": "cornishlee",
+            "contributor": "sixthecat"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5704146",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5704146#item5704146",
+            "geeklist_host": "cornishlee",
+            "contributor": "sixthecat"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/iIUaAjeDJLLX4c1kBZYs4w__thumb/img/V_9zJIWzY0Lo4k-vD0yRnPeGKc4=/fit-in/200x150/filters:strip_icc()/pic3198340.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Sean Druelinger",
+        "David Heath"
+    ],
+    "weight": 3.00,
+    "rating": 7.86,
+    "play_time": "120 - 240",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "250502",
+            "expansion_name": "Lock 'n Load Tactical: Core Rules v5.0",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/250502"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "184565",
+            "game_name": "Lock 'n Load Tactical: Bear and the Jackal",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/184565"
+        },
+        {
+            "game_id": "35767",
+            "game_name": "Lock 'n Load Tactical: Dark July 43",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/35767"
+        },
+        {
+            "game_id": "25727",
+            "game_name": "Lock 'n Load Tactical: Day of Heroes",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/25727"
+        },
+        {
+            "game_id": "185057",
+            "game_name": "Lock 'n Load Tactical: Heroes Against the Red Star",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/185057"
+        },
+        {
+            "game_id": "184561",
+            "game_name": "Lock 'n Load Tactical: Heroes of the Nam",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/184561"
+        },
+        {
+            "game_id": "99573",
+            "game_name": "Lock 'n Load Tactical: Heroes of the Pacific",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/99573"
+        },
+        {
+            "game_id": "193531",
+            "game_name": "Lock 'n Load Tactical: Modern Era Core Rules",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/193531"
+        },
+        {
+            "game_id": "193024",
+            "game_name": "Lock 'n Load Tactical: World War II Era Core Rules Manual v4.1",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/193024"
+        }
+    ],
+    "designers_string": "Sean Druelinger; David Heath",
+    "categories_string": "Expansion for Base-game; Wargame",
+    "mechanics_string": "Dice Rolling",
+    "expansions_string": "{'expansion_id': '250502', 'expansion_name': \"Lock 'n Load Tactical: Core Rules v5.0\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/250502'}",
+    "expansions_for_string": "{'game_id': '184565', 'game_name': \"Lock 'n Load Tactical: Bear and the Jackal\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/184565'}; {'game_id': '35767', 'game_name': \"Lock 'n Load Tactical: Dark July 43\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/35767'}; {'game_id': '25727', 'game_name': \"Lock 'n Load Tactical: Day of Heroes\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/25727'}; {'game_id': '185057', 'game_name': \"Lock 'n Load Tactical: Heroes Against the Red Star\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/185057'}; {'game_id': '184561', 'game_name': \"Lock 'n Load Tactical: Heroes of the Nam\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/184561'}; {'game_id': '99573', 'game_name': \"Lock 'n Load Tactical: Heroes of the Pacific\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/99573'}; {'game_id': '193531', 'game_name': \"Lock 'n Load Tactical: Modern Era Core Rules\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/193531'}; {'game_id': '193024', 'game_name': \"Lock 'n Load Tactical: World War II Era Core Rules Manual v4.1\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/193024'}"
+}

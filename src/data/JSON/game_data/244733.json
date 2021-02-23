@@ -1,0 +1,69 @@
+{
+    "game_id": "244733",
+    "game_name": "Sword & Sorcery: Arcane Portal",
+    "bgg_link": "https://boardgamegeek.com/boardgame/244733",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6633773",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6633773#item6633773",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "freudianslip27"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6662306",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6662306#item6662306",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "freudianslip27"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/p7KmBvnYPY3ZWwJlN1qsLA__thumb/img/-0OPG9nEcoQOr4IBLElNO1KjBeE=/fit-in/200x150/filters:strip_icc()/pic4162537.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Simone Romano",
+        "Nunzio Surace"
+    ],
+    "weight": 4.27,
+    "rating": 8.58,
+    "play_time": "60 - 90",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "2",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "170771",
+            "game_name": "Sword & Sorcery",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/170771"
+        }
+    ],
+    "designers_string": "Simone Romano; Nunzio Surace",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Action Points; Area Movement; Cooperative Game; Dice Rolling; Modular Board; Solo / Solitaire Game; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '170771', 'game_name': 'Sword & Sorcery', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/170771'}"
+}

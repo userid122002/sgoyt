@@ -1,0 +1,81 @@
+{
+    "game_id": "254470",
+    "game_name": "Clank! In! Space!: Apocalypse!",
+    "bgg_link": "https://boardgamegeek.com/boardgame/254470",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6305952",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6305952#item6305952",
+            "geeklist_host": "spaceman23",
+            "contributor": "Oleary393"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7857934",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7857934#item7857934",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Tobina"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7871709",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7871709#item7871709",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/SGqIetYglYPyTQr-83EP_Q__thumb/img/JUOMjjFqLmyzNXfL5jdMgcDpu1g=/fit-in/200x150/filters:strip_icc()/pic4166586.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Andy Clautice",
+        "Evan Lorentz"
+    ],
+    "weight": 2.70,
+    "rating": 8.11,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Modular Board",
+        "Player Elimination",
+        "Point to Point Movement",
+        "Push Your Luck"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "257662",
+            "expansion_name": "Clank! In! Space!: Apocalypse! - Planetary Destruction",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257662"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "233371",
+            "game_name": "Clank! In! Space!: A Deck-Building Adventure",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/233371"
+        }
+    ],
+    "designers_string": "Andy Clautice; Evan Lorentz",
+    "categories_string": "Expansion for Base-game; Science Fiction",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Modular Board; Player Elimination; Point to Point Movement; Push Your Luck",
+    "expansions_string": "{'expansion_id': '257662', 'expansion_name': 'Clank! In! Space!: Apocalypse! - Planetary Destruction', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257662'}",
+    "expansions_for_string": "{'game_id': '233371', 'game_name': 'Clank! In! Space!: A Deck-Building Adventure', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/233371'}"
+}

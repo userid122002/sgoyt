@@ -1,0 +1,62 @@
+{
+    "game_id": "86167",
+    "game_name": "El Alamein",
+    "bgg_link": "https://boardgamegeek.com/boardgame/86167",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5258045",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5258045#item5258045",
+            "geeklist_host": "suzyvitale",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5851933",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5851933#item5851933",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "RitterFips"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/kkKbU1vbiq9kZfeJxYd3PA__thumb/img/l6yBtrl9tRD7dtU3e0LqJM5fLhg=/fit-in/200x150/filters:strip_icc()/pic3210466.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Atsuo Yoshizawa"
+    ],
+    "weight": 2.86,
+    "rating": 6.96,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "2",
+    "categories": [
+        "Card Game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "230104",
+            "expansion_name": "El Alamein: Promo Card Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230104"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Atsuo Yoshizawa",
+    "categories_string": "Card Game; Wargame; World War II",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Hand Management",
+    "expansions_string": "{'expansion_id': '230104', 'expansion_name': 'El Alamein: Promo Card Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230104'}",
+    "expansions_for_string": ""
+}

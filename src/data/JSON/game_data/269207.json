@@ -1,0 +1,122 @@
+{
+    "game_id": "269207",
+    "game_name": "The Taverns of Tiefenthal",
+    "bgg_link": "https://boardgamegeek.com/boardgame/269207",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6895974",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6895974#item6895974",
+            "geeklist_host": "Woelf",
+            "contributor": "njshaw2"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6903820",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6903820#item6903820",
+            "geeklist_host": "Woelf",
+            "contributor": "njshaw2"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7397976",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7397976#item7397976",
+            "geeklist_host": "jeffrhind",
+            "contributor": "ojtBGG"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7347020",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7347020#item7347020",
+            "geeklist_host": "Albia",
+            "contributor": "ojtBGG"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7562746",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7562746#item7562746",
+            "geeklist_host": "Doc_H",
+            "contributor": "Tobina"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7568389",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7568389#item7568389",
+            "geeklist_host": "Doc_H",
+            "contributor": "WingTale"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7638290",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7638290#item7638290",
+            "geeklist_host": "threepointthed",
+            "contributor": "ojtBGG"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7740607",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7740607#item7740607",
+            "geeklist_host": "Elida",
+            "contributor": "gentle"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/H-AU-nhjCbaxWlWj_O-eFw__thumb/img/K_cH8KNrKA2FdgvqtUMubNvoRQU=/fit-in/200x150/filters:strip_icc()/pic4873141.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Wolfgang Warsch"
+    ],
+    "weight": 2.64,
+    "rating": 7.64,
+    "play_time": "60",
+    "best": "3",
+    "recommended": "12",
+    "not_recommended": "55",
+    "categories": [
+        "Dice"
+    ],
+    "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Drafting",
+        "Worker Placement",
+        "Worker Placement with Dice Workers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "328290",
+            "expansion_name": "Die Tavernen im Tiefen Thal: Zimmer frei!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/328290"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Wolfgang Warsch",
+    "categories_string": "Dice",
+    "mechanics_string": "Deck, Bag, and Pool Building; Dice Rolling; Drafting; Worker Placement; Worker Placement with Dice Workers",
+    "expansions_string": "{'expansion_id': '328290', 'expansion_name': 'Die Tavernen im Tiefen Thal: Zimmer frei!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/328290'}",
+    "expansions_for_string": ""
+}

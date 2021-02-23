@@ -1,0 +1,76 @@
+{
+    "game_id": "158167",
+    "game_name": "MERCS: Recon - Blood Contagion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/158167",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5520219",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5520219#item5520219",
+            "geeklist_host": "Mishko",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5520667",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5520667#item5520667",
+            "geeklist_host": "Mishko",
+            "contributor": "carbon_dragon"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/_NrUsEQ9_kdbb9tJOJVzsw__thumb/img/o4PnpzvB1-AV9NA9C23uEXTAcXk=/fit-in/200x150/filters:strip_icc()/pic1995982.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Brian Shotton"
+    ],
+    "weight": 0.00,
+    "rating": 6.60,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Fighting",
+        "Miniatures",
+        "Modern Warfare",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "156474",
+            "game_name": "MERCS: Recon - Assassination Protocol",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/156474"
+        },
+        {
+            "game_id": "154939",
+            "game_name": "MERCS: Recon - Counter Threat",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/154939"
+        },
+        {
+            "game_id": "140519",
+            "game_name": "Myth",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/140519"
+        }
+    ],
+    "designers_string": "Brian Shotton",
+    "categories_string": "Expansion for Base-game; Fighting; Miniatures; Modern Warfare; Science Fiction",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '156474', 'game_name': 'MERCS: Recon - Assassination Protocol', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/156474'}; {'game_id': '154939', 'game_name': 'MERCS: Recon - Counter Threat', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/154939'}; {'game_id': '140519', 'game_name': 'Myth', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/140519'}"
+}

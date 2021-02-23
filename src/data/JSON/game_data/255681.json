@@ -1,0 +1,145 @@
+{
+    "game_id": "255681",
+    "game_name": "Terraforming Mars: Colonies",
+    "bgg_link": "https://boardgamegeek.com/boardgame/255681",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6538356",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6538356#item6538356",
+            "geeklist_host": "Albia",
+            "contributor": "Donutz McGoo"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6550291",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6550291#item6550291",
+            "geeklist_host": "Albia",
+            "contributor": "Donutz McGoo"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6668709",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6668709#item6668709",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6684585",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6684585#item6684585",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6872666",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6872666#item6872666",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "der_mandarin"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6760421",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6760421#item6760421",
+            "geeklist_host": "The_Omnius",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7042448",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7042448#item7042448",
+            "geeklist_host": "labrhat22",
+            "contributor": "Ender37"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7339764",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7339764#item7339764",
+            "geeklist_host": "Albia",
+            "contributor": "gar0u"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7512096",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7512096#item7512096",
+            "geeklist_host": "Doc_H",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 9,
+    "thumbnail": "https://cf.geekdo-images.com/OyCyHETRL-RzzYKlF8jshA__thumb/img/WpvEB_JcNNPngED5fDPb3qZOUEA=/fit-in/200x150/filters:strip_icc()/pic4193099.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Jacob Fryxelius",
+        "Jonathan Fryxelius"
+    ],
+    "weight": 3.16,
+    "rating": 8.16,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "13",
+    "not_recommended": "4",
+    "categories": [
+        "Economic",
+        "Environmental",
+        "Expansion for Base-game",
+        "Industry / Manufacturing",
+        "Science Fiction",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Set Collection",
+        "Tile Placement",
+        "Variable Player Powers",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "279345",
+            "expansion_name": "Terraforming Mars: Turmoil Promos",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279345"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "167791",
+            "game_name": "Terraforming Mars",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/167791"
+        }
+    ],
+    "designers_string": "Jacob Fryxelius; Jonathan Fryxelius",
+    "categories_string": "Economic; Environmental; Expansion for Base-game; Industry / Manufacturing; Science Fiction; Territory Building",
+    "mechanics_string": "Card Drafting; Hand Management; Set Collection; Tile Placement; Variable Player Powers; Worker Placement",
+    "expansions_string": "{'expansion_id': '279345', 'expansion_name': 'Terraforming Mars: Turmoil Promos', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279345'}",
+    "expansions_for_string": "{'game_id': '167791', 'game_name': 'Terraforming Mars', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/167791'}"
+}

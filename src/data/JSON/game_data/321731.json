@@ -1,0 +1,53 @@
+{
+    "game_id": "321731",
+    "game_name": "Marvel United: Kickstarter Promos Box",
+    "bgg_link": "https://boardgamegeek.com/boardgame/321731",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8151423",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8151423#item8151423",
+            "geeklist_host": "ArianneH",
+            "contributor": "Swizze"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/OfTGMtXxWRsOXeKZwigX4A__thumb/img/iq3iQevT3FZSY3lQU7S2AdUa1uE=/fit-in/200x150/filters:strip_icc()/pic5831506.jpg",
+    "year_published": "2021",
+    "designers": [],
+    "weight": 0.00,
+    "rating": 9.12,
+    "play_time": "40",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Comic Book / Strip",
+        "Expansion for Base-game",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Modular Board",
+        "Programmed Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "298047",
+            "game_name": "Marvel United",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/298047"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Card Game; Comic Book / Strip; Expansion for Base-game; Fighting",
+    "mechanics_string": "Cooperative Game; Hand Management; Modular Board; Programmed Movement; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '298047', 'game_name': 'Marvel United', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/298047'}"
+}

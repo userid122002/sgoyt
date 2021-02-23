@@ -1,0 +1,63 @@
+{
+    "game_id": "169075",
+    "game_name": "Imperial Settlers: Why Can't We Be Friends",
+    "bgg_link": "https://boardgamegeek.com/boardgame/169075",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4765760",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4765760#item4765760",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6476274",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6476274#item6476274",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/5lCxeMYbuM1CH0zCyD1MgA__thumb/img/o9EH_U8llSyt3xwXovK6-GJRAjc=/fit-in/200x150/filters:strip_icc()/pic2305119.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Ignacy Trzewiczek"
+    ],
+    "weight": 2.60,
+    "rating": 7.59,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "8",
+    "not_recommended": "1",
+    "categories": [
+        "Ancient",
+        "Card Game",
+        "Civilization",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "154203",
+            "game_name": "Imperial Settlers",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/154203"
+        }
+    ],
+    "designers_string": "Ignacy Trzewiczek",
+    "categories_string": "Ancient; Card Game; Civilization; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '154203', 'game_name': 'Imperial Settlers', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/154203'}"
+}

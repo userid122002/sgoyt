@@ -1,0 +1,81 @@
+{
+    "game_id": "232047",
+    "game_name": "Horse & Musket II: Sport of Kings",
+    "bgg_link": "https://boardgamegeek.com/boardgame/232047",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6463784",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6463784#item6463784",
+            "geeklist_host": "kevinruns262",
+            "contributor": "markbailey"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6475789",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6475789#item6475789",
+            "geeklist_host": "kevinruns262",
+            "contributor": "markbailey"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Sk9TFKnGcs6nJpZr6I3W6w__thumb/img/V7lSxz7sOYL_oHlYwm22E8YJD3M=/fit-in/200x150/filters:strip_icc()/pic3674697.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Sean Chick"
+    ],
+    "weight": 2.50,
+    "rating": 8.47,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Age of Reason",
+        "American Indian Wars",
+        "Expansion for Base-game",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Modular Board",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "257085",
+            "expansion_name": "Horse & Musket: Annual #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257085"
+        },
+        {
+            "expansion_id": "280556",
+            "expansion_name": "Horse & Musket: Annual #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/280556"
+        },
+        {
+            "expansion_id": "304088",
+            "expansion_name": "Horse & Musket: Annual #3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/304088"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "182982",
+            "game_name": "Horse & Musket: Dawn of an Era",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/182982"
+        }
+    ],
+    "designers_string": "Sean Chick",
+    "categories_string": "Age of Reason; American Indian Wars; Expansion for Base-game; Wargame",
+    "mechanics_string": "Action Points; Dice Rolling; Hexagon Grid; Modular Board; Simulation",
+    "expansions_string": "{'expansion_id': '257085', 'expansion_name': 'Horse & Musket: Annual #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257085'}; {'expansion_id': '280556', 'expansion_name': 'Horse & Musket: Annual #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/280556'}; {'expansion_id': '304088', 'expansion_name': 'Horse & Musket: Annual #3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/304088'}",
+    "expansions_for_string": "{'game_id': '182982', 'game_name': 'Horse & Musket: Dawn of an Era', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/182982'}"
+}

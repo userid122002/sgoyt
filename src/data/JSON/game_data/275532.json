@@ -1,0 +1,58 @@
+{
+    "game_id": "275532",
+    "game_name": "Clank! Legacy: Acquisitions Incorporated - Upper Management Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/275532",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7086855",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7086855#item7086855",
+            "geeklist_host": "Venom Snake",
+            "contributor": "threepointthed"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/7iaVWk1tNCQX0s4Cn28OLw__thumb/img/3u8anpGbBE1KMrLQDJ73fhhGEnk=/fit-in/200x150/filters:strip_icc()/pic4629261.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Andy Clautice"
+    ],
+    "weight": 1.00,
+    "rating": 7.72,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Player Elimination",
+        "Point to Point Movement",
+        "Push Your Luck"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "266507",
+            "game_name": "Clank! Legacy: Acquisitions Incorporated",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/266507"
+        },
+        {
+            "game_id": "201808",
+            "game_name": "Clank!: A Deck-Building Adventure",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/201808"
+        }
+    ],
+    "designers_string": "Andy Clautice",
+    "categories_string": "Expansion for Base-game; Fantasy",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Player Elimination; Point to Point Movement; Push Your Luck",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '266507', 'game_name': 'Clank! Legacy: Acquisitions Incorporated', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/266507'}; {'game_id': '201808', 'game_name': 'Clank!: A Deck-Building Adventure', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/201808'}"
+}

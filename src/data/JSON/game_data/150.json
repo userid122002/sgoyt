@@ -1,0 +1,149 @@
+{
+    "game_id": "150",
+    "game_name": "PitchCar",
+    "bgg_link": "https://boardgamegeek.com/boardgame/150",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3985088",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3985088#item3985088",
+            "geeklist_host": "joestin",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4040616",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4040616#item4040616",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4575203",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4575203#item4575203",
+            "geeklist_host": "jdarnold",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5276748",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5276748#item5276748",
+            "geeklist_host": "suzyvitale",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5313703",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5313703#item5313703",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5822687",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5822687#item5822687",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "ian_07720169619"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/lvC1qJo4-RQ_zqudi_oRmA__thumb/img/7IuVc3d0QWtb0eCd6PaYHg8Qg2U=/fit-in/200x150/filters:strip_icc()/pic215555.jpg",
+    "year_published": "1995",
+    "designers": [
+        "Jean du Poel"
+    ],
+    "weight": 1.13,
+    "rating": 7.25,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "15",
+    "not_recommended": "60",
+    "categories": [
+        "Action / Dexterity",
+        "Children's Game",
+        "Party Game",
+        "Racing",
+        "Sports"
+    ],
+    "mechanics": [
+        "Flicking",
+        "Modular Board",
+        "Race"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "1526",
+            "expansion_name": "Pitch Car Extension 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/1526"
+        },
+        {
+            "expansion_id": "25946",
+            "expansion_name": "PitchCar Extension 2: More Speed More Fun",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/25946"
+        },
+        {
+            "expansion_id": "25948",
+            "expansion_name": "PitchCar Extension 3: Long Straights",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/25948"
+        },
+        {
+            "expansion_id": "38677",
+            "expansion_name": "PitchCar Extension 4: Stunt Race",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38677"
+        },
+        {
+            "expansion_id": "59417",
+            "expansion_name": "PitchCar Extension 5: The Cross",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/59417"
+        },
+        {
+            "expansion_id": "207090",
+            "expansion_name": "PitchCar Extension 6: No Limit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207090"
+        },
+        {
+            "expansion_id": "261065",
+            "expansion_name": "PitchCar Extension 7: The Loop",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/261065"
+        },
+        {
+            "expansion_id": "266189",
+            "expansion_name": "PitchCar Extension 8: The Upsilon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/266189"
+        },
+        {
+            "expansion_id": "266190",
+            "expansion_name": "PitchCar Extension 9: The Adapter",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/266190"
+        },
+        {
+            "expansion_id": "282517",
+            "expansion_name": "PitchCar Extension: Cars Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/282517"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jean du Poel",
+    "categories_string": "Action / Dexterity; Children's Game; Party Game; Racing; Sports",
+    "mechanics_string": "Flicking; Modular Board; Race",
+    "expansions_string": "{'expansion_id': '1526', 'expansion_name': 'Pitch Car Extension 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/1526'}; {'expansion_id': '25946', 'expansion_name': 'PitchCar Extension 2: More Speed More Fun', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/25946'}; {'expansion_id': '25948', 'expansion_name': 'PitchCar Extension 3: Long Straights', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/25948'}; {'expansion_id': '38677', 'expansion_name': 'PitchCar Extension 4: Stunt Race', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38677'}; {'expansion_id': '59417', 'expansion_name': 'PitchCar Extension 5: The Cross', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/59417'}; {'expansion_id': '207090', 'expansion_name': 'PitchCar Extension 6: No Limit', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207090'}; {'expansion_id': '261065', 'expansion_name': 'PitchCar Extension 7: The Loop', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/261065'}; {'expansion_id': '266189', 'expansion_name': 'PitchCar Extension 8: The Upsilon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/266189'}; {'expansion_id': '266190', 'expansion_name': 'PitchCar Extension 9: The Adapter', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/266190'}; {'expansion_id': '282517', 'expansion_name': 'PitchCar Extension: Cars Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/282517'}",
+    "expansions_for_string": ""
+}

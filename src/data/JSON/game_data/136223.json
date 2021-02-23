@@ -1,0 +1,69 @@
+{
+    "game_id": "136223",
+    "game_name": "Village: Inn",
+    "bgg_link": "https://boardgamegeek.com/boardgame/136223",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3514112",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3514112#item3514112",
+            "geeklist_host": "joestin",
+            "contributor": "splittist"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3924310",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3924310#item3924310",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "BilboAtBagEnd"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/php8qHlevq9MLtcBrecK1A__thumb/img/tjEOP_LM4kaawnBty0K86uztld4=/fit-in/200x150/filters:strip_icc()/pic2760535.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Inka Brand",
+        "Markus Brand"
+    ],
+    "weight": 2.99,
+    "rating": 7.85,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "17",
+    "categories": [
+        "Expansion for Base-game",
+        "Farming",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Set Collection",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "166592",
+            "expansion_name": "Village: Customer Expansion 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166592"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "104006",
+            "game_name": "Village",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/104006"
+        }
+    ],
+    "designers_string": "Inka Brand; Markus Brand",
+    "categories_string": "Expansion for Base-game; Farming; Medieval",
+    "mechanics_string": "Card Drafting; Set Collection; Worker Placement",
+    "expansions_string": "{'expansion_id': '166592', 'expansion_name': 'Village: Customer Expansion 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166592'}",
+    "expansions_for_string": "{'game_id': '104006', 'game_name': 'Village', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/104006'}"
+}

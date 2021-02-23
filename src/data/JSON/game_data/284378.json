@@ -1,0 +1,62 @@
+{
+    "game_id": "284378",
+    "game_name": "Kanban EV",
+    "bgg_link": "https://boardgamegeek.com/boardgame/284378",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8001943",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8001943#item8001943",
+            "geeklist_host": "airzonk1",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8136618",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8136618#item8136618",
+            "geeklist_host": "ArianneH",
+            "contributor": "josseroo"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__thumb/img/RQunBacBw949DkYBgzoS5YaXgJo=/fit-in/200x150/filters:strip_icc()/pic4924232.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Vital Lacerda"
+    ],
+    "weight": 4.39,
+    "rating": 8.86,
+    "play_time": "60 - 180",
+    "best": "1",
+    "recommended": "21",
+    "not_recommended": "3",
+    "categories": [
+        "Economic",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Hand Management",
+        "Variable Phase Order",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "321238",
+            "expansion_name": "Kanban EV: Upgrade Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/321238"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vital Lacerda",
+    "categories_string": "Economic; Industry / Manufacturing",
+    "mechanics_string": "Action Points; Hand Management; Variable Phase Order; Worker Placement",
+    "expansions_string": "{'expansion_id': '321238', 'expansion_name': 'Kanban EV: Upgrade Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/321238'}",
+    "expansions_for_string": ""
+}

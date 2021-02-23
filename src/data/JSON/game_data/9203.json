@@ -1,0 +1,115 @@
+{
+    "game_id": "9203",
+    "game_name": "Wings of War: Famous Aces",
+    "bgg_link": "https://boardgamegeek.com/boardgame/9203",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "170533",
+            "geeklist_item_id": "3158320",
+            "year_month": "2014/03",
+            "year": "2014",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/170533/item/3158320#item3158320",
+            "geeklist_host": "pusherman42",
+            "contributor": "rolfy12"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6975400",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6975400#item6975400",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Eawyne"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6984307",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6984307#item6984307",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Eawyne"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/YQZ5tpK6rkjpKtE8ZMwr-g__thumb/img/-sOkmSEbbfMpFbHOLV5VdOrcrFQ=/fit-in/200x150/filters:strip_icc()/pic38996.jpg",
+    "year_published": "2004",
+    "designers": [
+        "Andrea Angiolino",
+        "Pier Giorgio Paglia"
+    ],
+    "weight": 1.74,
+    "rating": 6.86,
+    "play_time": "30",
+    "best": "1",
+    "recommended": "4",
+    "not_recommended": "19",
+    "categories": [
+        "Aviation / Flight",
+        "Card Game",
+        "Wargame",
+        "World War I"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Movement Template",
+        "Player Elimination",
+        "Programmed Movement",
+        "Scenario / Mission / Campaign Game",
+        "Simulation",
+        "Simultaneous Action Selection",
+        "Team-Based Game",
+        "Three Dimensional Movement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "60525",
+            "expansion_name": "Wings of War: Crossfire Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/60525"
+        },
+        {
+            "expansion_id": "34079",
+            "expansion_name": "Wings of War: Dogfight Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34079"
+        },
+        {
+            "expansion_id": "42924",
+            "expansion_name": "Wings of War: Flight of the Giants",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42924"
+        },
+        {
+            "expansion_id": "60524",
+            "expansion_name": "Wings of War: Hit & Run Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/60524"
+        },
+        {
+            "expansion_id": "34080",
+            "expansion_name": "Wings of War: Immelmann Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34080"
+        },
+        {
+            "expansion_id": "19394",
+            "expansion_name": "Wings of War: Recon Patrol Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/19394"
+        },
+        {
+            "expansion_id": "19395",
+            "expansion_name": "Wings of War: Top Fighters Booster Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/19395"
+        },
+        {
+            "expansion_id": "246623",
+            "expansion_name": "Wings of War: World War 1 - De Havilland D.H.4",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246623"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Andrea Angiolino; Pier Giorgio Paglia",
+    "categories_string": "Aviation / Flight; Card Game; Wargame; World War I",
+    "mechanics_string": "Action Queue; Movement Template; Player Elimination; Programmed Movement; Scenario / Mission / Campaign Game; Simulation; Simultaneous Action Selection; Team-Based Game; Three Dimensional Movement",
+    "expansions_string": "{'expansion_id': '60525', 'expansion_name': 'Wings of War: Crossfire Booster Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/60525'}; {'expansion_id': '34079', 'expansion_name': 'Wings of War: Dogfight Booster Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34079'}; {'expansion_id': '42924', 'expansion_name': 'Wings of War: Flight of the Giants', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42924'}; {'expansion_id': '60524', 'expansion_name': 'Wings of War: Hit & Run Booster Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/60524'}; {'expansion_id': '34080', 'expansion_name': 'Wings of War: Immelmann Booster Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34080'}; {'expansion_id': '19394', 'expansion_name': 'Wings of War: Recon Patrol Booster Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/19394'}; {'expansion_id': '19395', 'expansion_name': 'Wings of War: Top Fighters Booster Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/19395'}; {'expansion_id': '246623', 'expansion_name': 'Wings of War: World War 1 - De Havilland D.H.4', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246623'}",
+    "expansions_for_string": ""
+}

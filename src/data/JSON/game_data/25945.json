@@ -1,0 +1,104 @@
+{
+    "game_id": "25945",
+    "game_name": "Arkham Horror: The King in Yellow Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/25945",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3611963",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3611963#item3611963",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "kikerl"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3881782",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3881782#item3881782",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "kikerl"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5317855",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5317855#item5317855",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Reckall"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6023872",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6023872#item6023872",
+            "geeklist_host": "busdjur",
+            "contributor": "xemxi"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7556261",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7556261#item7556261",
+            "geeklist_host": "Doc_H",
+            "contributor": "kikerl"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/pfNqKrM-0NtxL2aCdfzwgg__thumb/img/msLVxhHV3WN-BoI5FKf5vAHj0Lo=/fit-in/200x150/filters:strip_icc()/pic222480.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Robert Vaughn",
+        "Kevin Wilson"
+    ],
+    "weight": 3.21,
+    "rating": 7.61,
+    "play_time": "120 - 240",
+    "best": "2",
+    "recommended": "13",
+    "not_recommended": "8",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fighting",
+        "Horror",
+        "Novel-based",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Point to Point Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "93465",
+            "expansion_name": "Arkham Horror: Miskatonic Horror Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93465"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "15987",
+            "game_name": "Arkham Horror",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/15987"
+        }
+    ],
+    "designers_string": "Robert Vaughn; Kevin Wilson",
+    "categories_string": "Adventure; Expansion for Base-game; Fighting; Horror; Novel-based; Science Fiction",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Hand Management; Point to Point Movement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '93465', 'expansion_name': 'Arkham Horror: Miskatonic Horror Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93465'}",
+    "expansions_for_string": "{'game_id': '15987', 'game_name': 'Arkham Horror', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/15987'}"
+}

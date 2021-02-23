@@ -1,0 +1,76 @@
+{
+    "game_id": "134946",
+    "game_name": "The Lord of the Rings: The Card Game - Encounter at Amon Din",
+    "bgg_link": "https://boardgamegeek.com/boardgame/134946",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3479744",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3479744#item3479744",
+            "geeklist_host": "joestin",
+            "contributor": "Viking1899"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4428380",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4428380#item4428380",
+            "geeklist_host": "suzyvitale",
+            "contributor": "eastwoodk"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/jcLcMrLSbQFOE5SkLRHuoQ__thumb/img/L_uHeUmwl3GnDlcZGHfp5ic5z6U=/fit-in/200x150/filters:strip_icc()/pic1535468.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Nate French",
+        "Caleb Grace",
+        "Lukas Litzsinger"
+    ],
+    "weight": 2.83,
+    "rating": 7.88,
+    "play_time": "30 - 90",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "175947",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: Encounter at Amon Din",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175947"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        },
+        {
+            "game_id": "129480",
+            "game_name": "The Lord of the Rings: The Card Game - Heirs of Numenor",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/129480"
+        }
+    ],
+    "designers_string": "Nate French; Caleb Grace; Lukas Litzsinger",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '175947', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: Encounter at Amon Din', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175947'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}; {'game_id': '129480', 'game_name': 'The Lord of the Rings: The Card Game - Heirs of Numenor', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/129480'}"
+}

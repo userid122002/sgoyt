@@ -1,0 +1,150 @@
+{
+    "game_id": "256481",
+    "game_name": "Fallout: New California",
+    "bgg_link": "https://boardgamegeek.com/boardgame/256481",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6579523",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6579523#item6579523",
+            "geeklist_host": "squarepegsys",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6584592",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6584592#item6584592",
+            "geeklist_host": "squarepegsys",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6596675",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6596675#item6596675",
+            "geeklist_host": "squarepegsys",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6598207",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6598207#item6598207",
+            "geeklist_host": "squarepegsys",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6599075",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6599075#item6599075",
+            "geeklist_host": "squarepegsys",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6600064",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6600064#item6600064",
+            "geeklist_host": "squarepegsys",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6603594",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6603594#item6603594",
+            "geeklist_host": "squarepegsys",
+            "contributor": "joestin"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6547910",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6547910#item6547910",
+            "geeklist_host": "Albia",
+            "contributor": "tricil"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6702754",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6702754#item6702754",
+            "geeklist_host": "The_Omnius",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8029053",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8029053#item8029053",
+            "geeklist_host": "airzonk1",
+            "contributor": "athletics616"
+        }
+    ],
+    "sgoyt_count": 10,
+    "thumbnail": "https://cf.geekdo-images.com/Rqid2bbzAciSFCIBE9Lqow__thumb/img/olGDlfV0KtpolEWT6_-FHTKvNc4=/fit-in/200x150/filters:strip_icc()/pic4239122.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Brad Andres",
+        "Dane Beltrami"
+    ],
+    "weight": 3.00,
+    "rating": 7.79,
+    "play_time": "120 - 180",
+    "best": "8",
+    "recommended": "4",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Exploration",
+        "Science Fiction",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Movement",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Role Playing",
+        "Storytelling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "232918",
+            "game_name": "Fallout",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/232918"
+        }
+    ],
+    "designers_string": "Brad Andres; Dane Beltrami",
+    "categories_string": "Adventure; Expansion for Base-game; Exploration; Science Fiction; Video Game Theme",
+    "mechanics_string": "Action Points; Area Movement; Dice Rolling; Hand Management; Modular Board; Role Playing; Storytelling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '232918', 'game_name': 'Fallout', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/232918'}"
+}

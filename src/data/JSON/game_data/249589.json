@@ -1,0 +1,79 @@
+{
+    "game_id": "249589",
+    "game_name": "Time of Crisis: The Age of Iron and Rust",
+    "bgg_link": "https://boardgamegeek.com/boardgame/249589",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7059751",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7059751#item7059751",
+            "geeklist_host": "labrhat22",
+            "contributor": "Junik"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7668920",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7668920#item7668920",
+            "geeklist_host": "gentle",
+            "contributor": "richdodgin"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7821573",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7821573#item7821573",
+            "geeklist_host": "mithoron",
+            "contributor": "Junik"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/EtncbijclbshPehLJ25bBA__thumb/img/-v4IAyahvpVoBRZG-m32SiJHcOg=/fit-in/200x150/filters:strip_icc()/pic4708387.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Wray Ferrell",
+        "Brad Johnson (I)"
+    ],
+    "weight": 3.40,
+    "rating": 8.22,
+    "play_time": "150 - 210",
+    "best": "0",
+    "recommended": "9",
+    "not_recommended": "0",
+    "categories": [
+        "Ancient",
+        "Expansion for Base-game",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Area Movement",
+        "Campaign / Battle Card Driven",
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Hand Management",
+        "Movement Points",
+        "Simulation"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "164949",
+            "game_name": "Time of Crisis: The Roman Empire in Turmoil, 235-284 AD",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/164949"
+        }
+    ],
+    "designers_string": "Wray Ferrell; Brad Johnson (I)",
+    "categories_string": "Ancient; Expansion for Base-game; Wargame",
+    "mechanics_string": "Action Queue; Area Movement; Campaign / Battle Card Driven; Card Drafting; Deck, Bag, and Pool Building; Dice Rolling; Hand Management; Movement Points; Simulation",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '164949', 'game_name': 'Time of Crisis: The Roman Empire in Turmoil, 235-284 AD', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/164949'}"
+}

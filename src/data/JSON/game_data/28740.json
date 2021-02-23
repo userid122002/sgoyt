@@ -1,0 +1,57 @@
+{
+    "game_id": "28740",
+    "game_name": "Djarhun",
+    "bgg_link": "https://boardgamegeek.com/boardgame/28740",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4278305",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4278305#item4278305",
+            "geeklist_host": "rangerx",
+            "contributor": "NewbieGamingDad"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Uu5gjUMDPe43qeSlsx3GKQ__thumb/img/DciCJNAKu_zE1lJkZcc0ALfp5nA=/fit-in/200x150/filters:strip_icc()/pic197243.jpg",
+    "year_published": "2006",
+    "designers": [
+        "Djeryv Tar"
+    ],
+    "weight": 2.00,
+    "rating": 7.60,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Fantasy",
+        "Print & Play"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Role Playing",
+        "Roll / Spin and Move"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "32430",
+            "expansion_name": "Goblin Invasion: A Djarhun Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/32430"
+        },
+        {
+            "expansion_id": "30405",
+            "expansion_name": "Ruined Urthe: A Djarhun Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30405"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Djeryv Tar",
+    "categories_string": "Adventure; Fantasy; Print & Play",
+    "mechanics_string": "Dice Rolling; Role Playing; Roll / Spin and Move",
+    "expansions_string": "{'expansion_id': '32430', 'expansion_name': 'Goblin Invasion: A Djarhun Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/32430'}; {'expansion_id': '30405', 'expansion_name': 'Ruined Urthe: A Djarhun Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30405'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,73 @@
+{
+    "game_id": "221198",
+    "game_name": "Dicey Peaks",
+    "bgg_link": "https://boardgamegeek.com/boardgame/221198",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5314475",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5314475#item5314475",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5637393",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5637393#item5637393",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7380521",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7380521#item7380521",
+            "geeklist_host": "jeffrhind",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/IScGG6wnwnAa5i-TsOdFKQ__thumb/img/Xm9DwSKSj_vayRLtSwWU6rAavRA=/fit-in/200x150/filters:strip_icc()/pic3495251.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Scott Almes"
+    ],
+    "weight": 1.00,
+    "rating": 6.16,
+    "play_time": "20 - 50",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "3",
+    "categories": [
+        "Dice",
+        "Exploration"
+    ],
+    "mechanics": [
+        "Catch the Leader",
+        "Dice Rolling",
+        "Modular Board",
+        "Push Your Luck",
+        "Re-rolling and Locking"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "253141",
+            "expansion_name": "Dicey Peaks: The Yeti",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253141"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Scott Almes",
+    "categories_string": "Dice; Exploration",
+    "mechanics_string": "Catch the Leader; Dice Rolling; Modular Board; Push Your Luck; Re-rolling and Locking",
+    "expansions_string": "{'expansion_id': '253141', 'expansion_name': 'Dicey Peaks: The Yeti', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253141'}",
+    "expansions_for_string": ""
+}

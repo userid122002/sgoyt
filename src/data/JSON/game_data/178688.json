@@ -1,0 +1,106 @@
+{
+    "game_id": "178688",
+    "game_name": "Dicetopia",
+    "bgg_link": "https://boardgamegeek.com/boardgame/178688",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6536517",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6536517#item6536517",
+            "geeklist_host": "Albia",
+            "contributor": "Chinkster"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6806701",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6806701#item6806701",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "stillxill"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7575373",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7575373#item7575373",
+            "geeklist_host": "jwml",
+            "contributor": "Venom Snake"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7577533",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7577533#item7577533",
+            "geeklist_host": "jwml",
+            "contributor": "CassiusClay"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/hKcg4ZjMbYFfT7dhbc8rLw__thumb/img/Cl9k1Zs5QC06ogZp3CxsgYsfaRY=/fit-in/200x150/filters:strip_icc()/pic2830342.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Tobias Hall"
+    ],
+    "weight": 1.83,
+    "rating": 6.63,
+    "play_time": "20 - 30",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Dice"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Set Collection",
+        "Worker Placement with Dice Workers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "306681",
+            "expansion_name": "Dicetopia: Co-Op Heist Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/306681"
+        },
+        {
+            "expansion_id": "303946",
+            "expansion_name": "Dicetopia: Crashing Waves",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303946"
+        },
+        {
+            "expansion_id": "306682",
+            "expansion_name": "Dicetopia: Faction Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/306682"
+        },
+        {
+            "expansion_id": "255988",
+            "expansion_name": "Dicetopia: Roll with the Punches",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/255988"
+        },
+        {
+            "expansion_id": "308228",
+            "expansion_name": "Dicetopia: Solo Expansion - Escaping Mats",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/308228"
+        },
+        {
+            "expansion_id": "274425",
+            "expansion_name": "Dicetopia: Solo Expansion - The Steve Experience",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/274425"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Tobias Hall",
+    "categories_string": "Dice",
+    "mechanics_string": "Area Majority / Influence; Dice Rolling; Set Collection; Worker Placement with Dice Workers",
+    "expansions_string": "{'expansion_id': '306681', 'expansion_name': 'Dicetopia: Co-Op Heist Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/306681'}; {'expansion_id': '303946', 'expansion_name': 'Dicetopia: Crashing Waves', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303946'}; {'expansion_id': '306682', 'expansion_name': 'Dicetopia: Faction Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/306682'}; {'expansion_id': '255988', 'expansion_name': 'Dicetopia: Roll with the Punches', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/255988'}; {'expansion_id': '308228', 'expansion_name': 'Dicetopia: Solo Expansion - Escaping Mats', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/308228'}; {'expansion_id': '274425', 'expansion_name': 'Dicetopia: Solo Expansion - The Steve Experience', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/274425'}",
+    "expansions_for_string": ""
+}

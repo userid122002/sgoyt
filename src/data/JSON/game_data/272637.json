@@ -1,0 +1,57 @@
+{
+    "game_id": "272637",
+    "game_name": "Root: The Underworld Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/272637",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6814981",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6814981#item6814981",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "patton55"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/LzZVgiX-d1nA_MSmZmH5tA__thumb/img/RlVbapd_2105eev01lqBqCA4tb0=/fit-in/200x150/filters:strip_icc()/pic4608840.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Patrick Leder",
+        "Cole Wehrle"
+    ],
+    "weight": 3.21,
+    "rating": 8.83,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "9",
+    "categories": [
+        "Animals",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Hand Management",
+        "King of the Hill",
+        "Point to Point Movement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "237182",
+            "game_name": "Root",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/237182"
+        }
+    ],
+    "designers_string": "Patrick Leder; Cole Wehrle",
+    "categories_string": "Animals; Expansion for Base-game; Fantasy; Wargame",
+    "mechanics_string": "Action Queue; Area Majority / Influence; Dice Rolling; Hand Management; King of the Hill; Point to Point Movement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '237182', 'game_name': 'Root', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/237182'}"
+}

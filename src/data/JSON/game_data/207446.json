@@ -1,0 +1,58 @@
+{
+    "game_id": "207446",
+    "game_name": "Band of Brothers: Battle Pack 1",
+    "bgg_link": "https://boardgamegeek.com/boardgame/207446",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7750757",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7750757#item7750757",
+            "geeklist_host": "repairmanjack",
+            "contributor": "haslo"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/6-jz9Mc0awhDrTBS3QQ6Ew__thumb/img/RMOArtUy74av2k5GgBOTTM-IzIs=/fit-in/200x150/filters:strip_icc()/pic3299248.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Brendan Clark",
+        "Jim Krohn"
+    ],
+    "weight": 3.00,
+    "rating": 8.20,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Secret Unit Deployment"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "129122",
+            "game_name": "Band of Brothers: Ghost Panzer",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/129122"
+        },
+        {
+            "game_id": "41429",
+            "game_name": "Band of Brothers: Screaming Eagles",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/41429"
+        }
+    ],
+    "designers_string": "Brendan Clark; Jim Krohn",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Dice Rolling; Hexagon Grid; Secret Unit Deployment",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '129122', 'game_name': 'Band of Brothers: Ghost Panzer', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/129122'}; {'game_id': '41429', 'game_name': 'Band of Brothers: Screaming Eagles', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/41429'}"
+}

@@ -1,0 +1,127 @@
+{
+    "game_id": "270138",
+    "game_name": "Terror Below",
+    "bgg_link": "https://boardgamegeek.com/boardgame/270138",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7053255",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7053255#item7053255",
+            "geeklist_host": "labrhat22",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7104299",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7104299#item7104299",
+            "geeklist_host": "Venom Snake",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7219422",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7219422#item7219422",
+            "geeklist_host": "narcher007",
+            "contributor": "nurglepus"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7282364",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7282364#item7282364",
+            "geeklist_host": "narcher007",
+            "contributor": "desertrat2020"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7421117",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7421117#item7421117",
+            "geeklist_host": "jomurph86",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7553150",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7553150#item7553150",
+            "geeklist_host": "Doc_H",
+            "contributor": "ThroughTheDeckGlass"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7719345",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7719345#item7719345",
+            "geeklist_host": "Elida",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7975593",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7975593#item7975593",
+            "geeklist_host": "Albia",
+            "contributor": "smic"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/zgKZrD936yP5TgvofvQBmg__thumb/img/gsSWBOJbJXC5zoahHYW0X7krYZc=/fit-in/200x150/filters:strip_icc()/pic4560900.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Mike Elliott"
+    ],
+    "weight": 1.81,
+    "rating": 6.87,
+    "play_time": "45 - 60",
+    "best": "1",
+    "recommended": "2",
+    "not_recommended": "1",
+    "categories": [
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Grid Movement",
+        "Pick-up and Deliver",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "290834",
+            "expansion_name": "Level Up Loot 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/290834"
+        },
+        {
+            "expansion_id": "279265",
+            "expansion_name": "Terror Below: Hidden Cache Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279265"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Mike Elliott",
+    "categories_string": "Science Fiction",
+    "mechanics_string": "Action Points; Dice Rolling; Grid Movement; Pick-up and Deliver; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '290834', 'expansion_name': 'Level Up Loot 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/290834'}; {'expansion_id': '279265', 'expansion_name': 'Terror Below: Hidden Cache Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279265'}",
+    "expansions_for_string": ""
+}

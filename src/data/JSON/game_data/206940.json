@@ -1,0 +1,71 @@
+{
+    "game_id": "206940",
+    "game_name": "Carcassonne: Amazonas",
+    "bgg_link": "https://boardgamegeek.com/boardgame/206940",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5448177",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5448177#item5448177",
+            "geeklist_host": "koinskyz",
+            "contributor": "brewgeek"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6830340",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6830340#item6830340",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "der_mandarin"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6832507",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6832507#item6832507",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "der_mandarin"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/54WcuBAiPm5J1EbPvuzQ4A__thumb/img/99G9dxI7ZbsHHUM2pzHIe901Wkk=/fit-in/200x150/filters:strip_icc()/pic3146954.png",
+    "year_published": "2016",
+    "designers": [
+        "Klaus-Jurgen Wrede"
+    ],
+    "weight": 1.89,
+    "rating": 7.11,
+    "play_time": "35",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "5",
+    "categories": [
+        "Animals",
+        "Exploration",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Point to Point Movement",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "239586",
+            "expansion_name": "Carcassonne: Amazonas - Mini Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239586"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Klaus-Jurgen Wrede",
+    "categories_string": "Animals; Exploration; Territory Building",
+    "mechanics_string": "Point to Point Movement; Tile Placement",
+    "expansions_string": "{'expansion_id': '239586', 'expansion_name': 'Carcassonne: Amazonas - Mini Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239586'}",
+    "expansions_for_string": ""
+}

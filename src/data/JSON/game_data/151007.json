@@ -1,0 +1,790 @@
+{
+    "game_id": "151007",
+    "game_name": "Pathfinder Adventure Card Game: Skull & Shackles - Base Set",
+    "bgg_link": "https://boardgamegeek.com/boardgame/151007",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "176697",
+            "geeklist_item_id": "3382398",
+            "year_month": "2014/08",
+            "year": "2014",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/176697/item/3382398#item3382398",
+            "geeklist_host": "petegs",
+            "contributor": "Tselin3369"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3407191",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3407191#item3407191",
+            "geeklist_host": "Malaiser",
+            "contributor": "often"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3474483",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3474483#item3474483",
+            "geeklist_host": "joestin",
+            "contributor": "agramore"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3483679",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3483679#item3483679",
+            "geeklist_host": "joestin",
+            "contributor": "Eiriken"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3527274",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3527274#item3527274",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Malaiser"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3545582",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3545582#item3545582",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Eiriken"
+        },
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3765155",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3765155#item3765155",
+            "geeklist_host": "HRune",
+            "contributor": "agramore"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3584498",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3584498#item3584498",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Eiriken"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3602487",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3602487#item3602487",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "relentless24"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3611743",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3611743#item3611743",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "relentless24"
+        },
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3841654",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3841654#item3841654",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "agramore"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3737192",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3737192#item3737192",
+            "geeklist_host": "Woelf",
+            "contributor": "mikpj"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3738611",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3738611#item3738611",
+            "geeklist_host": "Woelf",
+            "contributor": "mikpj"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3741326",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3741326#item3741326",
+            "geeklist_host": "Woelf",
+            "contributor": "agramore"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3982731",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3982731#item3982731",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "CRB31"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3996125",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3996125#item3996125",
+            "geeklist_host": "joestin",
+            "contributor": "SlikkRikk"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4017529",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4017529#item4017529",
+            "geeklist_host": "joestin",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4046918",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4046918#item4046918",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "often"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4109414",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4109414#item4109414",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4114768",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4114768#item4114768",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "CRB31"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4164980",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4164980#item4164980",
+            "geeklist_host": "lukather",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4284867",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4284867#item4284867",
+            "geeklist_host": "rangerx",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4369211",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4369211#item4369211",
+            "geeklist_host": "suzyvitale",
+            "contributor": "beakman"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4592362",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4592362#item4592362",
+            "geeklist_host": "jdarnold",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4766402",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4766402#item4766402",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Noogs"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5172989",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5172989#item5172989",
+            "geeklist_host": "settlerdave",
+            "contributor": "Praxus"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5178483",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5178483#item5178483",
+            "geeklist_host": "settlerdave",
+            "contributor": "Praxus"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5181064",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5181064#item5181064",
+            "geeklist_host": "settlerdave",
+            "contributor": "Praxus"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5348042",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5348042#item5348042",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "blotzor"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5386417",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5386417#item5386417",
+            "geeklist_host": "maloma",
+            "contributor": "DarkKai"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5715482",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5715482#item5715482",
+            "geeklist_host": "cornishlee",
+            "contributor": "redeux"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5718781",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5718781#item5718781",
+            "geeklist_host": "cornishlee",
+            "contributor": "redeux"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5752211",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5752211#item5752211",
+            "geeklist_host": "Albia",
+            "contributor": "redeux"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6212943",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6212943#item6212943",
+            "geeklist_host": "Gribbon",
+            "contributor": "hoangart"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6548542",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6548542#item6548542",
+            "geeklist_host": "Albia",
+            "contributor": "ogoctopus"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7142685",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7142685#item7142685",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7143747",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7143747#item7143747",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7148204",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7148204#item7148204",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7186807",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7186807#item7186807",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7213744",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7213744#item7213744",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7353429",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7353429#item7353429",
+            "geeklist_host": "Albia",
+            "contributor": "weazom"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7653411",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7653411#item7653411",
+            "geeklist_host": "threepointthed",
+            "contributor": "kldonnelly"
+        }
+    ],
+    "sgoyt_count": 42,
+    "thumbnail": "https://cf.geekdo-images.com/Vi1DrBtoscEtxgf_SlyGeQ__thumb/img/ecWP54QfF1irFeJ_Pc_2TBytlu0=/fit-in/200x150/filters:strip_icc()/pic2268287.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Chad Brown",
+        "Tanis O'Connor",
+        "Paul Peterson",
+        "Mike Selinker",
+        "Gaby Weidling"
+    ],
+    "weight": 2.95,
+    "rating": 7.31,
+    "play_time": "90",
+    "best": "6",
+    "recommended": "18",
+    "not_recommended": "6",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Fighting",
+        "Pirates"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Role Playing",
+        "Scenario / Mission / Campaign Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "237632",
+            "expansion_name": "Pathfinder Adventure Card Game: \"Eder\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/237632"
+        },
+        {
+            "expansion_id": "206316",
+            "expansion_name": "Pathfinder Adventure Card Game: \"Goblin Golem of Obsidian\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206316"
+        },
+        {
+            "expansion_id": "260486",
+            "expansion_name": "Pathfinder Adventure Card Game: \"Nok-Nok\" Promo Character Card Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260486"
+        },
+        {
+            "expansion_id": "237649",
+            "expansion_name": "Pathfinder Adventure Card Game: \"Pallegina\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/237649"
+        },
+        {
+            "expansion_id": "151010",
+            "expansion_name": "Pathfinder Adventure Card Game: Character Mats",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151010"
+        },
+        {
+            "expansion_id": "181609",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Alchemist",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181609"
+        },
+        {
+            "expansion_id": "178670",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Barbarian",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178670"
+        },
+        {
+            "expansion_id": "161435",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Bard",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161435"
+        },
+        {
+            "expansion_id": "161437",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Cleric",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161437"
+        },
+        {
+            "expansion_id": "178207",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Druid",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178207"
+        },
+        {
+            "expansion_id": "161438",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Fighter",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161438"
+        },
+        {
+            "expansion_id": "196544",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Goblins Burn!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196544"
+        },
+        {
+            "expansion_id": "193387",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Goblins Fight!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193387"
+        },
+        {
+            "expansion_id": "193386",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Gunslinger",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193386"
+        },
+        {
+            "expansion_id": "230989",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Hunter",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230989"
+        },
+        {
+            "expansion_id": "184172",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Inquisitor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/184172"
+        },
+        {
+            "expansion_id": "230986",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Magus",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230986"
+        },
+        {
+            "expansion_id": "176155",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Monk",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176155"
+        },
+        {
+            "expansion_id": "180729",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Oracle",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180729"
+        },
+        {
+            "expansion_id": "174667",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Paladin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/174667"
+        },
+        {
+            "expansion_id": "161439",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Ranger",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161439"
+        },
+        {
+            "expansion_id": "161440",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Rogue",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161440"
+        },
+        {
+            "expansion_id": "161441",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Sorcerer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161441"
+        },
+        {
+            "expansion_id": "217385",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Summoner",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/217385"
+        },
+        {
+            "expansion_id": "197483",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Warpriest",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197483"
+        },
+        {
+            "expansion_id": "193385",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Witch",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193385"
+        },
+        {
+            "expansion_id": "161442",
+            "expansion_name": "Pathfinder Adventure Card Game: Class Deck - Wizard",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161442"
+        },
+        {
+            "expansion_id": "230987",
+            "expansion_name": "Pathfinder Adventure Card Game: Hell's Vengeance Character Deck 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230987"
+        },
+        {
+            "expansion_id": "230988",
+            "expansion_name": "Pathfinder Adventure Card Game: Hell's Vengeance Character Deck 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230988"
+        },
+        {
+            "expansion_id": "230990",
+            "expansion_name": "Pathfinder Adventure Card Game: Occult Adventures Character Deck 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230990"
+        },
+        {
+            "expansion_id": "230991",
+            "expansion_name": "Pathfinder Adventure Card Game: Occult Adventures Character Deck 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230991"
+        },
+        {
+            "expansion_id": "230985",
+            "expansion_name": "Pathfinder Adventure Card Game: Pathfinder Tales Character Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230985"
+        },
+        {
+            "expansion_id": "202139",
+            "expansion_name": "Pathfinder Adventure Card Game: Rise of the Runelords - \"Tup\" Promo Character Card Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202139"
+        },
+        {
+            "expansion_id": "157991",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 2 - Raiders of the Fever Sea",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/157991"
+        },
+        {
+            "expansion_id": "159038",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 3 - Tempest Rising",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159038"
+        },
+        {
+            "expansion_id": "160589",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 4 -  Island of Empty Eyes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160589"
+        },
+        {
+            "expansion_id": "161434",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 5 - The Price of Infamy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161434"
+        },
+        {
+            "expansion_id": "162870",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 6 - From Hell's Heart",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162870"
+        },
+        {
+            "expansion_id": "166570",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Blessing of Zogmugot\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166570"
+        },
+        {
+            "expansion_id": "163017",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Buckler Gun\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163017"
+        },
+        {
+            "expansion_id": "163012",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Keelhaulin' \" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163012"
+        },
+        {
+            "expansion_id": "173076",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Lockpick\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173076"
+        },
+        {
+            "expansion_id": "163014",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Pegleg\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163014"
+        },
+        {
+            "expansion_id": "163010",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Weidling\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163010"
+        },
+        {
+            "expansion_id": "163015",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Magpie Princess\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163015"
+        },
+        {
+            "expansion_id": "163016",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Mistmourn\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163016"
+        },
+        {
+            "expansion_id": "163011",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Mogmurch\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163011"
+        },
+        {
+            "expansion_id": "163013",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Owlbeartross\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163013"
+        },
+        {
+            "expansion_id": "157992",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Ranzak\" Promo Character Card Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/157992"
+        },
+        {
+            "expansion_id": "173682",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"The Land of the Blind\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173682"
+        },
+        {
+            "expansion_id": "173077",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - \"Vomit Twin\" Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173077"
+        },
+        {
+            "expansion_id": "151008",
+            "expansion_name": "Pathfinder Adventure Card Game: Skull & Shackles - Character Add-On Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151008"
+        },
+        {
+            "expansion_id": "238458",
+            "expansion_name": "Pathfinder Adventure Card Game: Ultimate  Equipment Add-On Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/238458"
+        },
+        {
+            "expansion_id": "236381",
+            "expansion_name": "Pathfinder Adventure Card Game: Ultimate Combat Add-On Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/236381"
+        },
+        {
+            "expansion_id": "236382",
+            "expansion_name": "Pathfinder Adventure Card Game: Ultimate Intrigue Add-On Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/236382"
+        },
+        {
+            "expansion_id": "236383",
+            "expansion_name": "Pathfinder Adventure Card Game: Ultimate Magic Add-On Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/236383"
+        },
+        {
+            "expansion_id": "241493",
+            "expansion_name": "Pathfinder Adventure Card Game: Ultimate Wilderness Add-On Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/241493"
+        },
+        {
+            "expansion_id": "178652",
+            "expansion_name": "Pathfinder Battles: Iconic Heroes Set 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178652"
+        },
+        {
+            "expansion_id": "178653",
+            "expansion_name": "Pathfinder Battles: Iconic Heroes Set 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178653"
+        },
+        {
+            "expansion_id": "178654",
+            "expansion_name": "Pathfinder Battles: Iconic Heroes Set 3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178654"
+        },
+        {
+            "expansion_id": "180727",
+            "expansion_name": "Pathfinder Battles: Iconic Heroes Set 4",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180727"
+        },
+        {
+            "expansion_id": "180728",
+            "expansion_name": "Pathfinder Battles: Iconic Heroes Set 5",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180728"
+        },
+        {
+            "expansion_id": "182910",
+            "expansion_name": "Pathfinder Battles: Iconic Heroes Set 6",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182910"
+        },
+        {
+            "expansion_id": "238492",
+            "expansion_name": "Pathfinder Battles: Iconic Heroes Set 7",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/238492"
+        },
+        {
+            "expansion_id": "238494",
+            "expansion_name": "Pathfinder Battles: Iconic Heroes Set 8",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/238494"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Chad Brown; Tanis O'Connor; Paul Peterson; Mike Selinker; Gaby Weidling",
+    "categories_string": "Card Game; Fantasy; Fighting; Pirates",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Dice Rolling; Role Playing; Scenario / Mission / Campaign Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '237632', 'expansion_name': 'Pathfinder Adventure Card Game: \"Eder\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/237632'}; {'expansion_id': '206316', 'expansion_name': 'Pathfinder Adventure Card Game: \"Goblin Golem of Obsidian\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206316'}; {'expansion_id': '260486', 'expansion_name': 'Pathfinder Adventure Card Game: \"Nok-Nok\" Promo Character Card Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260486'}; {'expansion_id': '237649', 'expansion_name': 'Pathfinder Adventure Card Game: \"Pallegina\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/237649'}; {'expansion_id': '151010', 'expansion_name': 'Pathfinder Adventure Card Game: Character Mats', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151010'}; {'expansion_id': '181609', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Alchemist', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181609'}; {'expansion_id': '178670', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Barbarian', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178670'}; {'expansion_id': '161435', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Bard', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161435'}; {'expansion_id': '161437', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Cleric', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161437'}; {'expansion_id': '178207', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Druid', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178207'}; {'expansion_id': '161438', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Fighter', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161438'}; {'expansion_id': '196544', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Goblins Burn!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196544'}; {'expansion_id': '193387', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Goblins Fight!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193387'}; {'expansion_id': '193386', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Gunslinger', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193386'}; {'expansion_id': '230989', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Hunter', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230989'}; {'expansion_id': '184172', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Inquisitor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/184172'}; {'expansion_id': '230986', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Magus', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230986'}; {'expansion_id': '176155', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Monk', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176155'}; {'expansion_id': '180729', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Oracle', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180729'}; {'expansion_id': '174667', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Paladin', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/174667'}; {'expansion_id': '161439', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Ranger', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161439'}; {'expansion_id': '161440', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Rogue', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161440'}; {'expansion_id': '161441', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Sorcerer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161441'}; {'expansion_id': '217385', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Summoner', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/217385'}; {'expansion_id': '197483', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Warpriest', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197483'}; {'expansion_id': '193385', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Witch', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193385'}; {'expansion_id': '161442', 'expansion_name': 'Pathfinder Adventure Card Game: Class Deck - Wizard', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161442'}; {'expansion_id': '230987', 'expansion_name': \"Pathfinder Adventure Card Game: Hell's Vengeance Character Deck 1\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230987'}; {'expansion_id': '230988', 'expansion_name': \"Pathfinder Adventure Card Game: Hell's Vengeance Character Deck 2\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230988'}; {'expansion_id': '230990', 'expansion_name': 'Pathfinder Adventure Card Game: Occult Adventures Character Deck 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230990'}; {'expansion_id': '230991', 'expansion_name': 'Pathfinder Adventure Card Game: Occult Adventures Character Deck 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230991'}; {'expansion_id': '230985', 'expansion_name': 'Pathfinder Adventure Card Game: Pathfinder Tales Character Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230985'}; {'expansion_id': '202139', 'expansion_name': 'Pathfinder Adventure Card Game: Rise of the Runelords - \"Tup\" Promo Character Card Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202139'}; {'expansion_id': '157991', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 2 - Raiders of the Fever Sea', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/157991'}; {'expansion_id': '159038', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 3 - Tempest Rising', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159038'}; {'expansion_id': '160589', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 4 -  Island of Empty Eyes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160589'}; {'expansion_id': '161434', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 5 - The Price of Infamy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161434'}; {'expansion_id': '162870', 'expansion_name': \"Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 6 - From Hell's Heart\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162870'}; {'expansion_id': '166570', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Blessing of Zogmugot\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166570'}; {'expansion_id': '163017', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Buckler Gun\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163017'}; {'expansion_id': '163012', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Keelhaulin\\' \" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163012'}; {'expansion_id': '173076', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Lockpick\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173076'}; {'expansion_id': '163014', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Pegleg\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163014'}; {'expansion_id': '163010', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Goblin Weidling\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163010'}; {'expansion_id': '163015', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Magpie Princess\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163015'}; {'expansion_id': '163016', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Mistmourn\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163016'}; {'expansion_id': '163011', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Mogmurch\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163011'}; {'expansion_id': '163013', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Owlbeartross\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163013'}; {'expansion_id': '157992', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Ranzak\" Promo Character Card Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/157992'}; {'expansion_id': '173682', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"The Land of the Blind\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173682'}; {'expansion_id': '173077', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - \"Vomit Twin\" Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173077'}; {'expansion_id': '151008', 'expansion_name': 'Pathfinder Adventure Card Game: Skull & Shackles - Character Add-On Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151008'}; {'expansion_id': '238458', 'expansion_name': 'Pathfinder Adventure Card Game: Ultimate  Equipment Add-On Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/238458'}; {'expansion_id': '236381', 'expansion_name': 'Pathfinder Adventure Card Game: Ultimate Combat Add-On Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/236381'}; {'expansion_id': '236382', 'expansion_name': 'Pathfinder Adventure Card Game: Ultimate Intrigue Add-On Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/236382'}; {'expansion_id': '236383', 'expansion_name': 'Pathfinder Adventure Card Game: Ultimate Magic Add-On Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/236383'}; {'expansion_id': '241493', 'expansion_name': 'Pathfinder Adventure Card Game: Ultimate Wilderness Add-On Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/241493'}; {'expansion_id': '178652', 'expansion_name': 'Pathfinder Battles: Iconic Heroes Set 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178652'}; {'expansion_id': '178653', 'expansion_name': 'Pathfinder Battles: Iconic Heroes Set 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178653'}; {'expansion_id': '178654', 'expansion_name': 'Pathfinder Battles: Iconic Heroes Set 3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178654'}; {'expansion_id': '180727', 'expansion_name': 'Pathfinder Battles: Iconic Heroes Set 4', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180727'}; {'expansion_id': '180728', 'expansion_name': 'Pathfinder Battles: Iconic Heroes Set 5', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180728'}; {'expansion_id': '182910', 'expansion_name': 'Pathfinder Battles: Iconic Heroes Set 6', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182910'}; {'expansion_id': '238492', 'expansion_name': 'Pathfinder Battles: Iconic Heroes Set 7', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/238492'}; {'expansion_id': '238494', 'expansion_name': 'Pathfinder Battles: Iconic Heroes Set 8', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/238494'}",
+    "expansions_for_string": ""
+}

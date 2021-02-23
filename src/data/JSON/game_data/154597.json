@@ -1,0 +1,63 @@
+{
+    "game_id": "154597",
+    "game_name": "Hive Pocket",
+    "bgg_link": "https://boardgamegeek.com/boardgame/154597",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4051231",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4051231#item4051231",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "mspider_89"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7934328",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7934328#item7934328",
+            "geeklist_host": "Elida",
+            "contributor": "Thurein"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/4DffKExiPihIf9T_AqkPCQ__thumb/img/0EuD6uQ0lLAb2jtY6YC0EduW7Gw=/fit-in/200x150/filters:strip_icc()/pic1299877.png",
+    "year_published": "2010",
+    "designers": [
+        "John Yianni"
+    ],
+    "weight": 2.31,
+    "rating": 7.69,
+    "play_time": "20",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "61",
+    "categories": [
+        "Abstract Strategy",
+        "Animals"
+    ],
+    "mechanics": [
+        "Grid Movement",
+        "Hexagon Grid",
+        "Pieces as Map",
+        "Three Dimensional Movement",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "139666",
+            "expansion_name": "Hive: The Pillbug",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139666"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "John Yianni",
+    "categories_string": "Abstract Strategy; Animals",
+    "mechanics_string": "Grid Movement; Hexagon Grid; Pieces as Map; Three Dimensional Movement; Tile Placement",
+    "expansions_string": "{'expansion_id': '139666', 'expansion_name': 'Hive: The Pillbug', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139666'}",
+    "expansions_for_string": ""
+}

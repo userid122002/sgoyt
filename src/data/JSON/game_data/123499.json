@@ -1,0 +1,77 @@
+{
+    "game_id": "123499",
+    "game_name": "City of Iron",
+    "bgg_link": "https://boardgamegeek.com/boardgame/123499",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3676199",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3676199#item3676199",
+            "geeklist_host": "bikefreak",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5831915",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5831915#item5831915",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Burnham"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/FbHx0yxHQlzOqsh50WZGOg__thumb/img/y1UNy7m9AdM5-cUVVRGlMQCZbBI=/fit-in/200x150/filters:strip_icc()/pic1292441.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Ryan Laukat"
+    ],
+    "weight": 3.24,
+    "rating": 7.20,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "17",
+    "categories": [
+        "Card Game",
+        "City Building",
+        "Civilization",
+        "Economic",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "185767",
+            "expansion_name": "City of Iron: Clockwork Fortress and Cave Market Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185767"
+        },
+        {
+            "expansion_id": "205480",
+            "expansion_name": "City of Iron: Contracts",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/205480"
+        },
+        {
+            "expansion_id": "151986",
+            "expansion_name": "City of Iron: Experts and Engines",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151986"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ryan Laukat",
+    "categories_string": "Card Game; City Building; Civilization; Economic; Fantasy",
+    "mechanics_string": "Action Points; Area Majority / Influence; Card Drafting; Deck, Bag, and Pool Building; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '185767', 'expansion_name': 'City of Iron: Clockwork Fortress and Cave Market Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185767'}; {'expansion_id': '205480', 'expansion_name': 'City of Iron: Contracts', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/205480'}; {'expansion_id': '151986', 'expansion_name': 'City of Iron: Experts and Engines', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151986'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,74 @@
+{
+    "game_id": "230191",
+    "game_name": "The Island of El Dorado",
+    "bgg_link": "https://boardgamegeek.com/boardgame/230191",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6259549",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6259549#item6259549",
+            "geeklist_host": "emodiu5",
+            "contributor": "zach66827"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7392424",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7392424#item7392424",
+            "geeklist_host": "jeffrhind",
+            "contributor": "Chinkster"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/0CJzV8PqebHW7SqJqyJeIg__thumb/img/qgODKi0n0LVejEECJ-098YguPaU=/fit-in/200x150/filters:strip_icc()/pic3615231.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Daniel Aronson"
+    ],
+    "weight": 1.81,
+    "rating": 6.82,
+    "play_time": "25 - 80",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "9",
+    "categories": [
+        "Adventure",
+        "Ancient",
+        "Civilization",
+        "Exploration",
+        "Mythology"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Modular Board",
+        "Roll / Spin and Move",
+        "Tile Placement",
+        "Trading",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "278182",
+            "expansion_name": "The Island of El Dorado: The Revenge of El Dorado",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278182"
+        },
+        {
+            "expansion_id": "254960",
+            "expansion_name": "The Island of El Dorado: The Thieves of El Dorado",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/254960"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Daniel Aronson",
+    "categories_string": "Adventure; Ancient; Civilization; Exploration; Mythology",
+    "mechanics_string": "Action Queue; Area Majority / Influence; Dice Rolling; Modular Board; Roll / Spin and Move; Tile Placement; Trading; Worker Placement",
+    "expansions_string": "{'expansion_id': '278182', 'expansion_name': 'The Island of El Dorado: The Revenge of El Dorado', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278182'}; {'expansion_id': '254960', 'expansion_name': 'The Island of El Dorado: The Thieves of El Dorado', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/254960'}",
+    "expansions_for_string": ""
+}

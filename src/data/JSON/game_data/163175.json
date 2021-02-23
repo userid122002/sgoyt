@@ -1,0 +1,77 @@
+{
+    "game_id": "163175",
+    "game_name": "Yashima: Legend of the Kami Masters",
+    "bgg_link": "https://boardgamegeek.com/boardgame/163175",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4063639",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4063639#item4063639",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "philmcd"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/5kq53jmz0Rb45RG0ktJMFg__thumb/img/iv-UtRfyH8Y7vKorB-2KDerGBlI=/fit-in/200x150/filters:strip_icc()/pic2456828.png",
+    "year_published": "2015",
+    "designers": [
+        "Tony Gullotti",
+        "Joshua Sprung"
+    ],
+    "weight": 2.69,
+    "rating": 7.01,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "2",
+    "categories": [
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Fighting",
+        "Miniatures",
+        "Mythology"
+    ],
+    "mechanics": [
+        "Grid Movement",
+        "Hand Management",
+        "Hexagon Grid",
+        "Modular Board",
+        "Player Elimination",
+        "Point to Point Movement",
+        "Simultaneous Action Selection",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "176823",
+            "expansion_name": "Yashima: Legend of the Arcane Wonders",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176823"
+        },
+        {
+            "expansion_id": "176824",
+            "expansion_name": "Yashima: Legend of the Deep Woods",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176824"
+        },
+        {
+            "expansion_id": "176825",
+            "expansion_name": "Yashima: Legend of the Icy Peaks",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176825"
+        },
+        {
+            "expansion_id": "176839",
+            "expansion_name": "Yashima: Promo Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176839"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Tony Gullotti; Joshua Sprung",
+    "categories_string": "Card Game; Collectible Components; Fantasy; Fighting; Miniatures; Mythology",
+    "mechanics_string": "Grid Movement; Hand Management; Hexagon Grid; Modular Board; Player Elimination; Point to Point Movement; Simultaneous Action Selection; Tile Placement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '176823', 'expansion_name': 'Yashima: Legend of the Arcane Wonders', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176823'}; {'expansion_id': '176824', 'expansion_name': 'Yashima: Legend of the Deep Woods', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176824'}; {'expansion_id': '176825', 'expansion_name': 'Yashima: Legend of the Icy Peaks', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176825'}; {'expansion_id': '176839', 'expansion_name': 'Yashima: Promo Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176839'}",
+    "expansions_for_string": ""
+}

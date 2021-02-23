@@ -1,0 +1,70 @@
+{
+    "game_id": "168",
+    "game_name": "Empire Builder",
+    "bgg_link": "https://boardgamegeek.com/boardgame/168",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2825659",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2825659#item2825659",
+            "geeklist_host": "pusherman42",
+            "contributor": "Gruven_reuven"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/WPfjWkfenHoUkqZByS5pyg__thumb/img/Dwio9CMhMBURPvbxPc6wz_vfARQ=/fit-in/200x150/filters:strip_icc()/pic436693.jpg",
+    "year_published": "1982",
+    "designers": [
+        "Darwin Bromley",
+        "Bill Fawcett"
+    ],
+    "weight": 2.63,
+    "rating": 6.95,
+    "play_time": "180",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "26",
+    "categories": [
+        "Economic",
+        "Trains",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Connections",
+        "Crayon Rail System",
+        "Movement Points",
+        "Network and Route Building",
+        "Pick-up and Deliver"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "30889",
+            "expansion_name": "Mexican Rails",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30889"
+        },
+        {
+            "expansion_id": "71082",
+            "expansion_name": "South American Rails",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/71082"
+        },
+        {
+            "expansion_id": "68119",
+            "expansion_name": "Super Sadistic Advanced Empire Builder",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/68119"
+        },
+        {
+            "expansion_id": "124304",
+            "expansion_name": "Transatlantic Rails",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/124304"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Darwin Bromley; Bill Fawcett",
+    "categories_string": "Economic; Trains; Transportation",
+    "mechanics_string": "Connections; Crayon Rail System; Movement Points; Network and Route Building; Pick-up and Deliver",
+    "expansions_string": "{'expansion_id': '30889', 'expansion_name': 'Mexican Rails', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30889'}; {'expansion_id': '71082', 'expansion_name': 'South American Rails', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/71082'}; {'expansion_id': '68119', 'expansion_name': 'Super Sadistic Advanced Empire Builder', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/68119'}; {'expansion_id': '124304', 'expansion_name': 'Transatlantic Rails', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/124304'}",
+    "expansions_for_string": ""
+}

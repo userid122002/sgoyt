@@ -1,0 +1,54 @@
+{
+    "game_id": "257189",
+    "game_name": "Dawn of the Zeds (Third Edition): Expansion Pack #1 -  Stepping Forward",
+    "bgg_link": "https://boardgamegeek.com/boardgame/257189",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6928722",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6928722#item6928722",
+            "geeklist_host": "Woelf",
+            "contributor": "Arven"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/9gxfD_N4WSTL-pW846PXMw__thumb/img/R56bf6gjMPYXrQsgTINY3mMocHA=/fit-in/200x150/filters:strip_icc()/pic4346619.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Hermann Luttmann"
+    ],
+    "weight": 4.00,
+    "rating": 8.20,
+    "play_time": "90 - 120",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Horror",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Campaign / Battle Card Driven",
+        "Chit-Pull System",
+        "Cooperative Game",
+        "Dice Rolling"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "175095",
+            "game_name": "Dawn of the Zeds (Third Edition)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/175095"
+        }
+    ],
+    "designers_string": "Hermann Luttmann",
+    "categories_string": "Expansion for Base-game; Horror; Zombies",
+    "mechanics_string": "Action Points; Campaign / Battle Card Driven; Chit-Pull System; Cooperative Game; Dice Rolling",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '175095', 'game_name': 'Dawn of the Zeds (Third Edition)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/175095'}"
+}

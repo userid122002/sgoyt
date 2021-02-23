@@ -1,0 +1,70 @@
+{
+    "game_id": "55679",
+    "game_name": "Panzer General: Allied Assault",
+    "bgg_link": "https://boardgamegeek.com/boardgame/55679",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "157888",
+            "geeklist_item_id": "2683739",
+            "year_month": "2013/06",
+            "year": "2013",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/157888/item/2683739#item2683739",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "SirWashington"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7600829",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7600829#item7600829",
+            "geeklist_host": "jwml",
+            "contributor": "carbon_dragon"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/EE-jOjma7pxbIWNDEAlVyQ__thumb/img/u6wiXYhXAs3KhEwl_3i5mlkH50E=/fit-in/200x150/filters:strip_icc()/pic552594.jpg",
+    "year_published": "2010",
+    "designers": [
+        "George Chastain",
+        "Jason Coffey",
+        "Chuck Kroegel"
+    ],
+    "weight": 2.45,
+    "rating": 6.36,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "6",
+    "not_recommended": "1",
+    "categories": [
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Modular Board",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "67083",
+            "expansion_name": "Panzer General: Allied Assault - Patton",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/67083"
+        },
+        {
+            "expansion_id": "67082",
+            "expansion_name": "Panzer General: Allied Assault - Rommel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/67082"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "George Chastain; Jason Coffey; Chuck Kroegel",
+    "categories_string": "Wargame; World War II",
+    "mechanics_string": "Area Movement; Campaign / Battle Card Driven; Dice Rolling; Modular Board; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '67083', 'expansion_name': 'Panzer General: Allied Assault - Patton', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/67083'}; {'expansion_id': '67082', 'expansion_name': 'Panzer General: Allied Assault - Rommel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/67082'}",
+    "expansions_for_string": ""
+}

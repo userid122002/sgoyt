@@ -1,0 +1,507 @@
+{
+    "game_id": "13",
+    "game_name": "Catan",
+    "bgg_link": "https://boardgamegeek.com/boardgame/13",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5558669",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5558669#item5558669",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5628188",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5628188#item5628188",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5849839",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5849839#item5849839",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Albia"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg",
+    "year_published": "1995",
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "weight": 2.32,
+    "rating": 7.15,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "3",
+    "not_recommended": "1063",
+    "categories": [
+        "Economic",
+        "Negotiation"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Income",
+        "Modular Board",
+        "Network and Route Building",
+        "Race",
+        "Random Production",
+        "Trading",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "167903",
+            "expansion_name": "20 Jahre Darmstadt Spielt",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167903"
+        },
+        {
+            "expansion_id": "178656",
+            "expansion_name": "Brettspiel Adventskalender 2015",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178656"
+        },
+        {
+            "expansion_id": "26352",
+            "expansion_name": "Catan Austria / Wien meets Catan",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/26352"
+        },
+        {
+            "expansion_id": "86008",
+            "expansion_name": "Catan Geographies: Austria",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/86008"
+        },
+        {
+            "expansion_id": "60134",
+            "expansion_name": "Catan Geographies: Bayern Edition",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/60134"
+        },
+        {
+            "expansion_id": "149857",
+            "expansion_name": "Catan Geographies: Corsica",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149857"
+        },
+        {
+            "expansion_id": "173651",
+            "expansion_name": "Catan Geographies: Georgia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173651"
+        },
+        {
+            "expansion_id": "202788",
+            "expansion_name": "Catan Geographies: Kennessee",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202788"
+        },
+        {
+            "expansion_id": "131362",
+            "expansion_name": "Catan Geographies: Mallorca",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131362"
+        },
+        {
+            "expansion_id": "39093",
+            "expansion_name": "Catan Geographies: North Rhine - Westphalia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39093"
+        },
+        {
+            "expansion_id": "187366",
+            "expansion_name": "Catan Geographies: Rickshaw Run",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187366"
+        },
+        {
+            "expansion_id": "32270",
+            "expansion_name": "Catan Geographies: Settlers of Hesse",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/32270"
+        },
+        {
+            "expansion_id": "169486",
+            "expansion_name": "Catan Geographies: The Carolinas",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169486"
+        },
+        {
+            "expansion_id": "211081",
+            "expansion_name": "Catan Landerszenarien: Polen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211081"
+        },
+        {
+            "expansion_id": "292851",
+            "expansion_name": "Catan Rhein-Main-Neckar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292851"
+        },
+        {
+            "expansion_id": "259397",
+            "expansion_name": "Catan Scenario: Crop Trust",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/259397"
+        },
+        {
+            "expansion_id": "222582",
+            "expansion_name": "Catan Scenario: Durango",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222582"
+        },
+        {
+            "expansion_id": "307518",
+            "expansion_name": "Catan Scenarios: #WeStayHome",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/307518"
+        },
+        {
+            "expansion_id": "186395",
+            "expansion_name": "Catan Scenarios: Big Game Big Honor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186395"
+        },
+        {
+            "expansion_id": "196928",
+            "expansion_name": "Catan Scenarios: Catanimals",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196928"
+        },
+        {
+            "expansion_id": "307517",
+            "expansion_name": "Catan Scenarios: Easter Bunny",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/307517"
+        },
+        {
+            "expansion_id": "131958",
+            "expansion_name": "Catan Scenarios: Frenemies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131958"
+        },
+        {
+            "expansion_id": "305516",
+            "expansion_name": "Catan Scenarios: Global Warming",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305516"
+        },
+        {
+            "expansion_id": "86669",
+            "expansion_name": "Catan Scenarios: Helpers of Catan",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/86669"
+        },
+        {
+            "expansion_id": "110794",
+            "expansion_name": "Catan Scenarios: Oil Springs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/110794"
+        },
+        {
+            "expansion_id": "189097",
+            "expansion_name": "Catan Scenarios: Santa Claus",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189097"
+        },
+        {
+            "expansion_id": "167573",
+            "expansion_name": "Catan World Championship Berlin 2014 Special",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167573"
+        },
+        {
+            "expansion_id": "2807",
+            "expansion_name": "Catan: 5-6 Player Extension",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/2807"
+        },
+        {
+            "expansion_id": "183139",
+            "expansion_name": "Catan: 999 Games 25 jaar Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183139"
+        },
+        {
+            "expansion_id": "104774",
+            "expansion_name": "Catan: Catakatoa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/104774"
+        },
+        {
+            "expansion_id": "176966",
+            "expansion_name": "Catan: Catan Day 2015 Exclusive Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176966"
+        },
+        {
+            "expansion_id": "926",
+            "expansion_name": "Catan: Cities & Knights",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/926"
+        },
+        {
+            "expansion_id": "4101",
+            "expansion_name": "Catan: Cities & Knights - 5-6 Player Extension",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/4101"
+        },
+        {
+            "expansion_id": "265141",
+            "expansion_name": "Catan: Cities & Knights - Legend of the Conquerors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/265141"
+        },
+        {
+            "expansion_id": "73809",
+            "expansion_name": "Catan: Delmarva",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/73809"
+        },
+        {
+            "expansion_id": "20038",
+            "expansion_name": "Catan: Event Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/20038"
+        },
+        {
+            "expansion_id": "135378",
+            "expansion_name": "Catan: Explorers & Pirates",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/135378"
+        },
+        {
+            "expansion_id": "144419",
+            "expansion_name": "Catan: Explorers & Pirates - 5-6 Player Extension",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144419"
+        },
+        {
+            "expansion_id": "238135",
+            "expansion_name": "Catan: Hawaii (Szenario fur Seefahrer)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/238135"
+        },
+        {
+            "expansion_id": "263939",
+            "expansion_name": "Catan: High Priests of the Inkas",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263939"
+        },
+        {
+            "expansion_id": "54528",
+            "expansion_name": "Catan: Indiana & Ohio",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/54528"
+        },
+        {
+            "expansion_id": "143249",
+            "expansion_name": "Catan: New England",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143249"
+        },
+        {
+            "expansion_id": "132481",
+            "expansion_name": "Catan: New York",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132481"
+        },
+        {
+            "expansion_id": "101942",
+            "expansion_name": "Catan: Penn-Jersey",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/101942"
+        },
+        {
+            "expansion_id": "222394",
+            "expansion_name": "Catan: Playmat Desert",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222394"
+        },
+        {
+            "expansion_id": "222393",
+            "expansion_name": "Catan: Playmat Gold",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222393"
+        },
+        {
+            "expansion_id": "325",
+            "expansion_name": "Catan: Seafarers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/325"
+        },
+        {
+            "expansion_id": "223171",
+            "expansion_name": "Catan: Seafarers Scenario - Legend of the Sea Robbers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/223171"
+        },
+        {
+            "expansion_id": "4103",
+            "expansion_name": "Catan: Seafarers - 5-6 Player Extension",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/4103"
+        },
+        {
+            "expansion_id": "217947",
+            "expansion_name": "Catan: Seefahrer - 20 Jahre Jubilaums-Edition",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/217947"
+        },
+        {
+            "expansion_id": "271159",
+            "expansion_name": "Catan: Szenario Der Kolner Dom",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/271159"
+        },
+        {
+            "expansion_id": "27760",
+            "expansion_name": "Catan: Traders & Barbarians",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/27760"
+        },
+        {
+            "expansion_id": "34691",
+            "expansion_name": "Catan: Traders & Barbarians - 5-6 Player Extension",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34691"
+        },
+        {
+            "expansion_id": "42147",
+            "expansion_name": "Der Hafenmeister",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42147"
+        },
+        {
+            "expansion_id": "128751",
+            "expansion_name": "Heroes & Capitols (fan expansion for Settlers of Catan)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/128751"
+        },
+        {
+            "expansion_id": "91061",
+            "expansion_name": "Hexen, Zauberer & Drachen (fan expansion for Catan: Cities and Knights)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/91061"
+        },
+        {
+            "expansion_id": "95940",
+            "expansion_name": "Katani  pankur",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/95940"
+        },
+        {
+            "expansion_id": "89606",
+            "expansion_name": "Kirche, Glaube & Reformation (fan expansion for Catan: Cities and Knights)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/89606"
+        },
+        {
+            "expansion_id": "21101",
+            "expansion_name": "De Kolonisten van Catan: De Diamanten",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21101"
+        },
+        {
+            "expansion_id": "41161",
+            "expansion_name": "De Kolonisten van Catan: De drie Handelsteden van Noord-Nederland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/41161"
+        },
+        {
+            "expansion_id": "21097",
+            "expansion_name": "De Kolonisten van Catan: De Kolonien",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21097"
+        },
+        {
+            "expansion_id": "21443",
+            "expansion_name": "De Kolonisten van Catan: De Specialisten",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21443"
+        },
+        {
+            "expansion_id": "21100",
+            "expansion_name": "De Kolonisten van Catan: De Wereldwonderen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21100"
+        },
+        {
+            "expansion_id": "21098",
+            "expansion_name": "De Kolonisten van Catan: De Woestijnruiters",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21098"
+        },
+        {
+            "expansion_id": "21099",
+            "expansion_name": "De Kolonisten van Catan: Het Grote Kanaal",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21099"
+        },
+        {
+            "expansion_id": "144851",
+            "expansion_name": "Mayfair Game Variants & Mini-Expansions Set #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144851"
+        },
+        {
+            "expansion_id": "90100",
+            "expansion_name": "Die Pioniere (fan expansion for The Settlers of Catan)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/90100"
+        },
+        {
+            "expansion_id": "22598",
+            "expansion_name": "Saggsen-Gadan: De saggs'schn Siedler / Catan-OFFENSIVE in Chemnitz",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/22598"
+        },
+        {
+            "expansion_id": "293222",
+            "expansion_name": "Settlers of Catan Scenario: The Jungle",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293222"
+        },
+        {
+            "expansion_id": "293224",
+            "expansion_name": "Settlers of Catan Scenario: The Volcano",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293224"
+        },
+        {
+            "expansion_id": "19343",
+            "expansion_name": "The Settlers of Catan: The Fishermen of Catan",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/19343"
+        },
+        {
+            "expansion_id": "20247",
+            "expansion_name": "The Settlers of Catan: The Great River",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/20247"
+        },
+        {
+            "expansion_id": "10817",
+            "expansion_name": "Settlers of New Catan (and extra modules)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/10817"
+        },
+        {
+            "expansion_id": "21046",
+            "expansion_name": "Die Siedler von Catan: Atlantis - Szenarien & Varianten",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21046"
+        },
+        {
+            "expansion_id": "1137",
+            "expansion_name": "Die Siedler von Catan: Das Buch zum Spielen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/1137"
+        },
+        {
+            "expansion_id": "84977",
+            "expansion_name": "Die Siedler von Catan: Der Schokoladenmarkt",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/84977"
+        },
+        {
+            "expansion_id": "26079",
+            "expansion_name": "Die Siedler von Catan: Die groe Karawane",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/26079"
+        },
+        {
+            "expansion_id": "167836",
+            "expansion_name": "Die Siedler von Catan: Hispania Edition",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167836"
+        },
+        {
+            "expansion_id": "306",
+            "expansion_name": "Die Siedler von Catan: Historische Szenarien",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/306"
+        },
+        {
+            "expansion_id": "1361",
+            "expansion_name": "Die Siedler von Catan: Historische Szenarien II",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/1361"
+        },
+        {
+            "expansion_id": "167841",
+            "expansion_name": "Die Siedler von Catan: Hochzeitsturm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167841"
+        },
+        {
+            "expansion_id": "31933",
+            "expansion_name": "Die Siedler von Catan: Renaissance in der Steiermark & Burgbau auf Chaffenberch",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/31933"
+        },
+        {
+            "expansion_id": "37690",
+            "expansion_name": "Die Siedler von Catan: Rincewind und der Tourist  /  Die Gilden von Ankh-Morpork",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37690"
+        },
+        {
+            "expansion_id": "56157",
+            "expansion_name": "Die Siedler von Catan: Schatze, Drachen & Entdecker",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/56157"
+        },
+        {
+            "expansion_id": "111377",
+            "expansion_name": "Die Siedler von Catan: Thuringen Edition",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/111377"
+        },
+        {
+            "expansion_id": "37969",
+            "expansion_name": "Die Siedler von Luxemburg",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37969"
+        },
+        {
+            "expansion_id": "134277",
+            "expansion_name": "World Wonders (fan expansion for Catan)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134277"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Klaus Teuber",
+    "categories_string": "Economic; Negotiation",
+    "mechanics_string": "Dice Rolling; Hexagon Grid; Income; Modular Board; Network and Route Building; Race; Random Production; Trading; Variable Set-up",
+    "expansions_string": "{'expansion_id': '167903', 'expansion_name': '20 Jahre Darmstadt Spielt', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167903'}; {'expansion_id': '178656', 'expansion_name': 'Brettspiel Adventskalender 2015', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178656'}; {'expansion_id': '26352', 'expansion_name': 'Catan Austria / Wien meets Catan', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/26352'}; {'expansion_id': '86008', 'expansion_name': 'Catan Geographies: Austria', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/86008'}; {'expansion_id': '60134', 'expansion_name': 'Catan Geographies: Bayern Edition', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/60134'}; {'expansion_id': '149857', 'expansion_name': 'Catan Geographies: Corsica', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149857'}; {'expansion_id': '173651', 'expansion_name': 'Catan Geographies: Georgia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173651'}; {'expansion_id': '202788', 'expansion_name': 'Catan Geographies: Kennessee', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202788'}; {'expansion_id': '131362', 'expansion_name': 'Catan Geographies: Mallorca', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131362'}; {'expansion_id': '39093', 'expansion_name': 'Catan Geographies: North Rhine - Westphalia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39093'}; {'expansion_id': '187366', 'expansion_name': 'Catan Geographies: Rickshaw Run', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187366'}; {'expansion_id': '32270', 'expansion_name': 'Catan Geographies: Settlers of Hesse', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/32270'}; {'expansion_id': '169486', 'expansion_name': 'Catan Geographies: The Carolinas', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169486'}; {'expansion_id': '211081', 'expansion_name': 'Catan Landerszenarien: Polen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211081'}; {'expansion_id': '292851', 'expansion_name': 'Catan Rhein-Main-Neckar', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292851'}; {'expansion_id': '259397', 'expansion_name': 'Catan Scenario: Crop Trust', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/259397'}; {'expansion_id': '222582', 'expansion_name': 'Catan Scenario: Durango', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222582'}; {'expansion_id': '307518', 'expansion_name': 'Catan Scenarios: #WeStayHome', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/307518'}; {'expansion_id': '186395', 'expansion_name': 'Catan Scenarios: Big Game Big Honor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186395'}; {'expansion_id': '196928', 'expansion_name': 'Catan Scenarios: Catanimals', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196928'}; {'expansion_id': '307517', 'expansion_name': 'Catan Scenarios: Easter Bunny', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/307517'}; {'expansion_id': '131958', 'expansion_name': 'Catan Scenarios: Frenemies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131958'}; {'expansion_id': '305516', 'expansion_name': 'Catan Scenarios: Global Warming', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305516'}; {'expansion_id': '86669', 'expansion_name': 'Catan Scenarios: Helpers of Catan', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/86669'}; {'expansion_id': '110794', 'expansion_name': 'Catan Scenarios: Oil Springs', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/110794'}; {'expansion_id': '189097', 'expansion_name': 'Catan Scenarios: Santa Claus', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189097'}; {'expansion_id': '167573', 'expansion_name': 'Catan World Championship Berlin 2014 Special', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167573'}; {'expansion_id': '2807', 'expansion_name': 'Catan: 5-6 Player Extension', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/2807'}; {'expansion_id': '183139', 'expansion_name': 'Catan: 999 Games 25 jaar Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183139'}; {'expansion_id': '104774', 'expansion_name': 'Catan: Catakatoa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/104774'}; {'expansion_id': '176966', 'expansion_name': 'Catan: Catan Day 2015 Exclusive Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176966'}; {'expansion_id': '926', 'expansion_name': 'Catan: Cities & Knights', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/926'}; {'expansion_id': '4101', 'expansion_name': 'Catan: Cities & Knights - 5-6 Player Extension', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/4101'}; {'expansion_id': '265141', 'expansion_name': 'Catan: Cities & Knights - Legend of the Conquerors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/265141'}; {'expansion_id': '73809', 'expansion_name': 'Catan: Delmarva', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/73809'}; {'expansion_id': '20038', 'expansion_name': 'Catan: Event Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/20038'}; {'expansion_id': '135378', 'expansion_name': 'Catan: Explorers & Pirates', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/135378'}; {'expansion_id': '144419', 'expansion_name': 'Catan: Explorers & Pirates - 5-6 Player Extension', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144419'}; {'expansion_id': '238135', 'expansion_name': 'Catan: Hawaii (Szenario fur Seefahrer)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/238135'}; {'expansion_id': '263939', 'expansion_name': 'Catan: High Priests of the Inkas', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263939'}; {'expansion_id': '54528', 'expansion_name': 'Catan: Indiana & Ohio', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/54528'}; {'expansion_id': '143249', 'expansion_name': 'Catan: New England', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143249'}; {'expansion_id': '132481', 'expansion_name': 'Catan: New York', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132481'}; {'expansion_id': '101942', 'expansion_name': 'Catan: Penn-Jersey', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/101942'}; {'expansion_id': '222394', 'expansion_name': 'Catan: Playmat Desert', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222394'}; {'expansion_id': '222393', 'expansion_name': 'Catan: Playmat Gold', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222393'}; {'expansion_id': '325', 'expansion_name': 'Catan: Seafarers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/325'}; {'expansion_id': '223171', 'expansion_name': 'Catan: Seafarers Scenario - Legend of the Sea Robbers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/223171'}; {'expansion_id': '4103', 'expansion_name': 'Catan: Seafarers - 5-6 Player Extension', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/4103'}; {'expansion_id': '217947', 'expansion_name': 'Catan: Seefahrer - 20 Jahre Jubilaums-Edition', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/217947'}; {'expansion_id': '271159', 'expansion_name': 'Catan: Szenario Der Kolner Dom', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/271159'}; {'expansion_id': '27760', 'expansion_name': 'Catan: Traders & Barbarians', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/27760'}; {'expansion_id': '34691', 'expansion_name': 'Catan: Traders & Barbarians - 5-6 Player Extension', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34691'}; {'expansion_id': '42147', 'expansion_name': 'Der Hafenmeister', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42147'}; {'expansion_id': '128751', 'expansion_name': 'Heroes & Capitols (fan expansion for Settlers of Catan)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/128751'}; {'expansion_id': '91061', 'expansion_name': 'Hexen, Zauberer & Drachen (fan expansion for Catan: Cities and Knights)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/91061'}; {'expansion_id': '95940', 'expansion_name': 'Katani  pankur', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/95940'}; {'expansion_id': '89606', 'expansion_name': 'Kirche, Glaube & Reformation (fan expansion for Catan: Cities and Knights)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/89606'}; {'expansion_id': '21101', 'expansion_name': 'De Kolonisten van Catan: De Diamanten', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21101'}; {'expansion_id': '41161', 'expansion_name': 'De Kolonisten van Catan: De drie Handelsteden van Noord-Nederland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/41161'}; {'expansion_id': '21097', 'expansion_name': 'De Kolonisten van Catan: De Kolonien', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21097'}; {'expansion_id': '21443', 'expansion_name': 'De Kolonisten van Catan: De Specialisten', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21443'}; {'expansion_id': '21100', 'expansion_name': 'De Kolonisten van Catan: De Wereldwonderen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21100'}; {'expansion_id': '21098', 'expansion_name': 'De Kolonisten van Catan: De Woestijnruiters', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21098'}; {'expansion_id': '21099', 'expansion_name': 'De Kolonisten van Catan: Het Grote Kanaal', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21099'}; {'expansion_id': '144851', 'expansion_name': 'Mayfair Game Variants & Mini-Expansions Set #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144851'}; {'expansion_id': '90100', 'expansion_name': 'Die Pioniere (fan expansion for The Settlers of Catan)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/90100'}; {'expansion_id': '22598', 'expansion_name': \"Saggsen-Gadan: De saggs'schn Siedler / Catan-OFFENSIVE in Chemnitz\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/22598'}; {'expansion_id': '293222', 'expansion_name': 'Settlers of Catan Scenario: The Jungle', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293222'}; {'expansion_id': '293224', 'expansion_name': 'Settlers of Catan Scenario: The Volcano', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293224'}; {'expansion_id': '19343', 'expansion_name': 'The Settlers of Catan: The Fishermen of Catan', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/19343'}; {'expansion_id': '20247', 'expansion_name': 'The Settlers of Catan: The Great River', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/20247'}; {'expansion_id': '10817', 'expansion_name': 'Settlers of New Catan (and extra modules)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/10817'}; {'expansion_id': '21046', 'expansion_name': 'Die Siedler von Catan: Atlantis - Szenarien & Varianten', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21046'}; {'expansion_id': '1137', 'expansion_name': 'Die Siedler von Catan: Das Buch zum Spielen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/1137'}; {'expansion_id': '84977', 'expansion_name': 'Die Siedler von Catan: Der Schokoladenmarkt', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/84977'}; {'expansion_id': '26079', 'expansion_name': 'Die Siedler von Catan: Die groe Karawane', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/26079'}; {'expansion_id': '167836', 'expansion_name': 'Die Siedler von Catan: Hispania Edition', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167836'}; {'expansion_id': '306', 'expansion_name': 'Die Siedler von Catan: Historische Szenarien', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/306'}; {'expansion_id': '1361', 'expansion_name': 'Die Siedler von Catan: Historische Szenarien II', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/1361'}; {'expansion_id': '167841', 'expansion_name': 'Die Siedler von Catan: Hochzeitsturm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167841'}; {'expansion_id': '31933', 'expansion_name': 'Die Siedler von Catan: Renaissance in der Steiermark & Burgbau auf Chaffenberch', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/31933'}; {'expansion_id': '37690', 'expansion_name': 'Die Siedler von Catan: Rincewind und der Tourist  /  Die Gilden von Ankh-Morpork', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37690'}; {'expansion_id': '56157', 'expansion_name': 'Die Siedler von Catan: Schatze, Drachen & Entdecker', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/56157'}; {'expansion_id': '111377', 'expansion_name': 'Die Siedler von Catan: Thuringen Edition', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/111377'}; {'expansion_id': '37969', 'expansion_name': 'Die Siedler von Luxemburg', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37969'}; {'expansion_id': '134277', 'expansion_name': 'World Wonders (fan expansion for Catan)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134277'}",
+    "expansions_for_string": ""
+}

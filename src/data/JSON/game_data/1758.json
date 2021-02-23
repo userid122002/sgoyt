@@ -1,0 +1,65 @@
+{
+    "game_id": "1758",
+    "game_name": "Advanced Heroquest",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1758",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3567768",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3567768#item3567768",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "True_Dave"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5583960",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5583960#item5583960",
+            "geeklist_host": "kevinruns262",
+            "contributor": "cornishlee"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/IH2POeERqQzwWSllfsAIug__thumb/img/JGv8ev3L7dAhVGlullGowzlsi4A=/fit-in/200x150/filters:strip_icc()/pic806419.jpg",
+    "year_published": "1989",
+    "designers": [
+        "Jervis Johnson"
+    ],
+    "weight": 2.87,
+    "rating": 6.83,
+    "play_time": "120",
+    "best": "2",
+    "recommended": "8",
+    "not_recommended": "5",
+    "categories": [
+        "Adventure",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Modular Board",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "1759",
+            "expansion_name": "Advanced Heroquest: Terror in the Dark",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/1759"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jervis Johnson",
+    "categories_string": "Adventure; Exploration; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Cooperative Game; Modular Board; Role Playing; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '1759', 'expansion_name': 'Advanced Heroquest: Terror in the Dark', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/1759'}",
+    "expansions_for_string": ""
+}

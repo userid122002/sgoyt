@@ -1,0 +1,68 @@
+{
+    "game_id": "161920",
+    "game_name": "Zombicide: Angry Neighbors",
+    "bgg_link": "https://boardgamegeek.com/boardgame/161920",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5743880",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5743880#item5743880",
+            "geeklist_host": "Albia",
+            "contributor": "0time"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/c-tsjkJ2S1w_JeoaTT8DhA__thumb/img/zcwdd8U5AY6GfutQSmeXoioi-UI=/fit-in/200x150/filters:strip_icc()/pic2067368.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Raphael Guiton",
+        "Jean-Baptiste Lullien",
+        "Nicolas Raoult"
+    ],
+    "weight": 2.67,
+    "rating": 7.63,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Horror",
+        "Miniatures",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "113924",
+            "game_name": "Zombicide",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/113924"
+        },
+        {
+            "game_id": "137988",
+            "game_name": "Zombicide Season 2: Prison Outbreak",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/137988"
+        },
+        {
+            "game_id": "161866",
+            "game_name": "Zombicide Season 3: Rue Morgue",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/161866"
+        }
+    ],
+    "designers_string": "Raphael Guiton; Jean-Baptiste Lullien; Nicolas Raoult",
+    "categories_string": "Expansion for Base-game; Horror; Miniatures; Zombies",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Hand Management; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '113924', 'game_name': 'Zombicide', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/113924'}; {'game_id': '137988', 'game_name': 'Zombicide Season 2: Prison Outbreak', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/137988'}; {'game_id': '161866', 'game_name': 'Zombicide Season 3: Rue Morgue', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/161866'}"
+}

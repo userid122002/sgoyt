@@ -1,0 +1,58 @@
+{
+    "game_id": "151979",
+    "game_name": "Space Empires: Replicators",
+    "bgg_link": "https://boardgamegeek.com/boardgame/151979",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6454914",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6454914#item6454914",
+            "geeklist_host": "kevinruns262",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/EpswNkj71DBSFTA9dUKm6Q__thumb/img/24tlJkM7iT3vN3dM-Fym0uO4x50=/fit-in/200x150/filters:strip_icc()/pic4120316.png",
+    "year_published": "2018",
+    "designers": [
+        "Jim Krohn"
+    ],
+    "weight": 3.45,
+    "rating": 8.42,
+    "play_time": "180",
+    "best": "0",
+    "recommended": "9",
+    "not_recommended": "0",
+    "categories": [
+        "Bluffing",
+        "Civilization",
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Movement Points",
+        "Secret Unit Deployment",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "84419",
+            "game_name": "Space Empires: 4X",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/84419"
+        }
+    ],
+    "designers_string": "Jim Krohn",
+    "categories_string": "Bluffing; Civilization; Expansion for Base-game; Science Fiction; Space Exploration; Wargame",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Movement Points; Secret Unit Deployment; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '84419', 'game_name': 'Space Empires: 4X', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/84419'}"
+}

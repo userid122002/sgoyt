@@ -1,0 +1,54 @@
+{
+    "game_id": "22143",
+    "game_name": "EastFront: The War in Russia 1941-45 - Second Edition",
+    "bgg_link": "https://boardgamegeek.com/boardgame/22143",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5512908",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5512908#item5512908",
+            "geeklist_host": "Mishko",
+            "contributor": "catosulla"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/I0R8xnHbqOFAoHbB4uPVLA__thumb/img/olGfob7KRQA4kYRrtAStztPgYCM=/fit-in/200x150/filters:strip_icc()/pic291046.jpg",
+    "year_published": "2006",
+    "designers": [
+        "Craig Besinque",
+        "Tom Dalgliesh"
+    ],
+    "weight": 3.51,
+    "rating": 8.07,
+    "play_time": "240",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "7",
+    "categories": [
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Secret Unit Deployment",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "22160",
+            "expansion_name": "EuroFront: The War in Europe, 1936-45 - Second Edition",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/22160"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Craig Besinque; Tom Dalgliesh",
+    "categories_string": "Wargame; World War II",
+    "mechanics_string": "Action Points; Dice Rolling; Hexagon Grid; Secret Unit Deployment; Simulation",
+    "expansions_string": "{'expansion_id': '22160', 'expansion_name': 'EuroFront: The War in Europe, 1936-45 - Second Edition', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/22160'}",
+    "expansions_for_string": ""
+}

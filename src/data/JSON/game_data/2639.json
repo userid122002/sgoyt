@@ -1,0 +1,105 @@
+{
+    "game_id": "2639",
+    "game_name": "Panzer Leader: Game of Tactical Warfare on the Western Front",
+    "bgg_link": "https://boardgamegeek.com/boardgame/2639",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4660354",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4660354#item4660354",
+            "geeklist_host": "koinskyz",
+            "contributor": "Lhowser"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7462043",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7462043#item7462043",
+            "geeklist_host": "jomurph86",
+            "contributor": "JLPreiser"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7725110",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7725110#item7725110",
+            "geeklist_host": "Elida",
+            "contributor": "JLPreiser"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/4fTQvBncxNqgazLCVmZEZA__thumb/img/D5vOjGBA2LujNofQ8rzwauFVe8k=/fit-in/200x150/filters:strip_icc()/pic1065263.png",
+    "year_published": "1974",
+    "designers": [
+        "Dave Clark (I)",
+        "Randall C. Reed",
+        "Nick Smith (I)"
+    ],
+    "weight": 3.12,
+    "rating": 6.63,
+    "play_time": "90",
+    "best": "1",
+    "recommended": "9",
+    "not_recommended": "4",
+    "categories": [
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Interrupts",
+        "Line of Sight",
+        "Modular Board",
+        "Movement Points",
+        "Ratio / Combat Results Table",
+        "Scenario / Mission / Campaign Game",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "18341",
+            "expansion_name": "The Comprehensive Guide to Board Wargaming",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18341"
+        },
+        {
+            "expansion_id": "14503",
+            "expansion_name": "Panzer Leader 1940",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/14503"
+        },
+        {
+            "expansion_id": "18468",
+            "expansion_name": "Panzer Leader: For King and Country",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18468"
+        },
+        {
+            "expansion_id": "118518",
+            "expansion_name": "Para-Leader",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/118518"
+        },
+        {
+            "expansion_id": "181813",
+            "expansion_name": "Tactical Combat in the Middle East: Part 1 - Battlefield Iraq",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181813"
+        },
+        {
+            "expansion_id": "175509",
+            "expansion_name": "Tactical GameX",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/175509"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Dave Clark (I); Randall C. Reed; Nick Smith (I)",
+    "categories_string": "Wargame; World War II",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Interrupts; Line of Sight; Modular Board; Movement Points; Ratio / Combat Results Table; Scenario / Mission / Campaign Game; Simulation",
+    "expansions_string": "{'expansion_id': '18341', 'expansion_name': 'The Comprehensive Guide to Board Wargaming', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18341'}; {'expansion_id': '14503', 'expansion_name': 'Panzer Leader 1940', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/14503'}; {'expansion_id': '18468', 'expansion_name': 'Panzer Leader: For King and Country', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18468'}; {'expansion_id': '118518', 'expansion_name': 'Para-Leader', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/118518'}; {'expansion_id': '181813', 'expansion_name': 'Tactical Combat in the Middle East: Part 1 - Battlefield Iraq', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181813'}; {'expansion_id': '175509', 'expansion_name': 'Tactical GameX', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/175509'}",
+    "expansions_for_string": ""
+}

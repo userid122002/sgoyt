@@ -1,0 +1,77 @@
+{
+    "game_id": "183017",
+    "game_name": "Shadows of Brimstone: Frontier Town Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/183017",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4537546",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4537546#item4537546",
+            "geeklist_host": "pusherman42",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4556730",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4556730#item4556730",
+            "geeklist_host": "jdarnold",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7178991",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7178991#item7178991",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "DonkeyJay"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/fsErcx5G1YMk5qwHmAm-KQ__thumb/img/gQPv-J7N8-3TVpCkZF1aBUKqstw=/fit-in/200x150/filters:strip_icc()/pic2647244.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Jason C. Hill"
+    ],
+    "weight": 3.33,
+    "rating": 8.56,
+    "play_time": "120 - 0",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game"
+    ],
+    "mechanics": [],
+    "expansions": [
+        {
+            "expansion_id": "324573",
+            "expansion_name": "Shadows of Brimstone: Frontier Town Daily Event Pack #1 Supplement",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324573"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "146791",
+            "game_name": "Shadows of Brimstone: City of the Ancients",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/146791"
+        },
+        {
+            "game_id": "150997",
+            "game_name": "Shadows of Brimstone: Swamps of Death",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/150997"
+        }
+    ],
+    "designers_string": "Jason C. Hill",
+    "categories_string": "Expansion for Base-game",
+    "mechanics_string": "",
+    "expansions_string": "{'expansion_id': '324573', 'expansion_name': 'Shadows of Brimstone: Frontier Town Daily Event Pack #1 Supplement', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324573'}",
+    "expansions_for_string": "{'game_id': '146791', 'game_name': 'Shadows of Brimstone: City of the Ancients', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/146791'}; {'game_id': '150997', 'game_name': 'Shadows of Brimstone: Swamps of Death', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/150997'}"
+}

@@ -1,0 +1,85 @@
+{
+    "game_id": "154674",
+    "game_name": "Castle Assault",
+    "bgg_link": "https://boardgamegeek.com/boardgame/154674",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4239230",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4239230#item4239230",
+            "geeklist_host": "SBGrad",
+            "contributor": "Tommo87"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4832341",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4832341#item4832341",
+            "geeklist_host": "govmiller",
+            "contributor": "Faerun"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5044449",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5044449#item5044449",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "simpsonps121"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/dKdt4o0b-TFwcVcvGNn8kg__thumb/img/T28jqz9jMQDUJ9GhJenmbgn4IfA=/fit-in/200x150/filters:strip_icc()/pic2061173.jpg",
+    "year_published": "2015",
+    "designers": [
+        "TJ Dunbar",
+        "Pearson Giaume"
+    ],
+    "weight": 2.71,
+    "rating": 6.32,
+    "play_time": "30 - 60",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Medieval",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Grid Movement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "188049",
+            "expansion_name": "Castle Assault: Dagger of Ill Omen Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/188049"
+        },
+        {
+            "expansion_id": "195916",
+            "expansion_name": "Castle Assault: Halting Force Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/195916"
+        },
+        {
+            "expansion_id": "188048",
+            "expansion_name": "Castle Assault: Sir Mitchell Greencastle Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/188048"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "TJ Dunbar; Pearson Giaume",
+    "categories_string": "Card Game; Fantasy; Medieval; Wargame",
+    "mechanics_string": "Area Movement; Campaign / Battle Card Driven; Dice Rolling; Grid Movement",
+    "expansions_string": "{'expansion_id': '188049', 'expansion_name': 'Castle Assault: Dagger of Ill Omen Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/188049'}; {'expansion_id': '195916', 'expansion_name': 'Castle Assault: Halting Force Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/195916'}; {'expansion_id': '188048', 'expansion_name': 'Castle Assault: Sir Mitchell Greencastle Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/188048'}",
+    "expansions_for_string": ""
+}

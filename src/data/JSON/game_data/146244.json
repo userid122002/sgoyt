@@ -1,0 +1,65 @@
+{
+    "game_id": "146244",
+    "game_name": "Clash of Cultures: Civilizations",
+    "bgg_link": "https://boardgamegeek.com/boardgame/146244",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4767090",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4767090#item4767090",
+            "geeklist_host": "govmiller",
+            "contributor": "skyzero"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Atn20KHr9nk8cWR9bX9Z7g__thumb/img/P8T7SbWKFHFhUoK-d-4uR6nYTTU=/fit-in/200x150/filters:strip_icc()/pic1949614.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Christian Marcussen"
+    ],
+    "weight": 3.79,
+    "rating": 8.50,
+    "play_time": "180 - 240",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "5",
+    "categories": [
+        "Ancient",
+        "City Building",
+        "Civilization",
+        "Economic",
+        "Expansion for Base-game",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Trading",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "167825",
+            "expansion_name": "Clash of Cultures: Civilizations - Aztecs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/167825"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "40765",
+            "game_name": "Clash of Cultures",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/40765"
+        }
+    ],
+    "designers_string": "Christian Marcussen",
+    "categories_string": "Ancient; City Building; Civilization; Economic; Expansion for Base-game; Territory Building",
+    "mechanics_string": "Action Points; Dice Rolling; Grid Movement; Hand Management; Modular Board; Trading; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '167825', 'expansion_name': 'Clash of Cultures: Civilizations - Aztecs', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/167825'}",
+    "expansions_for_string": "{'game_id': '40765', 'game_name': 'Clash of Cultures', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/40765'}"
+}

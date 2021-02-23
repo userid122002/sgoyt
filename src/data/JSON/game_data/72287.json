@@ -1,0 +1,68 @@
+{
+    "game_id": "72287",
+    "game_name": "Mr. Jack Pocket",
+    "bgg_link": "https://boardgamegeek.com/boardgame/72287",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5132197",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5132197#item5132197",
+            "geeklist_host": "settlerdave",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6484293",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6484293#item6484293",
+            "geeklist_host": "kevinruns262",
+            "contributor": "rodabel"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/nd44m6n6ykDCsHVt4wcEcQ__thumb/img/wpEJcfEdHyXDW1Kh3xbevgW2JuA=/fit-in/200x150/filters:strip_icc()/pic1519530.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Bruno Cathala",
+        "Ludovic Maublanc"
+    ],
+    "weight": 1.82,
+    "rating": 6.90,
+    "play_time": "15",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "36",
+    "categories": [
+        "Bluffing",
+        "Deduction",
+        "Murder/Mystery",
+        "Post-Napoleonic"
+    ],
+    "mechanics": [
+        "Map Deformation",
+        "Modular Board"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "260306",
+            "expansion_name": "Mr. Jack Pocket: Extension",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260306"
+        },
+        {
+            "expansion_id": "100166",
+            "expansion_name": "Mr. Jack Pocket: Goodies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/100166"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Bruno Cathala; Ludovic Maublanc",
+    "categories_string": "Bluffing; Deduction; Murder/Mystery; Post-Napoleonic",
+    "mechanics_string": "Map Deformation; Modular Board",
+    "expansions_string": "{'expansion_id': '260306', 'expansion_name': 'Mr. Jack Pocket: Extension', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260306'}; {'expansion_id': '100166', 'expansion_name': 'Mr. Jack Pocket: Goodies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/100166'}",
+    "expansions_for_string": ""
+}

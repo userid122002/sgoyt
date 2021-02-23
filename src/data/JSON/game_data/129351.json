@@ -1,0 +1,154 @@
+{
+    "game_id": "129351",
+    "game_name": "The Cave",
+    "bgg_link": "https://boardgamegeek.com/boardgame/129351",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3263920",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3263920#item3263920",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "fractaloon"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3936061",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3936061#item3936061",
+            "geeklist_host": "koinskyz",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4200314",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4200314#item4200314",
+            "geeklist_host": "SBGrad",
+            "contributor": "AndrePOR"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4202783",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4202783#item4202783",
+            "geeklist_host": "SBGrad",
+            "contributor": "AndrePOR"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4620931",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4620931#item4620931",
+            "geeklist_host": "gentle",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5397931",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5397931#item5397931",
+            "geeklist_host": "maloma",
+            "contributor": "maloma"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7430989",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7430989#item7430989",
+            "geeklist_host": "jomurph86",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7433099",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7433099#item7433099",
+            "geeklist_host": "jomurph86",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7437653",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7437653#item7437653",
+            "geeklist_host": "jomurph86",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7534370",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7534370#item7534370",
+            "geeklist_host": "Doc_H",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8143804",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8143804#item8143804",
+            "geeklist_host": "ArianneH",
+            "contributor": "sarebear62"
+        }
+    ],
+    "sgoyt_count": 11,
+    "thumbnail": "https://cf.geekdo-images.com/_grO0Vcpjtwu-R-4Ap4gBA__thumb/img/l50RhfaCXmVsNilmyR98OuAmiP4=/fit-in/200x150/filters:strip_icc()/pic1399091.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Adam Kauza"
+    ],
+    "weight": 2.52,
+    "rating": 6.51,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "16",
+    "categories": [
+        "Environmental",
+        "Exploration",
+        "Maze",
+        "Travel"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Modular Board",
+        "Set Collection",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "132444",
+            "expansion_name": "The Cave: Additional Cave Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132444"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Adam Kauza",
+    "categories_string": "Environmental; Exploration; Maze; Travel",
+    "mechanics_string": "Action Points; Modular Board; Set Collection; Tile Placement",
+    "expansions_string": "{'expansion_id': '132444', 'expansion_name': 'The Cave: Additional Cave Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132444'}",
+    "expansions_for_string": ""
+}

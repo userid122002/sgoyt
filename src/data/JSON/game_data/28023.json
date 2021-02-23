@@ -1,0 +1,71 @@
+{
+    "game_id": "28023",
+    "game_name": "Jamaica",
+    "bgg_link": "https://boardgamegeek.com/boardgame/28023",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2848428",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2848428#item2848428",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "theritzes"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4734861",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4734861#item4734861",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "draines"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/SxSm7BW1LYTPd8LxGi07MQ__thumb/img/GrmR2FBxm0O7LK3CVkcPxooXARw=/fit-in/200x150/filters:strip_icc()/pic1502119.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Malcolm Braff",
+        "Bruno Cathala",
+        "Sebastien Pauchon"
+    ],
+    "weight": 1.65,
+    "rating": 7.06,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "154",
+    "categories": [
+        "Nautical",
+        "Pirates",
+        "Racing",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Race",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "39166",
+            "expansion_name": "Jamaica: Extra Treasures",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39166"
+        },
+        {
+            "expansion_id": "204807",
+            "expansion_name": "Jamaica: The Crew",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204807"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Malcolm Braff; Bruno Cathala; Sebastien Pauchon",
+    "categories_string": "Nautical; Pirates; Racing; Transportation",
+    "mechanics_string": "Dice Rolling; Hand Management; Race; Simultaneous Action Selection",
+    "expansions_string": "{'expansion_id': '39166', 'expansion_name': 'Jamaica: Extra Treasures', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39166'}; {'expansion_id': '204807', 'expansion_name': 'Jamaica: The Crew', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204807'}",
+    "expansions_for_string": ""
+}

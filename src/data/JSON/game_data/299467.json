@@ -1,0 +1,54 @@
+{
+    "game_id": "299467",
+    "game_name": "Imperial Settlers: Empires of the North - Barbarian Hordes",
+    "bgg_link": "https://boardgamegeek.com/boardgame/299467",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7853120",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7853120#item7853120",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/5gINoMyJtTquMUV8GlYZVg__thumb/img/UcZY2oJuaW2w0h8NtXxaoOOSTNI=/fit-in/200x150/filters:strip_icc()/pic5191904.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Joanna Kijanka"
+    ],
+    "weight": 3.00,
+    "rating": 8.19,
+    "play_time": "45 - 90",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Ancient",
+        "Card Game",
+        "City Building",
+        "Civilization",
+        "Expansion for Base-game",
+        "Nautical"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "270844",
+            "game_name": "Imperial Settlers: Empires of the North",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/270844"
+        }
+    ],
+    "designers_string": "Joanna Kijanka",
+    "categories_string": "Ancient; Card Game; City Building; Civilization; Expansion for Base-game; Nautical",
+    "mechanics_string": "Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '270844', 'game_name': 'Imperial Settlers: Empires of the North', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/270844'}"
+}

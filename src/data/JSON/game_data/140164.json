@@ -1,0 +1,73 @@
+{
+    "game_id": "140164",
+    "game_name": "Duel in the Dark (Second Edition)",
+    "bgg_link": "https://boardgamegeek.com/boardgame/140164",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7372231",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7372231#item7372231",
+            "geeklist_host": "jeffrhind",
+            "contributor": "XanderF"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/V89Ts81kJlWdW-cg80ZGmg__thumb/img/qqBNp-5dCLAp0eiuEJ9kPX8bwNM=/fit-in/200x150/filters:strip_icc()/pic710861.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Friedemann de Pedro"
+    ],
+    "weight": 2.50,
+    "rating": 6.81,
+    "play_time": "60",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "2",
+    "categories": [
+        "Aviation / Flight",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Hexagon Grid",
+        "Secret Unit Deployment",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "32646",
+            "expansion_name": "Duel in the Dark: Baby Blitz",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/32646"
+        },
+        {
+            "expansion_id": "32618",
+            "expansion_name": "Duel in the Dark: Early Nights",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/32618"
+        },
+        {
+            "expansion_id": "60636",
+            "expansion_name": "Duel in the Dark: Tactical Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/60636"
+        },
+        {
+            "expansion_id": "39501",
+            "expansion_name": "Duel in the Dark: V1-Bunker",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39501"
+        },
+        {
+            "expansion_id": "72648",
+            "expansion_name": "Duel in the Dark: Window / Wilde Sau",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/72648"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Friedemann de Pedro",
+    "categories_string": "Aviation / Flight; Wargame; World War II",
+    "mechanics_string": "Action Queue; Hexagon Grid; Secret Unit Deployment; Solo / Solitaire Game",
+    "expansions_string": "{'expansion_id': '32646', 'expansion_name': 'Duel in the Dark: Baby Blitz', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/32646'}; {'expansion_id': '32618', 'expansion_name': 'Duel in the Dark: Early Nights', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/32618'}; {'expansion_id': '60636', 'expansion_name': 'Duel in the Dark: Tactical Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/60636'}; {'expansion_id': '39501', 'expansion_name': 'Duel in the Dark: V1-Bunker', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39501'}; {'expansion_id': '72648', 'expansion_name': 'Duel in the Dark: Window / Wilde Sau', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/72648'}",
+    "expansions_for_string": ""
+}

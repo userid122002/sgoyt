@@ -1,0 +1,60 @@
+{
+    "game_id": "268257",
+    "game_name": "The Cauldron: Adrift (fan expansion for Sentinels of the Multiverse)",
+    "bgg_link": "https://boardgamegeek.com/boardgame/268257",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6789251",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6789251#item6789251",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/pUUiz7A-liZtwQOcgKjlEg__thumb/img/pajZhgJm37QrEerp0pRG7NE9qOw=/fit-in/200x150/filters:strip_icc()/pic4561011.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Matthew Bishop",
+        "Kevin Bishop",
+        "D. Miller"
+    ],
+    "weight": 0.00,
+    "rating": 8.06,
+    "play_time": "30 - 60",
+    "best": "10",
+    "recommended": "22",
+    "not_recommended": "18",
+    "categories": [
+        "Card Game",
+        "Comic Book / Strip",
+        "Expansion for Base-game",
+        "Fan Expansion"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "221834",
+            "game_name": "The Cauldron: Base Set (fan expansion for Sentinels of the Multiverse)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/221834"
+        },
+        {
+            "game_id": "102652",
+            "game_name": "Sentinels of the Multiverse",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/102652"
+        }
+    ],
+    "designers_string": "Matthew Bishop; Kevin Bishop; D. Miller",
+    "categories_string": "Card Game; Comic Book / Strip; Expansion for Base-game; Fan Expansion",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '221834', 'game_name': 'The Cauldron: Base Set (fan expansion for Sentinels of the Multiverse)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/221834'}; {'game_id': '102652', 'game_name': 'Sentinels of the Multiverse', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/102652'}"
+}

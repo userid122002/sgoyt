@@ -1,0 +1,86 @@
+{
+    "game_id": "222462",
+    "game_name": "Mint Julep",
+    "bgg_link": "https://boardgamegeek.com/boardgame/222462",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5329409",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5329409#item5329409",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "knuckles29"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5363081",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5363081#item5363081",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "knuckles29"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5553053",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5553053#item5553053",
+            "geeklist_host": "kevinruns262",
+            "contributor": "knuckles29"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6955194",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6955194#item6955194",
+            "geeklist_host": "Woelf",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/auBPSaIhnSBvV4aXY9tVbA__thumb/img/hFDtfR67i92qemNljDuSA6ZOivE=/fit-in/200x150/filters:strip_icc()/pic3468692.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Dan Letzring"
+    ],
+    "weight": 1.75,
+    "rating": 6.97,
+    "play_time": "20 - 30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Print & Play",
+        "Racing"
+    ],
+    "mechanics": [
+        "Betting and Bluffing",
+        "Card Drafting"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "305832",
+            "expansion_name": "Mint Julep: Alternate Starting Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305832"
+        },
+        {
+            "expansion_id": "305831",
+            "expansion_name": "Mint Julep: Win, Place, Show",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305831"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Dan Letzring",
+    "categories_string": "Card Game; Print & Play; Racing",
+    "mechanics_string": "Betting and Bluffing; Card Drafting",
+    "expansions_string": "{'expansion_id': '305832', 'expansion_name': 'Mint Julep: Alternate Starting Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305832'}; {'expansion_id': '305831', 'expansion_name': 'Mint Julep: Win, Place, Show', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305831'}",
+    "expansions_for_string": ""
+}

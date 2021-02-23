@@ -1,0 +1,116 @@
+{
+    "game_id": "35342",
+    "game_name": "Hold the Line",
+    "bgg_link": "https://boardgamegeek.com/boardgame/35342",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2888715",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2888715#item2888715",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "eracer68"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3672121",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3672121#item3672121",
+            "geeklist_host": "bikefreak",
+            "contributor": "raimundb"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3986014",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3986014#item3986014",
+            "geeklist_host": "joestin",
+            "contributor": "provence"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3986218",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3986218#item3986218",
+            "geeklist_host": "joestin",
+            "contributor": "telengard"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4718741",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4718741#item4718741",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7815733",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7815733#item7815733",
+            "geeklist_host": "mithoron",
+            "contributor": "usfbrown"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/G8jaOXO1iaz3ey7jDCMZyw__thumb/img/3SCGwslPR8oMoaU9ZgsTz8SFI4I=/fit-in/200x150/filters:strip_icc()/pic315672.jpg",
+    "year_published": "2008",
+    "designers": [
+        "Matt Burchfield",
+        "Grant Wylie",
+        "Mike Wylie"
+    ],
+    "weight": 1.83,
+    "rating": 7.29,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "10",
+    "not_recommended": "3",
+    "categories": [
+        "Age of Reason",
+        "American Revolutionary War",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Line of Sight",
+        "Modular Board"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "37900",
+            "expansion_name": "Hold the Line: French and Indian War Expansion Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37900"
+        },
+        {
+            "expansion_id": "136943",
+            "expansion_name": "Hold the Line: Highland Charge",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136943"
+        },
+        {
+            "expansion_id": "29134",
+            "expansion_name": "Hold The Line: The Mexican-American War Expansion Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/29134"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Matt Burchfield; Grant Wylie; Mike Wylie",
+    "categories_string": "Age of Reason; American Revolutionary War; Wargame",
+    "mechanics_string": "Action Points; Dice Rolling; Hexagon Grid; Line of Sight; Modular Board",
+    "expansions_string": "{'expansion_id': '37900', 'expansion_name': 'Hold the Line: French and Indian War Expansion Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37900'}; {'expansion_id': '136943', 'expansion_name': 'Hold the Line: Highland Charge', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136943'}; {'expansion_id': '29134', 'expansion_name': 'Hold The Line: The Mexican-American War Expansion Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/29134'}",
+    "expansions_for_string": ""
+}

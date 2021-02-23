@@ -1,0 +1,52 @@
+{
+    "game_id": "218422",
+    "game_name": "Wing Leader: Blitz 1939-1942",
+    "bgg_link": "https://boardgamegeek.com/boardgame/218422",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5993131",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5993131#item5993131",
+            "geeklist_host": "radthanael",
+            "contributor": "boshar"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/irSlq8eHRGThhdIdnHRlkQ__thumb/img/icbwe2mdmxNFq7u2ymBj2lKij4Y=/fit-in/200x150/filters:strip_icc()/pic3867909.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Lee Brimmicombe-Wood"
+    ],
+    "weight": 3.50,
+    "rating": 8.21,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Aviation / Flight",
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Simulation"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "160418",
+            "game_name": "Wing Leader: Victories 1940-1942",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/160418"
+        }
+    ],
+    "designers_string": "Lee Brimmicombe-Wood",
+    "categories_string": "Aviation / Flight; Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Dice Rolling; Simulation",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '160418', 'game_name': 'Wing Leader: Victories 1940-1942', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/160418'}"
+}

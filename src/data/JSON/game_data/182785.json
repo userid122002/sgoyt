@@ -1,0 +1,63 @@
+{
+    "game_id": "182785",
+    "game_name": "The Lord of the Rings: The Card Game - Murder at the Prancing Pony",
+    "bgg_link": "https://boardgamegeek.com/boardgame/182785",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4842965",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4842965#item4842965",
+            "geeklist_host": "govmiller",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5002348",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5002348#item5002348",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "cornishlee"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/7cxbHsPAushtfY0u7Jdk-A__thumb/img/Cjh8YoZkCLS7xXBUxANYG6Qp5ro=/fit-in/200x150/filters:strip_icc()/pic2895753.png",
+    "year_published": "2015",
+    "designers": [
+        "Nate French",
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 3.60,
+    "rating": 8.52,
+    "play_time": "30 - 90",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        }
+    ],
+    "designers_string": "Nate French; Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}"
+}

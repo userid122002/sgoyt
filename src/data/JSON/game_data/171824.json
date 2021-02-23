@@ -1,0 +1,70 @@
+{
+    "game_id": "171824",
+    "game_name": "Run, Fight, or Die!: Big Box",
+    "bgg_link": "https://boardgamegeek.com/boardgame/171824",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5387460",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5387460#item5387460",
+            "geeklist_host": "maloma",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5693785",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5693785#item5693785",
+            "geeklist_host": "cornishlee",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7399984",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7399984#item7399984",
+            "geeklist_host": "jeffrhind",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/WNmIHtfdp23pu5CAlXoaKw__thumb/img/lx_IuHK5bx50vYv-C3XJ_VqFr88=/fit-in/200x150/filters:strip_icc()/pic4082583.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Richard Launius"
+    ],
+    "weight": 2.00,
+    "rating": 6.67,
+    "play_time": "0",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Zombies"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "89910",
+            "game_name": "Run, Fight, or Die!",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/89910"
+        }
+    ],
+    "designers_string": "Richard Launius",
+    "categories_string": "Zombies",
+    "mechanics_string": "Dice Rolling; Push Your Luck; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '89910', 'game_name': 'Run, Fight, or Die!', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/89910'}"
+}

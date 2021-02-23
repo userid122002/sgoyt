@@ -1,0 +1,72 @@
+{
+    "game_id": "194880",
+    "game_name": "Dream Home",
+    "bgg_link": "https://boardgamegeek.com/boardgame/194880",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6008483",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6008483#item6008483",
+            "geeklist_host": "busdjur",
+            "contributor": "darnheather"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/CtVH__gM0TBISzOzV3OeFQ__thumb/img/2aOcQ_RKw7fJYJTTdWrFHIk6coE=/fit-in/200x150/filters:strip_icc()/pic3176771.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Klemens Kalicki"
+    ],
+    "weight": 1.67,
+    "rating": 6.92,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "30",
+    "categories": [
+        "Card Game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Memory",
+        "Pattern Building",
+        "Set Collection",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "208871",
+            "expansion_name": "Domek: Promo Token - Car",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/208871"
+        },
+        {
+            "expansion_id": "232291",
+            "expansion_name": "Dream Home: 156 Sunny Street",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/232291"
+        },
+        {
+            "expansion_id": "313511",
+            "expansion_name": "Dream Home: Pets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313511"
+        },
+        {
+            "expansion_id": "215798",
+            "expansion_name": "Dream Home: Promo Tokens - Christmas Tree",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/215798"
+        },
+        {
+            "expansion_id": "313510",
+            "expansion_name": "Dream Home: Stork",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313510"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Klemens Kalicki",
+    "categories_string": "Card Game",
+    "mechanics_string": "Card Drafting; Memory; Pattern Building; Set Collection; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '208871', 'expansion_name': 'Domek: Promo Token - Car', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/208871'}; {'expansion_id': '232291', 'expansion_name': 'Dream Home: 156 Sunny Street', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/232291'}; {'expansion_id': '313511', 'expansion_name': 'Dream Home: Pets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313511'}; {'expansion_id': '215798', 'expansion_name': 'Dream Home: Promo Tokens - Christmas Tree', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/215798'}; {'expansion_id': '313510', 'expansion_name': 'Dream Home: Stork', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313510'}",
+    "expansions_for_string": ""
+}

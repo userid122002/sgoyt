@@ -1,0 +1,48 @@
+{
+    "game_id": "22020",
+    "game_name": "APBA Major League Baseball Master Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/22020",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4119479",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4119479#item4119479",
+            "geeklist_host": "lukather",
+            "contributor": "holdeni"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/6bfcUOnISqy4oVmJzYyBLw__thumb/img/G0812Ze7Cve6m9kb-zsv_-qyNNs=/fit-in/200x150/filters:strip_icc()/pic52501.jpg",
+    "year_published": "1975",
+    "designers": [
+        "(Uncredited)"
+    ],
+    "weight": 3.33,
+    "rating": 7.40,
+    "play_time": "35",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Sports"
+    ],
+    "mechanics": [
+        "Dice Rolling"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "895",
+            "game_name": "APBA Pro Baseball",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/895"
+        }
+    ],
+    "designers_string": "(Uncredited)",
+    "categories_string": "Sports",
+    "mechanics_string": "Dice Rolling",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '895', 'game_name': 'APBA Pro Baseball', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/895'}"
+}

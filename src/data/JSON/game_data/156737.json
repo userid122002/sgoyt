@@ -1,0 +1,54 @@
+{
+    "game_id": "156737",
+    "game_name": "The X-Files",
+    "bgg_link": "https://boardgamegeek.com/boardgame/156737",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4961755",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4961755#item4961755",
+            "geeklist_host": "maloma",
+            "contributor": "petegs"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Yj9KH3G97Dgnq09GyxbGaQ__thumb/img/KTOlmlXHCbsBhtFBPhL1eqW6BmY=/fit-in/200x150/filters:strip_icc()/pic1963897.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Kevin Wilson"
+    ],
+    "weight": 2.10,
+    "rating": 6.35,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Adventure",
+        "Bluffing",
+        "Movies / TV / Radio theme",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Point to Point Movement",
+        "Secret Unit Deployment",
+        "Team-Based Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "180661",
+            "expansion_name": "The X-Files: Trust No One Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180661"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Kevin Wilson",
+    "categories_string": "Adventure; Bluffing; Movies / TV / Radio theme; Science Fiction",
+    "mechanics_string": "Point to Point Movement; Secret Unit Deployment; Team-Based Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '180661', 'expansion_name': 'The X-Files: Trust No One Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180661'}",
+    "expansions_for_string": ""
+}

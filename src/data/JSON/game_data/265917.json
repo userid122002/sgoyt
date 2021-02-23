@@ -1,0 +1,61 @@
+{
+    "game_id": "265917",
+    "game_name": "Winterborne",
+    "bgg_link": "https://boardgamegeek.com/boardgame/265917",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7393735",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7393735#item7393735",
+            "geeklist_host": "jeffrhind",
+            "contributor": "WingTale"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/fxpUouNi-Lmnv9lUphqAeQ__thumb/img/kG6wwEQAeAEIHRMtdjzN_CGAFdU=/fit-in/200x150/filters:strip_icc()/pic4454126.png",
+    "year_published": "2019",
+    "designers": [
+        "Brian Suhre"
+    ],
+    "weight": 3.12,
+    "rating": 7.32,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "City Building",
+        "Civilization",
+        "Exploration",
+        "Fantasy",
+        "Mythology"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Rondel",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "296933",
+            "expansion_name": "Winterborne: Loyalty Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/296933"
+        },
+        {
+            "expansion_id": "302450",
+            "expansion_name": "Winterborne: Tantrum House 2019 promo card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302450"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Brian Suhre",
+    "categories_string": "City Building; Civilization; Exploration; Fantasy; Mythology",
+    "mechanics_string": "Area Majority / Influence; Deck, Bag, and Pool Building; Hand Management; Rondel; Tile Placement",
+    "expansions_string": "{'expansion_id': '296933', 'expansion_name': 'Winterborne: Loyalty Promo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/296933'}; {'expansion_id': '302450', 'expansion_name': 'Winterborne: Tantrum House 2019 promo card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302450'}",
+    "expansions_for_string": ""
+}

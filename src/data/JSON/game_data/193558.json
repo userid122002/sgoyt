@@ -1,0 +1,82 @@
+{
+    "game_id": "193558",
+    "game_name": "The Oracle of Delphi",
+    "bgg_link": "https://boardgamegeek.com/boardgame/193558",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6628042",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6628042#item6628042",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "dejunking"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6979255",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6979255#item6979255",
+            "geeklist_host": "magic_erwt",
+            "contributor": "gentle"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/B3wVBSgHz1SW3VfcwbNvIA__thumb/img/z5eHOpwpI70RpFsiFcciqxBtPyk=/fit-in/200x150/filters:strip_icc()/pic3126511.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Stefan Feld"
+    ],
+    "weight": 3.00,
+    "rating": 7.30,
+    "play_time": "70 - 100",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "19",
+    "categories": [
+        "Ancient",
+        "Mythology",
+        "Nautical"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Grid Movement",
+        "Modular Board",
+        "Pick-up and Deliver",
+        "Push Your Luck",
+        "Race",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "204573",
+            "expansion_name": "Brettspiel Adventskalender 2016",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204573"
+        },
+        {
+            "expansion_id": "213211",
+            "expansion_name": "The Oracle of Delphi: Seafarer Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213211"
+        },
+        {
+            "expansion_id": "211792",
+            "expansion_name": "The Oracle of Delphi: The Pillars of Delphi Variant",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211792"
+        },
+        {
+            "expansion_id": "223303",
+            "expansion_name": "The Oracle of Delphi: The Power of Zeus",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/223303"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stefan Feld",
+    "categories_string": "Ancient; Mythology; Nautical",
+    "mechanics_string": "Action Points; Dice Rolling; Grid Movement; Modular Board; Pick-up and Deliver; Push Your Luck; Race; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '204573', 'expansion_name': 'Brettspiel Adventskalender 2016', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204573'}; {'expansion_id': '213211', 'expansion_name': 'The Oracle of Delphi: Seafarer Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213211'}; {'expansion_id': '211792', 'expansion_name': 'The Oracle of Delphi: The Pillars of Delphi Variant', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211792'}; {'expansion_id': '223303', 'expansion_name': 'The Oracle of Delphi: The Power of Zeus', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/223303'}",
+    "expansions_for_string": ""
+}

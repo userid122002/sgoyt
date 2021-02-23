@@ -1,0 +1,80 @@
+{
+    "game_id": "190019",
+    "game_name": "Warhammer 40,000: Conquest - Legions of Death",
+    "bgg_link": "https://boardgamegeek.com/boardgame/190019",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4807208",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4807208#item4807208",
+            "geeklist_host": "govmiller",
+            "contributor": "de_la_poer"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Y2Vnd-0wbl0iYH1ujAme6A__thumb/img/7P1RlYzYHLW4CUlaubVd_DsfT0k=/fit-in/200x150/filters:strip_icc()/pic2821899.png",
+    "year_published": "2016",
+    "designers": [],
+    "weight": 3.00,
+    "rating": 7.72,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Hand Management",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "203745",
+            "expansion_name": "Warhammer 40,000: Conquest - Against the Great Enemy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/203745"
+        },
+        {
+            "expansion_id": "194717",
+            "expansion_name": "Warhammer 40,000: Conquest - Jungles of Nectavus",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194717"
+        },
+        {
+            "expansion_id": "205381",
+            "expansion_name": "Warhammer 40,000: Conquest - Searching for Truth",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/205381"
+        },
+        {
+            "expansion_id": "197581",
+            "expansion_name": "Warhammer 40,000: Conquest - Slash and Burn",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197581"
+        },
+        {
+            "expansion_id": "202240",
+            "expansion_name": "Warhammer 40,000: Conquest - The Warp Unleashed",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202240"
+        },
+        {
+            "expansion_id": "196383",
+            "expansion_name": "Warhammer 40,000: Conquest - Unforgiven",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196383"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "156776",
+            "game_name": "Warhammer 40,000: Conquest",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/156776"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Card Game; Science Fiction",
+    "mechanics_string": "Area Majority / Influence; Hand Management; Set Collection",
+    "expansions_string": "{'expansion_id': '203745', 'expansion_name': 'Warhammer 40,000: Conquest - Against the Great Enemy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/203745'}; {'expansion_id': '194717', 'expansion_name': 'Warhammer 40,000: Conquest - Jungles of Nectavus', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194717'}; {'expansion_id': '205381', 'expansion_name': 'Warhammer 40,000: Conquest - Searching for Truth', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/205381'}; {'expansion_id': '197581', 'expansion_name': 'Warhammer 40,000: Conquest - Slash and Burn', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197581'}; {'expansion_id': '202240', 'expansion_name': 'Warhammer 40,000: Conquest - The Warp Unleashed', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202240'}; {'expansion_id': '196383', 'expansion_name': 'Warhammer 40,000: Conquest - Unforgiven', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196383'}",
+    "expansions_for_string": "{'game_id': '156776', 'game_name': 'Warhammer 40,000: Conquest', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/156776'}"
+}

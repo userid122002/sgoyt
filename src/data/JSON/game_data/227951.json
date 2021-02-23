@@ -1,0 +1,102 @@
+{
+    "game_id": "227951",
+    "game_name": "Leaving Earth: Stations",
+    "bgg_link": "https://boardgamegeek.com/boardgame/227951",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5646796",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5646796#item5646796",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "briezee"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5952266",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5952266#item5952266",
+            "geeklist_host": "radthanael",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6146685",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6146685#item6146685",
+            "geeklist_host": "Pjandy",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6274758",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6274758#item6274758",
+            "geeklist_host": "emodiu5",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6278218",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6278218#item6278218",
+            "geeklist_host": "emodiu5",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7781588",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7781588#item7781588",
+            "geeklist_host": "repairmanjack",
+            "contributor": "carbon_dragon"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/F1NdO7uPAOZyFoSfjJXqMA__thumb/img/LMUoM73-69XK4LRlDZUl0KoNnaY=/fit-in/200x150/filters:strip_icc()/pic3584566.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Joseph Fatula"
+    ],
+    "weight": 3.90,
+    "rating": 8.53,
+    "play_time": "0",
+    "best": "5",
+    "recommended": "4",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Pick-up and Deliver",
+        "Point to Point Movement",
+        "Simulation",
+        "Stock Holding"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "173064",
+            "game_name": "Leaving Earth",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/173064"
+        }
+    ],
+    "designers_string": "Joseph Fatula",
+    "categories_string": "Expansion for Base-game; Space Exploration",
+    "mechanics_string": "Pick-up and Deliver; Point to Point Movement; Simulation; Stock Holding",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '173064', 'game_name': 'Leaving Earth', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/173064'}"
+}

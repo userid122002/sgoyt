@@ -1,0 +1,519 @@
+{
+    "game_id": "5206",
+    "game_name": "Ogre",
+    "bgg_link": "https://boardgamegeek.com/boardgame/5206",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "164593",
+            "geeklist_item_id": "2944915",
+            "year_month": "2013/11",
+            "year": "2013",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/164593/item/2944915#item2944915",
+            "geeklist_host": "mikolajl",
+            "contributor": "Spirit of 70"
+        },
+        {
+            "geeklist_id": "166060",
+            "geeklist_item_id": "2960191",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2960191#item2960191",
+            "geeklist_host": "often",
+            "contributor": "Gruven_reuven"
+        },
+        {
+            "geeklist_id": "166060",
+            "geeklist_item_id": "2980359",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2980359#item2980359",
+            "geeklist_host": "often",
+            "contributor": "fractaloon"
+        },
+        {
+            "geeklist_id": "166060",
+            "geeklist_item_id": "2985321",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2985321#item2985321",
+            "geeklist_host": "often",
+            "contributor": "Spirit of 70"
+        },
+        {
+            "geeklist_id": "171598",
+            "geeklist_item_id": "3177516",
+            "year_month": "2014/04",
+            "year": "2014",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/171598/item/3177516#item3177516",
+            "geeklist_host": "Malaiser",
+            "contributor": "Spirit of 70"
+        },
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3223972",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3223972#item3223972",
+            "geeklist_host": "fractaloon",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "176697",
+            "geeklist_item_id": "3349404",
+            "year_month": "2014/08",
+            "year": "2014",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/176697/item/3349404#item3349404",
+            "geeklist_host": "petegs",
+            "contributor": "SBGrad"
+        },
+        {
+            "geeklist_id": "176697",
+            "geeklist_item_id": "3367011",
+            "year_month": "2014/08",
+            "year": "2014",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/176697/item/3367011#item3367011",
+            "geeklist_host": "petegs",
+            "contributor": "Spirit of 70"
+        },
+        {
+            "geeklist_id": "176697",
+            "geeklist_item_id": "3395058",
+            "year_month": "2014/08",
+            "year": "2014",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/176697/item/3395058#item3395058",
+            "geeklist_host": "petegs",
+            "contributor": "True_Dave"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3419351",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3419351#item3419351",
+            "geeklist_host": "Malaiser",
+            "contributor": "Topherunhinged"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3429119",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3429119#item3429119",
+            "geeklist_host": "Malaiser",
+            "contributor": "mo7189"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3467661",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3467661#item3467661",
+            "geeklist_host": "Malaiser",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3469403",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3469403#item3469403",
+            "geeklist_host": "joestin",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3550433",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3550433#item3550433",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3567131",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3567131#item3567131",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3606198",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3606198#item3606198",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3606795",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3606795#item3606795",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3639731",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3639731#item3639731",
+            "geeklist_host": "bikefreak",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3878913",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3878913#item3878913",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3968124",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3968124#item3968124",
+            "geeklist_host": "koinskyz",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4000054",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4000054#item4000054",
+            "geeklist_host": "joestin",
+            "contributor": "douglasfir"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4246526",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4246526#item4246526",
+            "geeklist_host": "SBGrad",
+            "contributor": "rchandra"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4268002",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4268002#item4268002",
+            "geeklist_host": "rangerx",
+            "contributor": "SBGrad"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4328429",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4328429#item4328429",
+            "geeklist_host": "mikolajl",
+            "contributor": "mo7189"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4345200",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4345200#item4345200",
+            "geeklist_host": "mikolajl",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4667258",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4667258#item4667258",
+            "geeklist_host": "koinskyz",
+            "contributor": "Herodotus Herodotus"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4806441",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4806441#item4806441",
+            "geeklist_host": "govmiller",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5274188",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5274188#item5274188",
+            "geeklist_host": "suzyvitale",
+            "contributor": "rangerx"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5413636",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5413636#item5413636",
+            "geeklist_host": "maloma",
+            "contributor": "jfardette"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5548324",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5548324#item5548324",
+            "geeklist_host": "kevinruns262",
+            "contributor": "SpideyMan63"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5552954",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5552954#item5552954",
+            "geeklist_host": "kevinruns262",
+            "contributor": "SpideyMan63"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6139138",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6139138#item6139138",
+            "geeklist_host": "Pjandy",
+            "contributor": "derpkhan"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6537803",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6537803#item6537803",
+            "geeklist_host": "Albia",
+            "contributor": "jfardette"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6549004",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6549004#item6549004",
+            "geeklist_host": "Albia",
+            "contributor": "barteus"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7365496",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7365496#item7365496",
+            "geeklist_host": "jeffrhind",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7330881",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7330881#item7330881",
+            "geeklist_host": "Albia",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8115529",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8115529#item8115529",
+            "geeklist_host": "ArianneH",
+            "contributor": "gamer nine"
+        }
+    ],
+    "sgoyt_count": 37,
+    "thumbnail": "https://cf.geekdo-images.com/9ng8DF-hodBIOFhQnLoRKg__thumb/img/AEDoj6Z4UinSEoJx8GX0fu-7154=/fit-in/200x150/filters:strip_icc()/pic3229789.jpg",
+    "year_published": "1977",
+    "designers": [
+        "Steve Jackson (I)"
+    ],
+    "weight": 2.35,
+    "rating": 6.95,
+    "play_time": "45",
+    "best": "1",
+    "recommended": "13",
+    "not_recommended": "9",
+    "categories": [
+        "Fighting",
+        "Science Fiction",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Movement Points",
+        "Paper-and-Pencil",
+        "Ratio / Combat Results Table",
+        "Scenario / Mission / Campaign Game",
+        "Simulation",
+        "Variable Player Powers",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "12482",
+            "expansion_name": "Ogre Battlefields",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/12482"
+        },
+        {
+            "expansion_id": "21691",
+            "expansion_name": "The Ogre Book",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21691"
+        },
+        {
+            "expansion_id": "7531",
+            "expansion_name": "Ogre Reinforcement Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/7531"
+        },
+        {
+            "expansion_id": "211873",
+            "expansion_name": "Ogre Reinforcements",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211873"
+        },
+        {
+            "expansion_id": "227939",
+            "expansion_name": "Ogre Stream Overlays",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227939"
+        },
+        {
+            "expansion_id": "152362",
+            "expansion_name": "Ogre: \"Targets Go Boom\" Counter Sheets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152362"
+        },
+        {
+            "expansion_id": "161700",
+            "expansion_name": "Ogre: ACD Distribution Sponsored Counter Sheet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161700"
+        },
+        {
+            "expansion_id": "168541",
+            "expansion_name": "Ogre: Barbarians at the Gate Sponsored Counter Sheets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168541"
+        },
+        {
+            "expansion_id": "286294",
+            "expansion_name": "Ogre: Battlefields",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286294"
+        },
+        {
+            "expansion_id": "132657",
+            "expansion_name": "Ogre: BGG 3-D Units Sponsored Counter Sheet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132657"
+        },
+        {
+            "expansion_id": "128620",
+            "expansion_name": "Ogre: BGG Exclusive Overlays Sponsored Counter Sheets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/128620"
+        },
+        {
+            "expansion_id": "152363",
+            "expansion_name": "Ogre: Kickstarter Exclusive Overlays Counter Sheets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152363"
+        },
+        {
+            "expansion_id": "152870",
+            "expansion_name": "Ogre: Nightfall Sponsored Counter Sheets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152870"
+        },
+        {
+            "expansion_id": "152360",
+            "expansion_name": "Ogre: Nihon Empire - North American Divisions Sponsored Counter Sheet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152360"
+        },
+        {
+            "expansion_id": "12537",
+            "expansion_name": "Ogre: Scenario Book 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/12537"
+        },
+        {
+            "expansion_id": "264430",
+            "expansion_name": "Ogre: Scenario Book 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264430"
+        },
+        {
+            "expansion_id": "264431",
+            "expansion_name": "Ogre: Scenario Book 3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264431"
+        },
+        {
+            "expansion_id": "161699",
+            "expansion_name": "Ogre: Strategic & Tactical Objectives Sponsored Counter Sheet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161699"
+        },
+        {
+            "expansion_id": "168255",
+            "expansion_name": "Ogre: Uncommon Ogres Sponsored Counter Sheets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168255"
+        },
+        {
+            "expansion_id": "152365",
+            "expansion_name": "Ogre: Vulcans & Friends Counter Sheets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152365"
+        },
+        {
+            "expansion_id": "7513",
+            "expansion_name": "Shockwave",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/7513"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Steve Jackson (I)",
+    "categories_string": "Fighting; Science Fiction; Wargame",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Movement Points; Paper-and-Pencil; Ratio / Combat Results Table; Scenario / Mission / Campaign Game; Simulation; Variable Player Powers; Variable Set-up",
+    "expansions_string": "{'expansion_id': '12482', 'expansion_name': 'Ogre Battlefields', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/12482'}; {'expansion_id': '21691', 'expansion_name': 'The Ogre Book', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21691'}; {'expansion_id': '7531', 'expansion_name': 'Ogre Reinforcement Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/7531'}; {'expansion_id': '211873', 'expansion_name': 'Ogre Reinforcements', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211873'}; {'expansion_id': '227939', 'expansion_name': 'Ogre Stream Overlays', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227939'}; {'expansion_id': '152362', 'expansion_name': 'Ogre: \"Targets Go Boom\" Counter Sheets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152362'}; {'expansion_id': '161700', 'expansion_name': 'Ogre: ACD Distribution Sponsored Counter Sheet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161700'}; {'expansion_id': '168541', 'expansion_name': 'Ogre: Barbarians at the Gate Sponsored Counter Sheets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168541'}; {'expansion_id': '286294', 'expansion_name': 'Ogre: Battlefields', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286294'}; {'expansion_id': '132657', 'expansion_name': 'Ogre: BGG 3-D Units Sponsored Counter Sheet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132657'}; {'expansion_id': '128620', 'expansion_name': 'Ogre: BGG Exclusive Overlays Sponsored Counter Sheets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/128620'}; {'expansion_id': '152363', 'expansion_name': 'Ogre: Kickstarter Exclusive Overlays Counter Sheets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152363'}; {'expansion_id': '152870', 'expansion_name': 'Ogre: Nightfall Sponsored Counter Sheets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152870'}; {'expansion_id': '152360', 'expansion_name': 'Ogre: Nihon Empire - North American Divisions Sponsored Counter Sheet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152360'}; {'expansion_id': '12537', 'expansion_name': 'Ogre: Scenario Book 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/12537'}; {'expansion_id': '264430', 'expansion_name': 'Ogre: Scenario Book 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264430'}; {'expansion_id': '264431', 'expansion_name': 'Ogre: Scenario Book 3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264431'}; {'expansion_id': '161699', 'expansion_name': 'Ogre: Strategic & Tactical Objectives Sponsored Counter Sheet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161699'}; {'expansion_id': '168255', 'expansion_name': 'Ogre: Uncommon Ogres Sponsored Counter Sheets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168255'}; {'expansion_id': '152365', 'expansion_name': 'Ogre: Vulcans & Friends Counter Sheets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152365'}; {'expansion_id': '7513', 'expansion_name': 'Shockwave', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/7513'}",
+    "expansions_for_string": ""
+}

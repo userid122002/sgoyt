@@ -1,0 +1,51 @@
+{
+    "game_id": "294738",
+    "game_name": "Snowdonia: Isle of Man",
+    "bgg_link": "https://boardgamegeek.com/boardgame/294738",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7995243",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7995243#item7995243",
+            "geeklist_host": "Albia",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/z2BtJFfK5rgi2RzOnLFD1A__thumb/img/Y6Be-_MOWvYxPGvZBUPYY5xnkRM=/fit-in/200x150/filters:strip_icc()/pic5707110.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Tony Boydell"
+    ],
+    "weight": 0.00,
+    "rating": 7.81,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Trains"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "255924",
+            "game_name": "Snowdonia: Deluxe Master Set",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/255924"
+        }
+    ],
+    "designers_string": "Tony Boydell",
+    "categories_string": "Expansion for Base-game; Trains",
+    "mechanics_string": "Card Drafting; Hand Management; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '255924', 'game_name': 'Snowdonia: Deluxe Master Set', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/255924'}"
+}

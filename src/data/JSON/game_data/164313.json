@@ -1,0 +1,109 @@
+{
+    "game_id": "164313",
+    "game_name": "The Lord of the Rings: The Card Game - The Lost Realm",
+    "bgg_link": "https://boardgamegeek.com/boardgame/164313",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4492985",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4492985#item4492985",
+            "geeklist_host": "pusherman42",
+            "contributor": "johnkfriday"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4515937",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4515937#item4515937",
+            "geeklist_host": "pusherman42",
+            "contributor": "johnkfriday"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5173310",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5173310#item5173310",
+            "geeklist_host": "settlerdave",
+            "contributor": "mschipper"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/p-203Yjck_6AueQqr7E6Qg__thumb/img/CJ8AXuG1JImNC57FPhjetHZy-P4=/fit-in/200x150/filters:strip_icc()/pic2387795.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 3.00,
+    "rating": 8.26,
+    "play_time": "60",
+    "best": "2",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "176058",
+            "expansion_name": "The Lord of the Rings: The Card Game - Across the Ettenmoors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176058"
+        },
+        {
+            "expansion_id": "174565",
+            "expansion_name": "The Lord of the Rings: The Card Game - Escape from Mount Gram",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/174565"
+        },
+        {
+            "expansion_id": "202178",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: The Lost Realm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202178"
+        },
+        {
+            "expansion_id": "178862",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Battle of Carn Dum",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178862"
+        },
+        {
+            "expansion_id": "180695",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Dread Realm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180695"
+        },
+        {
+            "expansion_id": "177608",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Treachery of Rhudaur",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/177608"
+        },
+        {
+            "expansion_id": "172680",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Wastes of Eriador",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/172680"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        }
+    ],
+    "designers_string": "Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management",
+    "expansions_string": "{'expansion_id': '176058', 'expansion_name': 'The Lord of the Rings: The Card Game - Across the Ettenmoors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176058'}; {'expansion_id': '174565', 'expansion_name': 'The Lord of the Rings: The Card Game - Escape from Mount Gram', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/174565'}; {'expansion_id': '202178', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: The Lost Realm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202178'}; {'expansion_id': '178862', 'expansion_name': 'The Lord of the Rings: The Card Game - The Battle of Carn Dum', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178862'}; {'expansion_id': '180695', 'expansion_name': 'The Lord of the Rings: The Card Game - The Dread Realm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180695'}; {'expansion_id': '177608', 'expansion_name': 'The Lord of the Rings: The Card Game - The Treachery of Rhudaur', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/177608'}; {'expansion_id': '172680', 'expansion_name': 'The Lord of the Rings: The Card Game - The Wastes of Eriador', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/172680'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}"
+}

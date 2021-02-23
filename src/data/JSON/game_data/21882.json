@@ -1,0 +1,83 @@
+{
+    "game_id": "21882",
+    "game_name": "Blue Moon City",
+    "bgg_link": "https://boardgamegeek.com/boardgame/21882",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3513807",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3513807#item3513807",
+            "geeklist_host": "joestin",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3962325",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3962325#item3962325",
+            "geeklist_host": "koinskyz",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4603685",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4603685#item4603685",
+            "geeklist_host": "jdarnold",
+            "contributor": "eastwoodk"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/1MRXcnaF8VqPaeIS6cEUDQ__thumb/img/sihUuUe4alBkHpkPdUSoDvri3Hs=/fit-in/200x150/filters:strip_icc()/pic4757841.jpg",
+    "year_published": "2006",
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "weight": 2.30,
+    "rating": 7.04,
+    "play_time": "30 - 50",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "100",
+    "categories": [
+        "City Building",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "26189",
+            "expansion_name": "Blue Moon City: Expansion Tile Sets 1 & 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/26189"
+        },
+        {
+            "expansion_id": "315961",
+            "expansion_name": "Blue Moon City: Hospital & Meeting Hall Promo Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/315961"
+        },
+        {
+            "expansion_id": "315962",
+            "expansion_name": "Blue Moon City: Theater & Golden Shrine Promo Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/315962"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Reiner Knizia",
+    "categories_string": "City Building; Fantasy",
+    "mechanics_string": "Area Majority / Influence; Grid Movement; Hand Management; Modular Board; Set Collection",
+    "expansions_string": "{'expansion_id': '26189', 'expansion_name': 'Blue Moon City: Expansion Tile Sets 1 & 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/26189'}; {'expansion_id': '315961', 'expansion_name': 'Blue Moon City: Hospital & Meeting Hall Promo Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/315961'}; {'expansion_id': '315962', 'expansion_name': 'Blue Moon City: Theater & Golden Shrine Promo Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/315962'}",
+    "expansions_for_string": ""
+}

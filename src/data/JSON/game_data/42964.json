@@ -1,0 +1,54 @@
+{
+    "game_id": "42964",
+    "game_name": "Railways of England and Wales",
+    "bgg_link": "https://boardgamegeek.com/boardgame/42964",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5924912",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5924912#item5924912",
+            "geeklist_host": "Jorune",
+            "contributor": "Royds"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/unBT_XbevmY_O9QWkIxSDQ__thumb/img/imOuQYVHdVAlgIElRQl5FIrJaYQ=/fit-in/200x150/filters:strip_icc()/pic556371.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Martin Wallace"
+    ],
+    "weight": 3.04,
+    "rating": 7.91,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "9",
+    "categories": [
+        "Expansion for Base-game",
+        "Trains",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Card Drafting",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "17133",
+            "game_name": "Railways of the World",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/17133"
+        }
+    ],
+    "designers_string": "Martin Wallace",
+    "categories_string": "Expansion for Base-game; Trains; Transportation",
+    "mechanics_string": "Auction/Bidding; Card Drafting; Network and Route Building; Pick-up and Deliver; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '17133', 'game_name': 'Railways of the World', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/17133'}"
+}

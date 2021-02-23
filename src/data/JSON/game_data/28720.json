@@ -1,0 +1,69 @@
+{
+    "game_id": "28720",
+    "game_name": "Brass: Lancashire",
+    "bgg_link": "https://boardgamegeek.com/boardgame/28720",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4910424",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4910424#item4910424",
+            "geeklist_host": "kikerl",
+            "contributor": "nouvato"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6554259",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6554259#item6554259",
+            "geeklist_host": "Albia",
+            "contributor": "sarebear62"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/0BsjJY9MTlx9DRrlkeE69w__thumb/img/9SUEXpaf_ZdaeR0oS7BS55G5lCw=/fit-in/200x150/filters:strip_icc()/pic5482020.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Martin Wallace"
+    ],
+    "weight": 3.86,
+    "rating": 8.17,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "233",
+    "categories": [
+        "Economic",
+        "Industry / Manufacturing",
+        "Post-Napoleonic",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Income",
+        "Loans",
+        "Network and Route Building"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "201381",
+            "expansion_name": "Brass: 2-player board",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/201381"
+        },
+        {
+            "expansion_id": "138329",
+            "expansion_name": "Catalonia (fan expansion for Brass)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/138329"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Martin Wallace",
+    "categories_string": "Economic; Industry / Manufacturing; Post-Napoleonic; Transportation",
+    "mechanics_string": "Hand Management; Income; Loans; Network and Route Building",
+    "expansions_string": "{'expansion_id': '201381', 'expansion_name': 'Brass: 2-player board', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/201381'}; {'expansion_id': '138329', 'expansion_name': 'Catalonia (fan expansion for Brass)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/138329'}",
+    "expansions_for_string": ""
+}

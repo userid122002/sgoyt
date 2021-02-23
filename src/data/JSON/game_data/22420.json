@@ -1,0 +1,54 @@
+{
+    "game_id": "22420",
+    "game_name": "Battles of Napoleon: The Eagle and the Lion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/22420",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3890264",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3890264#item3890264",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "Zouave"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/BXVBWJzyHz50SxgsEPg0lQ__thumb/img/vZD_AhkZHGVufpzl5jX2f-BeSmI=/fit-in/200x150/filters:strip_icc()/pic358080.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Ugo Di Meglio",
+        "Sergio Guerri"
+    ],
+    "weight": 3.68,
+    "rating": 7.33,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "3",
+    "categories": [
+        "Miniatures",
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Hexagon Grid",
+        "Modular Board",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "74169",
+            "expansion_name": "Grand Melee",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/74169"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ugo Di Meglio; Sergio Guerri",
+    "categories_string": "Miniatures; Napoleonic; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Hexagon Grid; Modular Board; Simulation",
+    "expansions_string": "{'expansion_id': '74169', 'expansion_name': 'Grand Melee', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/74169'}",
+    "expansions_for_string": ""
+}

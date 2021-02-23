@@ -1,0 +1,51 @@
+{
+    "game_id": "244877",
+    "game_name": "Corsair Leader: Aces Expansion Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/244877",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6520187",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6520187#item6520187",
+            "geeklist_host": "Albia",
+            "contributor": "Arven"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/OYO8evwBRXMCAtH7PgzBMw__thumb/img/7FZ6OOKJOIRqePHUjRBET2Ov4Kk=/fit-in/200x150/filters:strip_icc()/pic4368381.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Dan Verssen"
+    ],
+    "weight": 2.00,
+    "rating": 7.60,
+    "play_time": "120",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Aviation / Flight",
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Simulation"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "20734",
+            "game_name": "Corsair Leader",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/20734"
+        }
+    ],
+    "designers_string": "Dan Verssen",
+    "categories_string": "Aviation / Flight; Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Simulation",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '20734', 'game_name': 'Corsair Leader', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/20734'}"
+}

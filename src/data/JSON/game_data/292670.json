@@ -1,0 +1,64 @@
+{
+    "game_id": "292670",
+    "game_name": "SpaceCorp: Ventures",
+    "bgg_link": "https://boardgamegeek.com/boardgame/292670",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7955034",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7955034#item7955034",
+            "geeklist_host": "Albia",
+            "contributor": "mgaler"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7963871",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7963871#item7963871",
+            "geeklist_host": "Albia",
+            "contributor": "mgaler"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Mi3VtcfrLQvDHLIOK1CnOw__thumb/img/cTIxDNJOwvcUi8-lZf1R9vhxSLY=/fit-in/200x150/filters:strip_icc()/pic5778063.png",
+    "year_published": "2021",
+    "designers": [
+        "John H. Butterfield"
+    ],
+    "weight": 0.00,
+    "rating": 8.00,
+    "play_time": "60 - 240",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Exploration",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Point to Point Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "214029",
+            "game_name": "SpaceCorp",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/214029"
+        }
+    ],
+    "designers_string": "John H. Butterfield",
+    "categories_string": "Economic; Expansion for Base-game; Exploration; Science Fiction; Space Exploration",
+    "mechanics_string": "Hand Management; Point to Point Movement; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '214029', 'game_name': 'SpaceCorp', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/214029'}"
+}

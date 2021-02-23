@@ -1,0 +1,88 @@
+{
+    "game_id": "197971",
+    "game_name": "Bottom of the 9th: Clubhouse Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/197971",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6003461",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6003461#item6003461",
+            "geeklist_host": "busdjur",
+            "contributor": "PhanSiPance"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6201642",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6201642#item6201642",
+            "geeklist_host": "Gribbon",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6837758",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6837758#item6837758",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "PhanSiPance"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6849434",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6849434#item6849434",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "PhanSiPance"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/L9aZ3ENQvfcEeg1E6tBEwA__thumb/img/VvODkazFL_tTIQ8kvHRzt8BVvjc=/fit-in/200x150/filters:strip_icc()/pic2976515.png",
+    "year_published": "2017",
+    "designers": [
+        "Darrell Louder",
+        "Mike Mullins"
+    ],
+    "weight": 2.00,
+    "rating": 7.50,
+    "play_time": "5 - 15",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Bluffing",
+        "Card Game",
+        "Deduction",
+        "Dice",
+        "Expansion for Base-game",
+        "Real-time",
+        "Sports"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Simulation",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "166286",
+            "game_name": "Bottom of the 9th",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/166286"
+        }
+    ],
+    "designers_string": "Darrell Louder; Mike Mullins",
+    "categories_string": "Bluffing; Card Game; Deduction; Dice; Expansion for Base-game; Real-time; Sports",
+    "mechanics_string": "Dice Rolling; Push Your Luck; Simulation; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '166286', 'game_name': 'Bottom of the 9th', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/166286'}"
+}

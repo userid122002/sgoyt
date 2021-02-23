@@ -1,0 +1,81 @@
+{
+    "game_id": "192896",
+    "game_name": "The Cards of Cthulhu: Beyond the Veil",
+    "bgg_link": "https://boardgamegeek.com/boardgame/192896",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4509285",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4509285#item4509285",
+            "geeklist_host": "pusherman42",
+            "contributor": "richdodgin"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6186110",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6186110#item6186110",
+            "geeklist_host": "Gribbon",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6423799",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6423799#item6423799",
+            "geeklist_host": "dobrazil",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7918782",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7918782#item7918782",
+            "geeklist_host": "Elida",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/_uwdR71hsBSfOBkgqd3vyg__thumb/img/DbvRLuPBvAQBbAOSsCk29O9TbDI=/fit-in/200x150/filters:strip_icc()/pic2914516.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Ian Richard"
+    ],
+    "weight": 2.25,
+    "rating": 7.14,
+    "play_time": "30 - 90",
+    "best": "3",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Horror"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "145642",
+            "game_name": "The Cards of Cthulhu",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/145642"
+        }
+    ],
+    "designers_string": "Ian Richard",
+    "categories_string": "Dice; Expansion for Base-game; Horror",
+    "mechanics_string": "Cooperative Game; Dice Rolling",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '145642', 'game_name': 'The Cards of Cthulhu', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/145642'}"
+}

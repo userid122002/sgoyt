@@ -1,0 +1,64 @@
+{
+    "game_id": "139993",
+    "game_name": "Kingdom Builder: Big Box",
+    "bgg_link": "https://boardgamegeek.com/boardgame/139993",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8045537",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8045537#item8045537",
+            "geeklist_host": "airzonk1",
+            "contributor": "GameRulesforOne"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/N83hyjtlRzQ3DF1ldMhTkg__thumb/img/B1xzmp7_5SSHJ6l-Bsm5URSjL0A=/fit-in/200x150/filters:strip_icc()/pic3387491.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Donald X. Vaccarino"
+    ],
+    "weight": 2.36,
+    "rating": 7.61,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "6",
+    "categories": [
+        "Medieval",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Chaining",
+        "Enclosure",
+        "Grid Movement",
+        "Modular Board",
+        "Network and Route Building"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "195267",
+            "expansion_name": "Kingdom Builder: Harvest",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/195267"
+        },
+        {
+            "expansion_id": "179622",
+            "expansion_name": "Kingdom Builder: Marshlands",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179622"
+        },
+        {
+            "expansion_id": "156102",
+            "expansion_name": "Kingdom Builder: The Island",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/156102"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Donald X. Vaccarino",
+    "categories_string": "Medieval; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Chaining; Enclosure; Grid Movement; Modular Board; Network and Route Building",
+    "expansions_string": "{'expansion_id': '195267', 'expansion_name': 'Kingdom Builder: Harvest', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/195267'}; {'expansion_id': '179622', 'expansion_name': 'Kingdom Builder: Marshlands', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179622'}; {'expansion_id': '156102', 'expansion_name': 'Kingdom Builder: The Island', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/156102'}",
+    "expansions_for_string": ""
+}

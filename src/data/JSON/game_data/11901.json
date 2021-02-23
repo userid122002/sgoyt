@@ -1,0 +1,50 @@
+{
+    "game_id": "11901",
+    "game_name": "Tic-Tac-Toe",
+    "bgg_link": "https://boardgamegeek.com/boardgame/11901",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5457061",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5457061#item5457061",
+            "geeklist_host": "koinskyz",
+            "contributor": "Sapper_SB"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/UImMYmMZKE4AGTMPHRM9fA__thumb/img/Usf_w0hroenXwFopRfYCtZtdjmU=/fit-in/200x150/filters:strip_icc()/pic48183.jpg",
+    "year_published": "-1300",
+    "designers": [
+        "(Uncredited)"
+    ],
+    "weight": 1.16,
+    "rating": 2.68,
+    "play_time": "1",
+    "best": "8",
+    "recommended": "6",
+    "not_recommended": "66",
+    "categories": [
+        "Abstract Strategy",
+        "Children's Game"
+    ],
+    "mechanics": [
+        "Paper-and-Pencil",
+        "Pattern Building"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "65713",
+            "expansion_name": "Martian Tic-Tac-Toe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/65713"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "(Uncredited)",
+    "categories_string": "Abstract Strategy; Children's Game",
+    "mechanics_string": "Paper-and-Pencil; Pattern Building",
+    "expansions_string": "{'expansion_id': '65713', 'expansion_name': 'Martian Tic-Tac-Toe', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/65713'}",
+    "expansions_for_string": ""
+}

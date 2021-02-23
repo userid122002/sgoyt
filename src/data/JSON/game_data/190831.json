@@ -1,0 +1,61 @@
+{
+    "game_id": "190831",
+    "game_name": "Dice City: All That Glitters",
+    "bgg_link": "https://boardgamegeek.com/boardgame/190831",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4857989",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4857989#item4857989",
+            "geeklist_host": "kikerl",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7400198",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7400198#item7400198",
+            "geeklist_host": "jeffrhind",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/oWX7vD86loXTtT1WvfKHtA__thumb/img/7NLeCKQ-Nm5bEdEGzersBlWQ3nc=/fit-in/200x150/filters:strip_icc()/pic2908562.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Vangelis Bagiartakis"
+    ],
+    "weight": 2.25,
+    "rating": 7.09,
+    "play_time": "45 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "3",
+    "categories": [
+        "City Building",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Worker Placement",
+        "Worker Placement with Dice Workers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "179572",
+            "game_name": "Dice City",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/179572"
+        }
+    ],
+    "designers_string": "Vangelis Bagiartakis",
+    "categories_string": "City Building; Medieval",
+    "mechanics_string": "Dice Rolling; Worker Placement; Worker Placement with Dice Workers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '179572', 'game_name': 'Dice City', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/179572'}"
+}

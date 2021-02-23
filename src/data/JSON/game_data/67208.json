@@ -1,0 +1,84 @@
+{
+    "game_id": "67208",
+    "game_name": "Arkham Horror: The Lurker at the Threshold Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/67208",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4531082",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4531082#item4531082",
+            "geeklist_host": "pusherman42",
+            "contributor": "rangerx"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6289874",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6289874#item6289874",
+            "geeklist_host": "spaceman23",
+            "contributor": "xemxi"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7094634",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7094634#item7094634",
+            "geeklist_host": "Venom Snake",
+            "contributor": "kikerl"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/VJlapYuRo1Cr9zgRcH_PUA__thumb/img/EVXcaMfyELmaPvuG0mwvIztvIz0=/fit-in/200x150/filters:strip_icc()/pic782540.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Daniel Clark (I)",
+        "Tim Uren"
+    ],
+    "weight": 3.35,
+    "rating": 7.79,
+    "play_time": "240",
+    "best": "2",
+    "recommended": "1",
+    "not_recommended": "8",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fighting",
+        "Horror",
+        "Novel-based",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Point to Point Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "93465",
+            "expansion_name": "Arkham Horror: Miskatonic Horror Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93465"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "15987",
+            "game_name": "Arkham Horror",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/15987"
+        }
+    ],
+    "designers_string": "Daniel Clark (I); Tim Uren",
+    "categories_string": "Adventure; Expansion for Base-game; Fighting; Horror; Novel-based; Science Fiction",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Hand Management; Point to Point Movement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '93465', 'expansion_name': 'Arkham Horror: Miskatonic Horror Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93465'}",
+    "expansions_for_string": "{'game_id': '15987', 'game_name': 'Arkham Horror', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/15987'}"
+}

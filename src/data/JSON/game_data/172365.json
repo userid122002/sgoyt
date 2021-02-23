@@ -1,0 +1,92 @@
+{
+    "game_id": "172365",
+    "game_name": "Assault on Doomrock: Doompocalypse",
+    "bgg_link": "https://boardgamegeek.com/boardgame/172365",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4283404",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4283404#item4283404",
+            "geeklist_host": "rangerx",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4330956",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4330956#item4330956",
+            "geeklist_host": "mikolajl",
+            "contributor": "schroederjan"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4971992",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4971992#item4971992",
+            "geeklist_host": "maloma",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4980402",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4980402#item4980402",
+            "geeklist_host": "maloma",
+            "contributor": "Zouave"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/6XMpje3haurAfx5zVZPsLA__thumb/img/OZ2QySHazHE_6J9z8SR9qrcQV5k=/fit-in/200x150/filters:strip_icc()/pic2412360.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Christopher Niewiadomski",
+        "Tom Stasiak"
+    ],
+    "weight": 3.36,
+    "rating": 7.61,
+    "play_time": "150",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "186462",
+            "expansion_name": "Assault on Doomrock: Doompocalypse - Kickstarter Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186462"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "149241",
+            "game_name": "Assault on Doomrock",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/149241"
+        }
+    ],
+    "designers_string": "Christopher Niewiadomski; Tom Stasiak",
+    "categories_string": "Adventure; Dice; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Area Movement; Cooperative Game; Dice Rolling; Role Playing; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '186462', 'expansion_name': 'Assault on Doomrock: Doompocalypse - Kickstarter Promo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186462'}",
+    "expansions_for_string": "{'game_id': '149241', 'game_name': 'Assault on Doomrock', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/149241'}"
+}

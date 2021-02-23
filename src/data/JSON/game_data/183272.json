@@ -1,0 +1,75 @@
+{
+    "game_id": "183272",
+    "game_name": "Legacy: The Testament of Duke de Crecy - Five Families",
+    "bgg_link": "https://boardgamegeek.com/boardgame/183272",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4627331",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4627331#item4627331",
+            "geeklist_host": "gentle",
+            "contributor": "kittenhoarder"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8077018",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8077018#item8077018",
+            "geeklist_host": "Swizze",
+            "contributor": "Nickxvan1"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8077041",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8077041#item8077041",
+            "geeklist_host": "Swizze",
+            "contributor": "Nickxvan1"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/UPRJHyVRZJif1QPYVwMihg__thumb/img/bxiqQwuyoICFDDf3paXeKyxY-3c=/fit-in/200x150/filters:strip_icc()/pic2648400.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Ignacy Trzewiczek",
+        "Micha Walczak"
+    ],
+    "weight": 3.00,
+    "rating": 6.81,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Age of Reason",
+        "Card Game",
+        "Economic",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Set Collection",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "52461",
+            "game_name": "Legacy: The Testament of Duke de Crecy",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/52461"
+        }
+    ],
+    "designers_string": "Ignacy Trzewiczek; Micha Walczak",
+    "categories_string": "Age of Reason; Card Game; Economic; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Hand Management; Set Collection; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '52461', 'game_name': 'Legacy: The Testament of Duke de Crecy', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/52461'}"
+}

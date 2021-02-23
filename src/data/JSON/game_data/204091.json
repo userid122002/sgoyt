@@ -1,0 +1,86 @@
+{
+    "game_id": "204091",
+    "game_name": "The Lord of the Rings: The Card Game - The Sands of Harad",
+    "bgg_link": "https://boardgamegeek.com/boardgame/204091",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6509820",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6509820#item6509820",
+            "geeklist_host": "kevinruns262",
+            "contributor": "wkufan89"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/hGk0bInmtlr-IZdU3xFk1Q__thumb/img/OdGRmBTqn6ygKgQjEawbb4RPCKk=/fit-in/200x150/filters:strip_icc()/pic3239098.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Nate French",
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 3.00,
+    "rating": 8.27,
+    "play_time": "60",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "209997",
+            "expansion_name": "The Lord of the Rings: The Card Game - Beneath the Sands",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/209997"
+        },
+        {
+            "expansion_id": "207615",
+            "expansion_name": "The Lord of the Rings: The Card Game - Race Across Harad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207615"
+        },
+        {
+            "expansion_id": "212142",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Black Serpent",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/212142"
+        },
+        {
+            "expansion_id": "220139",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Crossings of Poros",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220139"
+        },
+        {
+            "expansion_id": "217403",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Dungeons of Cirith Gurat",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/217403"
+        },
+        {
+            "expansion_id": "206259",
+            "expansion_name": "The Lord of the Rings: The Card Game - The Mumakil",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206259"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        }
+    ],
+    "designers_string": "Nate French; Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '209997', 'expansion_name': 'The Lord of the Rings: The Card Game - Beneath the Sands', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/209997'}; {'expansion_id': '207615', 'expansion_name': 'The Lord of the Rings: The Card Game - Race Across Harad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207615'}; {'expansion_id': '212142', 'expansion_name': 'The Lord of the Rings: The Card Game - The Black Serpent', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/212142'}; {'expansion_id': '220139', 'expansion_name': 'The Lord of the Rings: The Card Game - The Crossings of Poros', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220139'}; {'expansion_id': '217403', 'expansion_name': 'The Lord of the Rings: The Card Game - The Dungeons of Cirith Gurat', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/217403'}; {'expansion_id': '206259', 'expansion_name': 'The Lord of the Rings: The Card Game - The Mumakil', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206259'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}"
+}

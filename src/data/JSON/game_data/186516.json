@@ -1,0 +1,62 @@
+{
+    "game_id": "186516",
+    "game_name": "Run, Fight, or Die!: Solo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/186516",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4965749",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4965749#item4965749",
+            "geeklist_host": "maloma",
+            "contributor": "WonkyToad"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5473528",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5473528#item5473528",
+            "geeklist_host": "koinskyz",
+            "contributor": "Moe45673"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/AJGSFGiFywFmXBtK2q9c3Q__thumb/img/eiQjg5ZkPUNuRzKGPbaY1Xj5_BI=/fit-in/200x150/filters:strip_icc()/pic5472136.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Jason Maxwell"
+    ],
+    "weight": 3.00,
+    "rating": 6.68,
+    "play_time": "0",
+    "best": "177",
+    "recommended": "358",
+    "not_recommended": "42",
+    "categories": [
+        "Expansion for Base-game",
+        "Horror",
+        "Miniatures",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "89910",
+            "game_name": "Run, Fight, or Die!",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/89910"
+        }
+    ],
+    "designers_string": "Jason Maxwell",
+    "categories_string": "Expansion for Base-game; Horror; Miniatures; Zombies",
+    "mechanics_string": "Dice Rolling; Push Your Luck",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '89910', 'game_name': 'Run, Fight, or Die!', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/89910'}"
+}

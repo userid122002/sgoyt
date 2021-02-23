@@ -1,0 +1,144 @@
+{
+    "game_id": "177739",
+    "game_name": "Imperial Settlers: Atlanteans",
+    "bgg_link": "https://boardgamegeek.com/boardgame/177739",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4297216",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4297216#item4297216",
+            "geeklist_host": "rangerx",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4435283",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4435283#item4435283",
+            "geeklist_host": "Woelf",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4437391",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4437391#item4437391",
+            "geeklist_host": "Woelf",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4442314",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4442314#item4442314",
+            "geeklist_host": "Woelf",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4445007",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4445007#item4445007",
+            "geeklist_host": "Woelf",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4791111",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4791111#item4791111",
+            "geeklist_host": "govmiller",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5079822",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5079822#item5079822",
+            "geeklist_host": "mikolajl",
+            "contributor": "maloma"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5393437",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5393437#item5393437",
+            "geeklist_host": "maloma",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5468985",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5468985#item5468985",
+            "geeklist_host": "koinskyz",
+            "contributor": "Rindel"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5908280",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5908280#item5908280",
+            "geeklist_host": "Jorune",
+            "contributor": "Brenoit"
+        }
+    ],
+    "sgoyt_count": 10,
+    "thumbnail": "https://cf.geekdo-images.com/3nxnhWSZyV4BaItfKnanew__thumb/img/FFhgmSaLCz5p4H-gEarfRD6JmyA=/fit-in/200x150/filters:strip_icc()/pic2520742.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Ignacy Trzewiczek"
+    ],
+    "weight": 2.88,
+    "rating": 7.42,
+    "play_time": "45 - 90",
+    "best": "2",
+    "recommended": "10",
+    "not_recommended": "3",
+    "categories": [
+        "Ancient",
+        "Card Game",
+        "City Building",
+        "Civilization",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "154203",
+            "game_name": "Imperial Settlers",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/154203"
+        }
+    ],
+    "designers_string": "Ignacy Trzewiczek",
+    "categories_string": "Ancient; Card Game; City Building; Civilization; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '154203', 'game_name': 'Imperial Settlers', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/154203'}"
+}

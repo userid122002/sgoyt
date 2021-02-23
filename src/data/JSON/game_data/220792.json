@@ -1,0 +1,108 @@
+{
+    "game_id": "220792",
+    "game_name": "The Expanse Board Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/220792",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5815115",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5815115#item5815115",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6075782",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6075782#item6075782",
+            "geeklist_host": "skeletonhat",
+            "contributor": "emodiu5"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7399508",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7399508#item7399508",
+            "geeklist_host": "jeffrhind",
+            "contributor": "MarkP1981"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7400093",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7400093#item7400093",
+            "geeklist_host": "jeffrhind",
+            "contributor": "MarkP1981"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7497757",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7497757#item7497757",
+            "geeklist_host": "Doc_H",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7553699",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7553699#item7553699",
+            "geeklist_host": "Doc_H",
+            "contributor": "davekuhns"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/fy2F4nH0TTGPbsoEx2tQrA__thumb/img/RwpM2998RdtWcqUEXFR77dzZGWY=/fit-in/200x150/filters:strip_icc()/pic3536365.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Geoff Engelstein"
+    ],
+    "weight": 2.74,
+    "rating": 7.20,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "24",
+    "categories": [
+        "Movies / TV / Radio theme",
+        "Novel-based",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Action/Event",
+        "Area Majority / Influence",
+        "Campaign / Battle Card Driven",
+        "Catch the Leader",
+        "Take That",
+        "Variable Player Powers",
+        "Victory Points as a Resource"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "262112",
+            "expansion_name": "The Expanse Boardgame: Doors and Corners",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/262112"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Geoff Engelstein",
+    "categories_string": "Movies / TV / Radio theme; Novel-based; Science Fiction; Space Exploration",
+    "mechanics_string": "Action Points; Action/Event; Area Majority / Influence; Campaign / Battle Card Driven; Catch the Leader; Take That; Variable Player Powers; Victory Points as a Resource",
+    "expansions_string": "{'expansion_id': '262112', 'expansion_name': 'The Expanse Boardgame: Doors and Corners', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/262112'}",
+    "expansions_for_string": ""
+}

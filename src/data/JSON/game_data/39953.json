@@ -1,0 +1,474 @@
+{
+    "game_id": "39953",
+    "game_name": "A Game of Thrones: The Card Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/39953",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3226451",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3226451#item3226451",
+            "geeklist_host": "fractaloon",
+            "contributor": "aeneas2467"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5465626",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5465626#item5465626",
+            "geeklist_host": "koinskyz",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5471227",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5471227#item5471227",
+            "geeklist_host": "koinskyz",
+            "contributor": "simpsonps121"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/UYVMaIHPZRLqnUAhftKxRA__thumb/img/k2TIUD7Ss7R-5KxUXrBdlWzFi04=/fit-in/200x150/filters:strip_icc()/pic1195948.jpg",
+    "year_published": "2008",
+    "designers": [
+        "Nate French",
+        "Eric M. Lang",
+        "Christian T. Petersen"
+    ],
+    "weight": 3.25,
+    "rating": 6.85,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "66",
+    "categories": [
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Fighting",
+        "Medieval",
+        "Negotiation",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "40919",
+            "expansion_name": "A Game of Thrones: The Card Game - A Change of Seasons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40919"
+        },
+        {
+            "expansion_id": "161930",
+            "expansion_name": "A Game of Thrones: The Card Game - A Deadly Game",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161930"
+        },
+        {
+            "expansion_id": "157483",
+            "expansion_name": "A Game of Thrones: The Card Game - A Dire Message",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/157483"
+        },
+        {
+            "expansion_id": "123644",
+            "expansion_name": "A Game of Thrones: The Card Game - A Harsh Mistress",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/123644"
+        },
+        {
+            "expansion_id": "147191",
+            "expansion_name": "A Game of Thrones: The Card Game - A Hidden Agenda",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147191"
+        },
+        {
+            "expansion_id": "136362",
+            "expansion_name": "A Game of Thrones: The Card Game - A Journey's End",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136362"
+        },
+        {
+            "expansion_id": "66598",
+            "expansion_name": "A Game of Thrones: The Card Game - A King in the North",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/66598"
+        },
+        {
+            "expansion_id": "115394",
+            "expansion_name": "A Game of Thrones: The Card Game - A Poisoned Spear",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/115394"
+        },
+        {
+            "expansion_id": "125789",
+            "expansion_name": "A Game of Thrones: The Card Game - A Roll of the Dice",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/125789"
+        },
+        {
+            "expansion_id": "81089",
+            "expansion_name": "A Game of Thrones: The Card Game - A Song of Silence",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/81089"
+        },
+        {
+            "expansion_id": "40786",
+            "expansion_name": "A Game of Thrones: The Card Game - A Song of Summer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40786"
+        },
+        {
+            "expansion_id": "65250",
+            "expansion_name": "A Game of Thrones: The Card Game - A Sword in the Darkness",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/65250"
+        },
+        {
+            "expansion_id": "166326",
+            "expansion_name": "A Game of Thrones: The Card Game - A Time for Wolves",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166326"
+        },
+        {
+            "expansion_id": "41289",
+            "expansion_name": "A Game of Thrones: The Card Game - A Time of Trials",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/41289"
+        },
+        {
+            "expansion_id": "133704",
+            "expansion_name": "A Game of Thrones: The Card Game - A Turn of the Tide",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133704"
+        },
+        {
+            "expansion_id": "155576",
+            "expansion_name": "A Game of Thrones: The Card Game - Ancestral Home",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/155576"
+        },
+        {
+            "expansion_id": "40780",
+            "expansion_name": "A Game of Thrones: The Card Game - Ancient Enemies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40780"
+        },
+        {
+            "expansion_id": "65249",
+            "expansion_name": "A Game of Thrones: The Card Game - Beyond the Wall",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/65249"
+        },
+        {
+            "expansion_id": "94287",
+            "expansion_name": "A Game of Thrones: The Card Game - Called by the Conclave",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94287"
+        },
+        {
+            "expansion_id": "40784",
+            "expansion_name": "A Game of Thrones: The Card Game - Calling the Banners",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40784"
+        },
+        {
+            "expansion_id": "123143",
+            "expansion_name": "A Game of Thrones: The Card Game - Chasing Dragons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/123143"
+        },
+        {
+            "expansion_id": "40924",
+            "expansion_name": "A Game of Thrones: The Card Game - City of Secrets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40924"
+        },
+        {
+            "expansion_id": "89801",
+            "expansion_name": "A Game of Thrones: The Card Game - Dreadfort Betrayal",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/89801"
+        },
+        {
+            "expansion_id": "40782",
+            "expansion_name": "A Game of Thrones: The Card Game - Epic Battles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40782"
+        },
+        {
+            "expansion_id": "142560",
+            "expansion_name": "A Game of Thrones: The Card Game - Fire and Ice",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142560"
+        },
+        {
+            "expansion_id": "153209",
+            "expansion_name": "A Game of Thrones: The Card Game - Fire Made Flesh",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153209"
+        },
+        {
+            "expansion_id": "98843",
+            "expansion_name": "A Game of Thrones: The Card Game - Forging the Chain",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98843"
+        },
+        {
+            "expansion_id": "146224",
+            "expansion_name": "A Game of Thrones: The Card Game - Forgotten Fellowship",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146224"
+        },
+        {
+            "expansion_id": "89802",
+            "expansion_name": "A Game of Thrones: The Card Game - Gates of the Citadel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/89802"
+        },
+        {
+            "expansion_id": "98844",
+            "expansion_name": "A Game of Thrones: The Card Game - Here to Serve",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98844"
+        },
+        {
+            "expansion_id": "166894",
+            "expansion_name": "A Game of Thrones: The Card Game - House of Talons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166894"
+        },
+        {
+            "expansion_id": "71084",
+            "expansion_name": "A Game of Thrones: The Card Game - Illyrio's Gift",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/71084"
+        },
+        {
+            "expansion_id": "41811",
+            "expansion_name": "A Game of Thrones: The Card Game - Kings of the Sea",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/41811"
+        },
+        {
+            "expansion_id": "73306",
+            "expansion_name": "A Game of Thrones: The Card Game - Kings of the Storm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/73306"
+        },
+        {
+            "expansion_id": "105259",
+            "expansion_name": "A Game of Thrones: The Card Game - Lions of the Rock",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/105259"
+        },
+        {
+            "expansion_id": "66958",
+            "expansion_name": "A Game of Thrones: The Card Game - Lords of Winter",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/66958"
+        },
+        {
+            "expansion_id": "98552",
+            "expansion_name": "A Game of Thrones: The Card Game - Mask of the Archmaester",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98552"
+        },
+        {
+            "expansion_id": "76095",
+            "expansion_name": "A Game of Thrones: The Card Game - Mountains of the Moon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/76095"
+        },
+        {
+            "expansion_id": "88429",
+            "expansion_name": "A Game of Thrones: The Card Game - Of Snakes and Sand",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/88429"
+        },
+        {
+            "expansion_id": "107789",
+            "expansion_name": "A Game of Thrones: The Card Game - On Dangerous Grounds",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/107789"
+        },
+        {
+            "expansion_id": "56954",
+            "expansion_name": "A Game of Thrones: The Card Game - Princes of the Sun",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/56954"
+        },
+        {
+            "expansion_id": "94285",
+            "expansion_name": "A Game of Thrones: The Card Game - Queen of Dragons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94285"
+        },
+        {
+            "expansion_id": "129317",
+            "expansion_name": "A Game of Thrones: The Card Game - Reach of the Kraken",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/129317"
+        },
+        {
+            "expansion_id": "40921",
+            "expansion_name": "A Game of Thrones: The Card Game - Refugees of War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40921"
+        },
+        {
+            "expansion_id": "68280",
+            "expansion_name": "A Game of Thrones: The Card Game - Return of the Others",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/68280"
+        },
+        {
+            "expansion_id": "71033",
+            "expansion_name": "A Game of Thrones: The Card Game - Rituals of R'hllor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/71033"
+        },
+        {
+            "expansion_id": "40781",
+            "expansion_name": "A Game of Thrones: The Card Game - Sacred Bonds",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40781"
+        },
+        {
+            "expansion_id": "40922",
+            "expansion_name": "A Game of Thrones: The Card Game - Scattered Armies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40922"
+        },
+        {
+            "expansion_id": "160684",
+            "expansion_name": "A Game of Thrones: The Card Game - Secrets and Schemes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160684"
+        },
+        {
+            "expansion_id": "43508",
+            "expansion_name": "A Game of Thrones: The Card Game - Secrets and Spies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/43508"
+        },
+        {
+            "expansion_id": "150337",
+            "expansion_name": "A Game of Thrones: The Card Game - Spoils of War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/150337"
+        },
+        {
+            "expansion_id": "42668",
+            "expansion_name": "A Game of Thrones: The Card Game - Tales from the Red Keep",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42668"
+        },
+        {
+            "expansion_id": "140944",
+            "expansion_name": "A Game of Thrones: The Card Game - The Banners Gather",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140944"
+        },
+        {
+            "expansion_id": "51130",
+            "expansion_name": "A Game of Thrones: The Card Game - The Battle of Blackwater Bay",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/51130"
+        },
+        {
+            "expansion_id": "40783",
+            "expansion_name": "A Game of Thrones: The Card Game - The Battle of Ruby Ford",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40783"
+        },
+        {
+            "expansion_id": "171010",
+            "expansion_name": "A Game of Thrones: The Card Game - The Blue Is Calling",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/171010"
+        },
+        {
+            "expansion_id": "136593",
+            "expansion_name": "A Game of Thrones: The Card Game - The Captain's Command",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136593"
+        },
+        {
+            "expansion_id": "152141",
+            "expansion_name": "A Game of Thrones: The Card Game - The Champion's Purse",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152141"
+        },
+        {
+            "expansion_id": "105288",
+            "expansion_name": "A Game of Thrones: The Card Game - The Grand Melee",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/105288"
+        },
+        {
+            "expansion_id": "130500",
+            "expansion_name": "A Game of Thrones: The Card Game - The Great Fleet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130500"
+        },
+        {
+            "expansion_id": "144780",
+            "expansion_name": "A Game of Thrones: The Card Game - The Horn That Wakes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144780"
+        },
+        {
+            "expansion_id": "124779",
+            "expansion_name": "A Game of Thrones: The Card Game - The House of Black and White",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/124779"
+        },
+        {
+            "expansion_id": "95969",
+            "expansion_name": "A Game of Thrones: The Card Game - The Isle of Ravens",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/95969"
+        },
+        {
+            "expansion_id": "143756",
+            "expansion_name": "A Game of Thrones: The Card Game - The Kingsguard",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143756"
+        },
+        {
+            "expansion_id": "133726",
+            "expansion_name": "A Game of Thrones: The Card Game - The Pirates of Lys",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133726"
+        },
+        {
+            "expansion_id": "157386",
+            "expansion_name": "A Game of Thrones: The Card Game - The Prize of the North",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/157386"
+        },
+        {
+            "expansion_id": "40920",
+            "expansion_name": "A Game of Thrones: The Card Game - The Raven's Song",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40920"
+        },
+        {
+            "expansion_id": "42100",
+            "expansion_name": "A Game of Thrones: The Card Game - The Tower of the Hand",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42100"
+        },
+        {
+            "expansion_id": "166322",
+            "expansion_name": "A Game of Thrones: The Card Game - The Valemen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166322"
+        },
+        {
+            "expansion_id": "40778",
+            "expansion_name": "A Game of Thrones: The Card Game - The War of Five Kings",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40778"
+        },
+        {
+            "expansion_id": "65252",
+            "expansion_name": "A Game of Thrones: The Card Game - The Wildling Horde",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/65252"
+        },
+        {
+            "expansion_id": "40788",
+            "expansion_name": "A Game of Thrones: The Card Game - The Winds of Winter",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40788"
+        },
+        {
+            "expansion_id": "104455",
+            "expansion_name": "A Game of Thrones: The Card Game - Tourney for the Hand",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/104455"
+        },
+        {
+            "expansion_id": "112450",
+            "expansion_name": "A Game of Thrones: The Card Game - Trial by Combat",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/112450"
+        },
+        {
+            "expansion_id": "121065",
+            "expansion_name": "A Game of Thrones: The Card Game - Valar Dohaeris",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/121065"
+        },
+        {
+            "expansion_id": "118297",
+            "expansion_name": "A Game of Thrones: The Card Game - Valar Morghulis",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/118297"
+        },
+        {
+            "expansion_id": "111739",
+            "expansion_name": "A Game of Thrones: The Card Game - Where Loyalty Lies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/111739"
+        },
+        {
+            "expansion_id": "58961",
+            "expansion_name": "A Game of Thrones: The Card Game - Wolves of the North",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/58961"
+        },
+        {
+            "expansion_id": "169779",
+            "expansion_name": "A Guerra dos Tronos: Card Game - O Tempo para Corvos: Parte 1/2 do Ciclo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169779"
+        },
+        {
+            "expansion_id": "174997",
+            "expansion_name": "A Guerra dos Tronos: Card Game - O Tempo para Corvos: Parte 2/2 do Ciclo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/174997"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Nate French; Eric M. Lang; Christian T. Petersen",
+    "categories_string": "Card Game; Collectible Components; Fantasy; Fighting; Medieval; Negotiation; Novel-based",
+    "mechanics_string": "Card Drafting; Hand Management; Simultaneous Action Selection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '40919', 'expansion_name': 'A Game of Thrones: The Card Game - A Change of Seasons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40919'}; {'expansion_id': '161930', 'expansion_name': 'A Game of Thrones: The Card Game - A Deadly Game', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161930'}; {'expansion_id': '157483', 'expansion_name': 'A Game of Thrones: The Card Game - A Dire Message', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/157483'}; {'expansion_id': '123644', 'expansion_name': 'A Game of Thrones: The Card Game - A Harsh Mistress', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/123644'}; {'expansion_id': '147191', 'expansion_name': 'A Game of Thrones: The Card Game - A Hidden Agenda', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147191'}; {'expansion_id': '136362', 'expansion_name': \"A Game of Thrones: The Card Game - A Journey's End\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136362'}; {'expansion_id': '66598', 'expansion_name': 'A Game of Thrones: The Card Game - A King in the North', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/66598'}; {'expansion_id': '115394', 'expansion_name': 'A Game of Thrones: The Card Game - A Poisoned Spear', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/115394'}; {'expansion_id': '125789', 'expansion_name': 'A Game of Thrones: The Card Game - A Roll of the Dice', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/125789'}; {'expansion_id': '81089', 'expansion_name': 'A Game of Thrones: The Card Game - A Song of Silence', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/81089'}; {'expansion_id': '40786', 'expansion_name': 'A Game of Thrones: The Card Game - A Song of Summer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40786'}; {'expansion_id': '65250', 'expansion_name': 'A Game of Thrones: The Card Game - A Sword in the Darkness', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/65250'}; {'expansion_id': '166326', 'expansion_name': 'A Game of Thrones: The Card Game - A Time for Wolves', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166326'}; {'expansion_id': '41289', 'expansion_name': 'A Game of Thrones: The Card Game - A Time of Trials', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/41289'}; {'expansion_id': '133704', 'expansion_name': 'A Game of Thrones: The Card Game - A Turn of the Tide', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133704'}; {'expansion_id': '155576', 'expansion_name': 'A Game of Thrones: The Card Game - Ancestral Home', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/155576'}; {'expansion_id': '40780', 'expansion_name': 'A Game of Thrones: The Card Game - Ancient Enemies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40780'}; {'expansion_id': '65249', 'expansion_name': 'A Game of Thrones: The Card Game - Beyond the Wall', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/65249'}; {'expansion_id': '94287', 'expansion_name': 'A Game of Thrones: The Card Game - Called by the Conclave', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94287'}; {'expansion_id': '40784', 'expansion_name': 'A Game of Thrones: The Card Game - Calling the Banners', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40784'}; {'expansion_id': '123143', 'expansion_name': 'A Game of Thrones: The Card Game - Chasing Dragons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/123143'}; {'expansion_id': '40924', 'expansion_name': 'A Game of Thrones: The Card Game - City of Secrets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40924'}; {'expansion_id': '89801', 'expansion_name': 'A Game of Thrones: The Card Game - Dreadfort Betrayal', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/89801'}; {'expansion_id': '40782', 'expansion_name': 'A Game of Thrones: The Card Game - Epic Battles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40782'}; {'expansion_id': '142560', 'expansion_name': 'A Game of Thrones: The Card Game - Fire and Ice', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142560'}; {'expansion_id': '153209', 'expansion_name': 'A Game of Thrones: The Card Game - Fire Made Flesh', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153209'}; {'expansion_id': '98843', 'expansion_name': 'A Game of Thrones: The Card Game - Forging the Chain', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98843'}; {'expansion_id': '146224', 'expansion_name': 'A Game of Thrones: The Card Game - Forgotten Fellowship', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146224'}; {'expansion_id': '89802', 'expansion_name': 'A Game of Thrones: The Card Game - Gates of the Citadel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/89802'}; {'expansion_id': '98844', 'expansion_name': 'A Game of Thrones: The Card Game - Here to Serve', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98844'}; {'expansion_id': '166894', 'expansion_name': 'A Game of Thrones: The Card Game - House of Talons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166894'}; {'expansion_id': '71084', 'expansion_name': \"A Game of Thrones: The Card Game - Illyrio's Gift\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/71084'}; {'expansion_id': '41811', 'expansion_name': 'A Game of Thrones: The Card Game - Kings of the Sea', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/41811'}; {'expansion_id': '73306', 'expansion_name': 'A Game of Thrones: The Card Game - Kings of the Storm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/73306'}; {'expansion_id': '105259', 'expansion_name': 'A Game of Thrones: The Card Game - Lions of the Rock', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/105259'}; {'expansion_id': '66958', 'expansion_name': 'A Game of Thrones: The Card Game - Lords of Winter', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/66958'}; {'expansion_id': '98552', 'expansion_name': 'A Game of Thrones: The Card Game - Mask of the Archmaester', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98552'}; {'expansion_id': '76095', 'expansion_name': 'A Game of Thrones: The Card Game - Mountains of the Moon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/76095'}; {'expansion_id': '88429', 'expansion_name': 'A Game of Thrones: The Card Game - Of Snakes and Sand', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/88429'}; {'expansion_id': '107789', 'expansion_name': 'A Game of Thrones: The Card Game - On Dangerous Grounds', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/107789'}; {'expansion_id': '56954', 'expansion_name': 'A Game of Thrones: The Card Game - Princes of the Sun', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/56954'}; {'expansion_id': '94285', 'expansion_name': 'A Game of Thrones: The Card Game - Queen of Dragons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94285'}; {'expansion_id': '129317', 'expansion_name': 'A Game of Thrones: The Card Game - Reach of the Kraken', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/129317'}; {'expansion_id': '40921', 'expansion_name': 'A Game of Thrones: The Card Game - Refugees of War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40921'}; {'expansion_id': '68280', 'expansion_name': 'A Game of Thrones: The Card Game - Return of the Others', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/68280'}; {'expansion_id': '71033', 'expansion_name': \"A Game of Thrones: The Card Game - Rituals of R'hllor\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/71033'}; {'expansion_id': '40781', 'expansion_name': 'A Game of Thrones: The Card Game - Sacred Bonds', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40781'}; {'expansion_id': '40922', 'expansion_name': 'A Game of Thrones: The Card Game - Scattered Armies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40922'}; {'expansion_id': '160684', 'expansion_name': 'A Game of Thrones: The Card Game - Secrets and Schemes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160684'}; {'expansion_id': '43508', 'expansion_name': 'A Game of Thrones: The Card Game - Secrets and Spies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/43508'}; {'expansion_id': '150337', 'expansion_name': 'A Game of Thrones: The Card Game - Spoils of War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/150337'}; {'expansion_id': '42668', 'expansion_name': 'A Game of Thrones: The Card Game - Tales from the Red Keep', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42668'}; {'expansion_id': '140944', 'expansion_name': 'A Game of Thrones: The Card Game - The Banners Gather', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140944'}; {'expansion_id': '51130', 'expansion_name': 'A Game of Thrones: The Card Game - The Battle of Blackwater Bay', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/51130'}; {'expansion_id': '40783', 'expansion_name': 'A Game of Thrones: The Card Game - The Battle of Ruby Ford', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40783'}; {'expansion_id': '171010', 'expansion_name': 'A Game of Thrones: The Card Game - The Blue Is Calling', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/171010'}; {'expansion_id': '136593', 'expansion_name': \"A Game of Thrones: The Card Game - The Captain's Command\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136593'}; {'expansion_id': '152141', 'expansion_name': \"A Game of Thrones: The Card Game - The Champion's Purse\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152141'}; {'expansion_id': '105288', 'expansion_name': 'A Game of Thrones: The Card Game - The Grand Melee', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/105288'}; {'expansion_id': '130500', 'expansion_name': 'A Game of Thrones: The Card Game - The Great Fleet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130500'}; {'expansion_id': '144780', 'expansion_name': 'A Game of Thrones: The Card Game - The Horn That Wakes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144780'}; {'expansion_id': '124779', 'expansion_name': 'A Game of Thrones: The Card Game - The House of Black and White', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/124779'}; {'expansion_id': '95969', 'expansion_name': 'A Game of Thrones: The Card Game - The Isle of Ravens', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/95969'}; {'expansion_id': '143756', 'expansion_name': 'A Game of Thrones: The Card Game - The Kingsguard', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143756'}; {'expansion_id': '133726', 'expansion_name': 'A Game of Thrones: The Card Game - The Pirates of Lys', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133726'}; {'expansion_id': '157386', 'expansion_name': 'A Game of Thrones: The Card Game - The Prize of the North', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/157386'}; {'expansion_id': '40920', 'expansion_name': \"A Game of Thrones: The Card Game - The Raven's Song\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40920'}; {'expansion_id': '42100', 'expansion_name': 'A Game of Thrones: The Card Game - The Tower of the Hand', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42100'}; {'expansion_id': '166322', 'expansion_name': 'A Game of Thrones: The Card Game - The Valemen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166322'}; {'expansion_id': '40778', 'expansion_name': 'A Game of Thrones: The Card Game - The War of Five Kings', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40778'}; {'expansion_id': '65252', 'expansion_name': 'A Game of Thrones: The Card Game - The Wildling Horde', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/65252'}; {'expansion_id': '40788', 'expansion_name': 'A Game of Thrones: The Card Game - The Winds of Winter', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40788'}; {'expansion_id': '104455', 'expansion_name': 'A Game of Thrones: The Card Game - Tourney for the Hand', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/104455'}; {'expansion_id': '112450', 'expansion_name': 'A Game of Thrones: The Card Game - Trial by Combat', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/112450'}; {'expansion_id': '121065', 'expansion_name': 'A Game of Thrones: The Card Game - Valar Dohaeris', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/121065'}; {'expansion_id': '118297', 'expansion_name': 'A Game of Thrones: The Card Game - Valar Morghulis', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/118297'}; {'expansion_id': '111739', 'expansion_name': 'A Game of Thrones: The Card Game - Where Loyalty Lies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/111739'}; {'expansion_id': '58961', 'expansion_name': 'A Game of Thrones: The Card Game - Wolves of the North', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/58961'}; {'expansion_id': '169779', 'expansion_name': 'A Guerra dos Tronos: Card Game - O Tempo para Corvos: Parte 1/2 do Ciclo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169779'}; {'expansion_id': '174997', 'expansion_name': 'A Guerra dos Tronos: Card Game - O Tempo para Corvos: Parte 2/2 do Ciclo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/174997'}",
+    "expansions_for_string": ""
+}

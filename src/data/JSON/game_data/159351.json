@@ -1,0 +1,110 @@
+{
+    "game_id": "159351",
+    "game_name": "Magic: The Gathering Challenge Deck - Defeat a God",
+    "bgg_link": "https://boardgamegeek.com/boardgame/159351",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3253196",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3253196#item3253196",
+            "geeklist_host": "fractaloon",
+            "contributor": "pusherman42"
+        },
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3259727",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3259727#item3259727",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "fractaloon"
+        },
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3276539",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3276539#item3276539",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3286171",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3286171#item3286171",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "Friendless"
+        },
+        {
+            "geeklist_id": "175551",
+            "geeklist_item_id": "3320341",
+            "year_month": "2014/07",
+            "year": "2014",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/175551/item/3320341#item3320341",
+            "geeklist_host": "Woelf",
+            "contributor": "Friendless"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3412887",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3412887#item3412887",
+            "geeklist_host": "Malaiser",
+            "contributor": "guigtexas"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4461853",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4461853#item4461853",
+            "geeklist_host": "Woelf",
+            "contributor": "ragamuffin jojo"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/CD43TrUl2RivvD2G89hRSQ__thumb/img/4lKjxFQfartGk3z3XOUEy_iZVv8=/fit-in/200x150/filters:strip_icc()/pic2038047.jpg",
+    "year_published": "2014",
+    "designers": [],
+    "weight": 3.00,
+    "rating": 7.01,
+    "play_time": "0",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Player Elimination"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "463",
+            "game_name": "Magic: The Gathering",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/463"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Fighting",
+    "mechanics_string": "Hand Management; Player Elimination",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '463', 'game_name': 'Magic: The Gathering', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/463'}"
+}

@@ -1,0 +1,80 @@
+{
+    "game_id": "218509",
+    "game_name": "Empires of the Void II",
+    "bgg_link": "https://boardgamegeek.com/boardgame/218509",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5995833",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5995833#item5995833",
+            "geeklist_host": "radthanael",
+            "contributor": "Freeloading Phill"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7337732",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7337732#item7337732",
+            "geeklist_host": "Albia",
+            "contributor": "Freeloading Phill"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Nf-Ct6JAgZU8GDycOvU1JQ__thumb/img/7sukhQsGSenns7guA_cazIjTM-s=/fit-in/200x150/filters:strip_icc()/pic3762134.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Ryan Laukat"
+    ],
+    "weight": 3.46,
+    "rating": 7.56,
+    "play_time": "90 - 180",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "20",
+    "categories": [
+        "Civilization",
+        "Economic",
+        "Exploration",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Follow",
+        "Hand Management",
+        "Modular Board",
+        "Pick-up and Deliver",
+        "Point to Point Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "265664",
+            "expansion_name": "Empires of the Void II: General Event Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/265664"
+        },
+        {
+            "expansion_id": "274653",
+            "expansion_name": "Empires of the Void II: Hogran Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/274653"
+        },
+        {
+            "expansion_id": "274721",
+            "expansion_name": "The Red Raven Fan Box #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/274721"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ryan Laukat",
+    "categories_string": "Civilization; Economic; Exploration; Science Fiction; Space Exploration",
+    "mechanics_string": "Action Points; Area Majority / Influence; Dice Rolling; Follow; Hand Management; Modular Board; Pick-up and Deliver; Point to Point Movement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '265664', 'expansion_name': 'Empires of the Void II: General Event Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/265664'}; {'expansion_id': '274653', 'expansion_name': 'Empires of the Void II: Hogran Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/274653'}; {'expansion_id': '274721', 'expansion_name': 'The Red Raven Fan Box #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/274721'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,65 @@
+{
+    "game_id": "164340",
+    "game_name": "Sentinels of the Multiverse: Guise Hero Character",
+    "bgg_link": "https://boardgamegeek.com/boardgame/164340",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5556623",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5556623#item5556623",
+            "geeklist_host": "kevinruns262",
+            "contributor": "SpideyMan63"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7676945",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7676945#item7676945",
+            "geeklist_host": "gentle",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Cjwe6Sj5Z5s_dSuUBnx4Tw__thumb/img/2N2UyQnbn3HXoReLi29fNvlk8bw=/fit-in/200x150/filters:strip_icc()/pic2334893.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Christopher Badell",
+        "Paul Bender",
+        "Adam Rebottaro"
+    ],
+    "weight": 2.14,
+    "rating": 7.91,
+    "play_time": "60",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Comic Book / Strip",
+        "Expansion for Base-game",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "102652",
+            "game_name": "Sentinels of the Multiverse",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/102652"
+        }
+    ],
+    "designers_string": "Christopher Badell; Paul Bender; Adam Rebottaro",
+    "categories_string": "Card Game; Comic Book / Strip; Expansion for Base-game; Fighting",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '102652', 'game_name': 'Sentinels of the Multiverse', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/102652'}"
+}

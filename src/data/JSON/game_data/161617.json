@@ -1,0 +1,66 @@
+{
+    "game_id": "161617",
+    "game_name": "Dungeon Lords: Happy Anniversary",
+    "bgg_link": "https://boardgamegeek.com/boardgame/161617",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4270641",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4270641#item4270641",
+            "geeklist_host": "rangerx",
+            "contributor": "jdarnold"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7690415",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7690415#item7690415",
+            "geeklist_host": "gentle",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Zuq7zBkKSWemIYBFcaPDjQ__thumb/img/iKAKZbnBPS4Qf7gR1_mm1UiAlwY=/fit-in/200x150/filters:strip_icc()/pic2060116.png",
+    "year_published": "2014",
+    "designers": [
+        "Vlaada Chvatil"
+    ],
+    "weight": 3.90,
+    "rating": 8.18,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "9",
+    "categories": [
+        "Adventure",
+        "Economic",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Tile Placement",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "162529",
+            "expansion_name": "Dungeon Lords: Kickstarter Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162529"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vlaada Chvatil",
+    "categories_string": "Adventure; Economic; Fantasy; Fighting; Humor",
+    "mechanics_string": "Action Queue; Hand Management; Simultaneous Action Selection; Tile Placement; Worker Placement",
+    "expansions_string": "{'expansion_id': '162529', 'expansion_name': 'Dungeon Lords: Kickstarter Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162529'}",
+    "expansions_for_string": ""
+}

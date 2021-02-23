@@ -1,0 +1,61 @@
+{
+    "game_id": "29416",
+    "game_name": "Power Grid: The New Power Plant Cards",
+    "bgg_link": "https://boardgamegeek.com/boardgame/29416",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2865234",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2865234#item2865234",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "pusherman42"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/lBKE9SGf7kVgl34QQp2agw__thumb/img/vsRiveLCV62LVR7P2RbvoO35spc=/fit-in/200x150/filters:strip_icc()/pic255417.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Friedemann Friese"
+    ],
+    "weight": 2.97,
+    "rating": 7.80,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "20",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Network and Route Building"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "33434",
+            "game_name": "Funkenschlag: EnBW",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/33434"
+        },
+        {
+            "game_id": "39336",
+            "game_name": "Megawatts",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/39336"
+        },
+        {
+            "game_id": "2651",
+            "game_name": "Power Grid",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/2651"
+        }
+    ],
+    "designers_string": "Friedemann Friese",
+    "categories_string": "Economic; Expansion for Base-game; Industry / Manufacturing",
+    "mechanics_string": "Auction/Bidding; Network and Route Building",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '33434', 'game_name': 'Funkenschlag: EnBW', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/33434'}; {'game_id': '39336', 'game_name': 'Megawatts', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/39336'}; {'game_id': '2651', 'game_name': 'Power Grid', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/2651'}"
+}

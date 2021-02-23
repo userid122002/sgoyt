@@ -1,0 +1,109 @@
+{
+    "game_id": "156318",
+    "game_name": "Legends of Andor: Journey to the North",
+    "bgg_link": "https://boardgamegeek.com/boardgame/156318",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5080962",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5080962#item5080962",
+            "geeklist_host": "mikolajl",
+            "contributor": "kittenhoarder"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6309005",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6309005#item6309005",
+            "geeklist_host": "spaceman23",
+            "contributor": "spaceman23"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6606529",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6606529#item6606529",
+            "geeklist_host": "squarepegsys",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7967089",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7967089#item7967089",
+            "geeklist_host": "Albia",
+            "contributor": "realanthillkit"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/r06MtnWG1LAiunJjDNXoGQ__thumb/img/NVTZ1rNT52LfcryKZd7DXm9pDWg=/fit-in/200x150/filters:strip_icc()/pic3068637.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Michael Menzel"
+    ],
+    "weight": 2.95,
+    "rating": 8.00,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "6",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "191889",
+            "expansion_name": "Die Legenden von Andor: Der Unbekannte Krieger",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/191889"
+        },
+        {
+            "expansion_id": "306533",
+            "expansion_name": "Die Legenden von Andor: Die Suche Nach Grenolin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/306533"
+        },
+        {
+            "expansion_id": "189649",
+            "expansion_name": "Legends of Andor: Journey to the North - Die Ruckkehr der Schwarzen Kogge",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189649"
+        },
+        {
+            "expansion_id": "168218",
+            "expansion_name": "Legends of Andor: The Mermaid Iria",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168218"
+        },
+        {
+            "expansion_id": "233246",
+            "expansion_name": "Legends of Andor: Varatan's Lighthouse",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233246"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "127398",
+            "game_name": "Legends of Andor",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/127398"
+        }
+    ],
+    "designers_string": "Michael Menzel",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Area Movement; Cooperative Game; Dice Rolling; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '191889', 'expansion_name': 'Die Legenden von Andor: Der Unbekannte Krieger', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/191889'}; {'expansion_id': '306533', 'expansion_name': 'Die Legenden von Andor: Die Suche Nach Grenolin', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/306533'}; {'expansion_id': '189649', 'expansion_name': 'Legends of Andor: Journey to the North - Die Ruckkehr der Schwarzen Kogge', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189649'}; {'expansion_id': '168218', 'expansion_name': 'Legends of Andor: The Mermaid Iria', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168218'}; {'expansion_id': '233246', 'expansion_name': \"Legends of Andor: Varatan's Lighthouse\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233246'}",
+    "expansions_for_string": "{'game_id': '127398', 'game_name': 'Legends of Andor', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/127398'}"
+}

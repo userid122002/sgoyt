@@ -1,0 +1,73 @@
+{
+    "game_id": "112066",
+    "game_name": "Commands & Colors: Napoleonics Expansion #3 - The Austrian Army",
+    "bgg_link": "https://boardgamegeek.com/boardgame/112066",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3822847",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3822847#item3822847",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "gatchaman"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3710877",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3710877#item3710877",
+            "geeklist_host": "Woelf",
+            "contributor": "gatchaman"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7657157",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7657157#item7657157",
+            "geeklist_host": "gentle",
+            "contributor": "airjudden"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/ysUF9z1iHypznZ9Djv6zsQ__thumb/img/6hx9l_7FJqbgjf00RTVFMf7B6h4=/fit-in/200x150/filters:strip_icc()/pic1811591.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Richard Borg"
+    ],
+    "weight": 2.41,
+    "rating": 8.44,
+    "play_time": "90",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Hand Management",
+        "Hexagon Grid"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "62222",
+            "game_name": "Commands & Colors: Napoleonics",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/62222"
+        }
+    ],
+    "designers_string": "Richard Borg",
+    "categories_string": "Expansion for Base-game; Napoleonic; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Dice Rolling; Hand Management; Hexagon Grid",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '62222', 'game_name': 'Commands & Colors: Napoleonics', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/62222'}"
+}

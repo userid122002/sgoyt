@@ -1,0 +1,59 @@
+{
+    "game_id": "692",
+    "game_name": "Wizard Kings",
+    "bgg_link": "https://boardgamegeek.com/boardgame/692",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3764336",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3764336#item3764336",
+            "geeklist_host": "HRune",
+            "contributor": "True_Dave"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/rlrzwzgVR4IASRddhN6SRQ__thumb/img/Led9BZFQ8m6dhvg7w09gjz7JoX4=/fit-in/200x150/filters:strip_icc()/pic199522.jpg",
+    "year_published": "2000",
+    "designers": [
+        "Tom Dalgliesh",
+        "Grant Dalgliesh"
+    ],
+    "weight": 2.65,
+    "rating": 6.70,
+    "play_time": "150",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "9",
+    "categories": [
+        "Fantasy",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Modular Board",
+        "Secret Unit Deployment",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "7222",
+            "expansion_name": "Wizard Kings: Expansion Armies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/7222"
+        },
+        {
+            "expansion_id": "7223",
+            "expansion_name": "Wizard Kings: Expansion Maps",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/7223"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Tom Dalgliesh; Grant Dalgliesh",
+    "categories_string": "Fantasy; Wargame",
+    "mechanics_string": "Dice Rolling; Hexagon Grid; Modular Board; Secret Unit Deployment; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '7222', 'expansion_name': 'Wizard Kings: Expansion Armies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/7222'}; {'expansion_id': '7223', 'expansion_name': 'Wizard Kings: Expansion Maps', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/7223'}",
+    "expansions_for_string": ""
+}

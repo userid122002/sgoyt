@@ -1,0 +1,113 @@
+{
+    "game_id": "210936",
+    "game_name": "Legendary: A Marvel Deck Building Game - Marvel Noir",
+    "bgg_link": "https://boardgamegeek.com/boardgame/210936",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5401659",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5401659#item5401659",
+            "geeklist_host": "maloma",
+            "contributor": "overhaul"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5403891",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5403891#item5403891",
+            "geeklist_host": "maloma",
+            "contributor": "Octarine8"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5640564",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5640564#item5640564",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "bills933"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6371150",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6371150#item6371150",
+            "geeklist_host": "dobrazil",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7084472",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7084472#item7084472",
+            "geeklist_host": "Venom Snake",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7861326",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7861326#item7861326",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "runaway_meeple"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/jsYbk2X00FJXmyId0RJ7yg__thumb/img/mcRiHRudeeV8XHgtmGTnzh-FhBw=/fit-in/200x150/filters:strip_icc()/pic3279660.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Devin Low"
+    ],
+    "weight": 2.12,
+    "rating": 7.99,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Comic Book / Strip",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Push Your Luck"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "261673",
+            "expansion_name": "Legendary: A Marvel Deck Building Game - Promo Card Detective Wolverine Heroic Bystander",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/261673"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "129437",
+            "game_name": "Legendary: A Marvel Deck Building Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/129437"
+        },
+        {
+            "game_id": "156689",
+            "game_name": "Legendary: A Marvel Deck Building Game - Villains",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/156689"
+        }
+    ],
+    "designers_string": "Devin Low",
+    "categories_string": "Card Game; Comic Book / Strip; Expansion for Base-game",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Push Your Luck",
+    "expansions_string": "{'expansion_id': '261673', 'expansion_name': 'Legendary: A Marvel Deck Building Game - Promo Card Detective Wolverine Heroic Bystander', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/261673'}",
+    "expansions_for_string": "{'game_id': '129437', 'game_name': 'Legendary: A Marvel Deck Building Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/129437'}; {'game_id': '156689', 'game_name': 'Legendary: A Marvel Deck Building Game - Villains', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/156689'}"
+}

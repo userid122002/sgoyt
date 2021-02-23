@@ -1,0 +1,66 @@
+{
+    "game_id": "143484",
+    "game_name": "Florenza: The Card Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/143484",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3959225",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3959225#item3959225",
+            "geeklist_host": "koinskyz",
+            "contributor": "stevozip"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6639579",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6639579#item6639579",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "Doug1020"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/S4apOCn2ZEUpdHpIBJuCnw__thumb/img/MQ7qOg-al_FaIuF04_KG_uZDZPg=/fit-in/200x150/filters:strip_icc()/pic1695107.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Stefano Groppi"
+    ],
+    "weight": 2.52,
+    "rating": 6.83,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "2",
+    "categories": [
+        "City Building",
+        "Economic",
+        "Renaissance"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "162906",
+            "expansion_name": "Florenza: The Card Game -  War and Religion Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162906"
+        },
+        {
+            "expansion_id": "192390",
+            "expansion_name": "Florenza: The Card Game - Ingegnere Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/192390"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stefano Groppi",
+    "categories_string": "City Building; Economic; Renaissance",
+    "mechanics_string": "Hand Management; Set Collection",
+    "expansions_string": "{'expansion_id': '162906', 'expansion_name': 'Florenza: The Card Game -  War and Religion Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162906'}; {'expansion_id': '192390', 'expansion_name': 'Florenza: The Card Game - Ingegnere Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/192390'}",
+    "expansions_for_string": ""
+}

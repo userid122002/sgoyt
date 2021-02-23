@@ -1,0 +1,59 @@
+{
+    "game_id": "246529",
+    "game_name": "The Networks: Telly Time",
+    "bgg_link": "https://boardgamegeek.com/boardgame/246529",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6272813",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6272813#item6272813",
+            "geeklist_host": "emodiu5",
+            "contributor": "celdom"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7379762",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7379762#item7379762",
+            "geeklist_host": "jeffrhind",
+            "contributor": "Firedrake"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/2hr398IAv95nt0YSYghYTw__thumb/img/PgdMrmWHNNMiDsEJq-6xBi-j3c8=/fit-in/200x150/filters:strip_icc()/pic4046399.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Gil Hova"
+    ],
+    "weight": 0.00,
+    "rating": 7.57,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "72321",
+            "game_name": "The Networks",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/72321"
+        }
+    ],
+    "designers_string": "Gil Hova",
+    "categories_string": "Economic; Expansion for Base-game",
+    "mechanics_string": "Card Drafting",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '72321', 'game_name': 'The Networks', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/72321'}"
+}

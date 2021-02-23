@@ -1,0 +1,80 @@
+{
+    "game_id": "150312",
+    "game_name": "Welcome to the Dungeon",
+    "bgg_link": "https://boardgamegeek.com/boardgame/150312",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3915387",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3915387#item3915387",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "splittist"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4517831",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4517831#item4517831",
+            "geeklist_host": "pusherman42",
+            "contributor": "Katastrophy9"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5585797",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5585797#item5585797",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Guuthulhu"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/2w4G4Ltx0FFwW1XgkXg7Hw__thumb/img/eSMZGeOZLy66Iqw66Kyd4Qfd7nI=/fit-in/200x150/filters:strip_icc()/pic2436689.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Hisanori Hiraoka",
+        "Masato Uesugi"
+    ],
+    "weight": 1.23,
+    "rating": 6.61,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "94",
+    "categories": [
+        "Bluffing",
+        "Card Game",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Betting and Bluffing",
+        "Memory",
+        "Player Elimination",
+        "Push Your Luck"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "211083",
+            "expansion_name": "Welcome Back to the Dungeon: Easter Egg",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211083"
+        },
+        {
+            "expansion_id": "193533",
+            "expansion_name": "Welcome to the Dungeon: Toad Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193533"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Hisanori Hiraoka; Masato Uesugi",
+    "categories_string": "Bluffing; Card Game; Fantasy; Fighting",
+    "mechanics_string": "Betting and Bluffing; Memory; Player Elimination; Push Your Luck",
+    "expansions_string": "{'expansion_id': '211083', 'expansion_name': 'Welcome Back to the Dungeon: Easter Egg', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211083'}; {'expansion_id': '193533', 'expansion_name': 'Welcome to the Dungeon: Toad Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193533'}",
+    "expansions_for_string": ""
+}

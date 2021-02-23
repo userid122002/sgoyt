@@ -1,0 +1,52 @@
+{
+    "game_id": "195284",
+    "game_name": "V-Commandos: Secret Weapons",
+    "bgg_link": "https://boardgamegeek.com/boardgame/195284",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "7012135",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/7012135#item7012135",
+            "geeklist_host": "magic_erwt",
+            "contributor": "spaceman23"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/azLQ1UMbs7MyI3cz5ymnCQ__thumb/img/f_bSInRzwskQq23F1IUnUwDzyIw=/fit-in/200x150/filters:strip_icc()/pic3031117.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Thibaud de la Touanne"
+    ],
+    "weight": 2.50,
+    "rating": 8.06,
+    "play_time": "30 - 180",
+    "best": "1",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Spies/Secret Agents",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Modular Board"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "163474",
+            "game_name": "V-Commandos",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/163474"
+        }
+    ],
+    "designers_string": "Thibaud de la Touanne",
+    "categories_string": "Expansion for Base-game; Spies/Secret Agents; Wargame; World War II",
+    "mechanics_string": "Cooperative Game; Modular Board",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '163474', 'game_name': 'V-Commandos', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/163474'}"
+}

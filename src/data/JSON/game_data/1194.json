@@ -1,0 +1,102 @@
+{
+    "game_id": "1194",
+    "game_name": "Speed Circuit",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1194",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3642791",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3642791#item3642791",
+            "geeklist_host": "bikefreak",
+            "contributor": "nouvato"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/obQgrXY_YKNmU8oNSjQ9cg__thumb/img/eO8BA53u9lNntpgatVp4WLXKayc=/fit-in/200x150/filters:strip_icc()/pic251459.jpg",
+    "year_published": "1971",
+    "designers": [
+        "Thomas M. Divoll",
+        "John B. Reilly"
+    ],
+    "weight": 2.05,
+    "rating": 6.90,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "10",
+    "categories": [
+        "Racing",
+        "Sports"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Modular Board",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "8695",
+            "expansion_name": "Speed Circuit: Accessory Pack 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/8695"
+        },
+        {
+            "expansion_id": "8696",
+            "expansion_name": "Speed Circuit: Accessory Pack 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/8696"
+        },
+        {
+            "expansion_id": "8697",
+            "expansion_name": "Speed Circuit: Accessory Pack 3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/8697"
+        },
+        {
+            "expansion_id": "8698",
+            "expansion_name": "Speed Circuit: Accessory Pack 4",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/8698"
+        },
+        {
+            "expansion_id": "8765",
+            "expansion_name": "Speed Circuit: British Grand Prix",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/8765"
+        },
+        {
+            "expansion_id": "18123",
+            "expansion_name": "Speed Circuit: Detroit Grand Prix",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18123"
+        },
+        {
+            "expansion_id": "8763",
+            "expansion_name": "Speed Circuit: Grand Prix de Belgique",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/8763"
+        },
+        {
+            "expansion_id": "8762",
+            "expansion_name": "Speed Circuit: Grand Prix de France",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/8762"
+        },
+        {
+            "expansion_id": "8764",
+            "expansion_name": "Speed Circuit: South African Grand Prix",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/8764"
+        },
+        {
+            "expansion_id": "7455",
+            "expansion_name": "Speed Circuit: Tournament Tracks",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/7455"
+        },
+        {
+            "expansion_id": "25877",
+            "expansion_name": "Speed Circuit: Turnier Kurs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/25877"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Thomas M. Divoll; John B. Reilly",
+    "categories_string": "Racing; Sports",
+    "mechanics_string": "Action Points; Modular Board; Simultaneous Action Selection",
+    "expansions_string": "{'expansion_id': '8695', 'expansion_name': 'Speed Circuit: Accessory Pack 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/8695'}; {'expansion_id': '8696', 'expansion_name': 'Speed Circuit: Accessory Pack 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/8696'}; {'expansion_id': '8697', 'expansion_name': 'Speed Circuit: Accessory Pack 3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/8697'}; {'expansion_id': '8698', 'expansion_name': 'Speed Circuit: Accessory Pack 4', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/8698'}; {'expansion_id': '8765', 'expansion_name': 'Speed Circuit: British Grand Prix', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/8765'}; {'expansion_id': '18123', 'expansion_name': 'Speed Circuit: Detroit Grand Prix', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18123'}; {'expansion_id': '8763', 'expansion_name': 'Speed Circuit: Grand Prix de Belgique', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/8763'}; {'expansion_id': '8762', 'expansion_name': 'Speed Circuit: Grand Prix de France', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/8762'}; {'expansion_id': '8764', 'expansion_name': 'Speed Circuit: South African Grand Prix', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/8764'}; {'expansion_id': '7455', 'expansion_name': 'Speed Circuit: Tournament Tracks', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/7455'}; {'expansion_id': '25877', 'expansion_name': 'Speed Circuit: Turnier Kurs', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/25877'}",
+    "expansions_for_string": ""
+}

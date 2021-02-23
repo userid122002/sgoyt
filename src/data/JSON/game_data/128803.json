@@ -1,0 +1,77 @@
+{
+    "game_id": "128803",
+    "game_name": "Temple of the Feathered Serpent",
+    "bgg_link": "https://boardgamegeek.com/boardgame/128803",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5640664",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5640664#item5640664",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "Cate108"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5916236",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5916236#item5916236",
+            "geeklist_host": "Jorune",
+            "contributor": "thevig"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6955066",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6955066#item6955066",
+            "geeklist_host": "Woelf",
+            "contributor": "Woelf"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/pKu2V-yqxwUgJPT1kq-2kQ__thumb/img/U3NxPHh2Sf0pNQSKRH83w_5szxM=/fit-in/200x150/filters:strip_icc()/pic3748526.jpg",
+    "year_published": "2011",
+    "designers": [
+        "David Neumann (Neumannium)",
+        "Cate Pfeifer",
+        "William Retert"
+    ],
+    "weight": 0.00,
+    "rating": 6.83,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Maze",
+        "Print & Play",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Grid Movement",
+        "Hand Management",
+        "Push Your Luck",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "249416",
+            "expansion_name": "Temple of the Feathered Serpent: Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/249416"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "David Neumann (Neumannium); Cate Pfeifer; William Retert",
+    "categories_string": "Adventure; Maze; Print & Play; Video Game Theme",
+    "mechanics_string": "Area Movement; Grid Movement; Hand Management; Push Your Luck; Tile Placement",
+    "expansions_string": "{'expansion_id': '249416', 'expansion_name': 'Temple of the Feathered Serpent: Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/249416'}",
+    "expansions_for_string": ""
+}

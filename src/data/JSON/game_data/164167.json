@@ -1,0 +1,149 @@
+{
+    "game_id": "164167",
+    "game_name": "Eldritch Horror: Mountains of Madness",
+    "bgg_link": "https://boardgamegeek.com/boardgame/164167",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3625941",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3625941#item3625941",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "hauwegdenmist"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3631748",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3631748#item3631748",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4086735",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4086735#item4086735",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "lightningbug_54"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4131802",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4131802#item4131802",
+            "geeklist_host": "lukather",
+            "contributor": "haenggi"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4369566",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4369566#item4369566",
+            "geeklist_host": "suzyvitale",
+            "contributor": "Tommo87"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4547352",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4547352#item4547352",
+            "geeklist_host": "jdarnold",
+            "contributor": "TheStoicEmperor"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4702192",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4702192#item4702192",
+            "geeklist_host": "koinskyz",
+            "contributor": "taeryn"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7019897",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7019897#item7019897",
+            "geeklist_host": "labrhat22",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6900855",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6900855#item6900855",
+            "geeklist_host": "Woelf",
+            "contributor": "hubyx"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8127143",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8127143#item8127143",
+            "geeklist_host": "ArianneH",
+            "contributor": "byarhouse"
+        }
+    ],
+    "sgoyt_count": 10,
+    "thumbnail": "https://cf.geekdo-images.com/trhRViqsqtYANzVmlCAtNQ__thumb/img/k2IcTiqH6LhbiSOP6zvAZaAYQJg=/fit-in/200x150/filters:strip_icc()/pic2247632.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Nikki Valens"
+    ],
+    "weight": 3.27,
+    "rating": 8.21,
+    "play_time": "180",
+    "best": "2",
+    "recommended": "17",
+    "not_recommended": "12",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Point to Point Movement",
+        "Role Playing",
+        "Storytelling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "146021",
+            "game_name": "Eldritch Horror",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/146021"
+        }
+    ],
+    "designers_string": "Nikki Valens",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy; Fighting; Horror; Novel-based",
+    "mechanics_string": "Card Drafting; Cooperative Game; Dice Rolling; Point to Point Movement; Role Playing; Storytelling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '146021', 'game_name': 'Eldritch Horror', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/146021'}"
+}

@@ -1,0 +1,58 @@
+{
+    "game_id": "279067",
+    "game_name": "Obsession: Upstairs, Downstairs",
+    "bgg_link": "https://boardgamegeek.com/boardgame/279067",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7873809",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7873809#item7873809",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "patton55"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/bSiHZ0SWDXTihJQoiZHR1w__thumb/img/efpwE49Uvscc-oponflLtGag8Ks=/fit-in/200x150/filters:strip_icc()/pic4879951.png",
+    "year_published": "2020",
+    "designers": [
+        "Dan Hallagan"
+    ],
+    "weight": 3.43,
+    "rating": 8.65,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Post-Napoleonic"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Tile Placement",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "306634",
+            "expansion_name": "Obsession: Promotional Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/306634"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "231733",
+            "game_name": "Obsession",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/231733"
+        }
+    ],
+    "designers_string": "Dan Hallagan",
+    "categories_string": "Expansion for Base-game; Post-Napoleonic",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Tile Placement; Worker Placement",
+    "expansions_string": "{'expansion_id': '306634', 'expansion_name': 'Obsession: Promotional Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/306634'}",
+    "expansions_for_string": "{'game_id': '231733', 'game_name': 'Obsession', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/231733'}"
+}

@@ -1,0 +1,61 @@
+{
+    "game_id": "260678",
+    "game_name": "Stone Age: Anniversary",
+    "bgg_link": "https://boardgamegeek.com/boardgame/260678",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7578280",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7578280#item7578280",
+            "geeklist_host": "jwml",
+            "contributor": "Tobina"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7661952",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7661952#item7661952",
+            "geeklist_host": "gentle",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/DYD5pILusNffN5X2gQrpiQ__thumb/img/c9xdMzAW7YNmpg7B4xMwPDtTlGk=/fit-in/200x150/filters:strip_icc()/pic4389753.png",
+    "year_published": "2018",
+    "designers": [
+        "Bernd Brunnhofer"
+    ],
+    "weight": 2.32,
+    "rating": 8.03,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "12",
+    "categories": [
+        "Dice",
+        "Prehistoric"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Set Collection",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "107576",
+            "expansion_name": "Stone Age: The Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/107576"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Bernd Brunnhofer",
+    "categories_string": "Dice; Prehistoric",
+    "mechanics_string": "Dice Rolling; Set Collection; Worker Placement",
+    "expansions_string": "{'expansion_id': '107576', 'expansion_name': 'Stone Age: The Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/107576'}",
+    "expansions_for_string": ""
+}

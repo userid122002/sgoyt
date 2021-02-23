@@ -1,0 +1,65 @@
+{
+    "game_id": "109548",
+    "game_name": "Hemloch",
+    "bgg_link": "https://boardgamegeek.com/boardgame/109548",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "176697",
+            "geeklist_item_id": "3359444",
+            "year_month": "2014/08",
+            "year": "2014",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/176697/item/3359444#item3359444",
+            "geeklist_host": "petegs",
+            "contributor": "rangerx"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4507827",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4507827#item4507827",
+            "geeklist_host": "pusherman42",
+            "contributor": "kittenhoarder"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/V5WuuYDnulY1iocHmHIGSQ__thumb/img/rAPFUWoCTKuWFPF__cfmOPkt7cE=/fit-in/200x150/filters:strip_icc()/pic1107558.jpg",
+    "year_published": "2011",
+    "designers": [
+        "John Clowdus"
+    ],
+    "weight": 2.00,
+    "rating": 6.81,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "4",
+    "categories": [
+        "Card Game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "174201",
+            "expansion_name": "Hemloch: Midnight Edition Extras",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/174201"
+        },
+        {
+            "expansion_id": "132983",
+            "expansion_name": "Hemloch: The Long Shadow",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132983"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "John Clowdus",
+    "categories_string": "Card Game; Fantasy",
+    "mechanics_string": "Area Majority / Influence; Hand Management",
+    "expansions_string": "{'expansion_id': '174201', 'expansion_name': 'Hemloch: Midnight Edition Extras', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/174201'}; {'expansion_id': '132983', 'expansion_name': 'Hemloch: The Long Shadow', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132983'}",
+    "expansions_for_string": ""
+}

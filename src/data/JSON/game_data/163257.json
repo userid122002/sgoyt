@@ -1,0 +1,62 @@
+{
+    "game_id": "163257",
+    "game_name": "Compounded: Geiger Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/163257",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4343534",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4343534#item4343534",
+            "geeklist_host": "mikolajl",
+            "contributor": "Octarine8"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4399513",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4399513#item4399513",
+            "geeklist_host": "suzyvitale",
+            "contributor": "BilboAtBagEnd"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/3jXHG2VrdkO-paUrMNiE4Q__thumb/img/_MIyuGAzuS2CcNb4_sTLn2uaqhs=/fit-in/200x150/filters:strip_icc()/pic2094101.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Darrell Louder"
+    ],
+    "weight": 2.38,
+    "rating": 7.02,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Educational",
+        "Expansion for Base-game",
+        "Industry / Manufacturing",
+        "Negotiation"
+    ],
+    "mechanics": [
+        "Set Collection",
+        "Trading"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "118174",
+            "game_name": "Compounded",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/118174"
+        }
+    ],
+    "designers_string": "Darrell Louder",
+    "categories_string": "Educational; Expansion for Base-game; Industry / Manufacturing; Negotiation",
+    "mechanics_string": "Set Collection; Trading",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '118174', 'game_name': 'Compounded', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/118174'}"
+}

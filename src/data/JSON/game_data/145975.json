@@ -1,0 +1,85 @@
+{
+    "game_id": "145975",
+    "game_name": "Hoplite",
+    "bgg_link": "https://boardgamegeek.com/boardgame/145975",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3200957",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3200957#item3200957",
+            "geeklist_host": "fractaloon",
+            "contributor": "RAVENBURG"
+        },
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3864597",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3864597#item3864597",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "weateallthepies"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4448788",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4448788#item4448788",
+            "geeklist_host": "Woelf",
+            "contributor": "kikerl"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5266365",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5266365#item5266365",
+            "geeklist_host": "suzyvitale",
+            "contributor": "casey nedry"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/NzDflBYmq2FOE8zzCOP13A__thumb/img/YTYwuwX_n7fgBGEY5DNMdAka398=/fit-in/200x150/filters:strip_icc()/pic1997761.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Richard H. Berg",
+        "Mark Herman"
+    ],
+    "weight": 3.52,
+    "rating": 7.74,
+    "play_time": "60 - 480",
+    "best": "3",
+    "recommended": "3",
+    "not_recommended": "0",
+    "categories": [
+        "Ancient",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "250339",
+            "expansion_name": "Hoplite: The First Battle of Mantinea, 418 BC",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/250339"
+        },
+        {
+            "expansion_id": "218226",
+            "expansion_name": "Hoplite: The Great Battles of Sparta's Persian Expedition",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218226"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Richard H. Berg; Mark Herman",
+    "categories_string": "Ancient; Wargame",
+    "mechanics_string": "Hexagon Grid",
+    "expansions_string": "{'expansion_id': '250339', 'expansion_name': 'Hoplite: The First Battle of Mantinea, 418 BC', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/250339'}; {'expansion_id': '218226', 'expansion_name': \"Hoplite: The Great Battles of Sparta's Persian Expedition\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218226'}",
+    "expansions_for_string": ""
+}

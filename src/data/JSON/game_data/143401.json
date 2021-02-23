@@ -1,0 +1,58 @@
+{
+    "game_id": "143401",
+    "game_name": "Yunnan",
+    "bgg_link": "https://boardgamegeek.com/boardgame/143401",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6548825",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6548825#item6548825",
+            "geeklist_host": "Albia",
+            "contributor": "Elida"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/R66QBrIBNczNpDG6cqbgWw__thumb/img/f4AdWsVnFbGxLmA2kOkAf79hU1w=/fit-in/200x150/filters:strip_icc()/pic1783522.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Aaron Haag"
+    ],
+    "weight": 3.24,
+    "rating": 7.13,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "9",
+    "categories": [
+        "Ancient",
+        "Economic",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Auction/Bidding",
+        "Network and Route Building",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "185307",
+            "expansion_name": "Yunnan: Dian Mu Temple",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185307"
+        },
+        {
+            "expansion_id": "150091",
+            "expansion_name": "Yunnan: Tu Di Gong Shrine",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/150091"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Aaron Haag",
+    "categories_string": "Ancient; Economic; Transportation",
+    "mechanics_string": "Area Movement; Auction/Bidding; Network and Route Building; Worker Placement",
+    "expansions_string": "{'expansion_id': '185307', 'expansion_name': 'Yunnan: Dian Mu Temple', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185307'}; {'expansion_id': '150091', 'expansion_name': 'Yunnan: Tu Di Gong Shrine', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/150091'}",
+    "expansions_for_string": ""
+}

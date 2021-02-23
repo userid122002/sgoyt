@@ -1,0 +1,133 @@
+{
+    "game_id": "172638",
+    "game_name": "Hostage Negotiator: Abductor Pack 2",
+    "bgg_link": "https://boardgamegeek.com/boardgame/172638",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3935300",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3935300#item3935300",
+            "geeklist_host": "koinskyz",
+            "contributor": "mikolajl"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4060928",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4060928#item4060928",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "mikolajl"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4424923",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4424923#item4424923",
+            "geeklist_host": "suzyvitale",
+            "contributor": "Rindel"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4439860",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4439860#item4439860",
+            "geeklist_host": "Woelf",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4442319",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4442319#item4442319",
+            "geeklist_host": "Woelf",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4523580",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4523580#item4523580",
+            "geeklist_host": "pusherman42",
+            "contributor": "CthulhuKid"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5125648",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5125648#item5125648",
+            "geeklist_host": "settlerdave",
+            "contributor": "maloma"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6510894",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6510894#item6510894",
+            "geeklist_host": "kevinruns262",
+            "contributor": "ogoctopus"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/jv2PYWR05MPkF9WyBMPkbw__thumb/img/etAkFsn5W3DGcR6OUTbvapMFDHs=/fit-in/200x150/filters:strip_icc()/pic5491313.jpg",
+    "year_published": "2015",
+    "designers": [
+        "A. J. Porfirio"
+    ],
+    "weight": 2.20,
+    "rating": 7.23,
+    "play_time": "10 - 30",
+    "best": "3",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "206423",
+            "expansion_name": "Hostage Negotiator: Demand Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206423"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "134253",
+            "game_name": "Hostage Negotiator",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/134253"
+        },
+        {
+            "game_id": "198707",
+            "game_name": "Hostage Negotiator: Crime Wave",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/198707"
+        }
+    ],
+    "designers_string": "A. J. Porfirio",
+    "categories_string": "Card Game; Dice; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Dice Rolling; Hand Management",
+    "expansions_string": "{'expansion_id': '206423', 'expansion_name': 'Hostage Negotiator: Demand Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206423'}",
+    "expansions_for_string": "{'game_id': '134253', 'game_name': 'Hostage Negotiator', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/134253'}; {'game_id': '198707', 'game_name': 'Hostage Negotiator: Crime Wave', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/198707'}"
+}

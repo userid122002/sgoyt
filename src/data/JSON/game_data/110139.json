@@ -1,0 +1,107 @@
+{
+    "game_id": "110139",
+    "game_name": "Flash Point: Fire Rescue - Urban Structures",
+    "bgg_link": "https://boardgamegeek.com/boardgame/110139",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3600498",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3600498#item3600498",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3997438",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3997438#item3997438",
+            "geeklist_host": "joestin",
+            "contributor": "splittist"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4003652",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4003652#item4003652",
+            "geeklist_host": "joestin",
+            "contributor": "splittist"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4029215",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4029215#item4029215",
+            "geeklist_host": "joestin",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4258568",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4258568#item4258568",
+            "geeklist_host": "rangerx",
+            "contributor": "HoraceHonkyHorn"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5021541",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5021541#item5021541",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "js3b"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/xkMv0ooLogDhlVU-hOQIig__thumb/img/VRi5kiSfcel2EiINjsdQZb2HX2w=/fit-in/200x150/filters:strip_icc()/pic1121985.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Kevin Lanzing"
+    ],
+    "weight": 2.23,
+    "rating": 7.61,
+    "play_time": "45",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "4",
+    "categories": [
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "115185",
+            "expansion_name": "Flash Point: Fire Rescue - Fire Academy Challenge",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/115185"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "100901",
+            "game_name": "Flash Point: Fire Rescue",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/100901"
+        }
+    ],
+    "designers_string": "Kevin Lanzing",
+    "categories_string": "Expansion for Base-game",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Simulation",
+    "expansions_string": "{'expansion_id': '115185', 'expansion_name': 'Flash Point: Fire Rescue - Fire Academy Challenge', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/115185'}",
+    "expansions_for_string": "{'game_id': '100901', 'game_name': 'Flash Point: Fire Rescue', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/100901'}"
+}

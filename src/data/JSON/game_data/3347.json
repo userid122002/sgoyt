@@ -1,0 +1,61 @@
+{
+    "game_id": "3347",
+    "game_name": "Solo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/3347",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "5996801",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/5996801#item5996801",
+            "geeklist_host": "busdjur",
+            "contributor": "busdjur"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7410543",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7410543#item7410543",
+            "geeklist_host": "jomurph86",
+            "contributor": "jomurph86"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/mq1UZ1iBnv3xy9Cq8x_9Yw__thumb/img/MqYZa4Hdx93-2P0tN2qC_vvksv4=/fit-in/200x150/filters:strip_icc()/pic88271.jpg",
+    "year_published": "1993",
+    "designers": [
+        "Thomas Pauli"
+    ],
+    "weight": 1.02,
+    "rating": 5.37,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "8",
+    "categories": [
+        "Card Game"
+    ],
+    "mechanics": [],
+    "expansions": [
+        {
+            "expansion_id": "206283",
+            "expansion_name": "Solo Sonderkarten: Geschenk, Schutz und Spielrichtung",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206283"
+        },
+        {
+            "expansion_id": "186885",
+            "expansion_name": "Stadt Land Spielt Limitierte Sonderdrucke 2015",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186885"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Thomas Pauli",
+    "categories_string": "Card Game",
+    "mechanics_string": "",
+    "expansions_string": "{'expansion_id': '206283', 'expansion_name': 'Solo Sonderkarten: Geschenk, Schutz und Spielrichtung', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206283'}; {'expansion_id': '186885', 'expansion_name': 'Stadt Land Spielt Limitierte Sonderdrucke 2015', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186885'}",
+    "expansions_for_string": ""
+}

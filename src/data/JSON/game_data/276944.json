@@ -1,0 +1,101 @@
+{
+    "game_id": "276944",
+    "game_name": "Welcome To...: Solo Mode",
+    "bgg_link": "https://boardgamegeek.com/boardgame/276944",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6885249",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6885249#item6885249",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "der_mandarin"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7303277",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7303277#item7303277",
+            "geeklist_host": "Albia",
+            "contributor": "SpaceAlien"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7630846",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7630846#item7630846",
+            "geeklist_host": "threepointthed",
+            "contributor": "knuckles29"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7631950",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7631950#item7631950",
+            "geeklist_host": "threepointthed",
+            "contributor": "knuckles29"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7652764",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7652764#item7652764",
+            "geeklist_host": "threepointthed",
+            "contributor": "SpaceAlien"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7681374",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7681374#item7681374",
+            "geeklist_host": "gentle",
+            "contributor": "SpaceAlien"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/_dnvRUy3bwrEzvWjSVN5bw__thumb/img/eC85Ap0sT6Mg2Lv2wXX-5jMhg0s=/fit-in/200x150/filters:strip_icc()/pic4684922.png",
+    "year_published": "2019",
+    "designers": [
+        "Alexis Allard"
+    ],
+    "weight": 2.00,
+    "rating": 7.72,
+    "play_time": "25",
+    "best": "3",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "City Building",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Paper-and-Pencil",
+        "Pattern Building",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "233867",
+            "game_name": "Welcome To...",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/233867"
+        }
+    ],
+    "designers_string": "Alexis Allard",
+    "categories_string": "City Building; Expansion for Base-game",
+    "mechanics_string": "Paper-and-Pencil; Pattern Building; Solo / Solitaire Game",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '233867', 'game_name': 'Welcome To...', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/233867'}"
+}

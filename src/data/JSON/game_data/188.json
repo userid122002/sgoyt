@@ -1,0 +1,54 @@
+{
+    "game_id": "188",
+    "game_name": "Go",
+    "bgg_link": "https://boardgamegeek.com/boardgame/188",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7616608",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7616608#item7616608",
+            "geeklist_host": "threepointthed",
+            "contributor": "tommynomad"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/6qAiZwWxSSKP2kFcA80cZg__thumb/img/COT5I3D_0dKWrSRHChb-SnQl3Zc=/fit-in/200x150/filters:strip_icc()/pic1728832.jpg",
+    "year_published": "-2200",
+    "designers": [
+        "(Uncredited)"
+    ],
+    "weight": 4.00,
+    "rating": 7.64,
+    "play_time": "30 - 180",
+    "best": "1",
+    "recommended": "22",
+    "not_recommended": "136",
+    "categories": [
+        "Abstract Strategy"
+    ],
+    "mechanics": [
+        "Enclosure",
+        "Square Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "253107",
+            "expansion_name": "Joker Go",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253107"
+        },
+        {
+            "expansion_id": "219234",
+            "expansion_name": "Poker-Go",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219234"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "(Uncredited)",
+    "categories_string": "Abstract Strategy",
+    "mechanics_string": "Enclosure; Square Grid",
+    "expansions_string": "{'expansion_id': '253107', 'expansion_name': 'Joker Go', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253107'}; {'expansion_id': '219234', 'expansion_name': 'Poker-Go', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219234'}",
+    "expansions_for_string": ""
+}

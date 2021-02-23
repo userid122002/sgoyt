@@ -1,0 +1,86 @@
+{
+    "game_id": "1577",
+    "game_name": "Source of the Nile",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1577",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2862106",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2862106#item2862106",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Friendless"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5538574",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5538574#item5538574",
+            "geeklist_host": "kevinruns262",
+            "contributor": "cornishlee"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7317364",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7317364#item7317364",
+            "geeklist_host": "Albia",
+            "contributor": "thomasmore"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8042525",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8042525#item8042525",
+            "geeklist_host": "airzonk1",
+            "contributor": "JLPreiser"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/H2hg0TwSeWvdoC5DGd2Akg__thumb/img/_JatKR5PaPkplgwfwxAlME0RPn0=/fit-in/200x150/filters:strip_icc()/pic244574.jpg",
+    "year_published": "1978",
+    "designers": [
+        "Ross Maker",
+        "Dave Wesely"
+    ],
+    "weight": 2.82,
+    "rating": 6.49,
+    "play_time": "180",
+    "best": "8",
+    "recommended": "4",
+    "not_recommended": "1",
+    "categories": [
+        "Exploration",
+        "Post-Napoleonic"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Events",
+        "Hexagon Grid",
+        "Paper-and-Pencil",
+        "Ratio / Combat Results Table",
+        "Scenario / Mission / Campaign Game",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "11906",
+            "expansion_name": "Source of the Nile: Tributary",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/11906"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ross Maker; Dave Wesely",
+    "categories_string": "Exploration; Post-Napoleonic",
+    "mechanics_string": "Dice Rolling; Events; Hexagon Grid; Paper-and-Pencil; Ratio / Combat Results Table; Scenario / Mission / Campaign Game; Variable Set-up",
+    "expansions_string": "{'expansion_id': '11906', 'expansion_name': 'Source of the Nile: Tributary', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/11906'}",
+    "expansions_for_string": ""
+}

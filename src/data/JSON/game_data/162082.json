@@ -1,0 +1,101 @@
+{
+    "game_id": "162082",
+    "game_name": "Deus",
+    "bgg_link": "https://boardgamegeek.com/boardgame/162082",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4370465",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4370465#item4370465",
+            "geeklist_host": "suzyvitale",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4556716",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4556716#item4556716",
+            "geeklist_host": "jdarnold",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4868951",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4868951#item4868951",
+            "geeklist_host": "kikerl",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4870837",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4870837#item4870837",
+            "geeklist_host": "kikerl",
+            "contributor": "jeffrhind"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6668004",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6668004#item6668004",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "eastwoodk"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/NOz3xJ-N5ptlq3rP9m5Wug__thumb/img/nQQSc-beglCc9XQwvptEwgm07wU=/fit-in/200x150/filters:strip_icc()/pic2219643.png",
+    "year_published": "2014",
+    "designers": [
+        "Sebastien Dujardin"
+    ],
+    "weight": 2.84,
+    "rating": 7.33,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "67",
+    "categories": [
+        "Civilization",
+        "Mythology"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Grid Movement",
+        "Hand Management",
+        "Hexagon Grid",
+        "Kill Steal",
+        "Modular Board",
+        "Network and Route Building",
+        "Victory Points as a Resource"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "201609",
+            "expansion_name": "Deus: Egypt",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/201609"
+        },
+        {
+            "expansion_id": "211350",
+            "expansion_name": "Deus: Promo Temples",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211350"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Sebastien Dujardin",
+    "categories_string": "Civilization; Mythology",
+    "mechanics_string": "Area Majority / Influence; Grid Movement; Hand Management; Hexagon Grid; Kill Steal; Modular Board; Network and Route Building; Victory Points as a Resource",
+    "expansions_string": "{'expansion_id': '201609', 'expansion_name': 'Deus: Egypt', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/201609'}; {'expansion_id': '211350', 'expansion_name': 'Deus: Promo Temples', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211350'}",
+    "expansions_for_string": ""
+}

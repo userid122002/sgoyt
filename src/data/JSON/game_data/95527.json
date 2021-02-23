@@ -1,0 +1,67 @@
+{
+    "game_id": "95527",
+    "game_name": "Madeira",
+    "bgg_link": "https://boardgamegeek.com/boardgame/95527",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4037941",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4037941#item4037941",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "casey nedry"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/wY6k5MmdPH3NVXsJ-SgtMw__thumb/img/Su3JBW4OIe8Qt6nXEyUcMOJtqsM=/fit-in/200x150/filters:strip_icc()/pic1762708.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Nuno Bizarro Sentieiro",
+        "Paulo Soledade"
+    ],
+    "weight": 4.29,
+    "rating": 7.62,
+    "play_time": "60 - 150",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "39",
+    "categories": [
+        "Dice",
+        "Economic",
+        "Farming",
+        "Nautical"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Dice Rolling",
+        "Turn Order: Pass Order",
+        "Turn Order: Stat-Based",
+        "Worker Placement",
+        "Worker Placement with Dice Workers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "266122",
+            "expansion_name": "Madeira: Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/266122"
+        },
+        {
+            "expansion_id": "157327",
+            "expansion_name": "Madeira: The Ambassadors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/157327"
+        },
+        {
+            "expansion_id": "152388",
+            "expansion_name": "Madeira: The Harvester",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152388"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Nuno Bizarro Sentieiro; Paulo Soledade",
+    "categories_string": "Dice; Economic; Farming; Nautical",
+    "mechanics_string": "Area Majority / Influence; Dice Rolling; Turn Order: Pass Order; Turn Order: Stat-Based; Worker Placement; Worker Placement with Dice Workers",
+    "expansions_string": "{'expansion_id': '266122', 'expansion_name': 'Madeira: Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/266122'}; {'expansion_id': '157327', 'expansion_name': 'Madeira: The Ambassadors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/157327'}; {'expansion_id': '152388', 'expansion_name': 'Madeira: The Harvester', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152388'}",
+    "expansions_for_string": ""
+}

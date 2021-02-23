@@ -1,0 +1,64 @@
+{
+    "game_id": "139865",
+    "game_name": "Zombicide: Box of Zombies - Set #1: Walk of the Dead",
+    "bgg_link": "https://boardgamegeek.com/boardgame/139865",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3981863",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3981863#item3981863",
+            "geeklist_host": "joestin",
+            "contributor": "thepocket"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/IRGDAwJRxlAYUMys6opgMA__thumb/img/62Z9r3F_Zz9WO-020p5NJiiWPQg=/fit-in/200x150/filters:strip_icc()/pic1601492.jpg",
+    "year_published": "2013",
+    "designers": [],
+    "weight": 2.18,
+    "rating": 7.23,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Horror",
+        "Miniatures",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "113924",
+            "game_name": "Zombicide",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/113924"
+        },
+        {
+            "game_id": "137988",
+            "game_name": "Zombicide Season 2: Prison Outbreak",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/137988"
+        },
+        {
+            "game_id": "161866",
+            "game_name": "Zombicide Season 3: Rue Morgue",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/161866"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Expansion for Base-game; Horror; Miniatures; Zombies",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Hand Management; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '113924', 'game_name': 'Zombicide', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/113924'}; {'game_id': '137988', 'game_name': 'Zombicide Season 2: Prison Outbreak', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/137988'}; {'game_id': '161866', 'game_name': 'Zombicide Season 3: Rue Morgue', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/161866'}"
+}

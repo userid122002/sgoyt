@@ -1,0 +1,74 @@
+{
+    "game_id": "138559",
+    "game_name": "Agents of SMERSH: Swagman's Hope",
+    "bgg_link": "https://boardgamegeek.com/boardgame/138559",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3237941",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3237941#item3237941",
+            "geeklist_host": "fractaloon",
+            "contributor": "mvettemagred"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/zMJeUP6GrI3tYDbTKznkmw__thumb/img/nIIijlo32x0Mm9hSA5XtvZj5TLY=/fit-in/200x150/filters:strip_icc()/pic1920453.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Dan Booth",
+        "Jason Maxwell"
+    ],
+    "weight": 3.14,
+    "rating": 7.48,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Spies/Secret Agents"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Storytelling"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "160866",
+            "expansion_name": "Agents of SMERSH:  Secret Mission Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160866"
+        },
+        {
+            "expansion_id": "179814",
+            "expansion_name": "Agents of SMERSH: All the Kickstarter Promos",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179814"
+        },
+        {
+            "expansion_id": "170560",
+            "expansion_name": "Agents of SMERSH: Showdown!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/170560"
+        },
+        {
+            "expansion_id": "159532",
+            "expansion_name": "Agents of SMERSH: Swagman's Hope Kickstarter Extras",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159532"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "111105",
+            "game_name": "Agents of SMERSH",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/111105"
+        }
+    ],
+    "designers_string": "Dan Booth; Jason Maxwell",
+    "categories_string": "Adventure; Expansion for Base-game; Spies/Secret Agents",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Storytelling",
+    "expansions_string": "{'expansion_id': '160866', 'expansion_name': 'Agents of SMERSH:  Secret Mission Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160866'}; {'expansion_id': '179814', 'expansion_name': 'Agents of SMERSH: All the Kickstarter Promos', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179814'}; {'expansion_id': '170560', 'expansion_name': 'Agents of SMERSH: Showdown!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/170560'}; {'expansion_id': '159532', 'expansion_name': \"Agents of SMERSH: Swagman's Hope Kickstarter Extras\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159532'}",
+    "expansions_for_string": "{'game_id': '111105', 'game_name': 'Agents of SMERSH', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/111105'}"
+}

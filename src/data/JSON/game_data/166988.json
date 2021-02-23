@@ -1,0 +1,85 @@
+{
+    "game_id": "166988",
+    "game_name": "Wizards of the Wild",
+    "bgg_link": "https://boardgamegeek.com/boardgame/166988",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4889563",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4889563#item4889563",
+            "geeklist_host": "kikerl",
+            "contributor": "Randougall"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7061798",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7061798#item7061798",
+            "geeklist_host": "labrhat22",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7069047",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7069047#item7069047",
+            "geeklist_host": "Venom Snake",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7542675",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7542675#item7542675",
+            "geeklist_host": "Doc_H",
+            "contributor": "BunniCladwell"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/UCWymzp5i5eACeRxedYS8A__thumb/img/_ErurkFkgICHzJqsu12GS9kkwn4=/fit-in/200x150/filters:strip_icc()/pic3098828.png",
+    "year_published": "2015",
+    "designers": [
+        "Dan Schnake",
+        "Adam West"
+    ],
+    "weight": 2.00,
+    "rating": 6.71,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "0",
+    "categories": [
+        "Animals",
+        "Card Game",
+        "Dice",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Set Collection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "226368",
+            "expansion_name": "Wizards of the Wild: Forbidden Forest",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/226368"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Dan Schnake; Adam West",
+    "categories_string": "Animals; Card Game; Dice; Fantasy",
+    "mechanics_string": "Card Drafting; Dice Rolling; Set Collection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '226368', 'expansion_name': 'Wizards of the Wild: Forbidden Forest', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/226368'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,56 @@
+{
+    "game_id": "97357",
+    "game_name": "Sunrise City",
+    "bgg_link": "https://boardgamegeek.com/boardgame/97357",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5445025",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5445025#item5445025",
+            "geeklist_host": "koinskyz",
+            "contributor": "Faville"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/K0TijsubEb0coJCiKfw9XQ__thumb/img/EL-_VcCu_M-MUOZ1digOX4THsEE=/fit-in/200x150/filters:strip_icc()/pic1296019.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Isaias Vallejo"
+    ],
+    "weight": 2.34,
+    "rating": 6.63,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "9",
+    "categories": [
+        "City Building"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Card Drafting",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "147603",
+            "expansion_name": "Sunrise City: Bonus Roles and Buildings",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147603"
+        },
+        {
+            "expansion_id": "168892",
+            "expansion_name": "Sunrise City: Nights!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168892"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Isaias Vallejo",
+    "categories_string": "City Building",
+    "mechanics_string": "Auction/Bidding; Card Drafting; Tile Placement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '147603', 'expansion_name': 'Sunrise City: Bonus Roles and Buildings', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147603'}; {'expansion_id': '168892', 'expansion_name': 'Sunrise City: Nights!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168892'}",
+    "expansions_for_string": ""
+}

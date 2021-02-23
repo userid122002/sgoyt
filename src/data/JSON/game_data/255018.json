@@ -1,0 +1,63 @@
+{
+    "game_id": "255018",
+    "game_name": "Monty Python Fluxx: Black Knight Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/255018",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7174011",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7174011#item7174011",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "thredith"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7429659",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7429659#item7429659",
+            "geeklist_host": "jomurph86",
+            "contributor": "thredith"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/0AVJzrN_JF17vpiKGHrpdA__thumb/img/6idESAH4sCu4TIuZ1j1cxdedStA=/fit-in/200x150/filters:strip_icc()/pic4173722.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Andrew Looney"
+    ],
+    "weight": 2.00,
+    "rating": 7.09,
+    "play_time": "40",
+    "best": "2",
+    "recommended": "9",
+    "not_recommended": "5",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Humor",
+        "Movies / TV / Radio theme"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Set Collection",
+        "Singing"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "36345",
+            "game_name": "Monty Python Fluxx",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/36345"
+        }
+    ],
+    "designers_string": "Andrew Looney",
+    "categories_string": "Card Game; Expansion for Base-game; Humor; Movies / TV / Radio theme",
+    "mechanics_string": "Hand Management; Set Collection; Singing",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '36345', 'game_name': 'Monty Python Fluxx', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/36345'}"
+}

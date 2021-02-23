@@ -1,0 +1,60 @@
+{
+    "game_id": "91534",
+    "game_name": "Struggle for Catan",
+    "bgg_link": "https://boardgamegeek.com/boardgame/91534",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3780204",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3780204#item3780204",
+            "geeklist_host": "HRune",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4848611",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4848611#item4848611",
+            "geeklist_host": "govmiller",
+            "contributor": "davekuhns"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/odRECA_s_wJWJnFHovbb0g__thumb/img/CPhroaAPBNta7BCp1M69h8ArEKs=/fit-in/200x150/filters:strip_icc()/pic3063589.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "weight": 1.67,
+    "rating": 6.17,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "19",
+    "categories": [
+        "Card Game",
+        "City Building"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Trading"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "132700",
+            "expansion_name": "Die Siedler von Catan: Das schnelle Kartenspiel - Stadtausbau Kathedrale",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132700"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Klaus Teuber",
+    "categories_string": "Card Game; City Building",
+    "mechanics_string": "Hand Management; Trading",
+    "expansions_string": "{'expansion_id': '132700', 'expansion_name': 'Die Siedler von Catan: Das schnelle Kartenspiel - Stadtausbau Kathedrale', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132700'}",
+    "expansions_for_string": ""
+}

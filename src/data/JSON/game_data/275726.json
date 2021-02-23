@@ -1,0 +1,66 @@
+{
+    "game_id": "275726",
+    "game_name": "Legendary: A Marvel Deck Building Game - Dimensions",
+    "bgg_link": "https://boardgamegeek.com/boardgame/275726",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6967252",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6967252#item6967252",
+            "geeklist_host": "magic_erwt",
+            "contributor": "overhaul"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7369605",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7369605#item7369605",
+            "geeklist_host": "jeffrhind",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Et_jtpLGmggvH-IkE0RM4w__thumb/img/tV1yCidgF2biPt3Jt1btBaDgen0=/fit-in/200x150/filters:strip_icc()/pic4673279.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Devin Low"
+    ],
+    "weight": 0.00,
+    "rating": 7.90,
+    "play_time": "45 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Comic Book / Strip",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "129437",
+            "game_name": "Legendary: A Marvel Deck Building Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/129437"
+        },
+        {
+            "game_id": "156689",
+            "game_name": "Legendary: A Marvel Deck Building Game - Villains",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/156689"
+        }
+    ],
+    "designers_string": "Devin Low",
+    "categories_string": "Card Game; Comic Book / Strip; Expansion for Base-game",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '129437', 'game_name': 'Legendary: A Marvel Deck Building Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/129437'}; {'game_id': '156689', 'game_name': 'Legendary: A Marvel Deck Building Game - Villains', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/156689'}"
+}

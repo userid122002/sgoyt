@@ -1,0 +1,60 @@
+{
+    "game_id": "22545",
+    "game_name": "Age of Empires III: The Age of Discovery",
+    "bgg_link": "https://boardgamegeek.com/boardgame/22545",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "176697",
+            "geeklist_item_id": "3350348",
+            "year_month": "2014/08",
+            "year": "2014",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/176697/item/3350348#item3350348",
+            "geeklist_host": "petegs",
+            "contributor": "CarpeGuitarrem"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/t_4cyWZs2IC5s6V8t-R_Uw__thumb/img/cEqYe_airlQ3ZSe2-E-4fhh4VXk=/fit-in/200x150/filters:strip_icc()/pic990261.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Glenn Drover"
+    ],
+    "weight": 3.13,
+    "rating": 7.54,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "170",
+    "categories": [
+        "Civilization",
+        "Exploration",
+        "Renaissance",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Set Collection",
+        "Turn Order: Claim Action",
+        "Worker Placement",
+        "Worker Placement, Different Worker Types"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "41261",
+            "expansion_name": "Empires: Builder Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/41261"
+        },
+        {
+            "expansion_id": "114986",
+            "expansion_name": "Glenn Drover's Empires: Age of Discovery - Plague Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/114986"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Glenn Drover",
+    "categories_string": "Civilization; Exploration; Renaissance; Video Game Theme",
+    "mechanics_string": "Area Majority / Influence; Set Collection; Turn Order: Claim Action; Worker Placement; Worker Placement, Different Worker Types",
+    "expansions_string": "{'expansion_id': '41261', 'expansion_name': 'Empires: Builder Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/41261'}; {'expansion_id': '114986', 'expansion_name': \"Glenn Drover's Empires: Age of Discovery - Plague Promo\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/114986'}",
+    "expansions_for_string": ""
+}

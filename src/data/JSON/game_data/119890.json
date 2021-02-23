@@ -1,0 +1,143 @@
+{
+    "game_id": "119890",
+    "game_name": "Agricola: All Creatures Big and Small",
+    "bgg_link": "https://boardgamegeek.com/boardgame/119890",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3998408",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3998408#item3998408",
+            "geeklist_host": "joestin",
+            "contributor": "njshaw2"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4047022",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4047022#item4047022",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "ralsar"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4054809",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4054809#item4054809",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "fractaloon"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4304532",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4304532#item4304532",
+            "geeklist_host": "mikolajl",
+            "contributor": "lmizutani"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4886791",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4886791#item4886791",
+            "geeklist_host": "kikerl",
+            "contributor": "slaybalj"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5141960",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5141960#item5141960",
+            "geeklist_host": "settlerdave",
+            "contributor": "WingTale"
+        },
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5229312",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5229312#item5229312",
+            "geeklist_host": "Ibbo",
+            "contributor": "King Zimm"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5393512",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5393512#item5393512",
+            "geeklist_host": "maloma",
+            "contributor": "Elric of Grans"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5732451",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5732451#item5732451",
+            "geeklist_host": "cornishlee",
+            "contributor": "WingTale"
+        }
+    ],
+    "sgoyt_count": 9,
+    "thumbnail": "https://cf.geekdo-images.com/iaxdcb_l3F8McwzyoiiCig__thumb/img/UWsWeuOQpGv5asAoyrKgwL3pVj0=/fit-in/200x150/filters:strip_icc()/pic1514252.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "weight": 2.35,
+    "rating": 7.38,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "9",
+    "not_recommended": "70",
+    "categories": [
+        "Animals",
+        "Farming"
+    ],
+    "mechanics": [
+        "Automatic Resource Growth",
+        "Enclosure",
+        "Increase Value of Unchosen Resources",
+        "Tile Placement",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "145355",
+            "expansion_name": "Agricola: All Creatures Big and Small - Even More Buildings Big and Small",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145355"
+        },
+        {
+            "expansion_id": "130752",
+            "expansion_name": "Agricola: All Creatures Big and Small - More Buildings Big and Small",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130752"
+        },
+        {
+            "expansion_id": "173558",
+            "expansion_name": "Agricola: Chopi i ich zwierzyniec - Jeszcze wiecej budynkow do zwierzynca",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173558"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Uwe Rosenberg",
+    "categories_string": "Animals; Farming",
+    "mechanics_string": "Automatic Resource Growth; Enclosure; Increase Value of Unchosen Resources; Tile Placement; Worker Placement",
+    "expansions_string": "{'expansion_id': '145355', 'expansion_name': 'Agricola: All Creatures Big and Small - Even More Buildings Big and Small', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145355'}; {'expansion_id': '130752', 'expansion_name': 'Agricola: All Creatures Big and Small - More Buildings Big and Small', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130752'}; {'expansion_id': '173558', 'expansion_name': 'Agricola: Chopi i ich zwierzyniec - Jeszcze wiecej budynkow do zwierzynca', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173558'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,56 @@
+{
+    "game_id": "152366",
+    "game_name": "Cards Against Humanity: 12 Days of Holiday Bullshit",
+    "bgg_link": "https://boardgamegeek.com/boardgame/152366",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3583772",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3583772#item3583772",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "ad79"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/K0laI0B1ugeweDu57OiEBg__thumb/img/P-Ck38SsX6QTFMvzLGKWY4Wfb4Q=/fit-in/200x150/filters:strip_icc()/pic2003899.png",
+    "year_published": "2013",
+    "designers": [
+        "Josh Dillon",
+        "Daniel Dranove",
+        "Eli Halpern",
+        "Ben Hantoot"
+    ],
+    "weight": 1.33,
+    "rating": 6.66,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Humor",
+        "Mature / Adult",
+        "Party Game"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "50381",
+            "game_name": "Cards Against Humanity",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/50381"
+        }
+    ],
+    "designers_string": "Josh Dillon; Daniel Dranove; Eli Halpern; Ben Hantoot",
+    "categories_string": "Card Game; Expansion for Base-game; Humor; Mature / Adult; Party Game",
+    "mechanics_string": "Hand Management; Simultaneous Action Selection",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '50381', 'game_name': 'Cards Against Humanity', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/50381'}"
+}

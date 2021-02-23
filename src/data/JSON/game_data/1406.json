@@ -1,0 +1,150 @@
+{
+    "game_id": "1406",
+    "game_name": "Monopoly",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1406",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3710968",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3710968#item3710968",
+            "geeklist_host": "Woelf",
+            "contributor": "philmcd"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6219641",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6219641#item6219641",
+            "geeklist_host": "Gribbon",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6588361",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6588361#item6588361",
+            "geeklist_host": "squarepegsys",
+            "contributor": "CrazyCatman"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7552285",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7552285#item7552285",
+            "geeklist_host": "Doc_H",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7695298",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7695298#item7695298",
+            "geeklist_host": "gentle",
+            "contributor": "mournful"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__thumb/img/ezXcyEsHhS9iRxmuGe8SmiLLXlM=/fit-in/200x150/filters:strip_icc()/pic5786795.jpg",
+    "year_published": "1933",
+    "designers": [
+        "(Uncredited)",
+        "Charles Darrow",
+        "Elizabeth J. Magie (Phillips)"
+    ],
+    "weight": 1.65,
+    "rating": 4.39,
+    "play_time": "60 - 180",
+    "best": "4",
+    "recommended": "2",
+    "not_recommended": "219",
+    "categories": [
+        "Economic",
+        "Negotiation"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Income",
+        "Loans",
+        "Lose a Turn",
+        "Player Elimination",
+        "Roll / Spin and Move",
+        "Set Collection",
+        "Stock Holding",
+        "Track Movement",
+        "Trading"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "138841",
+            "expansion_name": "Bance!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/138841"
+        },
+        {
+            "expansion_id": "21659",
+            "expansion_name": "Beyond Boardwalk and Park Place (fan expansion for Monopoly)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21659"
+        },
+        {
+            "expansion_id": "208031",
+            "expansion_name": "Cardopoly",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/208031"
+        },
+        {
+            "expansion_id": "13102",
+            "expansion_name": "Entrepreneur's Accessory to Monopoly (fan expansion for Monopoly)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/13102"
+        },
+        {
+            "expansion_id": "3446",
+            "expansion_name": "Game Spice: Monopoly Expansion (fan expansion for Monopoly)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/3446"
+        },
+        {
+            "expansion_id": "96025",
+            "expansion_name": "Infla: Defla",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/96025"
+        },
+        {
+            "expansion_id": "28968",
+            "expansion_name": "Mafiopoly",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28968"
+        },
+        {
+            "expansion_id": "9466",
+            "expansion_name": "Monopoly Stock Exchange Add-on",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/9466"
+        },
+        {
+            "expansion_id": "37893",
+            "expansion_name": "Monopoly: Mob Rule Expansion Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37893"
+        },
+        {
+            "expansion_id": "200771",
+            "expansion_name": "Socialism: The Game (fan expansion for Monopoly)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/200771"
+        },
+        {
+            "expansion_id": "16775",
+            "expansion_name": "Super Add-Ons: Monopoly (fan expansion for Monopoly)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/16775"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "(Uncredited); Charles Darrow; Elizabeth J. Magie (Phillips)",
+    "categories_string": "Economic; Negotiation",
+    "mechanics_string": "Auction/Bidding; Income; Loans; Lose a Turn; Player Elimination; Roll / Spin and Move; Set Collection; Stock Holding; Track Movement; Trading",
+    "expansions_string": "{'expansion_id': '138841', 'expansion_name': 'Bance!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/138841'}; {'expansion_id': '21659', 'expansion_name': 'Beyond Boardwalk and Park Place (fan expansion for Monopoly)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21659'}; {'expansion_id': '208031', 'expansion_name': 'Cardopoly', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/208031'}; {'expansion_id': '13102', 'expansion_name': \"Entrepreneur's Accessory to Monopoly (fan expansion for Monopoly)\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/13102'}; {'expansion_id': '3446', 'expansion_name': 'Game Spice: Monopoly Expansion (fan expansion for Monopoly)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/3446'}; {'expansion_id': '96025', 'expansion_name': 'Infla: Defla', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/96025'}; {'expansion_id': '28968', 'expansion_name': 'Mafiopoly', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28968'}; {'expansion_id': '9466', 'expansion_name': 'Monopoly Stock Exchange Add-on', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/9466'}; {'expansion_id': '37893', 'expansion_name': 'Monopoly: Mob Rule Expansion Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37893'}; {'expansion_id': '200771', 'expansion_name': 'Socialism: The Game (fan expansion for Monopoly)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/200771'}; {'expansion_id': '16775', 'expansion_name': 'Super Add-Ons: Monopoly (fan expansion for Monopoly)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/16775'}",
+    "expansions_for_string": ""
+}

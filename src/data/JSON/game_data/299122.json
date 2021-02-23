@@ -1,0 +1,82 @@
+{
+    "game_id": "299122",
+    "game_name": "Machina Arcana (Second Edition): Premium Edition",
+    "bgg_link": "https://boardgamegeek.com/boardgame/299122",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7899756",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7899756#item7899756",
+            "geeklist_host": "Elida",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7901183",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7901183#item7901183",
+            "geeklist_host": "Elida",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7936298",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7936298#item7936298",
+            "geeklist_host": "Elida",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/zwl8TpnEfCnWo3ChlgghAA__thumb/img/OWpZd9omirluvTzVT38xOFwLAkM=/fit-in/200x150/filters:strip_icc()/pic5162633.png",
+    "year_published": "2020",
+    "designers": [
+        "Juraj Bilich"
+    ],
+    "weight": 3.67,
+    "rating": 8.05,
+    "play_time": "150",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "1",
+    "categories": [
+        "Adventure",
+        "Dice",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Horror",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "322644",
+            "expansion_name": "Machina Arcana: From Beyond",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/322644"
+        },
+        {
+            "expansion_id": "322640",
+            "expansion_name": "Machina Arcana: To Eternity",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/322640"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Juraj Bilich",
+    "categories_string": "Adventure; Dice; Exploration; Fantasy; Fighting; Horror; Science Fiction",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Grid Movement",
+    "expansions_string": "{'expansion_id': '322644', 'expansion_name': 'Machina Arcana: From Beyond', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/322644'}; {'expansion_id': '322640', 'expansion_name': 'Machina Arcana: To Eternity', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/322640'}",
+    "expansions_for_string": ""
+}

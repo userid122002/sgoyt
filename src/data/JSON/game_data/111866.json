@@ -1,0 +1,54 @@
+{
+    "game_id": "111866",
+    "game_name": "Rise!",
+    "bgg_link": "https://boardgamegeek.com/boardgame/111866",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5059035",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5059035#item5059035",
+            "geeklist_host": "mikolajl",
+            "contributor": "Faville"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/25VXk3U-1haHopp87RbTsQ__thumb/img/QNeBFwb2k4YEhnM3gWdyX--ub5c=/fit-in/200x150/filters:strip_icc()/pic1176927.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Michael Coe"
+    ],
+    "weight": 1.83,
+    "rating": 6.08,
+    "play_time": "20",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Abstract Strategy",
+        "City Building",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Enclosure",
+        "Modular Board",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "112253",
+            "expansion_name": "Rise! The Ballistic Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/112253"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Michael Coe",
+    "categories_string": "Abstract Strategy; City Building; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Area Movement; Enclosure; Modular Board; Tile Placement",
+    "expansions_string": "{'expansion_id': '112253', 'expansion_name': 'Rise! The Ballistic Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/112253'}",
+    "expansions_for_string": ""
+}

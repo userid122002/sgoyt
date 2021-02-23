@@ -1,0 +1,106 @@
+{
+    "game_id": "40210",
+    "game_name": "Race for the Galaxy: Rebel vs Imperium",
+    "bgg_link": "https://boardgamegeek.com/boardgame/40210",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "157888",
+            "geeklist_item_id": "2696530",
+            "year_month": "2013/06",
+            "year": "2013",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/157888/item/2696530#item2696530",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Elyklord"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3602489",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3602489#item3602489",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3605679",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3605679#item3605679",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Sapper_SB"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4531649",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4531649#item4531649",
+            "geeklist_host": "pusherman42",
+            "contributor": "kikerl"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4579097",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4579097#item4579097",
+            "geeklist_host": "jdarnold",
+            "contributor": "Themackern"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/1rj-tMJ4RAunWnLt2mZBzw__thumb/img/q8sfU0gnsH0-37nfhbn3TYI8dBA=/fit-in/200x150/filters:strip_icc()/pic445501.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Thomas Lehmann"
+    ],
+    "weight": 3.08,
+    "rating": 7.93,
+    "play_time": "60",
+    "best": "3",
+    "recommended": "17",
+    "not_recommended": "17",
+    "categories": [
+        "Card Game",
+        "Civilization",
+        "Economic",
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "66121",
+            "expansion_name": "Race for the Galaxy: The Brink of War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/66121"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "28143",
+            "game_name": "Race for the Galaxy",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/28143"
+        },
+        {
+            "game_id": "34499",
+            "game_name": "Race for the Galaxy: The Gathering Storm",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/34499"
+        }
+    ],
+    "designers_string": "Thomas Lehmann",
+    "categories_string": "Card Game; Civilization; Economic; Expansion for Base-game; Science Fiction; Space Exploration",
+    "mechanics_string": "Hand Management; Simultaneous Action Selection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '66121', 'expansion_name': 'Race for the Galaxy: The Brink of War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/66121'}",
+    "expansions_for_string": "{'game_id': '28143', 'game_name': 'Race for the Galaxy', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/28143'}; {'game_id': '34499', 'game_name': 'Race for the Galaxy: The Gathering Storm', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/34499'}"
+}

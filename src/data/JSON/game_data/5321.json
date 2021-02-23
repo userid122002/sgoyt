@@ -1,0 +1,57 @@
+{
+    "game_id": "5321",
+    "game_name": "The Battle of the Little Big Horn",
+    "bgg_link": "https://boardgamegeek.com/boardgame/5321",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5584223",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5584223#item5584223",
+            "geeklist_host": "kevinruns262",
+            "contributor": "smic"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/1BMY05XafALqsEkiNhov8A__thumb/img/6XjXVM7p_YISoRjXRt9a0VC941E=/fit-in/200x150/filters:strip_icc()/pic2311283.jpg",
+    "year_published": "1962",
+    "designers": [
+        "Eduardo Rojas"
+    ],
+    "weight": 1.10,
+    "rating": 6.00,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "American Indian Wars",
+        "American West",
+        "Fighting",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Roll / Spin and Move"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "169388",
+            "expansion_name": "Pieles Rojas contra Cuchillos Largos",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169388"
+        },
+        {
+            "expansion_id": "169389",
+            "expansion_name": "Pieles Rojas de caballeria contra Cuchillos Largos",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169389"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Eduardo Rojas",
+    "categories_string": "American Indian Wars; American West; Fighting; Wargame",
+    "mechanics_string": "Dice Rolling; Roll / Spin and Move",
+    "expansions_string": "{'expansion_id': '169388', 'expansion_name': 'Pieles Rojas contra Cuchillos Largos', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169388'}; {'expansion_id': '169389', 'expansion_name': 'Pieles Rojas de caballeria contra Cuchillos Largos', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169389'}",
+    "expansions_for_string": ""
+}

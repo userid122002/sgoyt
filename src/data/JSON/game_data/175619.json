@@ -1,0 +1,71 @@
+{
+    "game_id": "175619",
+    "game_name": "Prussia 20",
+    "bgg_link": "https://boardgamegeek.com/boardgame/175619",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5759554",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5759554#item5759554",
+            "geeklist_host": "Albia",
+            "contributor": "catosulla"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7957732",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7957732#item7957732",
+            "geeklist_host": "Albia",
+            "contributor": "airzonk1"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8045828",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8045828#item8045828",
+            "geeklist_host": "airzonk1",
+            "contributor": "airjudden"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/untEAfpwL9jbJVLcCRF3_g__thumb/img/VOGNOiGtkAoT-CZQZVUSN-5JnMY=/fit-in/200x150/filters:strip_icc()/pic2470906.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Alan Emrich",
+        "Lance McMillan"
+    ],
+    "weight": 2.25,
+    "rating": 7.89,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "0",
+    "categories": [
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "227257",
+            "expansion_name": "Napoleonic 20 Expansion Kit (with Hanau 20)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227257"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Alan Emrich; Lance McMillan",
+    "categories_string": "Napoleonic; Wargame",
+    "mechanics_string": "Dice Rolling; Hexagon Grid",
+    "expansions_string": "{'expansion_id': '227257', 'expansion_name': 'Napoleonic 20 Expansion Kit (with Hanau 20)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227257'}",
+    "expansions_for_string": ""
+}

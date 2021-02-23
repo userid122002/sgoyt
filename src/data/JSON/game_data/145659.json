@@ -1,0 +1,77 @@
+{
+    "game_id": "145659",
+    "game_name": "Scoville",
+    "bgg_link": "https://boardgamegeek.com/boardgame/145659",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4638122",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4638122#item4638122",
+            "geeklist_host": "gentle",
+            "contributor": "Eraelan"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4836920",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4836920#item4836920",
+            "geeklist_host": "govmiller",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5176656",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5176656#item5176656",
+            "geeklist_host": "settlerdave",
+            "contributor": "kevinruns262"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/strK8aDLCB5KuqU3zirUOg__thumb/img/kNiZS7p5xX0fDhetxL35uYxuX58=/fit-in/200x150/filters:strip_icc()/pic1903464.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Ed Marriott"
+    ],
+    "weight": 2.78,
+    "rating": 7.17,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "43",
+    "categories": [
+        "Farming"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Grid Movement",
+        "Once-Per-Game Abilities",
+        "Set Collection",
+        "Turn Order: Auction"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "244627",
+            "expansion_name": "Scoville: 2018 Dice Tower Recipe Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244627"
+        },
+        {
+            "expansion_id": "181114",
+            "expansion_name": "Scoville: Labs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181114"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ed Marriott",
+    "categories_string": "Farming",
+    "mechanics_string": "Auction/Bidding; Grid Movement; Once-Per-Game Abilities; Set Collection; Turn Order: Auction",
+    "expansions_string": "{'expansion_id': '244627', 'expansion_name': 'Scoville: 2018 Dice Tower Recipe Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244627'}; {'expansion_id': '181114', 'expansion_name': 'Scoville: Labs', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181114'}",
+    "expansions_for_string": ""
+}

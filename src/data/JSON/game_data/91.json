@@ -1,0 +1,121 @@
+{
+    "game_id": "91",
+    "game_name": "Paths of Glory",
+    "bgg_link": "https://boardgamegeek.com/boardgame/91",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3269083",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3269083#item3269083",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "DaveyJJ"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3503311",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3503311#item3503311",
+            "geeklist_host": "joestin",
+            "contributor": "joestin"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3549662",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3549662#item3549662",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "joestin"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3643216",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3643216#item3643216",
+            "geeklist_host": "bikefreak",
+            "contributor": "joestin"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3753819",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3753819#item3753819",
+            "geeklist_host": "Woelf",
+            "contributor": "joestin"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4182409",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4182409#item4182409",
+            "geeklist_host": "SBGrad",
+            "contributor": "philmcd"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4951066",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4951066#item4951066",
+            "geeklist_host": "maloma",
+            "contributor": "joestin"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5368610",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5368610#item5368610",
+            "geeklist_host": "maloma",
+            "contributor": "PlayAnything"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__thumb/img/6yGJ8gs7e_WwYJc5Y7pXgTBFxF8=/fit-in/200x150/filters:strip_icc()/pic4490515.jpg",
+    "year_published": "1999",
+    "designers": [
+        "Ted Raicer"
+    ],
+    "weight": 3.84,
+    "rating": 8.06,
+    "play_time": "480",
+    "best": "0",
+    "recommended": "25",
+    "not_recommended": "41",
+    "categories": [
+        "Wargame",
+        "World War I"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Point to Point Movement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "26916",
+            "expansion_name": "Paths of Glory Player's Guide",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/26916"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ted Raicer",
+    "categories_string": "Wargame; World War I",
+    "mechanics_string": "Campaign / Battle Card Driven; Dice Rolling; Point to Point Movement",
+    "expansions_string": "{'expansion_id': '26916', 'expansion_name': \"Paths of Glory Player's Guide\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/26916'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,70 @@
+{
+    "game_id": "295594",
+    "game_name": "Barkham Horror: The Card Game - The Meddling of Meowlathotep: Scenario Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/295594",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7932028",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7932028#item7932028",
+            "geeklist_host": "Elida",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7935266",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7935266#item7935266",
+            "geeklist_host": "Elida",
+            "contributor": "Albia"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/7OfrvLPM7z-FRDnQgg8_fQ__thumb/img/F0NVAoysbqp1dkPhC91mdyVO0jw=/fit-in/200x150/filters:strip_icc()/pic5873970.png",
+    "year_published": "2020",
+    "designers": [
+        "Matthew Newman"
+    ],
+    "weight": 3.00,
+    "rating": 8.07,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Collectible Components",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Role Playing",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        }
+    ],
+    "designers_string": "Matthew Newman",
+    "categories_string": "Adventure; Card Game; Collectible Components; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Action Points; Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Role Playing; Solo / Solitaire Game; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}"
+}

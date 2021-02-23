@@ -1,0 +1,83 @@
+{
+    "game_id": "25613",
+    "game_name": "Through the Ages: A Story of Civilization",
+    "bgg_link": "https://boardgamegeek.com/boardgame/25613",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3241168",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3241168#item3241168",
+            "geeklist_host": "fractaloon",
+            "contributor": "sascha36"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4111997",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4111997#item4111997",
+            "geeklist_host": "lukather",
+            "contributor": "LizzieReads"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/3piN3YX4WmBRuIvbEG2Ygg__thumb/img/TDXIygWwAHKc2o90uGnnAhIa7_4=/fit-in/200x150/filters:strip_icc()/pic236169.jpg",
+    "year_published": "2006",
+    "designers": [
+        "Vlaada Chvatil"
+    ],
+    "weight": 4.17,
+    "rating": 7.93,
+    "play_time": "120",
+    "best": "5",
+    "recommended": "33",
+    "not_recommended": "297",
+    "categories": [
+        "Civilization",
+        "Economic"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Auction/Bidding",
+        "Auction: Dutch",
+        "Card Drafting",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "98989",
+            "expansion_name": "BGO Extended 2.0 expansion (fan expansion for Through the Ages)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98989"
+        },
+        {
+            "expansion_id": "98607",
+            "expansion_name": "Cywilizacja: Poprzez wieki - Polski dodatek 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98607"
+        },
+        {
+            "expansion_id": "98608",
+            "expansion_name": "Cywilizacja: Poprzez wieki - Polski dodatek 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98608"
+        },
+        {
+            "expansion_id": "98880",
+            "expansion_name": "Through the Ages: A Story of Civilization - Czech expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98880"
+        },
+        {
+            "expansion_id": "136095",
+            "expansion_name": "Through the Ages: Spanish Promo Card Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136095"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vlaada Chvatil",
+    "categories_string": "Civilization; Economic",
+    "mechanics_string": "Action Points; Auction/Bidding; Auction: Dutch; Card Drafting; Hand Management",
+    "expansions_string": "{'expansion_id': '98989', 'expansion_name': 'BGO Extended 2.0 expansion (fan expansion for Through the Ages)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98989'}; {'expansion_id': '98607', 'expansion_name': 'Cywilizacja: Poprzez wieki - Polski dodatek 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98607'}; {'expansion_id': '98608', 'expansion_name': 'Cywilizacja: Poprzez wieki - Polski dodatek 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98608'}; {'expansion_id': '98880', 'expansion_name': 'Through the Ages: A Story of Civilization - Czech expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98880'}; {'expansion_id': '136095', 'expansion_name': 'Through the Ages: Spanish Promo Card Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136095'}",
+    "expansions_for_string": ""
+}

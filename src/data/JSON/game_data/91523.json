@@ -1,0 +1,72 @@
+{
+    "game_id": "91523",
+    "game_name": "Mondo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/91523",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7903471",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7903471#item7903471",
+            "geeklist_host": "Elida",
+            "contributor": "Solinete"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/DZiHZK3RAcM_kgfwJ8qPgg__thumb/img/39LIPWGEDRG5ZQPNFG-3c2tPRvg=/fit-in/200x150/filters:strip_icc()/pic1458279.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Michael Schacht"
+    ],
+    "weight": 1.81,
+    "rating": 6.50,
+    "play_time": "20 - 30",
+    "best": "1",
+    "recommended": "8",
+    "not_recommended": "7",
+    "categories": [
+        "Animals",
+        "Environmental",
+        "Puzzle",
+        "Real-time"
+    ],
+    "mechanics": [
+        "Pattern Building",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "111080",
+            "expansion_name": "Mondo Micro",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/111080"
+        },
+        {
+            "expansion_id": "129323",
+            "expansion_name": "Mondo Sapiens Micro",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/129323"
+        },
+        {
+            "expansion_id": "99257",
+            "expansion_name": "Mondo: Das Duell",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99257"
+        },
+        {
+            "expansion_id": "107534",
+            "expansion_name": "Mondo: Zusatzspieler Pack A",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/107534"
+        },
+        {
+            "expansion_id": "107535",
+            "expansion_name": "Mondo: Zusatzspieler Pack B",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/107535"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Michael Schacht",
+    "categories_string": "Animals; Environmental; Puzzle; Real-time",
+    "mechanics_string": "Pattern Building; Tile Placement",
+    "expansions_string": "{'expansion_id': '111080', 'expansion_name': 'Mondo Micro', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/111080'}; {'expansion_id': '129323', 'expansion_name': 'Mondo Sapiens Micro', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/129323'}; {'expansion_id': '99257', 'expansion_name': 'Mondo: Das Duell', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99257'}; {'expansion_id': '107534', 'expansion_name': 'Mondo: Zusatzspieler Pack A', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/107534'}; {'expansion_id': '107535', 'expansion_name': 'Mondo: Zusatzspieler Pack B', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/107535'}",
+    "expansions_for_string": ""
+}

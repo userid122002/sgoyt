@@ -1,0 +1,101 @@
+{
+    "game_id": "292488",
+    "game_name": "Mystic Vale: Nemesis",
+    "bgg_link": "https://boardgamegeek.com/boardgame/292488",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7568593",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7568593#item7568593",
+            "geeklist_host": "Doc_H",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7569811",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7569811#item7569811",
+            "geeklist_host": "jwml",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7637001",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7637001#item7637001",
+            "geeklist_host": "threepointthed",
+            "contributor": "SpaceAlien"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7677337",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7677337#item7677337",
+            "geeklist_host": "gentle",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7691965",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7691965#item7691965",
+            "geeklist_host": "gentle",
+            "contributor": "Rindel"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7692192",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7692192#item7692192",
+            "geeklist_host": "gentle",
+            "contributor": "Angie666"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/4ZZJdXSb7n8HkYReyeA5Cw__thumb/img/a9W9pJ7RImkd_QOiLgLp6Wwwk9A=/fit-in/200x150/filters:strip_icc()/pic5159159.jpg",
+    "year_published": "2020",
+    "designers": [
+        "John D. Clair"
+    ],
+    "weight": 2.00,
+    "rating": 8.16,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Push Your Luck"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "194607",
+            "game_name": "Mystic Vale",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/194607"
+        }
+    ],
+    "designers_string": "John D. Clair",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Deck, Bag, and Pool Building; Push Your Luck",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '194607', 'game_name': 'Mystic Vale', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/194607'}"
+}

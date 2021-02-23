@@ -1,0 +1,87 @@
+{
+    "game_id": "5205",
+    "game_name": "G.E.V.",
+    "bgg_link": "https://boardgamegeek.com/boardgame/5205",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "161764",
+            "geeklist_item_id": "2811481",
+            "year_month": "2013/09",
+            "year": "2013",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/161764/item/2811481#item2811481",
+            "geeklist_host": "pusherman42",
+            "contributor": "egg_salad"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6538046",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6538046#item6538046",
+            "geeklist_host": "Albia",
+            "contributor": "jfardette"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/nUGwBapuRA48nQc_lvKiKw__thumb/img/ZZGw0FtHIY1KDpjgGFdJIRADEi0=/fit-in/200x150/filters:strip_icc()/pic17726.jpg",
+    "year_published": "1978",
+    "designers": [
+        "Steve Jackson (I)"
+    ],
+    "weight": 2.30,
+    "rating": 6.99,
+    "play_time": "75",
+    "best": "1",
+    "recommended": "3",
+    "not_recommended": "3",
+    "categories": [
+        "Fighting",
+        "Science Fiction",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Movement Points",
+        "Ratio / Combat Results Table",
+        "Scenario / Mission / Campaign Game",
+        "Simulation",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "12482",
+            "expansion_name": "Ogre Battlefields",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/12482"
+        },
+        {
+            "expansion_id": "21691",
+            "expansion_name": "The Ogre Book",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21691"
+        },
+        {
+            "expansion_id": "7531",
+            "expansion_name": "Ogre Reinforcement Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/7531"
+        },
+        {
+            "expansion_id": "12537",
+            "expansion_name": "Ogre: Scenario Book 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/12537"
+        },
+        {
+            "expansion_id": "7513",
+            "expansion_name": "Shockwave",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/7513"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Steve Jackson (I)",
+    "categories_string": "Fighting; Science Fiction; Wargame",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Movement Points; Ratio / Combat Results Table; Scenario / Mission / Campaign Game; Simulation; Variable Set-up",
+    "expansions_string": "{'expansion_id': '12482', 'expansion_name': 'Ogre Battlefields', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/12482'}; {'expansion_id': '21691', 'expansion_name': 'The Ogre Book', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21691'}; {'expansion_id': '7531', 'expansion_name': 'Ogre Reinforcement Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/7531'}; {'expansion_id': '12537', 'expansion_name': 'Ogre: Scenario Book 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/12537'}; {'expansion_id': '7513', 'expansion_name': 'Shockwave', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/7513'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,65 @@
+{
+    "game_id": "174565",
+    "game_name": "The Lord of the Rings: The Card Game - Escape from Mount Gram",
+    "bgg_link": "https://boardgamegeek.com/boardgame/174565",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4576260",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4576260#item4576260",
+            "geeklist_host": "jdarnold",
+            "contributor": "johnkfriday"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/7aXuqe9NiOwcurdN0HPwng__thumb/img/J0aahX7tbAM9gYQZLYLt5hn2KzQ=/fit-in/200x150/filters:strip_icc()/pic2471357.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 3.00,
+    "rating": 8.37,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "207903",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: Escape From Mount Gram",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207903"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        },
+        {
+            "game_id": "164313",
+            "game_name": "The Lord of the Rings: The Card Game - The Lost Realm",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/164313"
+        }
+    ],
+    "designers_string": "Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '207903', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: Escape From Mount Gram', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207903'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}; {'game_id': '164313', 'game_name': 'The Lord of the Rings: The Card Game - The Lost Realm', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/164313'}"
+}

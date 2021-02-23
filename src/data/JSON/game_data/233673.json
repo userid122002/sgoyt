@@ -1,0 +1,72 @@
+{
+    "game_id": "233673",
+    "game_name": "Exploration",
+    "bgg_link": "https://boardgamegeek.com/boardgame/233673",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7893245",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7893245#item7893245",
+            "geeklist_host": "Elida",
+            "contributor": "Swizze"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7895594",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7895594#item7895594",
+            "geeklist_host": "Elida",
+            "contributor": "Swizze"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/yEg1VHXILiDiFoSmbrerpg__thumb/img/_7kGJbQW77SDSTZ5DVNDM6A_dJg=/fit-in/200x150/filters:strip_icc()/pic4076416.png",
+    "year_published": "2020",
+    "designers": [
+        "Damian Korus"
+    ],
+    "weight": 3.83,
+    "rating": 6.23,
+    "play_time": "30 - 150",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Deck, Bag, and Pool Building",
+        "Point to Point Movement",
+        "Take That"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "288340",
+            "expansion_name": "Exploration: Conqueror Spaceship Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288340"
+        },
+        {
+            "expansion_id": "288341",
+            "expansion_name": "Exploration: Recover Spaceship Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288341"
+        },
+        {
+            "expansion_id": "288342",
+            "expansion_name": "Exploration: Super Maneuver Spaceship Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288342"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Damian Korus",
+    "categories_string": "Science Fiction; Space Exploration",
+    "mechanics_string": "Area Majority / Influence; Deck, Bag, and Pool Building; Point to Point Movement; Take That",
+    "expansions_string": "{'expansion_id': '288340', 'expansion_name': 'Exploration: Conqueror Spaceship Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288340'}; {'expansion_id': '288341', 'expansion_name': 'Exploration: Recover Spaceship Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288341'}; {'expansion_id': '288342', 'expansion_name': 'Exploration: Super Maneuver Spaceship Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288342'}",
+    "expansions_for_string": ""
+}

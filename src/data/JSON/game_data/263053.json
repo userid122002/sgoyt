@@ -1,0 +1,66 @@
+{
+    "game_id": "263053",
+    "game_name": "Universal Rule: Second Wave",
+    "bgg_link": "https://boardgamegeek.com/boardgame/263053",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7787854",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7787854#item7787854",
+            "geeklist_host": "repairmanjack",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/t8kXH_poBKgphDuwCKCGnA__thumb/img/6_uYumShd4mM9lO2d0AVcaoQJxM=/fit-in/200x150/filters:strip_icc()/pic4389007.png",
+    "year_published": "2017",
+    "designers": [
+        "Chip Beauvais"
+    ],
+    "weight": 0.00,
+    "rating": 7.17,
+    "play_time": "30 - 45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Print & Play",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "309939",
+            "expansion_name": "Universal Rule: Character Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/309939"
+        },
+        {
+            "expansion_id": "213113",
+            "expansion_name": "Universal Rule: Edge of War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213113"
+        },
+        {
+            "expansion_id": "309833",
+            "expansion_name": "Universal Rule: Solo AI #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/309833"
+        },
+        {
+            "expansion_id": "322238",
+            "expansion_name": "Universal Rule: The Void",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/322238"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Chip Beauvais",
+    "categories_string": "Card Game; Print & Play; Science Fiction; Space Exploration",
+    "mechanics_string": "Hand Management",
+    "expansions_string": "{'expansion_id': '309939', 'expansion_name': 'Universal Rule: Character Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/309939'}; {'expansion_id': '213113', 'expansion_name': 'Universal Rule: Edge of War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213113'}; {'expansion_id': '309833', 'expansion_name': 'Universal Rule: Solo AI #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/309833'}; {'expansion_id': '322238', 'expansion_name': 'Universal Rule: The Void', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/322238'}",
+    "expansions_for_string": ""
+}

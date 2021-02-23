@@ -1,0 +1,53 @@
+{
+    "game_id": "151953",
+    "game_name": "Firefly: The Game - Pirates & Bounty Hunters",
+    "bgg_link": "https://boardgamegeek.com/boardgame/151953",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4831136",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4831136#item4831136",
+            "geeklist_host": "govmiller",
+            "contributor": "radchad"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/vkEKexzdn1jD4-9XkEwt7g__thumb/img/Rwz01HYNPq7M_H69xLPmUv5J2Us=/fit-in/200x150/filters:strip_icc()/pic1887114.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Aaron Dill",
+        "John Kovaleski",
+        "Sean Sweigart"
+    ],
+    "weight": 2.79,
+    "rating": 7.78,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "6",
+    "not_recommended": "5",
+    "categories": [
+        "Expansion for Base-game",
+        "Movies / TV / Radio theme",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Pick-up and Deliver"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "138161",
+            "game_name": "Firefly: The Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/138161"
+        }
+    ],
+    "designers_string": "Aaron Dill; John Kovaleski; Sean Sweigart",
+    "categories_string": "Expansion for Base-game; Movies / TV / Radio theme; Science Fiction; Space Exploration",
+    "mechanics_string": "Pick-up and Deliver",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '138161', 'game_name': 'Firefly: The Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/138161'}"
+}

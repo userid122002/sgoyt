@@ -1,0 +1,62 @@
+{
+    "game_id": "2993",
+    "game_name": "Carcassonne: Expansion 1 - Inns & Cathedrals",
+    "bgg_link": "https://boardgamegeek.com/boardgame/2993",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6830308",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6830308#item6830308",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "KathKST"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/g9q--tONTL86x2D4NKiM8g__thumb/img/opBzVTp4iK4LfozCr3doTYGwTHE=/fit-in/200x150/filters:strip_icc()/pic2659943.jpg",
+    "year_published": "2002",
+    "designers": [
+        "Klaus-Jurgen Wrede"
+    ],
+    "weight": 1.93,
+    "rating": 7.62,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "107",
+    "categories": [
+        "City Building",
+        "Expansion for Base-game",
+        "Medieval",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "822",
+            "game_name": "Carcassonne",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/822"
+        },
+        {
+            "game_id": "89952",
+            "game_name": "Carcassonne: 10 Year Special Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/89952"
+        },
+        {
+            "game_id": "45748",
+            "game_name": "Carcassonne: Wheel of Fortune",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/45748"
+        }
+    ],
+    "designers_string": "Klaus-Jurgen Wrede",
+    "categories_string": "City Building; Expansion for Base-game; Medieval; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '822', 'game_name': 'Carcassonne', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/822'}; {'game_id': '89952', 'game_name': 'Carcassonne: 10 Year Special Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/89952'}; {'game_id': '45748', 'game_name': 'Carcassonne: Wheel of Fortune', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/45748'}"
+}

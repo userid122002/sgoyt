@@ -1,0 +1,53 @@
+{
+    "game_id": "200295",
+    "game_name": "Dungeon Crawler: The Thorn",
+    "bgg_link": "https://boardgamegeek.com/boardgame/200295",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5169351",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5169351#item5169351",
+            "geeklist_host": "settlerdave",
+            "contributor": "repairmanjack"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/5FtKDp34vBN5TKIl9Per1w__thumb/img/HGt1SAJ5wrfrQlHev52PtPcuJDc=/fit-in/200x150/filters:strip_icc()/pic3043143.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Jey Legarie"
+    ],
+    "weight": 0.00,
+    "rating": 7.50,
+    "play_time": "15 - 90",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Collectible Components",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Phase Order"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "67878",
+            "game_name": "Dungeon Crawler",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/67878"
+        }
+    ],
+    "designers_string": "Jey Legarie",
+    "categories_string": "Card Game; Collectible Components; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Phase Order",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '67878', 'game_name': 'Dungeon Crawler', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/67878'}"
+}

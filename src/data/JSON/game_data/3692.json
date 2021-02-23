@@ -1,0 +1,97 @@
+{
+    "game_id": "3692",
+    "game_name": "Firepower",
+    "bgg_link": "https://boardgamegeek.com/boardgame/3692",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6108895",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6108895#item6108895",
+            "geeklist_host": "Pjandy",
+            "contributor": "Lhowser"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/ZiJAVYPDAPFhPo0vpxF0tw__thumb/img/9hj3U_OxYMJs9j9eooMDSzsngUA=/fit-in/200x150/filters:strip_icc()/pic68266.jpg",
+    "year_published": "1984",
+    "designers": [
+        "S. Craig Taylor"
+    ],
+    "weight": 3.68,
+    "rating": 6.19,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "6",
+    "not_recommended": "0",
+    "categories": [
+        "Modern Warfare",
+        "Vietnam War",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Chit-Pull System",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Movement Points",
+        "Scenario / Mission / Campaign Game",
+        "Simulation",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "288478",
+            "expansion_name": "A Firepower Campaign",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288478"
+        },
+        {
+            "expansion_id": "288476",
+            "expansion_name": "Firepower in Today's World",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288476"
+        },
+        {
+            "expansion_id": "288486",
+            "expansion_name": "A Flame in the Gulf",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288486"
+        },
+        {
+            "expansion_id": "288485",
+            "expansion_name": "The Laager",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288485"
+        },
+        {
+            "expansion_id": "288483",
+            "expansion_name": "The Pact",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288483"
+        },
+        {
+            "expansion_id": "288481",
+            "expansion_name": "Revolution Against the Revolution",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288481"
+        },
+        {
+            "expansion_id": "288491",
+            "expansion_name": "Scenario Seven",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288491"
+        },
+        {
+            "expansion_id": "288488",
+            "expansion_name": "Special Air Service",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288488"
+        },
+        {
+            "expansion_id": "288480",
+            "expansion_name": "Struggle for El Salvador",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288480"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "S. Craig Taylor",
+    "categories_string": "Modern Warfare; Vietnam War; Wargame",
+    "mechanics_string": "Chit-Pull System; Dice Rolling; Grid Movement; Hexagon Grid; Movement Points; Scenario / Mission / Campaign Game; Simulation; Variable Set-up",
+    "expansions_string": "{'expansion_id': '288478', 'expansion_name': 'A Firepower Campaign', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288478'}; {'expansion_id': '288476', 'expansion_name': \"Firepower in Today's World\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288476'}; {'expansion_id': '288486', 'expansion_name': 'A Flame in the Gulf', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288486'}; {'expansion_id': '288485', 'expansion_name': 'The Laager', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288485'}; {'expansion_id': '288483', 'expansion_name': 'The Pact', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288483'}; {'expansion_id': '288481', 'expansion_name': 'Revolution Against the Revolution', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288481'}; {'expansion_id': '288491', 'expansion_name': 'Scenario Seven', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288491'}; {'expansion_id': '288488', 'expansion_name': 'Special Air Service', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288488'}; {'expansion_id': '288480', 'expansion_name': 'Struggle for El Salvador', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288480'}",
+    "expansions_for_string": ""
+}

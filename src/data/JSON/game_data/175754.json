@@ -1,0 +1,65 @@
+{
+    "game_id": "175754",
+    "game_name": "Roll for the Galaxy: Ambition",
+    "bgg_link": "https://boardgamegeek.com/boardgame/175754",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5420594",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5420594#item5420594",
+            "geeklist_host": "maloma",
+            "contributor": "Burnham"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/aHlQu0R-VahdlrAAJQs8hw__thumb/img/bIwF5axdMontvp76jDSMXlHcgIc=/fit-in/200x150/filters:strip_icc()/pic2700805.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Wei-Hwa Huang",
+        "Thomas Lehmann"
+    ],
+    "weight": 2.78,
+    "rating": 8.13,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "14",
+    "categories": [
+        "Civilization",
+        "Dice",
+        "Economic",
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Simultaneous Action Selection",
+        "Variable Phase Order",
+        "Variable Player Powers",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "194291",
+            "expansion_name": "Roll for the Galaxy: Bountiful Gaming Grid Promo Tile",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194291"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "132531",
+            "game_name": "Roll for the Galaxy",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/132531"
+        }
+    ],
+    "designers_string": "Wei-Hwa Huang; Thomas Lehmann",
+    "categories_string": "Civilization; Dice; Economic; Expansion for Base-game; Science Fiction; Space Exploration",
+    "mechanics_string": "Deck, Bag, and Pool Building; Dice Rolling; Simultaneous Action Selection; Variable Phase Order; Variable Player Powers; Worker Placement",
+    "expansions_string": "{'expansion_id': '194291', 'expansion_name': 'Roll for the Galaxy: Bountiful Gaming Grid Promo Tile', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194291'}",
+    "expansions_for_string": "{'game_id': '132531', 'game_name': 'Roll for the Galaxy', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/132531'}"
+}

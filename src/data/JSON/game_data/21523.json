@@ -1,0 +1,661 @@
+{
+    "game_id": "21523",
+    "game_name": "Runebound: Second Edition",
+    "bgg_link": "https://boardgamegeek.com/boardgame/21523",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "157888",
+            "geeklist_item_id": "2675081",
+            "year_month": "2013/06",
+            "year": "2013",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/157888/item/2675081#item2675081",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "JayThomas"
+        },
+        {
+            "geeklist_id": "160445",
+            "geeklist_item_id": "2772273",
+            "year_month": "2013/08",
+            "year": "2013",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/160445/item/2772273#item2772273",
+            "geeklist_host": "gertbert",
+            "contributor": "Xelforp"
+        },
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2898600",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2898600#item2898600",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "CaptCastle"
+        },
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3212409",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3212409#item3212409",
+            "geeklist_host": "fractaloon",
+            "contributor": "Fumanstu"
+        },
+        {
+            "geeklist_id": "174241",
+            "geeklist_item_id": "3267016",
+            "year_month": "2014/06",
+            "year": "2014",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/174241/item/3267016#item3267016",
+            "geeklist_host": "ReggieMcFly",
+            "contributor": "cscottk"
+        },
+        {
+            "geeklist_id": "176697",
+            "geeklist_item_id": "3367327",
+            "year_month": "2014/08",
+            "year": "2014",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/176697/item/3367327#item3367327",
+            "geeklist_host": "petegs",
+            "contributor": "Topdecker"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3543607",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3543607#item3543607",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "ixitotem"
+        },
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3766633",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3766633#item3766633",
+            "geeklist_host": "HRune",
+            "contributor": "crazybear"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3673969",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3673969#item3673969",
+            "geeklist_host": "bikefreak",
+            "contributor": "dlikos"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3762555",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3762555#item3762555",
+            "geeklist_host": "Woelf",
+            "contributor": "CrazyCatman"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3977565",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3977565#item3977565",
+            "geeklist_host": "koinskyz",
+            "contributor": "casey nedry"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4024882",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4024882#item4024882",
+            "geeklist_host": "joestin",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4059050",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4059050#item4059050",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "ixitotem"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4072663",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4072663#item4072663",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "True_Dave"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4148584",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4148584#item4148584",
+            "geeklist_host": "lukather",
+            "contributor": "hauwegdenmist"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4269752",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4269752#item4269752",
+            "geeklist_host": "rangerx",
+            "contributor": "mgaler"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4297663",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4297663#item4297663",
+            "geeklist_host": "rangerx",
+            "contributor": "Ikim"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4370719",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4370719#item4370719",
+            "geeklist_host": "suzyvitale",
+            "contributor": "Ikim"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4583687",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4583687#item4583687",
+            "geeklist_host": "jdarnold",
+            "contributor": "johnkfriday"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4603579",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4603579#item4603579",
+            "geeklist_host": "jdarnold",
+            "contributor": "johnkfriday"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4626155",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4626155#item4626155",
+            "geeklist_host": "gentle",
+            "contributor": "PaulRadagast"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4629443",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4629443#item4629443",
+            "geeklist_host": "gentle",
+            "contributor": "johnkfriday"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4977752",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4977752#item4977752",
+            "geeklist_host": "maloma",
+            "contributor": "Dekryr"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5323697",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5323697#item5323697",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Montag451"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5764824",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5764824#item5764824",
+            "geeklist_host": "Albia",
+            "contributor": "PeteTruss14"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6156369",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6156369#item6156369",
+            "geeklist_host": "Pjandy",
+            "contributor": "usfbrown"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6241953",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6241953#item6241953",
+            "geeklist_host": "emodiu5",
+            "contributor": "adm1"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6425200",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6425200#item6425200",
+            "geeklist_host": "dobrazil",
+            "contributor": "Montag451"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6552583",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6552583#item6552583",
+            "geeklist_host": "Albia",
+            "contributor": "Insect83"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6643243",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6643243#item6643243",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "Montag451"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6655390",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6655390#item6655390",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "simpsonps121"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6659664",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6659664#item6659664",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "simpsonps121"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6681407",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6681407#item6681407",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6687276",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6687276#item6687276",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7152294",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7152294#item7152294",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "adm1"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7416294",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7416294#item7416294",
+            "geeklist_host": "jomurph86",
+            "contributor": "afjb"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7722820",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7722820#item7722820",
+            "geeklist_host": "Elida",
+            "contributor": "Windshield"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7726949",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7726949#item7726949",
+            "geeklist_host": "Elida",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7728053",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7728053#item7728053",
+            "geeklist_host": "Elida",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7731095",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7731095#item7731095",
+            "geeklist_host": "Elida",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7732062",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7732062#item7732062",
+            "geeklist_host": "Elida",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7754472",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7754472#item7754472",
+            "geeklist_host": "repairmanjack",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7758269",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7758269#item7758269",
+            "geeklist_host": "repairmanjack",
+            "contributor": "Eric615"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8149891",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8149891#item8149891",
+            "geeklist_host": "ArianneH",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8152387",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8152387#item8152387",
+            "geeklist_host": "ArianneH",
+            "contributor": "mournful"
+        }
+    ],
+    "sgoyt_count": 45,
+    "thumbnail": "https://cf.geekdo-images.com/9ihKYaEPIQD7d1KkTWfFpQ__thumb/img/JQGLbThEtF14BEuaf6RHi4cWm-4=/fit-in/200x150/filters:strip_icc()/pic178189.jpg",
+    "year_published": "2005",
+    "designers": [
+        "Darrell Hardy",
+        "Martin Wallace"
+    ],
+    "weight": 2.68,
+    "rating": 6.88,
+    "play_time": "120 - 240",
+    "best": "58",
+    "recommended": "82",
+    "not_recommended": "30",
+    "categories": [
+        "Adventure",
+        "Exploration",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Card Drafting",
+        "Dice Rolling",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "62329",
+            "expansion_name": "Descent / Runebound / Runewars Figure: Jonas the Kind",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/62329"
+        },
+        {
+            "expansion_id": "62325",
+            "expansion_name": "Descent / Runebound / Runewars Figure: Nara The Fang",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/62325"
+        },
+        {
+            "expansion_id": "62349",
+            "expansion_name": "Descent / Runebound / Runewars Figure: Truthseer Kel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/62349"
+        },
+        {
+            "expansion_id": "62327",
+            "expansion_name": "Descent / Runebound / Runewars: Tobin Farslayer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/62327"
+        },
+        {
+            "expansion_id": "92502",
+            "expansion_name": "Runebound Essential Collection",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92502"
+        },
+        {
+            "expansion_id": "18626",
+            "expansion_name": "Runebound: Artifacts and Allies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18626"
+        },
+        {
+            "expansion_id": "23510",
+            "expansion_name": "Runebound: Avatars of Kelnov",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/23510"
+        },
+        {
+            "expansion_id": "21402",
+            "expansion_name": "Runebound: Battlemage Character Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21402"
+        },
+        {
+            "expansion_id": "28873",
+            "expansion_name": "Runebound: Beasts and Bandits",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28873"
+        },
+        {
+            "expansion_id": "21406",
+            "expansion_name": "Runebound: Blade Dancer Character Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21406"
+        },
+        {
+            "expansion_id": "23655",
+            "expansion_name": "Runebound: Champions of Kellos",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/23655"
+        },
+        {
+            "expansion_id": "18623",
+            "expansion_name": "Runebound: Crown of the Elder Kings",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18623"
+        },
+        {
+            "expansion_id": "23511",
+            "expansion_name": "Runebound: Cult of the Rune",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/23511"
+        },
+        {
+            "expansion_id": "23512",
+            "expansion_name": "Runebound: Drakes and Dragonspawn",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/23512"
+        },
+        {
+            "expansion_id": "19892",
+            "expansion_name": "Runebound: Midnight",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/19892"
+        },
+        {
+            "expansion_id": "70230",
+            "expansion_name": "Runebound: Mists of Zanaga",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/70230"
+        },
+        {
+            "expansion_id": "18627",
+            "expansion_name": "Runebound: Relics of Legend",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18627"
+        },
+        {
+            "expansion_id": "28870",
+            "expansion_name": "Runebound: Rituals and Runes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28870"
+        },
+        {
+            "expansion_id": "21401",
+            "expansion_name": "Runebound: Runemaster Character Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21401"
+        },
+        {
+            "expansion_id": "22822",
+            "expansion_name": "Runebound: Sands of Al-Kalim",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/22822"
+        },
+        {
+            "expansion_id": "21405",
+            "expansion_name": "Runebound: Shadow Walker Character Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21405"
+        },
+        {
+            "expansion_id": "23665",
+            "expansion_name": "Runebound: Shadows of Margath (Second Edition)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/23665"
+        },
+        {
+            "expansion_id": "21422",
+            "expansion_name": "Runebound: Spiritbound Character Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21422"
+        },
+        {
+            "expansion_id": "28874",
+            "expansion_name": "Runebound: The Cataclysm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28874"
+        },
+        {
+            "expansion_id": "18624",
+            "expansion_name": "Runebound: The Dark Forest",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18624"
+        },
+        {
+            "expansion_id": "38643",
+            "expansion_name": "Runebound: The Frozen Wastes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38643"
+        },
+        {
+            "expansion_id": "13081",
+            "expansion_name": "Runebound: The Island of Dread",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/13081"
+        },
+        {
+            "expansion_id": "18622",
+            "expansion_name": "Runebound: The Scepter of Kyros",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18622"
+        },
+        {
+            "expansion_id": "28875",
+            "expansion_name": "Runebound: The Seven Scions",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28875"
+        },
+        {
+            "expansion_id": "18625",
+            "expansion_name": "Runebound: The Terrors of the Tomb",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18625"
+        },
+        {
+            "expansion_id": "28872",
+            "expansion_name": "Runebound: Traps and Terrors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28872"
+        },
+        {
+            "expansion_id": "23513",
+            "expansion_name": "Runebound: Walkers of the Wild",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/23513"
+        },
+        {
+            "expansion_id": "28871",
+            "expansion_name": "Runebound: Weapons of Legend",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28871"
+        },
+        {
+            "expansion_id": "21421",
+            "expansion_name": "Runebound: Wildlander Character Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21421"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Darrell Hardy; Martin Wallace",
+    "categories_string": "Adventure; Exploration; Fantasy; Fighting",
+    "mechanics_string": "Area Movement; Card Drafting; Dice Rolling; Role Playing; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '62329', 'expansion_name': 'Descent / Runebound / Runewars Figure: Jonas the Kind', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/62329'}; {'expansion_id': '62325', 'expansion_name': 'Descent / Runebound / Runewars Figure: Nara The Fang', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/62325'}; {'expansion_id': '62349', 'expansion_name': 'Descent / Runebound / Runewars Figure: Truthseer Kel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/62349'}; {'expansion_id': '62327', 'expansion_name': 'Descent / Runebound / Runewars: Tobin Farslayer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/62327'}; {'expansion_id': '92502', 'expansion_name': 'Runebound Essential Collection', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92502'}; {'expansion_id': '18626', 'expansion_name': 'Runebound: Artifacts and Allies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18626'}; {'expansion_id': '23510', 'expansion_name': 'Runebound: Avatars of Kelnov', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/23510'}; {'expansion_id': '21402', 'expansion_name': 'Runebound: Battlemage Character Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21402'}; {'expansion_id': '28873', 'expansion_name': 'Runebound: Beasts and Bandits', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28873'}; {'expansion_id': '21406', 'expansion_name': 'Runebound: Blade Dancer Character Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21406'}; {'expansion_id': '23655', 'expansion_name': 'Runebound: Champions of Kellos', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/23655'}; {'expansion_id': '18623', 'expansion_name': 'Runebound: Crown of the Elder Kings', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18623'}; {'expansion_id': '23511', 'expansion_name': 'Runebound: Cult of the Rune', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/23511'}; {'expansion_id': '23512', 'expansion_name': 'Runebound: Drakes and Dragonspawn', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/23512'}; {'expansion_id': '19892', 'expansion_name': 'Runebound: Midnight', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/19892'}; {'expansion_id': '70230', 'expansion_name': 'Runebound: Mists of Zanaga', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/70230'}; {'expansion_id': '18627', 'expansion_name': 'Runebound: Relics of Legend', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18627'}; {'expansion_id': '28870', 'expansion_name': 'Runebound: Rituals and Runes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28870'}; {'expansion_id': '21401', 'expansion_name': 'Runebound: Runemaster Character Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21401'}; {'expansion_id': '22822', 'expansion_name': 'Runebound: Sands of Al-Kalim', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/22822'}; {'expansion_id': '21405', 'expansion_name': 'Runebound: Shadow Walker Character Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21405'}; {'expansion_id': '23665', 'expansion_name': 'Runebound: Shadows of Margath (Second Edition)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/23665'}; {'expansion_id': '21422', 'expansion_name': 'Runebound: Spiritbound Character Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21422'}; {'expansion_id': '28874', 'expansion_name': 'Runebound: The Cataclysm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28874'}; {'expansion_id': '18624', 'expansion_name': 'Runebound: The Dark Forest', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18624'}; {'expansion_id': '38643', 'expansion_name': 'Runebound: The Frozen Wastes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38643'}; {'expansion_id': '13081', 'expansion_name': 'Runebound: The Island of Dread', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/13081'}; {'expansion_id': '18622', 'expansion_name': 'Runebound: The Scepter of Kyros', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18622'}; {'expansion_id': '28875', 'expansion_name': 'Runebound: The Seven Scions', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28875'}; {'expansion_id': '18625', 'expansion_name': 'Runebound: The Terrors of the Tomb', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18625'}; {'expansion_id': '28872', 'expansion_name': 'Runebound: Traps and Terrors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28872'}; {'expansion_id': '23513', 'expansion_name': 'Runebound: Walkers of the Wild', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/23513'}; {'expansion_id': '28871', 'expansion_name': 'Runebound: Weapons of Legend', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28871'}; {'expansion_id': '21421', 'expansion_name': 'Runebound: Wildlander Character Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21421'}",
+    "expansions_for_string": ""
+}

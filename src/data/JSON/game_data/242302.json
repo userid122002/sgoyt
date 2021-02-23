@@ -1,0 +1,107 @@
+{
+    "game_id": "242302",
+    "game_name": "Space Base",
+    "bgg_link": "https://boardgamegeek.com/boardgame/242302",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6325663",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6325663#item6325663",
+            "geeklist_host": "spaceman23",
+            "contributor": "bwguinig"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6601635",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6601635#item6601635",
+            "geeklist_host": "squarepegsys",
+            "contributor": "GameRulesforOne"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6663497",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6663497#item6663497",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "permagoof"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7637529",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7637529#item7637529",
+            "geeklist_host": "threepointthed",
+            "contributor": "Hiko Seijuro"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7700983",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7700983#item7700983",
+            "geeklist_host": "gentle",
+            "contributor": "Carmilla"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/yk9yv8hNWlNesafgXAKNDA__thumb/img/ZY90NimPqWUBL4N-REESDizUBrY=/fit-in/200x150/filters:strip_icc()/pic4017302.jpg",
+    "year_published": "2018",
+    "designers": [
+        "John D. Clair"
+    ],
+    "weight": 2.13,
+    "rating": 7.58,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "5",
+    "not_recommended": "57",
+    "categories": [
+        "Dice",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Random Production"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "322546",
+            "expansion_name": "Space Base: Biodome",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/322546"
+        },
+        {
+            "expansion_id": "277564",
+            "expansion_name": "Space Base: Command Station",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/277564"
+        },
+        {
+            "expansion_id": "277286",
+            "expansion_name": "Space Base: Dreadnaught Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/277286"
+        },
+        {
+            "expansion_id": "266483",
+            "expansion_name": "Space Base: The Emergence of Shy Pluto",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/266483"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "John D. Clair",
+    "categories_string": "Dice; Science Fiction; Space Exploration",
+    "mechanics_string": "Card Drafting; Dice Rolling; Random Production",
+    "expansions_string": "{'expansion_id': '322546', 'expansion_name': 'Space Base: Biodome', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/322546'}; {'expansion_id': '277564', 'expansion_name': 'Space Base: Command Station', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/277564'}; {'expansion_id': '277286', 'expansion_name': 'Space Base: Dreadnaught Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/277286'}; {'expansion_id': '266483', 'expansion_name': 'Space Base: The Emergence of Shy Pluto', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/266483'}",
+    "expansions_for_string": ""
+}

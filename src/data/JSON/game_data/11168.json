@@ -1,0 +1,543 @@
+{
+    "game_id": "11168",
+    "game_name": "Flames of War: The World War II Miniatures Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/11168",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7473618",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7473618#item7473618",
+            "geeklist_host": "jomurph86",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7515109",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7515109#item7515109",
+            "geeklist_host": "Doc_H",
+            "contributor": "Ben_Bos"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/qHPtuh9cU_-WSPwCPy88qw__thumb/img/kM2cIX9GKMGDHn0iG_-D19IxGsg=/fit-in/200x150/filters:strip_icc()/pic3504852.jpg",
+    "year_published": "2002",
+    "designers": [
+        "Phil Yates"
+    ],
+    "weight": 3.29,
+    "rating": 7.07,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "14",
+    "categories": [
+        "Book",
+        "Miniatures",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Line of Sight",
+        "Measurement Movement",
+        "Modular Board",
+        "Scenario / Mission / Campaign Game",
+        "Simulation",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "303724",
+            "expansion_name": "Armed Forces of Nuevo Colorado: Volume One - Esercito di Stado and Marines, Pere to Perez",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303724"
+        },
+        {
+            "expansion_id": "20475",
+            "expansion_name": "Avanti Savoia: Intelligence Handbook on Italian Armoured and Infantry Forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/20475"
+        },
+        {
+            "expansion_id": "303603",
+            "expansion_name": "Chinese Nationalist Army: Manchuria and Burma 1937-1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303603"
+        },
+        {
+            "expansion_id": "299846",
+            "expansion_name": "Crossroads: Closing the Gap - A WW2 mini-campaign detailing the Battle of Saint-Lambert-sur-Dives",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/299846"
+        },
+        {
+            "expansion_id": "67302",
+            "expansion_name": "Flames of War: A Bridge Too Far - The Battles for Oosterbeek and Arnhem",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/67302"
+        },
+        {
+            "expansion_id": "24014",
+            "expansion_name": "Flames of War: Afrika",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/24014"
+        },
+        {
+            "expansion_id": "315630",
+            "expansion_name": "Flames of War: Afrika Korps - German Forces In The Desert 1942-43",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/315630"
+        },
+        {
+            "expansion_id": "305760",
+            "expansion_name": "Flames of War: All American",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305760"
+        },
+        {
+            "expansion_id": "305666",
+            "expansion_name": "Flames of War: Armoured Fist - British Forces in North Africa 1942-1943",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305666"
+        },
+        {
+            "expansion_id": "187701",
+            "expansion_name": "Flames of War: Atlantik Wall - The German Defence of France June-September 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187701"
+        },
+        {
+            "expansion_id": "310305",
+            "expansion_name": "Flames of War: Avanti - Italian Forces in North Africa 1942-1943",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/310305"
+        },
+        {
+            "expansion_id": "319481",
+            "expansion_name": "Flames of War: Bagration - River Assault Mission Terrain Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/319481"
+        },
+        {
+            "expansion_id": "317626",
+            "expansion_name": "Flames of War: Bagration - Soviet Forces on the Eastern Front 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/317626"
+        },
+        {
+            "expansion_id": "176805",
+            "expansion_name": "Flames of War: Barbarossa - Germany's Invasion of the Soviet Union, June-Decemeber 1941",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176805"
+        },
+        {
+            "expansion_id": "193349",
+            "expansion_name": "Flames of War: Berlin - The Soviet Assault on the German Capital, April-May 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193349"
+        },
+        {
+            "expansion_id": "83281",
+            "expansion_name": "Flames of War: Blitzkrieg - The German Invasion of Poland and France 1939-1940",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/83281"
+        },
+        {
+            "expansion_id": "130231",
+            "expansion_name": "Flames of War: Blood, Guts, & Glory - Tank Battles in the Lorraine, September 1944-January 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130231"
+        },
+        {
+            "expansion_id": "319521",
+            "expansion_name": "Flames of War: Bloody Omaha - Ace Campaign",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/319521"
+        },
+        {
+            "expansion_id": "29953",
+            "expansion_name": "Flames of War: Bloody Omaha - The Battle for Omaha Beach D-Day, 6 June 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/29953"
+        },
+        {
+            "expansion_id": "176501",
+            "expansion_name": "Flames of War: Bridge At Remagen - The Battle for the Rhine, February-April 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176501"
+        },
+        {
+            "expansion_id": "163111",
+            "expansion_name": "Flames of War: Bridge by Bridge - The German Defence of Holland, September, November 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163111"
+        },
+        {
+            "expansion_id": "320111",
+            "expansion_name": "Flames of War: British Starter Force - British Desert Rats Squadron",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/320111"
+        },
+        {
+            "expansion_id": "113237",
+            "expansion_name": "Flames of War: Burning Empires - The Battle for the Mediterranean",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/113237"
+        },
+        {
+            "expansion_id": "99966",
+            "expansion_name": "Flames of War: Cassino",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99966"
+        },
+        {
+            "expansion_id": "38808",
+            "expansion_name": "Flames of War: Cobra",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38808"
+        },
+        {
+            "expansion_id": "26658",
+            "expansion_name": "Flames of War: D Minus 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/26658"
+        },
+        {
+            "expansion_id": "305827",
+            "expansion_name": "Flames of War: D-Day - American Forces in Normandy 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305827"
+        },
+        {
+            "expansion_id": "305884",
+            "expansion_name": "Flames of War: D-Day - Beach Assault: Mission Terrain Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305884"
+        },
+        {
+            "expansion_id": "305885",
+            "expansion_name": "Flames of War: D-Day - Bocage Country - Mission Terrain Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305885"
+        },
+        {
+            "expansion_id": "305833",
+            "expansion_name": "Flames of War: D-Day - British Forces in Normandy 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305833"
+        },
+        {
+            "expansion_id": "305830",
+            "expansion_name": "Flames of War: D-Day - German Forces in Normandy 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305830"
+        },
+        {
+            "expansion_id": "305835",
+            "expansion_name": "Flames of War: D-Day - German: 21st Panzer Division",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305835"
+        },
+        {
+            "expansion_id": "305886",
+            "expansion_name": "Flames of War: D-Day - Global Campaign",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305886"
+        },
+        {
+            "expansion_id": "29276",
+            "expansion_name": "Flames of War: D-Day - The Campaign for Normandy June-August 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/29276"
+        },
+        {
+            "expansion_id": "315607",
+            "expansion_name": "Flames of War: D-Day - Waffen-SS Forces in Normandy, 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/315607"
+        },
+        {
+            "expansion_id": "99353",
+            "expansion_name": "Flames of War: Das Book",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99353"
+        },
+        {
+            "expansion_id": "305826",
+            "expansion_name": "Flames of War: Death From Above - Mid War German and Italian Airborne Forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305826"
+        },
+        {
+            "expansion_id": "17341",
+            "expansion_name": "Flames of War: Desert Fox - Intelligence Handbook on German Armoured Forces in North Africa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17341"
+        },
+        {
+            "expansion_id": "17343",
+            "expansion_name": "Flames of War: Desert Rats - Intelligence Handbook on British Armored Forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17343"
+        },
+        {
+            "expansion_id": "305775",
+            "expansion_name": "Flames of War: Desperate Measures - Tank Battles for Eastern Germany, January-April 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305775"
+        },
+        {
+            "expansion_id": "130234",
+            "expansion_name": "Flames of War: Devil's Charge - The German Offensive: Battle of the Bulge, December 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130234"
+        },
+        {
+            "expansion_id": "17342",
+            "expansion_name": "Flames of War: Diving Eagles - Intelligence Handbook on German Airborne Forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17342"
+        },
+        {
+            "expansion_id": "95504",
+            "expansion_name": "Flames of War: Dogs & Devils",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/95504"
+        },
+        {
+            "expansion_id": "99719",
+            "expansion_name": "Flames of War: Earth & Steel - The German Defence of France June-September 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99719"
+        },
+        {
+            "expansion_id": "99298",
+            "expansion_name": "Flames of War: Eastern Front 1942-1943",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99298"
+        },
+        {
+            "expansion_id": "306428",
+            "expansion_name": "Flames of War: Enemy at the Gates - Soviet Forces on the Eastern Front 1942-43",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/306428"
+        },
+        {
+            "expansion_id": "149138",
+            "expansion_name": "Flames of War: Fate of a Nation - Arab-Israeli Wars, Six-Day War, 1967",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149138"
+        },
+        {
+            "expansion_id": "25786",
+            "expansion_name": "Flames of War: Festung Europa (Late War 1944)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/25786"
+        },
+        {
+            "expansion_id": "260848",
+            "expansion_name": "Flames of War: Fighting First - US Forces in North Africa 1942-43",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260848"
+        },
+        {
+            "expansion_id": "127056",
+            "expansion_name": "Flames of War: Firestorm - Greece: The Italian and German Invasions of Greece",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127056"
+        },
+        {
+            "expansion_id": "17751",
+            "expansion_name": "Flames of War: For King & Country - Intelligence Handbook on British and Empire Infantry Forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17751"
+        },
+        {
+            "expansion_id": "40473",
+            "expansion_name": "Flames of War: Fortress Europe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40473"
+        },
+        {
+            "expansion_id": "305888",
+            "expansion_name": "Flames of War: Fortress Italy - The Axis Defence of Italy, January 1944 - May 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305888"
+        },
+        {
+            "expansion_id": "315628",
+            "expansion_name": "Flames of War: Ghost Panzers - German Forces on the Eastern Front 1942-43",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/315628"
+        },
+        {
+            "expansion_id": "163465",
+            "expansion_name": "Flames of War: Great War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163465"
+        },
+        {
+            "expansion_id": "130228",
+            "expansion_name": "Flames of War: Grey Wolf - Axis Forces on the Eastern Front, January 1944-February 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130228"
+        },
+        {
+            "expansion_id": "72455",
+            "expansion_name": "Flames of War: Hammer and Sickle",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/72455"
+        },
+        {
+            "expansion_id": "61479",
+            "expansion_name": "Flames of War: Hell's Highway",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/61479"
+        },
+        {
+            "expansion_id": "108425",
+            "expansion_name": "Flames of War: Hellfire and Back! - Early War Battles in North Africa, 1940-1941",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108425"
+        },
+        {
+            "expansion_id": "315608",
+            "expansion_name": "Flames of War: Iron Cross - German Forces on the Eastern Front 1942-43",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/315608"
+        },
+        {
+            "expansion_id": "130233",
+            "expansion_name": "Flames of War: Know Your Enemy - Late War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130233"
+        },
+        {
+            "expansion_id": "141820",
+            "expansion_name": "Flames of War: Market Garden - The Allied Invasion of Holland, September-November 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/141820"
+        },
+        {
+            "expansion_id": "72078",
+            "expansion_name": "Flames of War: Mid-War Monsters 1942-1943",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/72078"
+        },
+        {
+            "expansion_id": "34279",
+            "expansion_name": "Flames of War: Monty's Meatgrinder",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34279"
+        },
+        {
+            "expansion_id": "221062",
+            "expansion_name": "Flames of War: Nachtjager - The Battle for Northern Germany March-May 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/221062"
+        },
+        {
+            "expansion_id": "136802",
+            "expansion_name": "Flames of War: Normandy Battles - Wargaming D-Day and Beyond",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136802"
+        },
+        {
+            "expansion_id": "47038",
+            "expansion_name": "Flames of War: North Africa - and the Mediterranean 1942-1943",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47038"
+        },
+        {
+            "expansion_id": "133475",
+            "expansion_name": "Flames of War: NUTS - The Siege of Bastogne - Battle of the Bulge, December 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133475"
+        },
+        {
+            "expansion_id": "17344",
+            "expansion_name": "Flames of War: Old Ironsides - Intelligence Handbook on US Armored Forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17344"
+        },
+        {
+            "expansion_id": "24016",
+            "expansion_name": "Flames of War: Ostfront - Eastern Front 1942-1943",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/24016"
+        },
+        {
+            "expansion_id": "187702",
+            "expansion_name": "Flames of War: Overlord - The Allied Invasion of France",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187702"
+        },
+        {
+            "expansion_id": "319480",
+            "expansion_name": "Flames of War: Race To Minsk -  Ace Campaign",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/319480"
+        },
+        {
+            "expansion_id": "306429",
+            "expansion_name": "Flames of War: Red Banner - Soviet Forces on the Eastern Front 1942-43",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/306429"
+        },
+        {
+            "expansion_id": "130230",
+            "expansion_name": "Flames of War: Red Bear - Allied Forces on the Eastern Front, January 1944-February 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130230"
+        },
+        {
+            "expansion_id": "260849",
+            "expansion_name": "Flames of War: Rising Sun - Russia's Wars with Japan and Finland 1939-1940",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260849"
+        },
+        {
+            "expansion_id": "72453",
+            "expansion_name": "Flames of War: River of Heroes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/72453"
+        },
+        {
+            "expansion_id": "305891",
+            "expansion_name": "Flames of War: Road to Rome - The Allied Assault on Italy, January 1944 - May 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305891"
+        },
+        {
+            "expansion_id": "317627",
+            "expansion_name": "Flames of War: Soviet Starter Force - Heavy Assault Group",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/317627"
+        },
+        {
+            "expansion_id": "99718",
+            "expansion_name": "Flames of War: Stalin's Europe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99718"
+        },
+        {
+            "expansion_id": "39076",
+            "expansion_name": "Flames of War: Stalin's Onslaught",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39076"
+        },
+        {
+            "expansion_id": "17340",
+            "expansion_name": "Flames of War: Stalingrad - Intelligence Handbook on Soviet and German Infantry Forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17340"
+        },
+        {
+            "expansion_id": "17339",
+            "expansion_name": "Flames of War: Stars and Stripes - Intelligence Handbook on US Armored and Infantry Forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17339"
+        },
+        {
+            "expansion_id": "317629",
+            "expansion_name": "Flames of War: T-34 - Tank Battalion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/317629"
+        },
+        {
+            "expansion_id": "305918",
+            "expansion_name": "Flames of War: The Ardennes Offensive - German Forces in Lorraine and the Ardennes, Sep 1944 - Feb 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305918"
+        },
+        {
+            "expansion_id": "305960",
+            "expansion_name": "Flames of War: The Battle of the Bulge - Allied Forces on the German Border, Sep 1944 - Feb 1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305960"
+        },
+        {
+            "expansion_id": "320271",
+            "expansion_name": "Flames of War: Tiger Tank Platoon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/320271"
+        },
+        {
+            "expansion_id": "160285",
+            "expansion_name": "Flames of War: Tour of Duty",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160285"
+        },
+        {
+            "expansion_id": "100277",
+            "expansion_name": "Flames of War: Tropic Lightning - Armoured and Airborne Combat in Vietnam 1965-1971",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/100277"
+        },
+        {
+            "expansion_id": "99722",
+            "expansion_name": "Flames of War: Turning Tide - The Allied Invasion of France June-September 1944",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99722"
+        },
+        {
+            "expansion_id": "32881",
+            "expansion_name": "Flames of War: Villers-Bocage",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/32881"
+        },
+        {
+            "expansion_id": "315606",
+            "expansion_name": "Flames of War: Waffen SS Starter Force - Waffen SS Panther Kampfgruppe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/315606"
+        },
+        {
+            "expansion_id": "20637",
+            "expansion_name": "Flames of War: Za Stalina - Intelligence Handbook on Soviet Armoured and Cavalry forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/20637"
+        },
+        {
+            "expansion_id": "303718",
+            "expansion_name": "Imperial Japanese Army: Manchuria & SE Asia 1940-1945",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303718"
+        },
+        {
+            "expansion_id": "303723",
+            "expansion_name": "PACIFIC! War in the Pacific 1937-1945: Japanese and US Marine Corps Forces",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303723"
+        },
+        {
+            "expansion_id": "301495",
+            "expansion_name": "The Royal Thai Army: History, Organisation and Insurrection 2000 to 2014",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/301495"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "76666",
+            "game_name": "Flames of War: Firestorm - Warsaw: The Campaign for Warsaw",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/76666"
+        }
+    ],
+    "designers_string": "Phil Yates",
+    "categories_string": "Book; Miniatures; Wargame; World War II",
+    "mechanics_string": "Dice Rolling; Line of Sight; Measurement Movement; Modular Board; Scenario / Mission / Campaign Game; Simulation; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '303724', 'expansion_name': 'Armed Forces of Nuevo Colorado: Volume One - Esercito di Stado and Marines, Pere to Perez', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303724'}; {'expansion_id': '20475', 'expansion_name': 'Avanti Savoia: Intelligence Handbook on Italian Armoured and Infantry Forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/20475'}; {'expansion_id': '303603', 'expansion_name': 'Chinese Nationalist Army: Manchuria and Burma 1937-1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303603'}; {'expansion_id': '299846', 'expansion_name': 'Crossroads: Closing the Gap - A WW2 mini-campaign detailing the Battle of Saint-Lambert-sur-Dives', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/299846'}; {'expansion_id': '67302', 'expansion_name': 'Flames of War: A Bridge Too Far - The Battles for Oosterbeek and Arnhem', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/67302'}; {'expansion_id': '24014', 'expansion_name': 'Flames of War: Afrika', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/24014'}; {'expansion_id': '315630', 'expansion_name': 'Flames of War: Afrika Korps - German Forces In The Desert 1942-43', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/315630'}; {'expansion_id': '305760', 'expansion_name': 'Flames of War: All American', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305760'}; {'expansion_id': '305666', 'expansion_name': 'Flames of War: Armoured Fist - British Forces in North Africa 1942-1943', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305666'}; {'expansion_id': '187701', 'expansion_name': 'Flames of War: Atlantik Wall - The German Defence of France June-September 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187701'}; {'expansion_id': '310305', 'expansion_name': 'Flames of War: Avanti - Italian Forces in North Africa 1942-1943', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/310305'}; {'expansion_id': '319481', 'expansion_name': 'Flames of War: Bagration - River Assault Mission Terrain Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/319481'}; {'expansion_id': '317626', 'expansion_name': 'Flames of War: Bagration - Soviet Forces on the Eastern Front 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/317626'}; {'expansion_id': '176805', 'expansion_name': \"Flames of War: Barbarossa - Germany's Invasion of the Soviet Union, June-Decemeber 1941\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176805'}; {'expansion_id': '193349', 'expansion_name': 'Flames of War: Berlin - The Soviet Assault on the German Capital, April-May 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193349'}; {'expansion_id': '83281', 'expansion_name': 'Flames of War: Blitzkrieg - The German Invasion of Poland and France 1939-1940', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/83281'}; {'expansion_id': '130231', 'expansion_name': 'Flames of War: Blood, Guts, & Glory - Tank Battles in the Lorraine, September 1944-January 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130231'}; {'expansion_id': '319521', 'expansion_name': 'Flames of War: Bloody Omaha - Ace Campaign', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/319521'}; {'expansion_id': '29953', 'expansion_name': 'Flames of War: Bloody Omaha - The Battle for Omaha Beach D-Day, 6 June 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/29953'}; {'expansion_id': '176501', 'expansion_name': 'Flames of War: Bridge At Remagen - The Battle for the Rhine, February-April 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176501'}; {'expansion_id': '163111', 'expansion_name': 'Flames of War: Bridge by Bridge - The German Defence of Holland, September, November 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163111'}; {'expansion_id': '320111', 'expansion_name': 'Flames of War: British Starter Force - British Desert Rats Squadron', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/320111'}; {'expansion_id': '113237', 'expansion_name': 'Flames of War: Burning Empires - The Battle for the Mediterranean', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/113237'}; {'expansion_id': '99966', 'expansion_name': 'Flames of War: Cassino', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99966'}; {'expansion_id': '38808', 'expansion_name': 'Flames of War: Cobra', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38808'}; {'expansion_id': '26658', 'expansion_name': 'Flames of War: D Minus 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/26658'}; {'expansion_id': '305827', 'expansion_name': 'Flames of War: D-Day - American Forces in Normandy 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305827'}; {'expansion_id': '305884', 'expansion_name': 'Flames of War: D-Day - Beach Assault: Mission Terrain Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305884'}; {'expansion_id': '305885', 'expansion_name': 'Flames of War: D-Day - Bocage Country - Mission Terrain Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305885'}; {'expansion_id': '305833', 'expansion_name': 'Flames of War: D-Day - British Forces in Normandy 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305833'}; {'expansion_id': '305830', 'expansion_name': 'Flames of War: D-Day - German Forces in Normandy 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305830'}; {'expansion_id': '305835', 'expansion_name': 'Flames of War: D-Day - German: 21st Panzer Division', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305835'}; {'expansion_id': '305886', 'expansion_name': 'Flames of War: D-Day - Global Campaign', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305886'}; {'expansion_id': '29276', 'expansion_name': 'Flames of War: D-Day - The Campaign for Normandy June-August 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/29276'}; {'expansion_id': '315607', 'expansion_name': 'Flames of War: D-Day - Waffen-SS Forces in Normandy, 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/315607'}; {'expansion_id': '99353', 'expansion_name': 'Flames of War: Das Book', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99353'}; {'expansion_id': '305826', 'expansion_name': 'Flames of War: Death From Above - Mid War German and Italian Airborne Forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305826'}; {'expansion_id': '17341', 'expansion_name': 'Flames of War: Desert Fox - Intelligence Handbook on German Armoured Forces in North Africa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17341'}; {'expansion_id': '17343', 'expansion_name': 'Flames of War: Desert Rats - Intelligence Handbook on British Armored Forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17343'}; {'expansion_id': '305775', 'expansion_name': 'Flames of War: Desperate Measures - Tank Battles for Eastern Germany, January-April 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305775'}; {'expansion_id': '130234', 'expansion_name': \"Flames of War: Devil's Charge - The German Offensive: Battle of the Bulge, December 1944\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130234'}; {'expansion_id': '17342', 'expansion_name': 'Flames of War: Diving Eagles - Intelligence Handbook on German Airborne Forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17342'}; {'expansion_id': '95504', 'expansion_name': 'Flames of War: Dogs & Devils', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/95504'}; {'expansion_id': '99719', 'expansion_name': 'Flames of War: Earth & Steel - The German Defence of France June-September 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99719'}; {'expansion_id': '99298', 'expansion_name': 'Flames of War: Eastern Front 1942-1943', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99298'}; {'expansion_id': '306428', 'expansion_name': 'Flames of War: Enemy at the Gates - Soviet Forces on the Eastern Front 1942-43', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/306428'}; {'expansion_id': '149138', 'expansion_name': 'Flames of War: Fate of a Nation - Arab-Israeli Wars, Six-Day War, 1967', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149138'}; {'expansion_id': '25786', 'expansion_name': 'Flames of War: Festung Europa (Late War 1944)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/25786'}; {'expansion_id': '260848', 'expansion_name': 'Flames of War: Fighting First - US Forces in North Africa 1942-43', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260848'}; {'expansion_id': '127056', 'expansion_name': 'Flames of War: Firestorm - Greece: The Italian and German Invasions of Greece', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127056'}; {'expansion_id': '17751', 'expansion_name': 'Flames of War: For King & Country - Intelligence Handbook on British and Empire Infantry Forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17751'}; {'expansion_id': '40473', 'expansion_name': 'Flames of War: Fortress Europe', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40473'}; {'expansion_id': '305888', 'expansion_name': 'Flames of War: Fortress Italy - The Axis Defence of Italy, January 1944 - May 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305888'}; {'expansion_id': '315628', 'expansion_name': 'Flames of War: Ghost Panzers - German Forces on the Eastern Front 1942-43', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/315628'}; {'expansion_id': '163465', 'expansion_name': 'Flames of War: Great War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163465'}; {'expansion_id': '130228', 'expansion_name': 'Flames of War: Grey Wolf - Axis Forces on the Eastern Front, January 1944-February 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130228'}; {'expansion_id': '72455', 'expansion_name': 'Flames of War: Hammer and Sickle', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/72455'}; {'expansion_id': '61479', 'expansion_name': \"Flames of War: Hell's Highway\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/61479'}; {'expansion_id': '108425', 'expansion_name': 'Flames of War: Hellfire and Back! - Early War Battles in North Africa, 1940-1941', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108425'}; {'expansion_id': '315608', 'expansion_name': 'Flames of War: Iron Cross - German Forces on the Eastern Front 1942-43', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/315608'}; {'expansion_id': '130233', 'expansion_name': 'Flames of War: Know Your Enemy - Late War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130233'}; {'expansion_id': '141820', 'expansion_name': 'Flames of War: Market Garden - The Allied Invasion of Holland, September-November 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/141820'}; {'expansion_id': '72078', 'expansion_name': 'Flames of War: Mid-War Monsters 1942-1943', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/72078'}; {'expansion_id': '34279', 'expansion_name': \"Flames of War: Monty's Meatgrinder\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34279'}; {'expansion_id': '221062', 'expansion_name': 'Flames of War: Nachtjager - The Battle for Northern Germany March-May 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/221062'}; {'expansion_id': '136802', 'expansion_name': 'Flames of War: Normandy Battles - Wargaming D-Day and Beyond', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136802'}; {'expansion_id': '47038', 'expansion_name': 'Flames of War: North Africa - and the Mediterranean 1942-1943', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47038'}; {'expansion_id': '133475', 'expansion_name': 'Flames of War: NUTS - The Siege of Bastogne - Battle of the Bulge, December 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133475'}; {'expansion_id': '17344', 'expansion_name': 'Flames of War: Old Ironsides - Intelligence Handbook on US Armored Forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17344'}; {'expansion_id': '24016', 'expansion_name': 'Flames of War: Ostfront - Eastern Front 1942-1943', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/24016'}; {'expansion_id': '187702', 'expansion_name': 'Flames of War: Overlord - The Allied Invasion of France', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187702'}; {'expansion_id': '319480', 'expansion_name': 'Flames of War: Race To Minsk -  Ace Campaign', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/319480'}; {'expansion_id': '306429', 'expansion_name': 'Flames of War: Red Banner - Soviet Forces on the Eastern Front 1942-43', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/306429'}; {'expansion_id': '130230', 'expansion_name': 'Flames of War: Red Bear - Allied Forces on the Eastern Front, January 1944-February 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130230'}; {'expansion_id': '260849', 'expansion_name': \"Flames of War: Rising Sun - Russia's Wars with Japan and Finland 1939-1940\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260849'}; {'expansion_id': '72453', 'expansion_name': 'Flames of War: River of Heroes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/72453'}; {'expansion_id': '305891', 'expansion_name': 'Flames of War: Road to Rome - The Allied Assault on Italy, January 1944 - May 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305891'}; {'expansion_id': '317627', 'expansion_name': 'Flames of War: Soviet Starter Force - Heavy Assault Group', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/317627'}; {'expansion_id': '99718', 'expansion_name': \"Flames of War: Stalin's Europe\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99718'}; {'expansion_id': '39076', 'expansion_name': \"Flames of War: Stalin's Onslaught\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39076'}; {'expansion_id': '17340', 'expansion_name': 'Flames of War: Stalingrad - Intelligence Handbook on Soviet and German Infantry Forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17340'}; {'expansion_id': '17339', 'expansion_name': 'Flames of War: Stars and Stripes - Intelligence Handbook on US Armored and Infantry Forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17339'}; {'expansion_id': '317629', 'expansion_name': 'Flames of War: T-34 - Tank Battalion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/317629'}; {'expansion_id': '305918', 'expansion_name': 'Flames of War: The Ardennes Offensive - German Forces in Lorraine and the Ardennes, Sep 1944 - Feb 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305918'}; {'expansion_id': '305960', 'expansion_name': 'Flames of War: The Battle of the Bulge - Allied Forces on the German Border, Sep 1944 - Feb 1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305960'}; {'expansion_id': '320271', 'expansion_name': 'Flames of War: Tiger Tank Platoon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/320271'}; {'expansion_id': '160285', 'expansion_name': 'Flames of War: Tour of Duty', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160285'}; {'expansion_id': '100277', 'expansion_name': 'Flames of War: Tropic Lightning - Armoured and Airborne Combat in Vietnam 1965-1971', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/100277'}; {'expansion_id': '99722', 'expansion_name': 'Flames of War: Turning Tide - The Allied Invasion of France June-September 1944', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99722'}; {'expansion_id': '32881', 'expansion_name': 'Flames of War: Villers-Bocage', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/32881'}; {'expansion_id': '315606', 'expansion_name': 'Flames of War: Waffen SS Starter Force - Waffen SS Panther Kampfgruppe', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/315606'}; {'expansion_id': '20637', 'expansion_name': 'Flames of War: Za Stalina - Intelligence Handbook on Soviet Armoured and Cavalry forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/20637'}; {'expansion_id': '303718', 'expansion_name': 'Imperial Japanese Army: Manchuria & SE Asia 1940-1945', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303718'}; {'expansion_id': '303723', 'expansion_name': 'PACIFIC! War in the Pacific 1937-1945: Japanese and US Marine Corps Forces', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303723'}; {'expansion_id': '301495', 'expansion_name': 'The Royal Thai Army: History, Organisation and Insurrection 2000 to 2014', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/301495'}",
+    "expansions_for_string": "{'game_id': '76666', 'game_name': 'Flames of War: Firestorm - Warsaw: The Campaign for Warsaw', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/76666'}"
+}

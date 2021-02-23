@@ -1,0 +1,130 @@
+{
+    "game_id": "147920",
+    "game_name": "Das Labyrinth des Pharao",
+    "bgg_link": "https://boardgamegeek.com/boardgame/147920",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4501172",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4501172#item4501172",
+            "geeklist_host": "pusherman42",
+            "contributor": "Malaiser"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4618916",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4618916#item4618916",
+            "geeklist_host": "gentle",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5460830",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5460830#item5460830",
+            "geeklist_host": "koinskyz",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5496166",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5496166#item5496166",
+            "geeklist_host": "Mishko",
+            "contributor": "ckolokotronis"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6208922",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6208922#item6208922",
+            "geeklist_host": "Gribbon",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7428331",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7428331#item7428331",
+            "geeklist_host": "jomurph86",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7957676",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7957676#item7957676",
+            "geeklist_host": "Albia",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8125247",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8125247#item8125247",
+            "geeklist_host": "ArianneH",
+            "contributor": "sarebear62"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/Pq2SNaG1M-XMuyH9hIZILw__thumb/img/rnBzCojEE32kbxSmbHujbR43uwQ=/fit-in/200x150/filters:strip_icc()/pic1776870.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Mark Sienholz"
+    ],
+    "weight": 1.78,
+    "rating": 6.56,
+    "play_time": "40",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Exploration",
+        "Maze"
+    ],
+    "mechanics": [
+        "Pattern Building",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "270854",
+            "expansion_name": "Das Labyrinth des Pharao: Die Mumien-Erweiterung",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/270854"
+        },
+        {
+            "expansion_id": "236922",
+            "expansion_name": "Das Labyrinth des Pharao: Pharaos Gruft - Four Game Boards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/236922"
+        },
+        {
+            "expansion_id": "166986",
+            "expansion_name": "Das Labyrinth des Pharao: Sphinx und Triamide",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166986"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Mark Sienholz",
+    "categories_string": "Exploration; Maze",
+    "mechanics_string": "Pattern Building; Tile Placement",
+    "expansions_string": "{'expansion_id': '270854', 'expansion_name': 'Das Labyrinth des Pharao: Die Mumien-Erweiterung', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/270854'}; {'expansion_id': '236922', 'expansion_name': 'Das Labyrinth des Pharao: Pharaos Gruft - Four Game Boards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/236922'}; {'expansion_id': '166986', 'expansion_name': 'Das Labyrinth des Pharao: Sphinx und Triamide', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166986'}",
+    "expansions_for_string": ""
+}

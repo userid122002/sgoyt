@@ -1,0 +1,73 @@
+{
+    "game_id": "79127",
+    "game_name": "Star Trek: Fleet Captains",
+    "bgg_link": "https://boardgamegeek.com/boardgame/79127",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7653599",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7653599#item7653599",
+            "geeklist_host": "threepointthed",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7948240",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7948240#item7948240",
+            "geeklist_host": "Albia",
+            "contributor": "airjudden"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/UqnetX2v84p9ZMpzB8GiDw__thumb/img/2MTCJvG13SbBcF92yo-4wuGuY10=/fit-in/200x150/filters:strip_icc()/pic1081488.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Mike Elliott",
+        "Bryan Kinsella",
+        "Ethan Pasternack"
+    ],
+    "weight": 3.05,
+    "rating": 7.52,
+    "play_time": "90 - 120",
+    "best": "1",
+    "recommended": "3",
+    "not_recommended": "30",
+    "categories": [
+        "Fighting",
+        "Miniatures",
+        "Movies / TV / Radio theme",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Modular Board",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "156502",
+            "expansion_name": "Star Trek: Fleet Captains - Dominion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/156502"
+        },
+        {
+            "expansion_id": "125652",
+            "expansion_name": "Star Trek: Fleet Captains - Romulan Empire",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/125652"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Mike Elliott; Bryan Kinsella; Ethan Pasternack",
+    "categories_string": "Fighting; Miniatures; Movies / TV / Radio theme; Science Fiction; Space Exploration",
+    "mechanics_string": "Action Points; Dice Rolling; Hexagon Grid; Modular Board; Tile Placement",
+    "expansions_string": "{'expansion_id': '156502', 'expansion_name': 'Star Trek: Fleet Captains - Dominion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/156502'}; {'expansion_id': '125652', 'expansion_name': 'Star Trek: Fleet Captains - Romulan Empire', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/125652'}",
+    "expansions_for_string": ""
+}

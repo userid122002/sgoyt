@@ -1,0 +1,65 @@
+{
+    "game_id": "94964",
+    "game_name": "Space Hulk: Death Angel - The Card Game - Mission Pack 1",
+    "bgg_link": "https://boardgamegeek.com/boardgame/94964",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5928611",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5928611#item5928611",
+            "geeklist_host": "Jorune",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7562711",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7562711#item7562711",
+            "geeklist_host": "Doc_H",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/ZwYoFMwLJJsObufQmAhqGQ__thumb/img/AfGybeod52suHJsSqtXXaDJLP24=/fit-in/200x150/filters:strip_icc()/pic1431153.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Corey Konieczka",
+        "Andrew Meredith"
+    ],
+    "weight": 2.18,
+    "rating": 7.38,
+    "play_time": "30",
+    "best": "6",
+    "recommended": "5",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fighting",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "71721",
+            "game_name": "Space Hulk: Death Angel - The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/71721"
+        }
+    ],
+    "designers_string": "Corey Konieczka; Andrew Meredith",
+    "categories_string": "Card Game; Expansion for Base-game; Fighting; Science Fiction",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '71721', 'game_name': 'Space Hulk: Death Angel - The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/71721'}"
+}

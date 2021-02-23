@@ -1,0 +1,84 @@
+{
+    "game_id": "290236",
+    "game_name": "Canvas",
+    "bgg_link": "https://boardgamegeek.com/boardgame/290236",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8098231",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8098231#item8098231",
+            "geeklist_host": "Swizze",
+            "contributor": "Swizze"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8099931",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8099931#item8099931",
+            "geeklist_host": "Swizze",
+            "contributor": "overhaul"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8102093",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8102093#item8102093",
+            "geeklist_host": "Swizze",
+            "contributor": "jeffrhind"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8127975",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8127975#item8127975",
+            "geeklist_host": "ArianneH",
+            "contributor": "Swizze"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/V-_khEq9zA5unC3yH9S71A__thumb/img/eQDgmWaFULQn-lh1HopW-WnCDqk=/fit-in/200x150/filters:strip_icc()/pic5483131.jpg",
+    "year_published": "2021",
+    "designers": [
+        "Jeff Chin",
+        "Andrew Nerger"
+    ],
+    "weight": 1.62,
+    "rating": 7.76,
+    "play_time": "30",
+    "best": "1",
+    "recommended": "9",
+    "not_recommended": "1",
+    "categories": [
+        "Abstract Strategy",
+        "Puzzle"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Increase Value of Unchosen Resources",
+        "Layering",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "309705",
+            "expansion_name": "Canvas: Kickstarter Mini Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/309705"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jeff Chin; Andrew Nerger",
+    "categories_string": "Abstract Strategy; Puzzle",
+    "mechanics_string": "Card Drafting; Hand Management; Increase Value of Unchosen Resources; Layering; Set Collection",
+    "expansions_string": "{'expansion_id': '309705', 'expansion_name': 'Canvas: Kickstarter Mini Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/309705'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,54 @@
+{
+    "game_id": "63551",
+    "game_name": "Katzbach 20",
+    "bgg_link": "https://boardgamegeek.com/boardgame/63551",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5785555",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5785555#item5785555",
+            "geeklist_host": "Albia",
+            "contributor": "catosulla"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/MuGZMoh2WJnfbGl5LJ267w__thumb/img/n6N3Ha3vnxhp_YvNEyldENBGLYA=/fit-in/200x150/filters:strip_icc()/pic624217.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Lance McMillan"
+    ],
+    "weight": 1.75,
+    "rating": 7.61,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "100168",
+            "expansion_name": "Gorlitz 20",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/100168"
+        },
+        {
+            "expansion_id": "42837",
+            "expansion_name": "Napoleonic 20 Expansion Kit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42837"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Lance McMillan",
+    "categories_string": "Napoleonic; Wargame",
+    "mechanics_string": "Hexagon Grid",
+    "expansions_string": "{'expansion_id': '100168', 'expansion_name': 'Gorlitz 20', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/100168'}; {'expansion_id': '42837', 'expansion_name': 'Napoleonic 20 Expansion Kit', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42837'}",
+    "expansions_for_string": ""
+}

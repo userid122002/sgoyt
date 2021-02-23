@@ -1,0 +1,81 @@
+{
+    "game_id": "249047",
+    "game_name": "The Abandons",
+    "bgg_link": "https://boardgamegeek.com/boardgame/249047",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6827323",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6827323#item6827323",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Xabbusan"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6833396",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6833396#item6833396",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "BlueFool"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6860630",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6860630#item6860630",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "zumby65"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7135475",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7135475#item7135475",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "zumby65"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/7KPVvDZfg5bodHiUBrsCew__thumb/img/bSf3BAypGW4Aty1f1dlNIn6BMjg=/fit-in/200x150/filters:strip_icc()/pic4561473.png",
+    "year_published": "2019",
+    "designers": [
+        "Michael \"Dmitri\" Blascoe"
+    ],
+    "weight": 1.67,
+    "rating": 6.25,
+    "play_time": "5 - 15",
+    "best": "5",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Maze"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Push Your Luck"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "277201",
+            "expansion_name": "The Abandons: Promo Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/277201"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Michael \"Dmitri\" Blascoe",
+    "categories_string": "Card Game; Fantasy; Maze",
+    "mechanics_string": "Card Drafting; Push Your Luck",
+    "expansions_string": "{'expansion_id': '277201', 'expansion_name': 'The Abandons: Promo Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/277201'}",
+    "expansions_for_string": ""
+}

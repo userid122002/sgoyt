@@ -1,0 +1,120 @@
+{
+    "game_id": "302643",
+    "game_name": "Fallout: Atomic Bonds",
+    "bgg_link": "https://boardgamegeek.com/boardgame/302643",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7845357",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7845357#item7845357",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "jgatkinsn"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7881452",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7881452#item7881452",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "mournful"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8101255",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8101255#item8101255",
+            "geeklist_host": "Swizze",
+            "contributor": "ninjafoodstuff"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8138045",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8138045#item8138045",
+            "geeklist_host": "ArianneH",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8141421",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8141421#item8141421",
+            "geeklist_host": "ArianneH",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8146028",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8146028#item8146028",
+            "geeklist_host": "ArianneH",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8147694",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8147694#item8147694",
+            "geeklist_host": "ArianneH",
+            "contributor": "carbon_dragon"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/XC6vUsHOXIplUFZ0BQQoBw__thumb/img/9R5fS9BtCJ6RmkPgv5jaQ3cVyLs=/fit-in/200x150/filters:strip_icc()/pic5306945.png",
+    "year_published": "2020",
+    "designers": [
+        "Dane Beltrami"
+    ],
+    "weight": 2.88,
+    "rating": 8.40,
+    "play_time": "120 - 180",
+    "best": "3",
+    "recommended": "4",
+    "not_recommended": "4",
+    "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Exploration",
+        "Science Fiction",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Role Playing",
+        "Storytelling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "232918",
+            "game_name": "Fallout",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/232918"
+        }
+    ],
+    "designers_string": "Dane Beltrami",
+    "categories_string": "Expansion for Base-game; Adventure; Exploration; Science Fiction; Video Game Theme",
+    "mechanics_string": "Action Points; Area Movement; Cooperative Game; Dice Rolling; Hand Management; Modular Board; Role Playing; Storytelling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '232918', 'game_name': 'Fallout', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/232918'}"
+}

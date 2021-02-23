@@ -1,0 +1,64 @@
+{
+    "game_id": "166702",
+    "game_name": "Star Realms: Crisis - Bases & Battleships",
+    "bgg_link": "https://boardgamegeek.com/boardgame/166702",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5690367",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5690367#item5690367",
+            "geeklist_host": "cornishlee",
+            "contributor": "bartlett82"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/rVH3w2rb57j6r8CYjfXyPA__thumb/img/1Xlki1A-CGDNMrczSv3wVju9FOE=/fit-in/200x150/filters:strip_icc()/pic2255562.png",
+    "year_published": "2014",
+    "designers": [
+        "Robert Dougherty",
+        "Darwin Kastle"
+    ],
+    "weight": 2.00,
+    "rating": 7.74,
+    "play_time": "20 - 0",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "4",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fighting",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Take That"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "147020",
+            "game_name": "Star Realms",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/147020"
+        },
+        {
+            "game_id": "182631",
+            "game_name": "Star Realms: Colony Wars",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/182631"
+        },
+        {
+            "game_id": "230253",
+            "game_name": "Star Realms: Frontiers",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/230253"
+        }
+    ],
+    "designers_string": "Robert Dougherty; Darwin Kastle",
+    "categories_string": "Card Game; Expansion for Base-game; Fighting; Science Fiction",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Take That",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '147020', 'game_name': 'Star Realms', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/147020'}; {'game_id': '182631', 'game_name': 'Star Realms: Colony Wars', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/182631'}; {'game_id': '230253', 'game_name': 'Star Realms: Frontiers', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/230253'}"
+}

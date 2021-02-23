@@ -1,0 +1,65 @@
+{
+    "game_id": "23",
+    "game_name": "Divine Right",
+    "bgg_link": "https://boardgamegeek.com/boardgame/23",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5319256",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5319256#item5319256",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "petegs"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/LXe8fV_o-sf1IQNz4Ohalg__thumb/img/9iONXPj0ASLKnAGuNlAGwUc23vE=/fit-in/200x150/filters:strip_icc()/pic1440309.jpg",
+    "year_published": "1979",
+    "designers": [
+        "Glenn Rahman",
+        "Kenneth Rahman"
+    ],
+    "weight": 3.18,
+    "rating": 7.12,
+    "play_time": "360",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "12",
+    "categories": [
+        "Fantasy",
+        "Political",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Events",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Movement Points",
+        "Player Elimination",
+        "Simulation",
+        "Variable Phase Order",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "240168",
+            "expansion_name": "Divine Right: Ambassador Personality Cards and Siege Train Counters",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240168"
+        },
+        {
+            "expansion_id": "1776",
+            "expansion_name": "Divine Right: Scarlet Empire",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/1776"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Glenn Rahman; Kenneth Rahman",
+    "categories_string": "Fantasy; Political; Wargame",
+    "mechanics_string": "Card Drafting; Dice Rolling; Events; Grid Movement; Hexagon Grid; Movement Points; Player Elimination; Simulation; Variable Phase Order; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '240168', 'expansion_name': 'Divine Right: Ambassador Personality Cards and Siege Train Counters', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240168'}; {'expansion_id': '1776', 'expansion_name': 'Divine Right: Scarlet Empire', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/1776'}",
+    "expansions_for_string": ""
+}

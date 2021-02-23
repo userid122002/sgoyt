@@ -1,0 +1,119 @@
+{
+    "game_id": "137987",
+    "game_name": "Zombicide: Toxic City Mall",
+    "bgg_link": "https://boardgamegeek.com/boardgame/137987",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3466627",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3466627#item3466627",
+            "geeklist_host": "Malaiser",
+            "contributor": "petegs"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3915974",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3915974#item3915974",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "joestin"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4099464",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4099464#item4099464",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "Ibbo"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4641020",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4641020#item4641020",
+            "geeklist_host": "gentle",
+            "contributor": "VincentDarlage"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/HodJdxcZFlIXJlrT6RLG4g__thumb/img/7dsE5KJWk1lUUf1p3tSIRHFtlpw=/fit-in/200x150/filters:strip_icc()/pic1805936.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Raphael Guiton",
+        "Jean-Baptiste Lullien",
+        "Nicolas Raoult"
+    ],
+    "weight": 2.76,
+    "rating": 7.71,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "8",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Horror",
+        "Miniatures",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "153977",
+            "expansion_name": "Zombicide Gaming Night #2: Black Friday",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153977"
+        },
+        {
+            "expansion_id": "153978",
+            "expansion_name": "Zombicide Gaming Night #3: Zombie Trap",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153978"
+        },
+        {
+            "expansion_id": "153979",
+            "expansion_name": "Zombicide Survivor: Bill",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153979"
+        },
+        {
+            "expansion_id": "153975",
+            "expansion_name": "Zombicide Survivor: Thiago",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153975"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "113924",
+            "game_name": "Zombicide",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/113924"
+        },
+        {
+            "game_id": "137988",
+            "game_name": "Zombicide Season 2: Prison Outbreak",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/137988"
+        },
+        {
+            "game_id": "161866",
+            "game_name": "Zombicide Season 3: Rue Morgue",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/161866"
+        }
+    ],
+    "designers_string": "Raphael Guiton; Jean-Baptiste Lullien; Nicolas Raoult",
+    "categories_string": "Expansion for Base-game; Horror; Miniatures; Zombies",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Hand Management; Modular Board; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '153977', 'expansion_name': 'Zombicide Gaming Night #2: Black Friday', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153977'}; {'expansion_id': '153978', 'expansion_name': 'Zombicide Gaming Night #3: Zombie Trap', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153978'}; {'expansion_id': '153979', 'expansion_name': 'Zombicide Survivor: Bill', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153979'}; {'expansion_id': '153975', 'expansion_name': 'Zombicide Survivor: Thiago', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153975'}",
+    "expansions_for_string": "{'game_id': '113924', 'game_name': 'Zombicide', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/113924'}; {'game_id': '137988', 'game_name': 'Zombicide Season 2: Prison Outbreak', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/137988'}; {'game_id': '161866', 'game_name': 'Zombicide Season 3: Rue Morgue', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/161866'}"
+}

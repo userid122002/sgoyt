@@ -1,0 +1,95 @@
+{
+    "game_id": "119640",
+    "game_name": "The Lord of the Rings: The Card Game - Foundations of Stone",
+    "bgg_link": "https://boardgamegeek.com/boardgame/119640",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4222808",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4222808#item4222808",
+            "geeklist_host": "SBGrad",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5188132",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5188132#item5188132",
+            "geeklist_host": "Ibbo",
+            "contributor": "mschipper"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7521578",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7521578#item7521578",
+            "geeklist_host": "Doc_H",
+            "contributor": "wkufan89"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7530471",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7530471#item7530471",
+            "geeklist_host": "Doc_H",
+            "contributor": "wkufan89"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/x0kfG-oIrrBeTcvGCyiWjA__thumb/img/LJw3OOqf-3XRiTHW0uBkz9MfdYo=/fit-in/200x150/filters:strip_icc()/pic1243161.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Nate French",
+        "Lukas Litzsinger"
+    ],
+    "weight": 2.74,
+    "rating": 8.14,
+    "play_time": "60",
+    "best": "1",
+    "recommended": "3",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "166713",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: Foundations of Stone",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166713"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        },
+        {
+            "game_id": "107933",
+            "game_name": "The Lord of the Rings: The Card Game - Khazad-dum",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/107933"
+        }
+    ],
+    "designers_string": "Nate French; Lukas Litzsinger",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '166713', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: Foundations of Stone', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166713'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}; {'game_id': '107933', 'game_name': 'The Lord of the Rings: The Card Game - Khazad-dum', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/107933'}"
+}

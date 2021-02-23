@@ -1,0 +1,98 @@
+{
+    "game_id": "230650",
+    "game_name": "Table Battles",
+    "bgg_link": "https://boardgamegeek.com/boardgame/230650",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5923152",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5923152#item5923152",
+            "geeklist_host": "Jorune",
+            "contributor": "Lunga"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7680120",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7680120#item7680120",
+            "geeklist_host": "gentle",
+            "contributor": "BrokenAxe"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7681127",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7681127#item7681127",
+            "geeklist_host": "gentle",
+            "contributor": "BrokenAxe"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/qoySfaJY7jIP0kXheb9wZg__thumb/img/Uyb5kmv6MFFZ4PnW9nOIknBEcr0=/fit-in/200x150/filters:strip_icc()/pic3639380.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Tom Russell"
+    ],
+    "weight": 1.78,
+    "rating": 7.13,
+    "play_time": "20",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "1",
+    "categories": [
+        "Age of Reason",
+        "American Revolutionary War",
+        "Print & Play",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Simulation",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "251554",
+            "expansion_name": "Table Battles: Age of Alexander",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251554"
+        },
+        {
+            "expansion_id": "279669",
+            "expansion_name": "Table Battles: C3i #32 Scenarios",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279669"
+        },
+        {
+            "expansion_id": "285764",
+            "expansion_name": "Table Battles: English Civil War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/285764"
+        },
+        {
+            "expansion_id": "267329",
+            "expansion_name": "Table Battles: Gettysburg",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/267329"
+        },
+        {
+            "expansion_id": "326091",
+            "expansion_name": "Table Battles: The Grand Alliance",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/326091"
+        },
+        {
+            "expansion_id": "239769",
+            "expansion_name": "Table Battles: Wars of the Roses",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239769"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Tom Russell",
+    "categories_string": "Age of Reason; American Revolutionary War; Print & Play; Wargame",
+    "mechanics_string": "Dice Rolling; Simulation; Worker Placement",
+    "expansions_string": "{'expansion_id': '251554', 'expansion_name': 'Table Battles: Age of Alexander', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251554'}; {'expansion_id': '279669', 'expansion_name': 'Table Battles: C3i #32 Scenarios', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279669'}; {'expansion_id': '285764', 'expansion_name': 'Table Battles: English Civil War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/285764'}; {'expansion_id': '267329', 'expansion_name': 'Table Battles: Gettysburg', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/267329'}; {'expansion_id': '326091', 'expansion_name': 'Table Battles: The Grand Alliance', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/326091'}; {'expansion_id': '239769', 'expansion_name': 'Table Battles: Wars of the Roses', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239769'}",
+    "expansions_for_string": ""
+}

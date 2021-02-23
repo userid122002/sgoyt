@@ -1,0 +1,78 @@
+{
+    "game_id": "15062",
+    "game_name": "Shadows over Camelot",
+    "bgg_link": "https://boardgamegeek.com/boardgame/15062",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "158763",
+            "geeklist_item_id": "2729258",
+            "year_month": "2013/07",
+            "year": "2013",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/158763/item/2729258#item2729258",
+            "geeklist_host": "mo7189",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4774434",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4774434#item4774434",
+            "geeklist_host": "govmiller",
+            "contributor": "benny1980no"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/JYqwG_v1B3RhpB7NcmeDOA__thumb/img/QOG1zO0uvqxGTDF9V_OewVPMvNE=/fit-in/200x150/filters:strip_icc()/pic70547.jpg",
+    "year_published": "2005",
+    "designers": [
+        "Bruno Cathala",
+        "Serge Laget"
+    ],
+    "weight": 2.57,
+    "rating": 7.12,
+    "play_time": "60 - 80",
+    "best": "1",
+    "recommended": "13",
+    "not_recommended": "179",
+    "categories": [
+        "Adventure",
+        "Bluffing",
+        "Deduction",
+        "Fantasy",
+        "Medieval",
+        "Mythology"
+    ],
+    "mechanics": [
+        "Communication Limits",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Player Elimination",
+        "Semi-Cooperative Game",
+        "Set Collection",
+        "Team-Based Game",
+        "Traitor Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "35704",
+            "expansion_name": "Shadows over Camelot: Merlin's Company",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/35704"
+        },
+        {
+            "expansion_id": "20857",
+            "expansion_name": "Shadows over Camelot: Sir Bedivere, the 8th Knight",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/20857"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Bruno Cathala; Serge Laget",
+    "categories_string": "Adventure; Bluffing; Deduction; Fantasy; Medieval; Mythology",
+    "mechanics_string": "Communication Limits; Cooperative Game; Dice Rolling; Hand Management; Player Elimination; Semi-Cooperative Game; Set Collection; Team-Based Game; Traitor Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '35704', 'expansion_name': \"Shadows over Camelot: Merlin's Company\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/35704'}; {'expansion_id': '20857', 'expansion_name': 'Shadows over Camelot: Sir Bedivere, the 8th Knight', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/20857'}",
+    "expansions_for_string": ""
+}

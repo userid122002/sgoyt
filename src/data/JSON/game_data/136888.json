@@ -1,0 +1,107 @@
+{
+    "game_id": "136888",
+    "game_name": "Bruges",
+    "bgg_link": "https://boardgamegeek.com/boardgame/136888",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3816563",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3816563#item3816563",
+            "geeklist_host": "HRune",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4011640",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4011640#item4011640",
+            "geeklist_host": "joestin",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4351624",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4351624#item4351624",
+            "geeklist_host": "mikolajl",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4603371",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4603371#item4603371",
+            "geeklist_host": "jdarnold",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4804798",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4804798#item4804798",
+            "geeklist_host": "govmiller",
+            "contributor": "Tokhuah"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6033722",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6033722#item6033722",
+            "geeklist_host": "busdjur",
+            "contributor": "juannonly"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/A8JeebUT3mu4zUmYs9clDQ__thumb/img/0O-Yp8KcLpb_lUXGm3AgymPJKos=/fit-in/200x150/filters:strip_icc()/pic1652004.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Stefan Feld"
+    ],
+    "weight": 2.75,
+    "rating": 7.43,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "73",
+    "categories": [
+        "Card Game",
+        "City Building",
+        "Economic",
+        "Renaissance"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "154678",
+            "expansion_name": "Bruges: The City on the Zwin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154678"
+        },
+        {
+            "expansion_id": "166504",
+            "expansion_name": "Brugge: Die Haustiere",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166504"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Stefan Feld",
+    "categories_string": "Card Game; City Building; Economic; Renaissance",
+    "mechanics_string": "Dice Rolling; Hand Management",
+    "expansions_string": "{'expansion_id': '154678', 'expansion_name': 'Bruges: The City on the Zwin', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154678'}; {'expansion_id': '166504', 'expansion_name': 'Brugge: Die Haustiere', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166504'}",
+    "expansions_for_string": ""
+}

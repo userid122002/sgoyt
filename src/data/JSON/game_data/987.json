@@ -1,0 +1,56 @@
+{
+    "game_id": "987",
+    "game_name": "Kingmaker",
+    "bgg_link": "https://boardgamegeek.com/boardgame/987",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5422670",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5422670#item5422670",
+            "geeklist_host": "koinskyz",
+            "contributor": "airjudden"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/xzr4Tjp1pM5zUfit5YAeNA__thumb/img/9GXaqizIhSQuun_zYk3HdUBuMzk=/fit-in/200x150/filters:strip_icc()/pic3187811.jpg",
+    "year_published": "1974",
+    "designers": [
+        "Andrew McNeil"
+    ],
+    "weight": 3.07,
+    "rating": 6.50,
+    "play_time": "240",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "22",
+    "categories": [
+        "Civil War",
+        "Medieval",
+        "Political",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Dice Rolling",
+        "Events",
+        "Movement Points",
+        "Simulation",
+        "Voting"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "18165",
+            "expansion_name": "Kingmaker Variant Event Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18165"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Andrew McNeil",
+    "categories_string": "Civil War; Medieval; Political; Wargame",
+    "mechanics_string": "Area Movement; Dice Rolling; Events; Movement Points; Simulation; Voting",
+    "expansions_string": "{'expansion_id': '18165', 'expansion_name': 'Kingmaker Variant Event Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18165'}",
+    "expansions_for_string": ""
+}

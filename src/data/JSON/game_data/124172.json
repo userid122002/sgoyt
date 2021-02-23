@@ -1,0 +1,69 @@
+{
+    "game_id": "124172",
+    "game_name": "Tsuro of the Seas",
+    "bgg_link": "https://boardgamegeek.com/boardgame/124172",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3841068",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3841068#item3841068",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4691255",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4691255#item4691255",
+            "geeklist_host": "koinskyz",
+            "contributor": "eastwoodk"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/mQgUEukVc97EDZ_YIRxxwg__thumb/img/PRBd4GvWPitG1UZxu3wvIY0N46o=/fit-in/200x150/filters:strip_icc()/pic1301853.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Tom McMurchie",
+        "Jordan Weisman"
+    ],
+    "weight": 1.42,
+    "rating": 6.55,
+    "play_time": "20 - 40",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "16",
+    "categories": [
+        "Abstract Strategy",
+        "Nautical"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Network and Route Building",
+        "Player Elimination",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "312800",
+            "expansion_name": "Tsuro of the Seas: Phoenix Action Tile",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/312800"
+        },
+        {
+            "expansion_id": "137837",
+            "expansion_name": "Tsuro of the Seas: Veterans of the Seas",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/137837"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Tom McMurchie; Jordan Weisman",
+    "categories_string": "Abstract Strategy; Nautical",
+    "mechanics_string": "Dice Rolling; Hand Management; Network and Route Building; Player Elimination; Tile Placement",
+    "expansions_string": "{'expansion_id': '312800', 'expansion_name': 'Tsuro of the Seas: Phoenix Action Tile', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/312800'}; {'expansion_id': '137837', 'expansion_name': 'Tsuro of the Seas: Veterans of the Seas', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/137837'}",
+    "expansions_for_string": ""
+}

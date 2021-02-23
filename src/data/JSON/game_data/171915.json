@@ -1,0 +1,107 @@
+{
+    "game_id": "171915",
+    "game_name": "Dominion: Adventures",
+    "bgg_link": "https://boardgamegeek.com/boardgame/171915",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4432469",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4432469#item4432469",
+            "geeklist_host": "Woelf",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4616490",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4616490#item4616490",
+            "geeklist_host": "gentle",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4726871",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4726871#item4726871",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "mogust"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/BZPtZPNjkHKA_wEGe5iTYQ__thumb/img/0VwWVsDU9S6NrFnbXNyiT_2U8yo=/fit-in/200x150/filters:strip_icc()/pic2374911.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Donald X. Vaccarino"
+    ],
+    "weight": 2.76,
+    "rating": 8.16,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "10",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "36218",
+            "game_name": "Dominion",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/36218"
+        },
+        {
+            "game_id": "209418",
+            "game_name": "Dominion (Second Edition)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/209418"
+        },
+        {
+            "game_id": "216849",
+            "game_name": "Dominion (Second Edition) Big Box",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/216849"
+        },
+        {
+            "game_id": "142131",
+            "game_name": "Dominion Big Box (English)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/142131"
+        },
+        {
+            "game_id": "142132",
+            "game_name": "Dominion Big Box (German)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/142132"
+        },
+        {
+            "game_id": "275626",
+            "game_name": "Dominion Einsteiger-Bigbox",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/275626"
+        },
+        {
+            "game_id": "40834",
+            "game_name": "Dominion: Intrigue",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/40834"
+        },
+        {
+            "game_id": "149083",
+            "game_name": "Dominion: Special Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/149083"
+        }
+    ],
+    "designers_string": "Donald X. Vaccarino",
+    "categories_string": "Card Game; Expansion for Base-game; Medieval",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Hand Management",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '36218', 'game_name': 'Dominion', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/36218'}; {'game_id': '209418', 'game_name': 'Dominion (Second Edition)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/209418'}; {'game_id': '216849', 'game_name': 'Dominion (Second Edition) Big Box', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/216849'}; {'game_id': '142131', 'game_name': 'Dominion Big Box (English)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/142131'}; {'game_id': '142132', 'game_name': 'Dominion Big Box (German)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/142132'}; {'game_id': '275626', 'game_name': 'Dominion Einsteiger-Bigbox', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/275626'}; {'game_id': '40834', 'game_name': 'Dominion: Intrigue', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/40834'}; {'game_id': '149083', 'game_name': 'Dominion: Special Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/149083'}"
+}

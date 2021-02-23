@@ -1,0 +1,118 @@
+{
+    "game_id": "276830",
+    "game_name": "Sanctum",
+    "bgg_link": "https://boardgamegeek.com/boardgame/276830",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7401246",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7401246#item7401246",
+            "geeklist_host": "jeffrhind",
+            "contributor": "vacuumdude"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7608370",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7608370#item7608370",
+            "geeklist_host": "jwml",
+            "contributor": "vacuumdude"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7617860",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7617860#item7617860",
+            "geeklist_host": "threepointthed",
+            "contributor": "Registrau"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7788130",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7788130#item7788130",
+            "geeklist_host": "mithoron",
+            "contributor": "tizgart"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7840795",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7840795#item7840795",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Junik"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8075189",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8075189#item8075189",
+            "geeklist_host": "Swizze",
+            "contributor": "Rindel"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8080268",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8080268#item8080268",
+            "geeklist_host": "Swizze",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/dRudo6DXsbwaUVvT6SBtLQ__thumb/img/Kk95zESrJLavZtvqZSWAJlN0214=/fit-in/200x150/filters:strip_icc()/pic4993715.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Filip Neduk"
+    ],
+    "weight": 2.47,
+    "rating": 7.15,
+    "play_time": "90",
+    "best": "3",
+    "recommended": "8",
+    "not_recommended": "8",
+    "categories": [
+        "Adventure",
+        "Dice",
+        "Fantasy",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "309237",
+            "expansion_name": "Sanctum: Dice Tower 2020 Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/309237"
+        },
+        {
+            "expansion_id": "313939",
+            "expansion_name": "Sanctum: Singleplayer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313939"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Filip Neduk",
+    "categories_string": "Adventure; Dice; Fantasy; Miniatures",
+    "mechanics_string": "Dice Rolling; Push Your Luck; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '309237', 'expansion_name': 'Sanctum: Dice Tower 2020 Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/309237'}; {'expansion_id': '313939', 'expansion_name': 'Sanctum: Singleplayer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313939'}",
+    "expansions_for_string": ""
+}

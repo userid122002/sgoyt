@@ -1,0 +1,66 @@
+{
+    "game_id": "183284",
+    "game_name": "Factory Funner",
+    "bgg_link": "https://boardgamegeek.com/boardgame/183284",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6652997",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6652997#item6652997",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "PrefectSarah"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7384162",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7384162#item7384162",
+            "geeklist_host": "jeffrhind",
+            "contributor": "dustybits"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/ezvR01Ty9hVqj1-FHD_4lw__thumb/img/k6xvwE2UKP_P22ZxL5udxkeu-KY=/fit-in/200x150/filters:strip_icc()/pic4106423.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Corne van Moorsel"
+    ],
+    "weight": 2.17,
+    "rating": 7.32,
+    "play_time": "20 - 40",
+    "best": "4",
+    "recommended": "11",
+    "not_recommended": "1",
+    "categories": [
+        "Puzzle",
+        "Real-time"
+    ],
+    "mechanics": [
+        "Hexagon Grid",
+        "Network and Route Building",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "197325",
+            "expansion_name": "Factory Funner: Expansion 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197325"
+        },
+        {
+            "expansion_id": "252523",
+            "expansion_name": "Factory Funner: Expansion 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/252523"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Corne van Moorsel",
+    "categories_string": "Puzzle; Real-time",
+    "mechanics_string": "Hexagon Grid; Network and Route Building; Tile Placement",
+    "expansions_string": "{'expansion_id': '197325', 'expansion_name': 'Factory Funner: Expansion 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197325'}; {'expansion_id': '252523', 'expansion_name': 'Factory Funner: Expansion 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/252523'}",
+    "expansions_for_string": ""
+}

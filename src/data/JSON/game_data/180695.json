@@ -1,0 +1,75 @@
+{
+    "game_id": "180695",
+    "game_name": "The Lord of the Rings: The Card Game - The Dread Realm",
+    "bgg_link": "https://boardgamegeek.com/boardgame/180695",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5636247",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5636247#item5636247",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "joakim589"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7645307",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7645307#item7645307",
+            "geeklist_host": "threepointthed",
+            "contributor": "Lady Mondegreen"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/qap2dkr3pXtHY97btkZngQ__thumb/img/iGatJVRwfUQ3zEMHzE9D1Z9IPHk=/fit-in/200x150/filters:strip_icc()/pic2586444.png",
+    "year_published": "2015",
+    "designers": [
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 3.00,
+    "rating": 8.19,
+    "play_time": "30 - 90",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "218785",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: The Dread Realm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218785"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        },
+        {
+            "game_id": "164313",
+            "game_name": "The Lord of the Rings: The Card Game - The Lost Realm",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/164313"
+        }
+    ],
+    "designers_string": "Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '218785', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: The Dread Realm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218785'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}; {'game_id': '164313', 'game_name': 'The Lord of the Rings: The Card Game - The Lost Realm', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/164313'}"
+}

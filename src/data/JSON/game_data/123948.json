@@ -1,0 +1,51 @@
+{
+    "game_id": "123948",
+    "game_name": "Modern Naval Battles: Global Warfare - Campaign Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/123948",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "166060",
+            "geeklist_item_id": "2948433",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2948433#item2948433",
+            "geeklist_host": "often",
+            "contributor": "Scott Pasha"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/AOKJ2IWiGdFWpnQojtHUyQ__thumb/img/qRwysBKt4Bgu4MVmPMxW15ZgcY8=/fit-in/200x150/filters:strip_icc()/pic1296957.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Dan Verssen"
+    ],
+    "weight": 2.50,
+    "rating": 7.15,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Modern Warfare",
+        "Nautical"
+    ],
+    "mechanics": [
+        "Hand Management"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "28828",
+            "game_name": "Modern Naval Battles: Global Warfare",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/28828"
+        }
+    ],
+    "designers_string": "Dan Verssen",
+    "categories_string": "Card Game; Expansion for Base-game; Modern Warfare; Nautical",
+    "mechanics_string": "Hand Management",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '28828', 'game_name': 'Modern Naval Battles: Global Warfare', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/28828'}"
+}

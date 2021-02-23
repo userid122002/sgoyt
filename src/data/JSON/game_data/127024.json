@@ -1,0 +1,98 @@
+{
+    "game_id": "127024",
+    "game_name": "Room 25",
+    "bgg_link": "https://boardgamegeek.com/boardgame/127024",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3559245",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3559245#item3559245",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "loganbreath"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3559788",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3559788#item3559788",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "theritzes"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/urP8ZiJeGJ_WFJ5ovqA5kg__thumb/img/zPupx0-vzzjHrdZ2gJ2aQGCE64k=/fit-in/200x150/filters:strip_icc()/pic3046708.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Francois Rouze"
+    ],
+    "weight": 1.93,
+    "rating": 6.75,
+    "play_time": "30",
+    "best": "2",
+    "recommended": "19",
+    "not_recommended": "36",
+    "categories": [
+        "Bluffing",
+        "Deduction",
+        "Exploration",
+        "Horror",
+        "Maze",
+        "Negotiation",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Cooperative Game",
+        "Grid Movement",
+        "Memory",
+        "Modular Board",
+        "Player Elimination",
+        "Programmed Movement",
+        "Simultaneous Action Selection",
+        "Team-Based Game",
+        "Traitor Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "207150",
+            "expansion_name": "Room 25: Dice Tower Promo 2016",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207150"
+        },
+        {
+            "expansion_id": "193209",
+            "expansion_name": "Room 25: Escape Room",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193209"
+        },
+        {
+            "expansion_id": "132429",
+            "expansion_name": "Room 25: Promo - The Audience",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132429"
+        },
+        {
+            "expansion_id": "156407",
+            "expansion_name": "Room 25: Season 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/156407"
+        },
+        {
+            "expansion_id": "247627",
+            "expansion_name": "Room 25: VIP",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/247627"
+        },
+        {
+            "expansion_id": "256782",
+            "expansion_name": "Room 25: VIP - Raptor Promo Tile",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256782"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Francois Rouze",
+    "categories_string": "Bluffing; Deduction; Exploration; Horror; Maze; Negotiation; Science Fiction",
+    "mechanics_string": "Action Queue; Cooperative Game; Grid Movement; Memory; Modular Board; Player Elimination; Programmed Movement; Simultaneous Action Selection; Team-Based Game; Traitor Game",
+    "expansions_string": "{'expansion_id': '207150', 'expansion_name': 'Room 25: Dice Tower Promo 2016', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207150'}; {'expansion_id': '193209', 'expansion_name': 'Room 25: Escape Room', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193209'}; {'expansion_id': '132429', 'expansion_name': 'Room 25: Promo - The Audience', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132429'}; {'expansion_id': '156407', 'expansion_name': 'Room 25: Season 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/156407'}; {'expansion_id': '247627', 'expansion_name': 'Room 25: VIP', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/247627'}; {'expansion_id': '256782', 'expansion_name': 'Room 25: VIP - Raptor Promo Tile', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256782'}",
+    "expansions_for_string": ""
+}

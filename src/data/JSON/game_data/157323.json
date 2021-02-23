@@ -1,0 +1,106 @@
+{
+    "game_id": "157323",
+    "game_name": "MBT (Second Edition)",
+    "bgg_link": "https://boardgamegeek.com/boardgame/157323",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4783933",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4783933#item4783933",
+            "geeklist_host": "govmiller",
+            "contributor": "Sapper_SB"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5536835",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5536835#item5536835",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Sapper_SB"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5544268",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5544268#item5544268",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Sapper_SB"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6353592",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6353592#item6353592",
+            "geeklist_host": "dobrazil",
+            "contributor": "Arven"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/aQNcEW25AOdcaL9E3iUM6Q__thumb/img/rZJLjt6AYEcLfVnzzyIqgUhU29s=/fit-in/200x150/filters:strip_icc()/pic2958247.jpg",
+    "year_published": "2016",
+    "designers": [
+        "James M. Day"
+    ],
+    "weight": 3.88,
+    "rating": 8.05,
+    "play_time": "360",
+    "best": "2",
+    "recommended": "5",
+    "not_recommended": "1",
+    "categories": [
+        "Modern Warfare",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Dice Rolling",
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "291640",
+            "expansion_name": "Ambush at Rannungen:  A 1985 MBT Scenario",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291640"
+        },
+        {
+            "expansion_id": "240903",
+            "expansion_name": "MBT: 4CMBG",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240903"
+        },
+        {
+            "expansion_id": "206770",
+            "expansion_name": "MBT: BAOR",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206770"
+        },
+        {
+            "expansion_id": "206769",
+            "expansion_name": "MBT: FRG",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206769"
+        },
+        {
+            "expansion_id": "260148",
+            "expansion_name": "Mind the Gap (fan expansion for MBT second edition)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260148"
+        },
+        {
+            "expansion_id": "275629",
+            "expansion_name": "Plug the Gap (Fan Expansion for MBT Second Edition)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/275629"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "James M. Day",
+    "categories_string": "Modern Warfare; Wargame",
+    "mechanics_string": "Action Queue; Dice Rolling; Hexagon Grid",
+    "expansions_string": "{'expansion_id': '291640', 'expansion_name': 'Ambush at Rannungen:  A 1985 MBT Scenario', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291640'}; {'expansion_id': '240903', 'expansion_name': 'MBT: 4CMBG', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240903'}; {'expansion_id': '206770', 'expansion_name': 'MBT: BAOR', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206770'}; {'expansion_id': '206769', 'expansion_name': 'MBT: FRG', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206769'}; {'expansion_id': '260148', 'expansion_name': 'Mind the Gap (fan expansion for MBT second edition)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260148'}; {'expansion_id': '275629', 'expansion_name': 'Plug the Gap (Fan Expansion for MBT Second Edition)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/275629'}",
+    "expansions_for_string": ""
+}

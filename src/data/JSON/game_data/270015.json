@@ -1,0 +1,69 @@
+{
+    "game_id": "270015",
+    "game_name": "Brook City: Keys to the Kingdom Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/270015",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7026749",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7026749#item7026749",
+            "geeklist_host": "labrhat22",
+            "contributor": "dobrazil"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7222263",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7222263#item7222263",
+            "geeklist_host": "narcher007",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/-7iaMeVD9f91RnxzaNjEnw__thumb/img/LLqSIb8-hQHu6IjMwIfCF5PJIwg=/fit-in/200x150/filters:strip_icc()/pic4862754.png",
+    "year_published": "2019",
+    "designers": [
+        "Adam Sadler",
+        "Brady Sadler"
+    ],
+    "weight": 3.00,
+    "rating": 7.58,
+    "play_time": "45 - 120",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Miniatures",
+        "Murder/Mystery"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "244946",
+            "game_name": "Brook City",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/244946"
+        },
+        {
+            "game_id": "218421",
+            "game_name": "Street Masters",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/218421"
+        }
+    ],
+    "designers_string": "Adam Sadler; Brady Sadler",
+    "categories_string": "Adventure; Expansion for Base-game; Miniatures; Murder/Mystery",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '244946', 'game_name': 'Brook City', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/244946'}; {'game_id': '218421', 'game_name': 'Street Masters', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/218421'}"
+}

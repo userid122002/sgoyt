@@ -1,0 +1,72 @@
+{
+    "game_id": "256883",
+    "game_name": "Comanauts",
+    "bgg_link": "https://boardgamegeek.com/boardgame/256883",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6616564",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6616564#item6616564",
+            "geeklist_host": "squarepegsys",
+            "contributor": "Zakoholic"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7925626",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7925626#item7925626",
+            "geeklist_host": "Elida",
+            "contributor": "JessMcC"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7933599",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7933599#item7933599",
+            "geeklist_host": "Elida",
+            "contributor": "JessMcC"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/MyjNjZCe6nuYUMAsd8d-LA__thumb/img/PE48t5D7ohXIOV5zIywEQyFJ9T8=/fit-in/200x150/filters:strip_icc()/pic4230768.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Jerry Hawthorne"
+    ],
+    "weight": 2.62,
+    "rating": 6.61,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "3",
+    "categories": [
+        "Adventure",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Storytelling",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "272225",
+            "expansion_name": "Comanauts: Drake Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/272225"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jerry Hawthorne",
+    "categories_string": "Adventure; Science Fiction",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Storytelling; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '272225', 'expansion_name': 'Comanauts: Drake Promo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/272225'}",
+    "expansions_for_string": ""
+}

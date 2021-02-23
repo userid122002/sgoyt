@@ -1,0 +1,65 @@
+{
+    "game_id": "3864",
+    "game_name": "Mechwarrior: Dark Age",
+    "bgg_link": "https://boardgamegeek.com/boardgame/3864",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "158763",
+            "geeklist_item_id": "2728494",
+            "year_month": "2013/07",
+            "year": "2013",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/158763/item/2728494#item2728494",
+            "geeklist_host": "mo7189",
+            "contributor": "Woelf"
+        },
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3816250",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3816250#item3816250",
+            "geeklist_host": "HRune",
+            "contributor": "Woelf"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/S-Q2VTI13MAEIfWoCpnJhQ__thumb/img/uTj_fJve8jNfw7qCVWRmgOGEB88=/fit-in/200x150/filters:strip_icc()/pic90904.jpg",
+    "year_published": "2002",
+    "designers": [
+        "Kevin Barrett",
+        "Paul Nobles",
+        "Matt Robinson"
+    ],
+    "weight": 2.71,
+    "rating": 6.25,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "3",
+    "categories": [
+        "Collectible Components",
+        "Dice",
+        "Miniatures",
+        "Science Fiction",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "134716",
+            "expansion_name": "Mechwarrior: Dark Age - Fire for Effect Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134716"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Kevin Barrett; Paul Nobles; Matt Robinson",
+    "categories_string": "Collectible Components; Dice; Miniatures; Science Fiction; Wargame",
+    "mechanics_string": "Action Points; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '134716', 'expansion_name': 'Mechwarrior: Dark Age - Fire for Effect Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134716'}",
+    "expansions_for_string": ""
+}

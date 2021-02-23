@@ -1,0 +1,84 @@
+{
+    "game_id": "209003",
+    "game_name": "Commands & Colors: Medieval",
+    "bgg_link": "https://boardgamegeek.com/boardgame/209003",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7164334",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7164334#item7164334",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Freeloading Phill"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7671976",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7671976#item7671976",
+            "geeklist_host": "gentle",
+            "contributor": "haslo"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7678469",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7678469#item7678469",
+            "geeklist_host": "gentle",
+            "contributor": "haslo"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8050504",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8050504#item8050504",
+            "geeklist_host": "airzonk1",
+            "contributor": "Freeloading Phill"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/oKduc32AIwj-5sBjLgm6mw__thumb/img/mLIzZl58hhatSi_7Flch-hkTey8=/fit-in/200x150/filters:strip_icc()/pic4495547.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Richard Borg"
+    ],
+    "weight": 2.64,
+    "rating": 8.35,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "5",
+    "categories": [
+        "Medieval",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Command Cards",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Line of Sight",
+        "Scenario / Mission / Campaign Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "325623",
+            "expansion_name": "Commands & Colors: Medieval - Expansion #1 Crusades Mid-Eastern Battles I",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/325623"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Richard Borg",
+    "categories_string": "Medieval; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Command Cards; Dice Rolling; Hexagon Grid; Line of Sight; Scenario / Mission / Campaign Game",
+    "expansions_string": "{'expansion_id': '325623', 'expansion_name': 'Commands & Colors: Medieval - Expansion #1 Crusades Mid-Eastern Battles I', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/325623'}",
+    "expansions_for_string": ""
+}

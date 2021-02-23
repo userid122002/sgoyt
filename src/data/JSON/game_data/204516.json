@@ -1,0 +1,88 @@
+{
+    "game_id": "204516",
+    "game_name": "878 Vikings: Invasions of England",
+    "bgg_link": "https://boardgamegeek.com/boardgame/204516",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5699396",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5699396#item5699396",
+            "geeklist_host": "cornishlee",
+            "contributor": "brewgeek"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6053472",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6053472#item6053472",
+            "geeklist_host": "busdjur",
+            "contributor": "catosulla"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6828052",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6828052#item6828052",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "catosulla"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/B0w7zdaQU8a970SVVbyh_A__thumb/img/6zKce4Kgk2KeehBpPDFASlrmaSo=/fit-in/200x150/filters:strip_icc()/pic3327213.png",
+    "year_published": "2017",
+    "designers": [
+        "Beau Beckett",
+        "Dave Kimmel",
+        "Jeph Stahl"
+    ],
+    "weight": 2.64,
+    "rating": 7.55,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "51",
+    "categories": [
+        "Educational",
+        "Medieval",
+        "Miniatures",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Area Movement",
+        "Campaign / Battle Card Driven",
+        "Command Cards",
+        "Dice Rolling",
+        "Die Icon Resolution",
+        "Simulation",
+        "Sudden Death Ending",
+        "Team-Based Game",
+        "Turn Order: Random",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "235738",
+            "expansion_name": "878 Vikings: Event Card Expansion Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/235738"
+        },
+        {
+            "expansion_id": "233859",
+            "expansion_name": "878 Vikings: Invasions of England - Viking Age Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233859"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Beau Beckett; Dave Kimmel; Jeph Stahl",
+    "categories_string": "Educational; Medieval; Miniatures; Wargame",
+    "mechanics_string": "Area Majority / Influence; Area Movement; Campaign / Battle Card Driven; Command Cards; Dice Rolling; Die Icon Resolution; Simulation; Sudden Death Ending; Team-Based Game; Turn Order: Random; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '235738', 'expansion_name': '878 Vikings: Event Card Expansion Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/235738'}; {'expansion_id': '233859', 'expansion_name': '878 Vikings: Invasions of England - Viking Age Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233859'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,127 @@
+{
+    "game_id": "252153",
+    "game_name": "Tang Garden",
+    "bgg_link": "https://boardgamegeek.com/boardgame/252153",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6842499",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6842499#item6842499",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Kush7"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6844808",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6844808#item6844808",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Kush7"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7631213",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7631213#item7631213",
+            "geeklist_host": "threepointthed",
+            "contributor": "CarolineBlack"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7736217",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7736217#item7736217",
+            "geeklist_host": "Elida",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7744373",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7744373#item7744373",
+            "geeklist_host": "repairmanjack",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7896233",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7896233#item7896233",
+            "geeklist_host": "Elida",
+            "contributor": "Venom Snake"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/FmElPbRBjK5RmrAC9so5Gw__thumb/img/DBGCgJ7Ynbs3XUEGQjf63AB9QXE=/fit-in/200x150/filters:strip_icc()/pic4109518.png",
+    "year_published": "2020",
+    "designers": [
+        "Francesco Testini",
+        "Pierluca Zizzi"
+    ],
+    "weight": 2.59,
+    "rating": 7.66,
+    "play_time": "40 - 60",
+    "best": "1",
+    "recommended": "14",
+    "not_recommended": "9",
+    "categories": [
+        "Environmental"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Set Collection",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "267249",
+            "expansion_name": "Tang Garden: Apricot Tree",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/267249"
+        },
+        {
+            "expansion_id": "267245",
+            "expansion_name": "Tang Garden: Ghost Stories",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/267245"
+        },
+        {
+            "expansion_id": "270753",
+            "expansion_name": "Tang Garden: Golden Age",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/270753"
+        },
+        {
+            "expansion_id": "285244",
+            "expansion_name": "Tang Garden: The Herbalist",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/285244"
+        },
+        {
+            "expansion_id": "267248",
+            "expansion_name": "Tang Garden: The Swan",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/267248"
+        },
+        {
+            "expansion_id": "267247",
+            "expansion_name": "Tang Garden: The Wayfarer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/267247"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Francesco Testini; Pierluca Zizzi",
+    "categories_string": "Environmental",
+    "mechanics_string": "Card Drafting; Set Collection; Tile Placement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '267249', 'expansion_name': 'Tang Garden: Apricot Tree', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/267249'}; {'expansion_id': '267245', 'expansion_name': 'Tang Garden: Ghost Stories', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/267245'}; {'expansion_id': '270753', 'expansion_name': 'Tang Garden: Golden Age', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/270753'}; {'expansion_id': '285244', 'expansion_name': 'Tang Garden: The Herbalist', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/285244'}; {'expansion_id': '267248', 'expansion_name': 'Tang Garden: The Swan', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/267248'}; {'expansion_id': '267247', 'expansion_name': 'Tang Garden: The Wayfarer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/267247'}",
+    "expansions_for_string": ""
+}

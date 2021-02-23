@@ -1,0 +1,103 @@
+{
+    "game_id": "110279",
+    "game_name": "Zombie Dice 2: Double Feature",
+    "bgg_link": "https://boardgamegeek.com/boardgame/110279",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7256165",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7256165#item7256165",
+            "geeklist_host": "narcher007",
+            "contributor": "airzonk1"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7346034",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7346034#item7346034",
+            "geeklist_host": "Albia",
+            "contributor": "airzonk1"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8007911",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8007911#item8007911",
+            "geeklist_host": "airzonk1",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8019019",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8019019#item8019019",
+            "geeklist_host": "airzonk1",
+            "contributor": "smic"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8019195",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8019195#item8019195",
+            "geeklist_host": "airzonk1",
+            "contributor": "smic"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8036489",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8036489#item8036489",
+            "geeklist_host": "airzonk1",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/lalzQRylUH598EEZIA_CJQ__thumb/img/QO-8lASAjY75tfEHd-_n-m2-R7g=/fit-in/200x150/filters:strip_icc()/pic1130535.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Steve Jackson (I)"
+    ],
+    "weight": 1.13,
+    "rating": 6.59,
+    "play_time": "10 - 20",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "6",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Horror",
+        "Party Game",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Push Your Luck"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "62871",
+            "game_name": "Zombie Dice",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/62871"
+        }
+    ],
+    "designers_string": "Steve Jackson (I)",
+    "categories_string": "Dice; Expansion for Base-game; Horror; Party Game; Zombies",
+    "mechanics_string": "Dice Rolling; Push Your Luck",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '62871', 'game_name': 'Zombie Dice', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/62871'}"
+}

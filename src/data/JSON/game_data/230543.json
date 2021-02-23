@@ -1,0 +1,76 @@
+{
+    "game_id": "230543",
+    "game_name": "Hostile Tactical AI",
+    "bgg_link": "https://boardgamegeek.com/boardgame/230543",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5515623",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5515623#item5515623",
+            "geeklist_host": "Mishko",
+            "contributor": "sixthecat"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6245082",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6245082#item6245082",
+            "geeklist_host": "emodiu5",
+            "contributor": "sixthecat"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7314792",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7314792#item7314792",
+            "geeklist_host": "Albia",
+            "contributor": "sixthecat"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/8YPzvkzkXrApcJ7S7uBf8Q__thumb/img/HZ3rd_8gdN1VRijXTRMCb2uKjBc=/fit-in/200x150/filters:strip_icc()/pic3639282.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Josh Malbon"
+    ],
+    "weight": 0.00,
+    "rating": 7.75,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Modern Warfare",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "21050",
+            "game_name": "Combat Commander: Europe",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/21050"
+        },
+        {
+            "game_id": "10630",
+            "game_name": "Memoir '44",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/10630"
+        }
+    ],
+    "designers_string": "Josh Malbon",
+    "categories_string": "Expansion for Base-game; Modern Warfare; Wargame",
+    "mechanics_string": "Cooperative Game; Solo / Solitaire Game",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '21050', 'game_name': 'Combat Commander: Europe', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/21050'}; {'game_id': '10630', 'game_name': \"Memoir '44\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/10630'}"
+}

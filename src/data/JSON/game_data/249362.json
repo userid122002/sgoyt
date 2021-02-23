@@ -1,0 +1,96 @@
+{
+    "game_id": "249362",
+    "game_name": "SSO",
+    "bgg_link": "https://boardgamegeek.com/boardgame/249362",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6890277",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6890277#item6890277",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7106857",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7106857#item7106857",
+            "geeklist_host": "Venom Snake",
+            "contributor": "TheStoicEmperor"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7423148",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7423148#item7423148",
+            "geeklist_host": "jomurph86",
+            "contributor": "airzonk1"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7772457",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7772457#item7772457",
+            "geeklist_host": "repairmanjack",
+            "contributor": "SF340B"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/YgMge6kgPm3WHhc6d6jLNQ__thumb/img/-LEX073XE52bSt-JZBUGEXmGAr4=/fit-in/200x150/filters:strip_icc()/pic4092452.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Glenn Ford"
+    ],
+    "weight": 3.00,
+    "rating": 6.28,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Solo / Solitaire Game",
+        "Storytelling",
+        "Voting"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "293374",
+            "expansion_name": "SSO:  The Rage of Montalbano",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293374"
+        },
+        {
+            "expansion_id": "256726",
+            "expansion_name": "SSO: First Captain",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256726"
+        },
+        {
+            "expansion_id": "269050",
+            "expansion_name": "SSO: Parasites",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/269050"
+        },
+        {
+            "expansion_id": "293376",
+            "expansion_name": "SSO: Temporal Anomaly",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293376"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Glenn Ford",
+    "categories_string": "Science Fiction",
+    "mechanics_string": "Cooperative Game; Solo / Solitaire Game; Storytelling; Voting",
+    "expansions_string": "{'expansion_id': '293374', 'expansion_name': 'SSO:  The Rage of Montalbano', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293374'}; {'expansion_id': '256726', 'expansion_name': 'SSO: First Captain', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256726'}; {'expansion_id': '269050', 'expansion_name': 'SSO: Parasites', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/269050'}; {'expansion_id': '293376', 'expansion_name': 'SSO: Temporal Anomaly', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293376'}",
+    "expansions_for_string": ""
+}

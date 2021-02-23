@@ -1,0 +1,57 @@
+{
+    "game_id": "156121",
+    "game_name": "Fireteam Zero: Europe Cycle",
+    "bgg_link": "https://boardgamegeek.com/boardgame/156121",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5322753",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5322753#item5322753",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "repairmanjack"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/zF9cPCih7E4iI5aHhSYqzA__thumb/img/m8fMCVXeu54BHGq2v7hSKAOC4cY=/fit-in/200x150/filters:strip_icc()/pic3048227.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Mike Langlois",
+        "Christian Leonhard"
+    ],
+    "weight": 0.00,
+    "rating": 7.93,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Horror",
+        "Miniatures",
+        "World War II"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "149776",
+            "game_name": "Fireteam Zero",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/149776"
+        }
+    ],
+    "designers_string": "Mike Langlois; Christian Leonhard",
+    "categories_string": "Adventure; Expansion for Base-game; Horror; Miniatures; World War II",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Hand Management; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '149776', 'game_name': 'Fireteam Zero', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/149776'}"
+}

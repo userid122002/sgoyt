@@ -1,0 +1,107 @@
+{
+    "game_id": "194298",
+    "game_name": "Expedition: The Roleplaying Card Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/194298",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5526885",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5526885#item5526885",
+            "geeklist_host": "Mishko",
+            "contributor": "kazozza"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5535491",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5535491#item5535491",
+            "geeklist_host": "kevinruns262",
+            "contributor": "kazozza"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5567142",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5567142#item5567142",
+            "geeklist_host": "kevinruns262",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5761003",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5761003#item5761003",
+            "geeklist_host": "Albia",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5910019",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5910019#item5910019",
+            "geeklist_host": "Jorune",
+            "contributor": "Donutz McGoo"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/h0c08LpNRCeMU6ckf8lv9A__thumb/img/Red0RQ3l8FPCqTcMmIlo4eiDpss=/fit-in/200x150/filters:strip_icc()/pic3318714.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Scott Martin (III)",
+        "Todd Medema"
+    ],
+    "weight": 1.33,
+    "rating": 6.64,
+    "play_time": "15 - 90",
+    "best": "2",
+    "recommended": "1",
+    "not_recommended": "3",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Fantasy",
+        "Print & Play",
+        "Real-time"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Role Playing",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "280810",
+            "expansion_name": "Expedition: Of Wyrms & Giants Booster",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/280810"
+        },
+        {
+            "expansion_id": "258853",
+            "expansion_name": "Expedition: The Future",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/258853"
+        },
+        {
+            "expansion_id": "232990",
+            "expansion_name": "Expedition: The Horror",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/232990"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Scott Martin (III); Todd Medema",
+    "categories_string": "Adventure; Card Game; Fantasy; Print & Play; Real-time",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Dice Rolling; Role Playing; Solo / Solitaire Game",
+    "expansions_string": "{'expansion_id': '280810', 'expansion_name': 'Expedition: Of Wyrms & Giants Booster', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/280810'}; {'expansion_id': '258853', 'expansion_name': 'Expedition: The Future', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/258853'}; {'expansion_id': '232990', 'expansion_name': 'Expedition: The Horror', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/232990'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,75 @@
+{
+    "game_id": "153130",
+    "game_name": "The Lord of the Rings: The Card Game - The Dunland Trap",
+    "bgg_link": "https://boardgamegeek.com/boardgame/153130",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4218226",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4218226#item4218226",
+            "geeklist_host": "SBGrad",
+            "contributor": "hervuli"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5897077",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5897077#item5897077",
+            "geeklist_host": "Jorune",
+            "contributor": "cornishlee"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/n7qNQPoH199seHpOOwBs3A__thumb/img/1I4ubwUsiJYuxlKKwSUhbXkJtN4=/fit-in/200x150/filters:strip_icc()/pic1916346.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 2.75,
+    "rating": 8.00,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "189948",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: The Dunland Trap",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189948"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        },
+        {
+            "game_id": "146574",
+            "game_name": "The Lord of the Rings: The Card Game - The Voice of Isengard",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/146574"
+        }
+    ],
+    "designers_string": "Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '189948', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: The Dunland Trap', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189948'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}; {'game_id': '146574', 'game_name': 'The Lord of the Rings: The Card Game - The Voice of Isengard', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/146574'}"
+}

@@ -1,0 +1,57 @@
+{
+    "game_id": "209641",
+    "game_name": "Warpgate",
+    "bgg_link": "https://boardgamegeek.com/boardgame/209641",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6791054",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6791054#item6791054",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Citanul"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/8xbtfuYWqMYIcFbIJtgndw__thumb/img/cAdTf0OIoxIs7Ye0C6NDshqrHSg=/fit-in/200x150/filters:strip_icc()/pic3767043.png",
+    "year_published": "2019",
+    "designers": [
+        "Artyom Nichipurov"
+    ],
+    "weight": 2.89,
+    "rating": 7.44,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "5",
+    "categories": [
+        "Fighting",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Campaign / Battle Card Driven",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Point to Point Movement",
+        "Variable Phase Order",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "264815",
+            "expansion_name": "Warpgate: Extra Board Tile Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264815"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Artyom Nichipurov",
+    "categories_string": "Fighting; Science Fiction; Space Exploration",
+    "mechanics_string": "Area Majority / Influence; Campaign / Battle Card Driven; Grid Movement; Hand Management; Modular Board; Point to Point Movement; Variable Phase Order; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '264815', 'expansion_name': 'Warpgate: Extra Board Tile Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264815'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,61 @@
+{
+    "game_id": "238182",
+    "game_name": "Good Dog, Bad Zombie",
+    "bgg_link": "https://boardgamegeek.com/boardgame/238182",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7400289",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7400289#item7400289",
+            "geeklist_host": "jeffrhind",
+            "contributor": "BunniCladwell"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/rQkNKfuNHy6dQhfXUIn1OA__thumb/img/78OPNqQfe09CmhavxciGBvlqQTQ=/fit-in/200x150/filters:strip_icc()/pic3977966.png",
+    "year_published": "2018",
+    "designers": [
+        "Evan Rowland",
+        "Brian Van Slyke"
+    ],
+    "weight": 2.00,
+    "rating": 7.56,
+    "play_time": "60 - 90",
+    "best": "1",
+    "recommended": "4",
+    "not_recommended": "0",
+    "categories": [
+        "Animals",
+        "Horror",
+        "Humor",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Cooperative Game",
+        "Hand Management",
+        "Pick-up and Deliver",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "280689",
+            "expansion_name": "Good Dog, Bad Zombie: Weird Smells",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/280689"
+        },
+        {
+            "expansion_id": "299799",
+            "expansion_name": "Good Dog, Bad Zombies: Unlikely Allies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/299799"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Evan Rowland; Brian Van Slyke",
+    "categories_string": "Animals; Horror; Humor; Zombies",
+    "mechanics_string": "Area Movement; Cooperative Game; Hand Management; Pick-up and Deliver; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '280689', 'expansion_name': 'Good Dog, Bad Zombie: Weird Smells', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/280689'}; {'expansion_id': '299799', 'expansion_name': 'Good Dog, Bad Zombies: Unlikely Allies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/299799'}",
+    "expansions_for_string": ""
+}

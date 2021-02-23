@@ -1,0 +1,60 @@
+{
+    "game_id": "30662",
+    "game_name": "Travel Carcassonne",
+    "bgg_link": "https://boardgamegeek.com/boardgame/30662",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6908430",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6908430#item6908430",
+            "geeklist_host": "Woelf",
+            "contributor": "zach66827"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/9dNLi-mQxzf0ddXwWd6O9w__thumb/img/dldinPdFwbT3OrSWOlMZI71qWko=/fit-in/200x150/filters:strip_icc()/pic227629.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Klaus-Jurgen Wrede"
+    ],
+    "weight": 1.89,
+    "rating": 7.24,
+    "play_time": "30 - 45",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "4",
+    "categories": [
+        "City Building",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "130998",
+            "expansion_name": "Carcassonne: Little Buildings",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130998"
+        },
+        {
+            "expansion_id": "118619",
+            "expansion_name": "Carcassonne: The Messengers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/118619"
+        },
+        {
+            "expansion_id": "92332",
+            "expansion_name": "Carcassonne: The Phantom",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/92332"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Klaus-Jurgen Wrede",
+    "categories_string": "City Building; Medieval",
+    "mechanics_string": "Area Majority / Influence; Tile Placement",
+    "expansions_string": "{'expansion_id': '130998', 'expansion_name': 'Carcassonne: Little Buildings', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130998'}; {'expansion_id': '118619', 'expansion_name': 'Carcassonne: The Messengers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/118619'}; {'expansion_id': '92332', 'expansion_name': 'Carcassonne: The Phantom', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/92332'}",
+    "expansions_for_string": ""
+}

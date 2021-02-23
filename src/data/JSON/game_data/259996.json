@@ -1,0 +1,60 @@
+{
+    "game_id": "259996",
+    "game_name": "Everdell: Pearlbrook",
+    "bgg_link": "https://boardgamegeek.com/boardgame/259996",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7363150",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7363150#item7363150",
+            "geeklist_host": "jeffrhind",
+            "contributor": "Venom Snake"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/vg4eDYz27RMPdvU5tjRCzQ__thumb/img/6tAdHHH1JvwttrppgDoZRCVsBiI=/fit-in/200x150/filters:strip_icc()/pic4299282.jpg",
+    "year_published": "2019",
+    "designers": [
+        "James A. Wilson"
+    ],
+    "weight": 2.81,
+    "rating": 7.76,
+    "play_time": "40 - 80",
+    "best": "0",
+    "recommended": "8",
+    "not_recommended": "4",
+    "categories": [
+        "Animals",
+        "Card Game",
+        "City Building",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Set Collection",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "199792",
+            "game_name": "Everdell",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/199792"
+        },
+        {
+            "game_id": "319422",
+            "game_name": "Everdell: Collector's Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/319422"
+        }
+    ],
+    "designers_string": "James A. Wilson",
+    "categories_string": "Animals; Card Game; City Building; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Card Drafting; Hand Management; Set Collection; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '199792', 'game_name': 'Everdell', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/199792'}; {'game_id': '319422', 'game_name': \"Everdell: Collector's Edition\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/319422'}"
+}

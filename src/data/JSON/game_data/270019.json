@@ -1,0 +1,54 @@
+{
+    "game_id": "270019",
+    "game_name": "Brook City: The Sixth Cycle",
+    "bgg_link": "https://boardgamegeek.com/boardgame/270019",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7245683",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7245683#item7245683",
+            "geeklist_host": "narcher007",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Hnv3R-Bx6Xzs-3lhF-ujog__thumb/img/AvdamrNvI-hpwXfn2lZy1JillZE=/fit-in/200x150/filters:strip_icc()/pic4862755.png",
+    "year_published": "2019",
+    "designers": [
+        "Stephen Avery",
+        "Eugene Bryant"
+    ],
+    "weight": 3.00,
+    "rating": 7.86,
+    "play_time": "45 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Miniatures",
+        "Murder/Mystery"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "244946",
+            "game_name": "Brook City",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/244946"
+        }
+    ],
+    "designers_string": "Stephen Avery; Eugene Bryant",
+    "categories_string": "Adventure; Expansion for Base-game; Miniatures; Murder/Mystery",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '244946', 'game_name': 'Brook City', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/244946'}"
+}

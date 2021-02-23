@@ -1,0 +1,66 @@
+{
+    "game_id": "146880",
+    "game_name": "Train Heist",
+    "bgg_link": "https://boardgamegeek.com/boardgame/146880",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4223245",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4223245#item4223245",
+            "geeklist_host": "SBGrad",
+            "contributor": "cdarlage"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4675135",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4675135#item4675135",
+            "geeklist_host": "koinskyz",
+            "contributor": "Brom Ironfist"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/B4I2bMQIUhFV-knXwbnBYw__thumb/img/pRN9t6vgs6uUHLRd-qV_Rd-GH0s=/fit-in/200x150/filters:strip_icc()/pic3555036.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Sean Dallas McDonald"
+    ],
+    "weight": 2.17,
+    "rating": 6.56,
+    "play_time": "45 - 60",
+    "best": "2",
+    "recommended": "5",
+    "not_recommended": "1",
+    "categories": [
+        "American West",
+        "Trains"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Bias",
+        "Cooperative Game",
+        "Grid Movement",
+        "Hand Management",
+        "Pick-up and Deliver",
+        "Trading",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "267899",
+            "expansion_name": "Train Heist: Calamity Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/267899"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Sean Dallas McDonald",
+    "categories_string": "American West; Trains",
+    "mechanics_string": "Action Points; Bias; Cooperative Game; Grid Movement; Hand Management; Pick-up and Deliver; Trading; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '267899', 'expansion_name': 'Train Heist: Calamity Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/267899'}",
+    "expansions_for_string": ""
+}

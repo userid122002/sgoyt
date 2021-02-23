@@ -1,0 +1,54 @@
+{
+    "game_id": "75292",
+    "game_name": "Paying the Peiper",
+    "bgg_link": "https://boardgamegeek.com/boardgame/75292",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3746093",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3746093#item3746093",
+            "geeklist_host": "Woelf",
+            "contributor": "greatredwarrior"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/dONHP5H_r13BvhyReCJqFA__thumb/img/_mE7gDbJyXMBWKJOdBVLCO2mwPo=/fit-in/200x150/filters:strip_icc()/pic1051243.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Paul Rohrbaugh"
+    ],
+    "weight": 1.50,
+    "rating": 6.10,
+    "play_time": "30",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Chit-Pull System",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Movement Points",
+        "Simulation",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "131874",
+            "expansion_name": "The Peiper Dream",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131874"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Paul Rohrbaugh",
+    "categories_string": "Wargame; World War II",
+    "mechanics_string": "Chit-Pull System; Grid Movement; Hexagon Grid; Movement Points; Simulation; Variable Set-up",
+    "expansions_string": "{'expansion_id': '131874', 'expansion_name': 'The Peiper Dream', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131874'}",
+    "expansions_for_string": ""
+}

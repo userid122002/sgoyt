@@ -1,0 +1,85 @@
+{
+    "game_id": "42215",
+    "game_name": "Tobago",
+    "bgg_link": "https://boardgamegeek.com/boardgame/42215",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4026123",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4026123#item4026123",
+            "geeklist_host": "joestin",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4038428",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4038428#item4038428",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5596033",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5596033#item5596033",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Woelf"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7048003",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7048003#item7048003",
+            "geeklist_host": "labrhat22",
+            "contributor": "Woelf"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/fuC2C10_6QK84R45Mseojw__thumb/img/bfp4x8H9nzQJQyNf2amKyx1BqUs=/fit-in/200x150/filters:strip_icc()/pic596625.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Bruce Allen"
+    ],
+    "weight": 2.12,
+    "rating": 7.11,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "87",
+    "categories": [
+        "Adventure",
+        "Deduction",
+        "Exploration"
+    ],
+    "mechanics": [
+        "Deduction",
+        "Grid Movement",
+        "Hand Management",
+        "Hexagon Grid",
+        "Modular Board",
+        "Push Your Luck"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "319398",
+            "expansion_name": "Tobago: Volcano",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/319398"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Bruce Allen",
+    "categories_string": "Adventure; Deduction; Exploration",
+    "mechanics_string": "Deduction; Grid Movement; Hand Management; Hexagon Grid; Modular Board; Push Your Luck",
+    "expansions_string": "{'expansion_id': '319398', 'expansion_name': 'Tobago: Volcano', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/319398'}",
+    "expansions_for_string": ""
+}

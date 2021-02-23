@@ -1,0 +1,59 @@
+{
+    "game_id": "19244",
+    "game_name": "Memoir '44: Terrain Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/19244",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3582375",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3582375#item3582375",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "ad79"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/G9jGLBAX1p0XR56gBrkzsA__thumb/img/i8pYJaXdUwJXYXTqisNWtWsKCT4=/fit-in/200x150/filters:strip_icc()/pic98518.jpg",
+    "year_published": "2005",
+    "designers": [
+        "Richard Borg"
+    ],
+    "weight": 2.13,
+    "rating": 7.50,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "209827",
+            "expansion_name": "Memoir '44: The Battles of Khalkhin-Gol",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/209827"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "10630",
+            "game_name": "Memoir '44",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/10630"
+        }
+    ],
+    "designers_string": "Richard Borg",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Campaign / Battle Card Driven; Dice Rolling; Hand Management; Modular Board",
+    "expansions_string": "{'expansion_id': '209827', 'expansion_name': \"Memoir '44: The Battles of Khalkhin-Gol\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/209827'}",
+    "expansions_for_string": "{'game_id': '10630', 'game_name': \"Memoir '44\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/10630'}"
+}

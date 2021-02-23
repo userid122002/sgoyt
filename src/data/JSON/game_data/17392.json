@@ -1,0 +1,59 @@
+{
+    "game_id": "17392",
+    "game_name": "Here I Stand",
+    "bgg_link": "https://boardgamegeek.com/boardgame/17392",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7606357",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7606357#item7606357",
+            "geeklist_host": "jwml",
+            "contributor": "JLPreiser"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/SaJz1vt6j4njvkhDaplSHA__thumb/img/F8ii_yYy1gy3M5vQmq1SexxTM88=/fit-in/200x150/filters:strip_icc()/pic353047.jpg",
+    "year_published": "2006",
+    "designers": [
+        "Ed Beach"
+    ],
+    "weight": 4.17,
+    "rating": 7.91,
+    "play_time": "180 - 360",
+    "best": "1",
+    "recommended": "10",
+    "not_recommended": "87",
+    "categories": [
+        "Negotiation",
+        "Pike and Shot",
+        "Political",
+        "Religious",
+        "Renaissance",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Hand Management",
+        "Point to Point Movement",
+        "Scenario / Mission / Campaign Game",
+        "Simulation",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "29870",
+            "expansion_name": "Here I Stand: 2-Player Diplomacy Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/29870"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ed Beach",
+    "categories_string": "Negotiation; Pike and Shot; Political; Religious; Renaissance; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Dice Rolling; Hand Management; Point to Point Movement; Scenario / Mission / Campaign Game; Simulation; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '29870', 'expansion_name': 'Here I Stand: 2-Player Diplomacy Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/29870'}",
+    "expansions_for_string": ""
+}

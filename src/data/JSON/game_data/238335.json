@@ -1,0 +1,54 @@
+{
+    "game_id": "238335",
+    "game_name": "Raging Bulls: Further Afield",
+    "bgg_link": "https://boardgamegeek.com/boardgame/238335",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6052291",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6052291#item6052291",
+            "geeklist_host": "busdjur",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/7fiPEhK9Ll3vzV16F747Jg__thumb/img/G2Q3mhumQcUY-VlBELk5JdLK7fw=/fit-in/200x150/filters:strip_icc()/pic3814578.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Mark Tuck"
+    ],
+    "weight": 2.00,
+    "rating": 7.41,
+    "play_time": "15 - 60",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Print & Play",
+        "Puzzle"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Line Drawing",
+        "Paper-and-Pencil",
+        "Push Your Luck"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "228570",
+            "game_name": "Raging Bulls",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/228570"
+        }
+    ],
+    "designers_string": "Mark Tuck",
+    "categories_string": "Dice; Expansion for Base-game; Print & Play; Puzzle",
+    "mechanics_string": "Dice Rolling; Line Drawing; Paper-and-Pencil; Push Your Luck",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '228570', 'game_name': 'Raging Bulls', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/228570'}"
+}

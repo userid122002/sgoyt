@@ -1,0 +1,57 @@
+{
+    "game_id": "163642",
+    "game_name": "Chimera Station",
+    "bgg_link": "https://boardgamegeek.com/boardgame/163642",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7578415",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7578415#item7578415",
+            "geeklist_host": "jwml",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/1CiJrEhD6UpRNFNIy-1R5g__thumb/img/ptY_o-lbmIVvqtbFRRERIODbetk=/fit-in/200x150/filters:strip_icc()/pic3160959.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Mark Major"
+    ],
+    "weight": 3.14,
+    "rating": 7.30,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "27",
+    "categories": [
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Tile Placement",
+        "Turn Order: Claim Action",
+        "Variable Player Powers",
+        "Worker Placement",
+        "Worker Placement, Different Worker Types"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "231506",
+            "expansion_name": "Brettspiel Adventskalender 2017",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/231506"
+        },
+        {
+            "expansion_id": "234130",
+            "expansion_name": "Chimera Station: Interactive Modules Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/234130"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Mark Major",
+    "categories_string": "Science Fiction",
+    "mechanics_string": "Tile Placement; Turn Order: Claim Action; Variable Player Powers; Worker Placement; Worker Placement, Different Worker Types",
+    "expansions_string": "{'expansion_id': '231506', 'expansion_name': 'Brettspiel Adventskalender 2017', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/231506'}; {'expansion_id': '234130', 'expansion_name': 'Chimera Station: Interactive Modules Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/234130'}",
+    "expansions_for_string": ""
+}

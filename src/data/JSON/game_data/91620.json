@@ -1,0 +1,89 @@
+{
+    "game_id": "91620",
+    "game_name": "Pastiche",
+    "bgg_link": "https://boardgamegeek.com/boardgame/91620",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4030832",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4030832#item4030832",
+            "geeklist_host": "joestin",
+            "contributor": "philmcd"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4465004",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4465004#item4465004",
+            "geeklist_host": "Woelf",
+            "contributor": "BilboAtBagEnd"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/j6fLzqAQTN4yoWE7R1emHA__thumb/img/VEVoHDMwTbqCE84K1zfPlZuWiAY=/fit-in/200x150/filters:strip_icc()/pic1067034.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Sean MacDonald"
+    ],
+    "weight": 2.26,
+    "rating": 6.84,
+    "play_time": "45 - 60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "16",
+    "categories": [
+        "Educational",
+        "Renaissance"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Pattern Building",
+        "Set Collection",
+        "Tile Placement",
+        "Trading"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "116111",
+            "expansion_name": "Pastiche: Expansion Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/116111"
+        },
+        {
+            "expansion_id": "116112",
+            "expansion_name": "Pastiche: Expansion Pack #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/116112"
+        },
+        {
+            "expansion_id": "116110",
+            "expansion_name": "Pastiche: First Edition Commission Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/116110"
+        },
+        {
+            "expansion_id": "163297",
+            "expansion_name": "Petite Pastiche: Extra Commissions #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163297"
+        },
+        {
+            "expansion_id": "163298",
+            "expansion_name": "Petite Pastiche: Extra Commissions #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163298"
+        },
+        {
+            "expansion_id": "163584",
+            "expansion_name": "Petite Pastiche: Extra Commissions #3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163584"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Sean MacDonald",
+    "categories_string": "Educational; Renaissance",
+    "mechanics_string": "Card Drafting; Hand Management; Pattern Building; Set Collection; Tile Placement; Trading",
+    "expansions_string": "{'expansion_id': '116111', 'expansion_name': 'Pastiche: Expansion Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/116111'}; {'expansion_id': '116112', 'expansion_name': 'Pastiche: Expansion Pack #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/116112'}; {'expansion_id': '116110', 'expansion_name': 'Pastiche: First Edition Commission Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/116110'}; {'expansion_id': '163297', 'expansion_name': 'Petite Pastiche: Extra Commissions #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163297'}; {'expansion_id': '163298', 'expansion_name': 'Petite Pastiche: Extra Commissions #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163298'}; {'expansion_id': '163584', 'expansion_name': 'Petite Pastiche: Extra Commissions #3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163584'}",
+    "expansions_for_string": ""
+}

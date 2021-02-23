@@ -1,0 +1,863 @@
+{
+    "game_id": "1927",
+    "game_name": "Munchkin",
+    "bgg_link": "https://boardgamegeek.com/boardgame/1927",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5360547",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5360547#item5360547",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "mrmagpieman"
+        },
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5834320",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5834320#item5834320",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "RosieB2"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__thumb/img/8hVkpMC5pDLr6ARI_4gI4N3aF5M=/fit-in/200x150/filters:strip_icc()/pic1871016.jpg",
+    "year_published": "2001",
+    "designers": [
+        "Steve Jackson (I)"
+    ],
+    "weight": 1.80,
+    "rating": 5.90,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "294",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Fighting",
+        "Humor"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Take That",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "106498",
+            "expansion_name": "+10 Bag o' Munchkin d6",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/106498"
+        },
+        {
+            "expansion_id": "54435",
+            "expansion_name": "+6 Bag O' Munchkin Babes ",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/54435"
+        },
+        {
+            "expansion_id": "162543",
+            "expansion_name": "+6 Bag O' Munchkin Legends",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162543"
+        },
+        {
+            "expansion_id": "98956",
+            "expansion_name": "+6 Bag o' Munchkin Level Counters",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98956"
+        },
+        {
+            "expansion_id": "151989",
+            "expansion_name": "+6 Bag O' Munchkin Zombies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151989"
+        },
+        {
+            "expansion_id": "38891",
+            "expansion_name": "+6 Bag O' Munchkins",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38891"
+        },
+        {
+            "expansion_id": "136857",
+            "expansion_name": "+8 Bag O' Munchkin Babes & Pawns",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136857"
+        },
+        {
+            "expansion_id": "206821",
+            "expansion_name": "12 Days of Munchkin Christmas Coloring Book",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206821"
+        },
+        {
+            "expansion_id": "44805",
+            "expansion_name": "Epic Munchkin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/44805"
+        },
+        {
+            "expansion_id": "27767",
+            "expansion_name": "Episches Munchkin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/27767"
+        },
+        {
+            "expansion_id": "88665",
+            "expansion_name": "Exclusive Warehouse 23 Munchkin Booster",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/88665"
+        },
+        {
+            "expansion_id": "39391",
+            "expansion_name": "Mask of the Munchkin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39391"
+        },
+        {
+            "expansion_id": "40479",
+            "expansion_name": "Munchkin 1.5: Kosci zostay rzucone",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40479"
+        },
+        {
+            "expansion_id": "100422",
+            "expansion_name": "Munchkin 10th Anniversary Shot Glass",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/100422"
+        },
+        {
+            "expansion_id": "14337",
+            "expansion_name": "Munchkin 2/3: L'Ascia o Raddoppia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/14337"
+        },
+        {
+            "expansion_id": "3943",
+            "expansion_name": "Munchkin 2: Unnatural Axe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/3943"
+        },
+        {
+            "expansion_id": "193282",
+            "expansion_name": "Munchkin 3+4",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193282"
+        },
+        {
+            "expansion_id": "18225",
+            "expansion_name": "Munchkin 3.5: Clerical Errata",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18225"
+        },
+        {
+            "expansion_id": "134356",
+            "expansion_name": "Munchkin 3.5: Pietno Smierci",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134356"
+        },
+        {
+            "expansion_id": "6606",
+            "expansion_name": "Munchkin 3: Clerical Errors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/6606"
+        },
+        {
+            "expansion_id": "100377",
+            "expansion_name": "Munchkin 4.5",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/100377"
+        },
+        {
+            "expansion_id": "20660",
+            "expansion_name": "Munchkin 4: The Need for Steed",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/20660"
+        },
+        {
+            "expansion_id": "139051",
+            "expansion_name": "Munchkin 5, 6 e 7: Tutti i Mostri Fatti a Fette",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139051"
+        },
+        {
+            "expansion_id": "28327",
+            "expansion_name": "Munchkin 5: De-Ranged",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28327"
+        },
+        {
+            "expansion_id": "193528",
+            "expansion_name": "Munchkin 6.5: Terrible Tombs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193528"
+        },
+        {
+            "expansion_id": "33493",
+            "expansion_name": "Munchkin 6: Demented Dungeons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/33493"
+        },
+        {
+            "expansion_id": "297107",
+            "expansion_name": "Munchkin 6: Double Dungeons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/297107"
+        },
+        {
+            "expansion_id": "90567",
+            "expansion_name": "Munchkin 7: Cheat With Both Hands",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/90567"
+        },
+        {
+            "expansion_id": "37501",
+            "expansion_name": "Munchkin 7: More Good Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37501"
+        },
+        {
+            "expansion_id": "104232",
+            "expansion_name": "Munchkin 8: Half Horse, Will Travel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/104232"
+        },
+        {
+            "expansion_id": "247497",
+            "expansion_name": "Munchkin 9: Jurassic Snark",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/247497"
+        },
+        {
+            "expansion_id": "164685",
+            "expansion_name": "Munchkin Adventure Time 2: It's a Dungeon Crawl!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164685"
+        },
+        {
+            "expansion_id": "201918",
+            "expansion_name": "The Munchkin Alphabet Coloring Book",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/201918"
+        },
+        {
+            "expansion_id": "164682",
+            "expansion_name": "Munchkin Apocalypse: Judge Dredd",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164682"
+        },
+        {
+            "expansion_id": "11058",
+            "expansion_name": "Munchkin Blender",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/11058"
+        },
+        {
+            "expansion_id": "39264",
+            "expansion_name": "Munchkin Bobblehead",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39264"
+        },
+        {
+            "expansion_id": "300071",
+            "expansion_name": "The Munchkin Book",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/300071"
+        },
+        {
+            "expansion_id": "136914",
+            "expansion_name": "Munchkin Bookmark Collection",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136914"
+        },
+        {
+            "expansion_id": "78674",
+            "expansion_name": "Munchkin Boxes of Holding",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/78674"
+        },
+        {
+            "expansion_id": "126425",
+            "expansion_name": "Munchkin Bracelet of Slapping",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/126425"
+        },
+        {
+            "expansion_id": "247846",
+            "expansion_name": "Munchkin Cheats",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/247846"
+        },
+        {
+            "expansion_id": "204819",
+            "expansion_name": "Munchkin Christmas Monster Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204819"
+        },
+        {
+            "expansion_id": "42521",
+            "expansion_name": "Munchkin Christmas Ornament",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42521"
+        },
+        {
+            "expansion_id": "238172",
+            "expansion_name": "Munchkin Clowns",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/238172"
+        },
+        {
+            "expansion_id": "39392",
+            "expansion_name": "Munchkin Coins",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39392"
+        },
+        {
+            "expansion_id": "216306",
+            "expansion_name": "Munchkin Curses",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216306"
+        },
+        {
+            "expansion_id": "14580",
+            "expansion_name": "Munchkin Dice",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/14580"
+        },
+        {
+            "expansion_id": "103289",
+            "expansion_name": "Munchkin Dice Bag",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/103289"
+        },
+        {
+            "expansion_id": "78580",
+            "expansion_name": "Munchkin Dice Of Protection",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/78580"
+        },
+        {
+            "expansion_id": "161796",
+            "expansion_name": "Munchkin Draghetto o Scherzetto",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161796"
+        },
+        {
+            "expansion_id": "141823",
+            "expansion_name": "Munchkin Dragons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/141823"
+        },
+        {
+            "expansion_id": "126531",
+            "expansion_name": "Munchkin Duck of Doom",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/126531"
+        },
+        {
+            "expansion_id": "126532",
+            "expansion_name": "Munchkin Duck of Gloom",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/126532"
+        },
+        {
+            "expansion_id": "136239",
+            "expansion_name": "Munchkin Easter Eggs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136239"
+        },
+        {
+            "expansion_id": "325310",
+            "expansion_name": "Munchkin Enhancers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/325310"
+        },
+        {
+            "expansion_id": "42436",
+            "expansion_name": "Munchkin Fairy Dust",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42436"
+        },
+        {
+            "expansion_id": "105060",
+            "expansion_name": "Munchkin Fairy Dust Dice",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/105060"
+        },
+        {
+            "expansion_id": "161805",
+            "expansion_name": "Munchkin Fatine e Folletti",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161805"
+        },
+        {
+            "expansion_id": "254528",
+            "expansion_name": "Munchkin Fowl Play",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/254528"
+        },
+        {
+            "expansion_id": "138960",
+            "expansion_name": "Munchkin Game Changers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/138960"
+        },
+        {
+            "expansion_id": "134690",
+            "expansion_name": "Munchkin Gazebo Shot Glass",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134690"
+        },
+        {
+            "expansion_id": "130194",
+            "expansion_name": "Munchkin Get More Loot! Promotional Postcard",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130194"
+        },
+        {
+            "expansion_id": "147475",
+            "expansion_name": "Munchkin Gets Promoted",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147475"
+        },
+        {
+            "expansion_id": "225442",
+            "expansion_name": "Munchkin Gets Promoted 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/225442"
+        },
+        {
+            "expansion_id": "42428",
+            "expansion_name": "Munchkin Greeting Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42428"
+        },
+        {
+            "expansion_id": "224034",
+            "expansion_name": "Munchkin Halloween Monster Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224034"
+        },
+        {
+            "expansion_id": "159514",
+            "expansion_name": "Munchkin Halloween Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159514"
+        },
+        {
+            "expansion_id": "187049",
+            "expansion_name": "Munchkin Hidden Treasures",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187049"
+        },
+        {
+            "expansion_id": "181196",
+            "expansion_name": "Munchkin Hipsters",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181196"
+        },
+        {
+            "expansion_id": "133572",
+            "expansion_name": "Munchkin Holiday Surprise",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133572"
+        },
+        {
+            "expansion_id": "162078",
+            "expansion_name": "Munchkin Holidazed",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162078"
+        },
+        {
+            "expansion_id": "179253",
+            "expansion_name": "Munchkin Imaginary Frenemies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179253"
+        },
+        {
+            "expansion_id": "226173",
+            "expansion_name": "Munchkin Imaginary Friend",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/226173"
+        },
+        {
+            "expansion_id": "105061",
+            "expansion_name": "Munchkin Jolly Jumbo D6",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/105061"
+        },
+        {
+            "expansion_id": "155170",
+            "expansion_name": "Munchkin Journal Pack 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/155170"
+        },
+        {
+            "expansion_id": "155171",
+            "expansion_name": "Munchkin Journal Pack 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/155171"
+        },
+        {
+            "expansion_id": "162539",
+            "expansion_name": "Munchkin Journal Pack 3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162539"
+        },
+        {
+            "expansion_id": "98969",
+            "expansion_name": "Munchkin Jumbo D6",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98969"
+        },
+        {
+            "expansion_id": "54434",
+            "expansion_name": "Munchkin Kill-O-Meter",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/54434"
+        },
+        {
+            "expansion_id": "181273",
+            "expansion_name": "Munchkin Kittens",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181273"
+        },
+        {
+            "expansion_id": "194488",
+            "expansion_name": "Munchkin Knights",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194488"
+        },
+        {
+            "expansion_id": "211294",
+            "expansion_name": "Munchkin Knights: Four More",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211294"
+        },
+        {
+            "expansion_id": "141830",
+            "expansion_name": "Munchkin Kobolds Ate My Baby!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/141830"
+        },
+        {
+            "expansion_id": "161802",
+            "expansion_name": "Munchkin La Rivincita del Babbo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161802"
+        },
+        {
+            "expansion_id": "141460",
+            "expansion_name": "Munchkin Level Playing Field",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/141460"
+        },
+        {
+            "expansion_id": "164689",
+            "expansion_name": "Munchkin Love Shark Baby",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164689"
+        },
+        {
+            "expansion_id": "68942",
+            "expansion_name": "Munchkin Marked For Death",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/68942"
+        },
+        {
+            "expansion_id": "194489",
+            "expansion_name": "Munchkin Meeples",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194489"
+        },
+        {
+            "expansion_id": "162547",
+            "expansion_name": "Munchkin Messenger Bag",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162547"
+        },
+        {
+            "expansion_id": "226171",
+            "expansion_name": "Munchkin Metal Pin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/226171"
+        },
+        {
+            "expansion_id": "198277",
+            "expansion_name": "Munchkin Monster Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/198277"
+        },
+        {
+            "expansion_id": "90566",
+            "expansion_name": "Munchkin Monster Enhancers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/90566"
+        },
+        {
+            "expansion_id": "128034",
+            "expansion_name": "Munchkin Naughty & Nice",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/128034"
+        },
+        {
+            "expansion_id": "39393",
+            "expansion_name": "Munchkin Official Shirts",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39393"
+        },
+        {
+            "expansion_id": "134725",
+            "expansion_name": "Munchkin Patch",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134725"
+        },
+        {
+            "expansion_id": "145497",
+            "expansion_name": "Munchkin Pathfinder: Gobsmacked!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/145497"
+        },
+        {
+            "expansion_id": "207756",
+            "expansion_name": "Munchkin Pathfinder: Truly Gobnoxious",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207756"
+        },
+        {
+            "expansion_id": "125386",
+            "expansion_name": "Munchkin Penny Arcade",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/125386"
+        },
+        {
+            "expansion_id": "130826",
+            "expansion_name": "Munchkin Pins",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130826"
+        },
+        {
+            "expansion_id": "216183",
+            "expansion_name": "Munchkin Playmat: Presents Unaccounted For",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216183"
+        },
+        {
+            "expansion_id": "134691",
+            "expansion_name": "Munchkin Plutonium Dragon Shot Glass",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134691"
+        },
+        {
+            "expansion_id": "158233",
+            "expansion_name": "Munchkin Princesses",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/158233"
+        },
+        {
+            "expansion_id": "41034",
+            "expansion_name": "Munchkin Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/41034"
+        },
+        {
+            "expansion_id": "24733",
+            "expansion_name": "Munchkin Promotional Bookmarks",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/24733"
+        },
+        {
+            "expansion_id": "194831",
+            "expansion_name": "Munchkin Puppies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194831"
+        },
+        {
+            "expansion_id": "103291",
+            "expansion_name": "Munchkin Reindeer Games",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/103291"
+        },
+        {
+            "expansion_id": "80571",
+            "expansion_name": "Munchkin Reloaded!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/80571"
+        },
+        {
+            "expansion_id": "29288",
+            "expansion_name": "Munchkin Rigged Demo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/29288"
+        },
+        {
+            "expansion_id": "161794",
+            "expansion_name": "Munchkin Rompi le Uova",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161794"
+        },
+        {
+            "expansion_id": "22263",
+            "expansion_name": "Munchkin Sammlerbox",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/22263"
+        },
+        {
+            "expansion_id": "84870",
+            "expansion_name": "Munchkin Sammlerkoffer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/84870"
+        },
+        {
+            "expansion_id": "76466",
+            "expansion_name": "Munchkin Santa's Revenge",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/76466"
+        },
+        {
+            "expansion_id": "62387",
+            "expansion_name": "Munchkin Sherpa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/62387"
+        },
+        {
+            "expansion_id": "251602",
+            "expansion_name": "Munchkin Side Quests",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251602"
+        },
+        {
+            "expansion_id": "110583",
+            "expansion_name": "Munchkin Skullkickers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/110583"
+        },
+        {
+            "expansion_id": "153943",
+            "expansion_name": "Munchkin Sparkly Good Fairy Shot Glass",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153943"
+        },
+        {
+            "expansion_id": "170513",
+            "expansion_name": "Munchkin Stocking Stuffers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/170513"
+        },
+        {
+            "expansion_id": "146658",
+            "expansion_name": "Munchkin Tavern Pint Glass",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146658"
+        },
+        {
+            "expansion_id": "146657",
+            "expansion_name": "Munchkin Tavern Reusable Tote",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146657"
+        },
+        {
+            "expansion_id": "146659",
+            "expansion_name": "Munchkin Tavern Shot Glass",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146659"
+        },
+        {
+            "expansion_id": "39394",
+            "expansion_name": "Munchkin Temporary Tattoos",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39394"
+        },
+        {
+            "expansion_id": "106618",
+            "expansion_name": "Munchkin The Guild",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/106618"
+        },
+        {
+            "expansion_id": "69436",
+            "expansion_name": "Munchkin Thumb Drive",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/69436"
+        },
+        {
+            "expansion_id": "144088",
+            "expansion_name": "Munchkin Tricky Treats",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144088"
+        },
+        {
+            "expansion_id": "153283",
+            "expansion_name": "Munchkin Triple Play: Set 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153283"
+        },
+        {
+            "expansion_id": "153284",
+            "expansion_name": "Munchkin Triple Play: Set 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153284"
+        },
+        {
+            "expansion_id": "165684",
+            "expansion_name": "Munchkin Turbobooster 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165684"
+        },
+        {
+            "expansion_id": "165685",
+            "expansion_name": "Munchkin Turbobooster 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/165685"
+        },
+        {
+            "expansion_id": "179252",
+            "expansion_name": "Munchkin Undead",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179252"
+        },
+        {
+            "expansion_id": "211830",
+            "expansion_name": "Munchkin Valentines",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211830"
+        },
+        {
+            "expansion_id": "183650",
+            "expansion_name": "Munchkin Vinyl Figure: Dopple Spyke",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183650"
+        },
+        {
+            "expansion_id": "314581",
+            "expansion_name": "Munchkin Warhammer Age of Sigmar: Lightning Dice",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/314581"
+        },
+        {
+            "expansion_id": "40857",
+            "expansion_name": "Munchkin Water",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40857"
+        },
+        {
+            "expansion_id": "39261",
+            "expansion_name": "Munchkin Wicked Dice & Bag",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39261"
+        },
+        {
+            "expansion_id": "176441",
+            "expansion_name": "Munchkin Zipper Pull",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/176441"
+        },
+        {
+            "expansion_id": "151982",
+            "expansion_name": "Munchkin Zombies 4: Spare Parts",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/151982"
+        },
+        {
+            "expansion_id": "303882",
+            "expansion_name": "Munchkin: Black Friday Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303882"
+        },
+        {
+            "expansion_id": "327273",
+            "expansion_name": "Munchkin: Coasters",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327273"
+        },
+        {
+            "expansion_id": "99609",
+            "expansion_name": "Munchkin: Conan the Barbarian",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99609"
+        },
+        {
+            "expansion_id": "327389",
+            "expansion_name": "Munchkin: Destruye la Navidad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327389"
+        },
+        {
+            "expansion_id": "178048",
+            "expansion_name": "Munchkin: Dragon's Trike",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178048"
+        },
+        {
+            "expansion_id": "326728",
+            "expansion_name": "Munchkin: Dragones Molones",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/326728"
+        },
+        {
+            "expansion_id": "86356",
+            "expansion_name": "Munchkin: Go Up a Level",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/86356"
+        },
+        {
+            "expansion_id": "282861",
+            "expansion_name": "Munchkin: Mat of Mayhem",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/282861"
+        },
+        {
+            "expansion_id": "330394",
+            "expansion_name": "Munchkin: Misch oder stirb!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/330394"
+        },
+        {
+            "expansion_id": "259557",
+            "expansion_name": "Munchkin: Party Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/259557"
+        },
+        {
+            "expansion_id": "194958",
+            "expansion_name": "Munchkin: Playmat - Flower Cashes In",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194958"
+        },
+        {
+            "expansion_id": "317016",
+            "expansion_name": "Munchkin: Playmat - Flower's Kitten Caboodle",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/317016"
+        },
+        {
+            "expansion_id": "194957",
+            "expansion_name": "Munchkin: Playmat - Spyke Gets Suckered",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194957"
+        },
+        {
+            "expansion_id": "204816",
+            "expansion_name": "Munchkin: Playmat - Spyke's Christmas Wish",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204816"
+        },
+        {
+            "expansion_id": "217888",
+            "expansion_name": "Munchkin: Playmat - The Flower of Love",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/217888"
+        },
+        {
+            "expansion_id": "249710",
+            "expansion_name": "Munchkin: The Red Dragon Inn",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/249710"
+        },
+        {
+            "expansion_id": "257696",
+            "expansion_name": "Munchkin: Unicorns and Friends",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257696"
+        },
+        {
+            "expansion_id": "246717",
+            "expansion_name": "Munchkin: Valentine's Day Monster Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246717"
+        },
+        {
+            "expansion_id": "43894",
+            "expansion_name": "Munchkin: Waiting For Santa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/43894"
+        },
+        {
+            "expansion_id": "190223",
+            "expansion_name": "Munchkin: Yule Log",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190223"
+        },
+        {
+            "expansion_id": "87658",
+            "expansion_name": "Munchkinomicon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/87658"
+        },
+        {
+            "expansion_id": "312905",
+            "expansion_name": "Munchkinomicon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/312905"
+        },
+        {
+            "expansion_id": "136836",
+            "expansion_name": "Schwarze Gurtel des Munchkintums",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136836"
+        },
+        {
+            "expansion_id": "181274",
+            "expansion_name": "Star Munchkin Cosmic Demo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181274"
+        },
+        {
+            "expansion_id": "134692",
+            "expansion_name": "Zombie Shot Glass",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134692"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Steve Jackson (I)",
+    "categories_string": "Card Game; Fantasy; Fighting; Humor",
+    "mechanics_string": "Hand Management; Take That; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '106498', 'expansion_name': \"+10 Bag o' Munchkin d6\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/106498'}; {'expansion_id': '54435', 'expansion_name': \"+6 Bag O' Munchkin Babes \", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/54435'}; {'expansion_id': '162543', 'expansion_name': \"+6 Bag O' Munchkin Legends\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162543'}; {'expansion_id': '98956', 'expansion_name': \"+6 Bag o' Munchkin Level Counters\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98956'}; {'expansion_id': '151989', 'expansion_name': \"+6 Bag O' Munchkin Zombies\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151989'}; {'expansion_id': '38891', 'expansion_name': \"+6 Bag O' Munchkins\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38891'}; {'expansion_id': '136857', 'expansion_name': \"+8 Bag O' Munchkin Babes & Pawns\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136857'}; {'expansion_id': '206821', 'expansion_name': '12 Days of Munchkin Christmas Coloring Book', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206821'}; {'expansion_id': '44805', 'expansion_name': 'Epic Munchkin', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/44805'}; {'expansion_id': '27767', 'expansion_name': 'Episches Munchkin', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/27767'}; {'expansion_id': '88665', 'expansion_name': 'Exclusive Warehouse 23 Munchkin Booster', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/88665'}; {'expansion_id': '39391', 'expansion_name': 'Mask of the Munchkin', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39391'}; {'expansion_id': '40479', 'expansion_name': 'Munchkin 1.5: Kosci zostay rzucone', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40479'}; {'expansion_id': '100422', 'expansion_name': 'Munchkin 10th Anniversary Shot Glass', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/100422'}; {'expansion_id': '14337', 'expansion_name': \"Munchkin 2/3: L'Ascia o Raddoppia\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/14337'}; {'expansion_id': '3943', 'expansion_name': 'Munchkin 2: Unnatural Axe', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/3943'}; {'expansion_id': '193282', 'expansion_name': 'Munchkin 3+4', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193282'}; {'expansion_id': '18225', 'expansion_name': 'Munchkin 3.5: Clerical Errata', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18225'}; {'expansion_id': '134356', 'expansion_name': 'Munchkin 3.5: Pietno Smierci', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134356'}; {'expansion_id': '6606', 'expansion_name': 'Munchkin 3: Clerical Errors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/6606'}; {'expansion_id': '100377', 'expansion_name': 'Munchkin 4.5', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/100377'}; {'expansion_id': '20660', 'expansion_name': 'Munchkin 4: The Need for Steed', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/20660'}; {'expansion_id': '139051', 'expansion_name': 'Munchkin 5, 6 e 7: Tutti i Mostri Fatti a Fette', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139051'}; {'expansion_id': '28327', 'expansion_name': 'Munchkin 5: De-Ranged', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28327'}; {'expansion_id': '193528', 'expansion_name': 'Munchkin 6.5: Terrible Tombs', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193528'}; {'expansion_id': '33493', 'expansion_name': 'Munchkin 6: Demented Dungeons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/33493'}; {'expansion_id': '297107', 'expansion_name': 'Munchkin 6: Double Dungeons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/297107'}; {'expansion_id': '90567', 'expansion_name': 'Munchkin 7: Cheat With Both Hands', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/90567'}; {'expansion_id': '37501', 'expansion_name': 'Munchkin 7: More Good Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37501'}; {'expansion_id': '104232', 'expansion_name': 'Munchkin 8: Half Horse, Will Travel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/104232'}; {'expansion_id': '247497', 'expansion_name': 'Munchkin 9: Jurassic Snark', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/247497'}; {'expansion_id': '164685', 'expansion_name': \"Munchkin Adventure Time 2: It's a Dungeon Crawl!\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164685'}; {'expansion_id': '201918', 'expansion_name': 'The Munchkin Alphabet Coloring Book', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/201918'}; {'expansion_id': '164682', 'expansion_name': 'Munchkin Apocalypse: Judge Dredd', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164682'}; {'expansion_id': '11058', 'expansion_name': 'Munchkin Blender', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/11058'}; {'expansion_id': '39264', 'expansion_name': 'Munchkin Bobblehead', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39264'}; {'expansion_id': '300071', 'expansion_name': 'The Munchkin Book', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/300071'}; {'expansion_id': '136914', 'expansion_name': 'Munchkin Bookmark Collection', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136914'}; {'expansion_id': '78674', 'expansion_name': 'Munchkin Boxes of Holding', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/78674'}; {'expansion_id': '126425', 'expansion_name': 'Munchkin Bracelet of Slapping', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/126425'}; {'expansion_id': '247846', 'expansion_name': 'Munchkin Cheats', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/247846'}; {'expansion_id': '204819', 'expansion_name': 'Munchkin Christmas Monster Box', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204819'}; {'expansion_id': '42521', 'expansion_name': 'Munchkin Christmas Ornament', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42521'}; {'expansion_id': '238172', 'expansion_name': 'Munchkin Clowns', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/238172'}; {'expansion_id': '39392', 'expansion_name': 'Munchkin Coins', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39392'}; {'expansion_id': '216306', 'expansion_name': 'Munchkin Curses', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216306'}; {'expansion_id': '14580', 'expansion_name': 'Munchkin Dice', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/14580'}; {'expansion_id': '103289', 'expansion_name': 'Munchkin Dice Bag', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/103289'}; {'expansion_id': '78580', 'expansion_name': 'Munchkin Dice Of Protection', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/78580'}; {'expansion_id': '161796', 'expansion_name': 'Munchkin Draghetto o Scherzetto', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161796'}; {'expansion_id': '141823', 'expansion_name': 'Munchkin Dragons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/141823'}; {'expansion_id': '126531', 'expansion_name': 'Munchkin Duck of Doom', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/126531'}; {'expansion_id': '126532', 'expansion_name': 'Munchkin Duck of Gloom', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/126532'}; {'expansion_id': '136239', 'expansion_name': 'Munchkin Easter Eggs', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136239'}; {'expansion_id': '325310', 'expansion_name': 'Munchkin Enhancers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/325310'}; {'expansion_id': '42436', 'expansion_name': 'Munchkin Fairy Dust', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42436'}; {'expansion_id': '105060', 'expansion_name': 'Munchkin Fairy Dust Dice', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/105060'}; {'expansion_id': '161805', 'expansion_name': 'Munchkin Fatine e Folletti', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161805'}; {'expansion_id': '254528', 'expansion_name': 'Munchkin Fowl Play', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/254528'}; {'expansion_id': '138960', 'expansion_name': 'Munchkin Game Changers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/138960'}; {'expansion_id': '134690', 'expansion_name': 'Munchkin Gazebo Shot Glass', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134690'}; {'expansion_id': '130194', 'expansion_name': 'Munchkin Get More Loot! Promotional Postcard', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130194'}; {'expansion_id': '147475', 'expansion_name': 'Munchkin Gets Promoted', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147475'}; {'expansion_id': '225442', 'expansion_name': 'Munchkin Gets Promoted 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/225442'}; {'expansion_id': '42428', 'expansion_name': 'Munchkin Greeting Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42428'}; {'expansion_id': '224034', 'expansion_name': 'Munchkin Halloween Monster Box', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224034'}; {'expansion_id': '159514', 'expansion_name': 'Munchkin Halloween Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159514'}; {'expansion_id': '187049', 'expansion_name': 'Munchkin Hidden Treasures', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187049'}; {'expansion_id': '181196', 'expansion_name': 'Munchkin Hipsters', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181196'}; {'expansion_id': '133572', 'expansion_name': 'Munchkin Holiday Surprise', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133572'}; {'expansion_id': '162078', 'expansion_name': 'Munchkin Holidazed', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162078'}; {'expansion_id': '179253', 'expansion_name': 'Munchkin Imaginary Frenemies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179253'}; {'expansion_id': '226173', 'expansion_name': 'Munchkin Imaginary Friend', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/226173'}; {'expansion_id': '105061', 'expansion_name': 'Munchkin Jolly Jumbo D6', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/105061'}; {'expansion_id': '155170', 'expansion_name': 'Munchkin Journal Pack 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/155170'}; {'expansion_id': '155171', 'expansion_name': 'Munchkin Journal Pack 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/155171'}; {'expansion_id': '162539', 'expansion_name': 'Munchkin Journal Pack 3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162539'}; {'expansion_id': '98969', 'expansion_name': 'Munchkin Jumbo D6', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98969'}; {'expansion_id': '54434', 'expansion_name': 'Munchkin Kill-O-Meter', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/54434'}; {'expansion_id': '181273', 'expansion_name': 'Munchkin Kittens', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181273'}; {'expansion_id': '194488', 'expansion_name': 'Munchkin Knights', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194488'}; {'expansion_id': '211294', 'expansion_name': 'Munchkin Knights: Four More', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211294'}; {'expansion_id': '141830', 'expansion_name': 'Munchkin Kobolds Ate My Baby!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/141830'}; {'expansion_id': '161802', 'expansion_name': 'Munchkin La Rivincita del Babbo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161802'}; {'expansion_id': '141460', 'expansion_name': 'Munchkin Level Playing Field', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/141460'}; {'expansion_id': '164689', 'expansion_name': 'Munchkin Love Shark Baby', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164689'}; {'expansion_id': '68942', 'expansion_name': 'Munchkin Marked For Death', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/68942'}; {'expansion_id': '194489', 'expansion_name': 'Munchkin Meeples', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194489'}; {'expansion_id': '162547', 'expansion_name': 'Munchkin Messenger Bag', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162547'}; {'expansion_id': '226171', 'expansion_name': 'Munchkin Metal Pin', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/226171'}; {'expansion_id': '198277', 'expansion_name': 'Munchkin Monster Box', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/198277'}; {'expansion_id': '90566', 'expansion_name': 'Munchkin Monster Enhancers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/90566'}; {'expansion_id': '128034', 'expansion_name': 'Munchkin Naughty & Nice', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/128034'}; {'expansion_id': '39393', 'expansion_name': 'Munchkin Official Shirts', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39393'}; {'expansion_id': '134725', 'expansion_name': 'Munchkin Patch', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134725'}; {'expansion_id': '145497', 'expansion_name': 'Munchkin Pathfinder: Gobsmacked!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/145497'}; {'expansion_id': '207756', 'expansion_name': 'Munchkin Pathfinder: Truly Gobnoxious', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207756'}; {'expansion_id': '125386', 'expansion_name': 'Munchkin Penny Arcade', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/125386'}; {'expansion_id': '130826', 'expansion_name': 'Munchkin Pins', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130826'}; {'expansion_id': '216183', 'expansion_name': 'Munchkin Playmat: Presents Unaccounted For', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216183'}; {'expansion_id': '134691', 'expansion_name': 'Munchkin Plutonium Dragon Shot Glass', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134691'}; {'expansion_id': '158233', 'expansion_name': 'Munchkin Princesses', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/158233'}; {'expansion_id': '41034', 'expansion_name': 'Munchkin Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/41034'}; {'expansion_id': '24733', 'expansion_name': 'Munchkin Promotional Bookmarks', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/24733'}; {'expansion_id': '194831', 'expansion_name': 'Munchkin Puppies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194831'}; {'expansion_id': '103291', 'expansion_name': 'Munchkin Reindeer Games', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/103291'}; {'expansion_id': '80571', 'expansion_name': 'Munchkin Reloaded!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/80571'}; {'expansion_id': '29288', 'expansion_name': 'Munchkin Rigged Demo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/29288'}; {'expansion_id': '161794', 'expansion_name': 'Munchkin Rompi le Uova', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161794'}; {'expansion_id': '22263', 'expansion_name': 'Munchkin Sammlerbox', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/22263'}; {'expansion_id': '84870', 'expansion_name': 'Munchkin Sammlerkoffer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/84870'}; {'expansion_id': '76466', 'expansion_name': \"Munchkin Santa's Revenge\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/76466'}; {'expansion_id': '62387', 'expansion_name': 'Munchkin Sherpa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/62387'}; {'expansion_id': '251602', 'expansion_name': 'Munchkin Side Quests', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251602'}; {'expansion_id': '110583', 'expansion_name': 'Munchkin Skullkickers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/110583'}; {'expansion_id': '153943', 'expansion_name': 'Munchkin Sparkly Good Fairy Shot Glass', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153943'}; {'expansion_id': '170513', 'expansion_name': 'Munchkin Stocking Stuffers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/170513'}; {'expansion_id': '146658', 'expansion_name': 'Munchkin Tavern Pint Glass', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146658'}; {'expansion_id': '146657', 'expansion_name': 'Munchkin Tavern Reusable Tote', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146657'}; {'expansion_id': '146659', 'expansion_name': 'Munchkin Tavern Shot Glass', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146659'}; {'expansion_id': '39394', 'expansion_name': 'Munchkin Temporary Tattoos', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39394'}; {'expansion_id': '106618', 'expansion_name': 'Munchkin The Guild', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/106618'}; {'expansion_id': '69436', 'expansion_name': 'Munchkin Thumb Drive', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/69436'}; {'expansion_id': '144088', 'expansion_name': 'Munchkin Tricky Treats', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144088'}; {'expansion_id': '153283', 'expansion_name': 'Munchkin Triple Play: Set 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153283'}; {'expansion_id': '153284', 'expansion_name': 'Munchkin Triple Play: Set 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153284'}; {'expansion_id': '165684', 'expansion_name': 'Munchkin Turbobooster 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165684'}; {'expansion_id': '165685', 'expansion_name': 'Munchkin Turbobooster 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/165685'}; {'expansion_id': '179252', 'expansion_name': 'Munchkin Undead', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179252'}; {'expansion_id': '211830', 'expansion_name': 'Munchkin Valentines', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211830'}; {'expansion_id': '183650', 'expansion_name': 'Munchkin Vinyl Figure: Dopple Spyke', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183650'}; {'expansion_id': '314581', 'expansion_name': 'Munchkin Warhammer Age of Sigmar: Lightning Dice', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/314581'}; {'expansion_id': '40857', 'expansion_name': 'Munchkin Water', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40857'}; {'expansion_id': '39261', 'expansion_name': 'Munchkin Wicked Dice & Bag', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39261'}; {'expansion_id': '176441', 'expansion_name': 'Munchkin Zipper Pull', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/176441'}; {'expansion_id': '151982', 'expansion_name': 'Munchkin Zombies 4: Spare Parts', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/151982'}; {'expansion_id': '303882', 'expansion_name': 'Munchkin: Black Friday Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303882'}; {'expansion_id': '327273', 'expansion_name': 'Munchkin: Coasters', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327273'}; {'expansion_id': '99609', 'expansion_name': 'Munchkin: Conan the Barbarian', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99609'}; {'expansion_id': '327389', 'expansion_name': 'Munchkin: Destruye la Navidad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327389'}; {'expansion_id': '178048', 'expansion_name': \"Munchkin: Dragon's Trike\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178048'}; {'expansion_id': '326728', 'expansion_name': 'Munchkin: Dragones Molones', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/326728'}; {'expansion_id': '86356', 'expansion_name': 'Munchkin: Go Up a Level', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/86356'}; {'expansion_id': '282861', 'expansion_name': 'Munchkin: Mat of Mayhem', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/282861'}; {'expansion_id': '330394', 'expansion_name': 'Munchkin: Misch oder stirb!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/330394'}; {'expansion_id': '259557', 'expansion_name': 'Munchkin: Party Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/259557'}; {'expansion_id': '194958', 'expansion_name': 'Munchkin: Playmat - Flower Cashes In', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194958'}; {'expansion_id': '317016', 'expansion_name': \"Munchkin: Playmat - Flower's Kitten Caboodle\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/317016'}; {'expansion_id': '194957', 'expansion_name': 'Munchkin: Playmat - Spyke Gets Suckered', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194957'}; {'expansion_id': '204816', 'expansion_name': \"Munchkin: Playmat - Spyke's Christmas Wish\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204816'}; {'expansion_id': '217888', 'expansion_name': 'Munchkin: Playmat - The Flower of Love', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/217888'}; {'expansion_id': '249710', 'expansion_name': 'Munchkin: The Red Dragon Inn', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/249710'}; {'expansion_id': '257696', 'expansion_name': 'Munchkin: Unicorns and Friends', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257696'}; {'expansion_id': '246717', 'expansion_name': \"Munchkin: Valentine's Day Monster Box\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246717'}; {'expansion_id': '43894', 'expansion_name': 'Munchkin: Waiting For Santa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/43894'}; {'expansion_id': '190223', 'expansion_name': 'Munchkin: Yule Log', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190223'}; {'expansion_id': '87658', 'expansion_name': 'Munchkinomicon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/87658'}; {'expansion_id': '312905', 'expansion_name': 'Munchkinomicon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/312905'}; {'expansion_id': '136836', 'expansion_name': 'Schwarze Gurtel des Munchkintums', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136836'}; {'expansion_id': '181274', 'expansion_name': 'Star Munchkin Cosmic Demo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181274'}; {'expansion_id': '134692', 'expansion_name': 'Zombie Shot Glass', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134692'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,79 @@
+{
+    "game_id": "154842",
+    "game_name": "Eldritch Horror: Forsaken Lore",
+    "bgg_link": "https://boardgamegeek.com/boardgame/154842",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3635443",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3635443#item3635443",
+            "geeklist_host": "bikefreak",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4249083",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4249083#item4249083",
+            "geeklist_host": "rangerx",
+            "contributor": "sixthecat"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5288616",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5288616#item5288616",
+            "geeklist_host": "suzyvitale",
+            "contributor": "taeryn"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/dXHSa3QgAHIFmMYyWwMAaA__thumb/img/Y2LPiFAEKQR8xW023kzS1ENo0HE=/fit-in/200x150/filters:strip_icc()/pic1940723.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Nikki Valens"
+    ],
+    "weight": 3.17,
+    "rating": 8.29,
+    "play_time": "180",
+    "best": "4",
+    "recommended": "18",
+    "not_recommended": "9",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Horror",
+        "Novel-based",
+        "Travel"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Point to Point Movement",
+        "Role Playing",
+        "Storytelling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "146021",
+            "game_name": "Eldritch Horror",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/146021"
+        }
+    ],
+    "designers_string": "Nikki Valens",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy; Fighting; Horror; Novel-based; Travel",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Point to Point Movement; Role Playing; Storytelling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '146021', 'game_name': 'Eldritch Horror', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/146021'}"
+}

@@ -1,0 +1,73 @@
+{
+    "game_id": "205051",
+    "game_name": "Hostage Negotiator: Abductor Pack 6",
+    "bgg_link": "https://boardgamegeek.com/boardgame/205051",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6161856",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6161856#item6161856",
+            "geeklist_host": "Pjandy",
+            "contributor": "Rindel"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6515532",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6515532#item6515532",
+            "geeklist_host": "Albia",
+            "contributor": "ogoctopus"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/qkCOz0RDWNRSp-pk7A2PTA__thumb/img/vzRjFHxY0NJWkMqDxOHIZaflS2U=/fit-in/200x150/filters:strip_icc()/pic5491317.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Kevin Wilson"
+    ],
+    "weight": 2.33,
+    "rating": 7.50,
+    "play_time": "20 - 0",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "291523",
+            "expansion_name": "Hostage Negotiator: Demand Pack #2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291523"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "134253",
+            "game_name": "Hostage Negotiator",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/134253"
+        },
+        {
+            "game_id": "198707",
+            "game_name": "Hostage Negotiator: Crime Wave",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/198707"
+        }
+    ],
+    "designers_string": "Kevin Wilson",
+    "categories_string": "Card Game; Dice; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Dice Rolling; Hand Management",
+    "expansions_string": "{'expansion_id': '291523', 'expansion_name': 'Hostage Negotiator: Demand Pack #2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291523'}",
+    "expansions_for_string": "{'game_id': '134253', 'game_name': 'Hostage Negotiator', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/134253'}; {'game_id': '198707', 'game_name': 'Hostage Negotiator: Crime Wave', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/198707'}"
+}

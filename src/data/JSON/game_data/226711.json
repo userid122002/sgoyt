@@ -1,0 +1,77 @@
+{
+    "game_id": "226711",
+    "game_name": "The Networks: Executives",
+    "bgg_link": "https://boardgamegeek.com/boardgame/226711",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6524769",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6524769#item6524769",
+            "geeklist_host": "Albia",
+            "contributor": "LGMHorus"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6527817",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6527817#item6527817",
+            "geeklist_host": "Albia",
+            "contributor": "celdom"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6828365",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6828365#item6828365",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "DocSavage2001"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/AZQBu91NvyW1QxVoJOewSA__thumb/img/7rA6f7ua4GP45Hbukmu2IrRMs4s=/fit-in/200x150/filters:strip_icc()/pic3719798.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Gil Hova"
+    ],
+    "weight": 3.00,
+    "rating": 7.71,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Movies / TV / Radio theme"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "254882",
+            "expansion_name": "The Networks: More Executives",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/254882"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "72321",
+            "game_name": "The Networks",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/72321"
+        }
+    ],
+    "designers_string": "Gil Hova",
+    "categories_string": "Economic; Expansion for Base-game; Movies / TV / Radio theme",
+    "mechanics_string": "Card Drafting; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '254882', 'expansion_name': 'The Networks: More Executives', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/254882'}",
+    "expansions_for_string": "{'game_id': '72321', 'game_name': 'The Networks', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/72321'}"
+}

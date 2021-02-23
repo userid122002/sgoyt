@@ -1,0 +1,58 @@
+{
+    "game_id": "279823",
+    "game_name": "Hellboy: The Board Game - The Wild Hunt Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/279823",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7995763",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7995763#item7995763",
+            "geeklist_host": "Albia",
+            "contributor": "squallgoku"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/eCOfGg9HDX0RCFZXAGJhdA__thumb/img/yLRqh2pVc4_aBW47DOn_1wArrW0=/fit-in/200x150/filters:strip_icc()/pic4841503.png",
+    "year_published": "2019",
+    "designers": [
+        "James M. Hewitt",
+        "Sophie Williams"
+    ],
+    "weight": 0.00,
+    "rating": 8.56,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Comic Book / Strip",
+        "Expansion for Base-game",
+        "Exploration",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "243759",
+            "game_name": "Hellboy: The Board Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/243759"
+        }
+    ],
+    "designers_string": "James M. Hewitt; Sophie Williams",
+    "categories_string": "Adventure; Comic Book / Strip; Expansion for Base-game; Exploration; Fighting; Miniatures",
+    "mechanics_string": "Area Movement; Cooperative Game; Dice Rolling; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '243759', 'game_name': 'Hellboy: The Board Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/243759'}"
+}

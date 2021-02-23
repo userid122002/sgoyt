@@ -1,0 +1,87 @@
+{
+    "game_id": "168215",
+    "game_name": "Saboteur: The Duel",
+    "bgg_link": "https://boardgamegeek.com/boardgame/168215",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4775074",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4775074#item4775074",
+            "geeklist_host": "govmiller",
+            "contributor": "Tokhuah"
+        },
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4831327",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4831327#item4831327",
+            "geeklist_host": "govmiller",
+            "contributor": "Faerun"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6325589",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6325589#item6325589",
+            "geeklist_host": "spaceman23",
+            "contributor": "shockaday"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6665590",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6665590#item6665590",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "Get Earthworm"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/2HQMz_qehqPHAsn12h-o4w__thumb/img/BZJsX4-a803QfAn9_uvfx2mj4vE=/fit-in/200x150/filters:strip_icc()/pic3989510.png",
+    "year_published": "2014",
+    "designers": [
+        "Frederic Moyersoen"
+    ],
+    "weight": 1.34,
+    "rating": 6.08,
+    "play_time": "30",
+    "best": "3",
+    "recommended": "12",
+    "not_recommended": "4",
+    "categories": [
+        "Bluffing",
+        "Card Game",
+        "Exploration",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Network and Route Building"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "281313",
+            "expansion_name": "Saboteur: Cancellation",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/281313"
+        },
+        {
+            "expansion_id": "279956",
+            "expansion_name": "Saboteur: Inventory",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279956"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Frederic Moyersoen",
+    "categories_string": "Bluffing; Card Game; Exploration; Fantasy",
+    "mechanics_string": "Hand Management; Network and Route Building",
+    "expansions_string": "{'expansion_id': '281313', 'expansion_name': 'Saboteur: Cancellation', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/281313'}; {'expansion_id': '279956', 'expansion_name': 'Saboteur: Inventory', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279956'}",
+    "expansions_for_string": ""
+}

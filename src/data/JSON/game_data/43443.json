@@ -1,0 +1,515 @@
+{
+    "game_id": "43443",
+    "game_name": "Castle Panic",
+    "bgg_link": "https://boardgamegeek.com/boardgame/43443",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "157888",
+            "geeklist_item_id": "2673745",
+            "year_month": "2013/06",
+            "year": "2013",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/157888/item/2673745#item2673745",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "fractaloon"
+        },
+        {
+            "geeklist_id": "160445",
+            "geeklist_item_id": "2772104",
+            "year_month": "2013/08",
+            "year": "2013",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/160445/item/2772104#item2772104",
+            "geeklist_host": "gertbert",
+            "contributor": "Friendless"
+        },
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3408348",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3408348#item3408348",
+            "geeklist_host": "Malaiser",
+            "contributor": "gatesphere"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3563934",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3563934#item3563934",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "uniconfis"
+        },
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3772022",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3772022#item3772022",
+            "geeklist_host": "HRune",
+            "contributor": "dodgeball"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3609093",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3609093#item3609093",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "kerskine"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3622219",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3622219#item3622219",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3711060",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3711060#item3711060",
+            "geeklist_host": "Woelf",
+            "contributor": "ian_07720169619"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4220228",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4220228#item4220228",
+            "geeklist_host": "SBGrad",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4274461",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4274461#item4274461",
+            "geeklist_host": "rangerx",
+            "contributor": "inkcat"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4372863",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4372863#item4372863",
+            "geeklist_host": "suzyvitale",
+            "contributor": "ralsar"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4508792",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4508792#item4508792",
+            "geeklist_host": "pusherman42",
+            "contributor": "jas39"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4512633",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4512633#item4512633",
+            "geeklist_host": "pusherman42",
+            "contributor": "ralsar"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4728299",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4728299#item4728299",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4754647",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4754647#item4754647",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "smic"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4846051",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4846051#item4846051",
+            "geeklist_host": "kikerl",
+            "contributor": "CassiusClay"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4863777",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4863777#item4863777",
+            "geeklist_host": "kikerl",
+            "contributor": "RainRaven"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4866039",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4866039#item4866039",
+            "geeklist_host": "kikerl",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4884632",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4884632#item4884632",
+            "geeklist_host": "kikerl",
+            "contributor": "Robbus"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5057768",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5057768#item5057768",
+            "geeklist_host": "mikolajl",
+            "contributor": "mgaler"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5062006",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5062006#item5062006",
+            "geeklist_host": "mikolajl",
+            "contributor": "fractaloon"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5087549",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5087549#item5087549",
+            "geeklist_host": "mikolajl",
+            "contributor": "smittyohio"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5125372",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5125372#item5125372",
+            "geeklist_host": "settlerdave",
+            "contributor": "threepointthed"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5272047",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5272047#item5272047",
+            "geeklist_host": "suzyvitale",
+            "contributor": "schiavonir"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5424907",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5424907#item5424907",
+            "geeklist_host": "koinskyz",
+            "contributor": "Jude"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5497492",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5497492#item5497492",
+            "geeklist_host": "Mishko",
+            "contributor": "Jude"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5528711",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5528711#item5528711",
+            "geeklist_host": "Mishko",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5618804",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5618804#item5618804",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "Malaiser"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5688234",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5688234#item5688234",
+            "geeklist_host": "cornishlee",
+            "contributor": "threepointthed"
+        },
+        {
+            "geeklist_id": "233358",
+            "geeklist_item_id": "5836349",
+            "year_month": "2017/12",
+            "year": "2017",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/233358/item/5836349#item5836349",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "jdarnold"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5960583",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5960583#item5960583",
+            "geeklist_host": "radthanael",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6023297",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6023297#item6023297",
+            "geeklist_host": "busdjur",
+            "contributor": "mrmagpieman"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6210344",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6210344#item6210344",
+            "geeklist_host": "Gribbon",
+            "contributor": "smittyohio"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6234009",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6234009#item6234009",
+            "geeklist_host": "emodiu5",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6373275",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6373275#item6373275",
+            "geeklist_host": "dobrazil",
+            "contributor": "lawingm"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6570118",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6570118#item6570118",
+            "geeklist_host": "Albia",
+            "contributor": "Solinete"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7095768",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7095768#item7095768",
+            "geeklist_host": "Venom Snake",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7598443",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7598443#item7598443",
+            "geeklist_host": "jwml",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7885276",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7885276#item7885276",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Solinete"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7913275",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7913275#item7913275",
+            "geeklist_host": "Elida",
+            "contributor": "Jude"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7947715",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7947715#item7947715",
+            "geeklist_host": "Elida",
+            "contributor": "Elida"
+        }
+    ],
+    "sgoyt_count": 41,
+    "thumbnail": "https://cf.geekdo-images.com/OJv4Tk8cYjbraLt3XooFyw__thumb/img/TKDzoRgxyQ5xYOZZDKGMGAjrFhI=/fit-in/200x150/filters:strip_icc()/pic4379653.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Justin De Witt"
+    ],
+    "weight": 1.67,
+    "rating": 6.65,
+    "play_time": "60",
+    "best": "15",
+    "recommended": "72",
+    "not_recommended": "28",
+    "categories": [
+        "Fantasy",
+        "Fighting",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Solo / Solitaire Game",
+        "Trading"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "250913",
+            "expansion_name": "Castle Panic: All For One Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/250913"
+        },
+        {
+            "expansion_id": "140681",
+            "expansion_name": "Castle Panic: Any Color Hero Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140681"
+        },
+        {
+            "expansion_id": "133814",
+            "expansion_name": "Castle Panic: Crossbow promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133814"
+        },
+        {
+            "expansion_id": "204542",
+            "expansion_name": "Castle Panic: Engines of War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204542"
+        },
+        {
+            "expansion_id": "106158",
+            "expansion_name": "Castle Panic: Feather Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/106158"
+        },
+        {
+            "expansion_id": "230811",
+            "expansion_name": "Castle Panic: Fickle Fortune Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230811"
+        },
+        {
+            "expansion_id": "169784",
+            "expansion_name": "Castle Panic: The Dark Titan",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169784"
+        },
+        {
+            "expansion_id": "104590",
+            "expansion_name": "Castle Panic: The Wizard's Tower",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/104590"
+        },
+        {
+            "expansion_id": "177069",
+            "expansion_name": "Castle Panic: Tower Promo 2015 Tabletop Day",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/177069"
+        },
+        {
+            "expansion_id": "199154",
+            "expansion_name": "Castle Panic: Tower Promo 2016 Tabletop Day",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/199154"
+        },
+        {
+            "expansion_id": "223114",
+            "expansion_name": "Castle Panic: Tower Promo 2017 Tabletop Day",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/223114"
+        },
+        {
+            "expansion_id": "249579",
+            "expansion_name": "Castle Panic: Tower Promo 2018 Tabletop Day",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/249579"
+        },
+        {
+            "expansion_id": "281981",
+            "expansion_name": "Castle Panic: Tower Promo 2019 Tabletop Day",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/281981"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Justin De Witt",
+    "categories_string": "Fantasy; Fighting; Medieval",
+    "mechanics_string": "Campaign / Battle Card Driven; Cooperative Game; Dice Rolling; Hand Management; Solo / Solitaire Game; Trading",
+    "expansions_string": "{'expansion_id': '250913', 'expansion_name': 'Castle Panic: All For One Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/250913'}; {'expansion_id': '140681', 'expansion_name': 'Castle Panic: Any Color Hero Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140681'}; {'expansion_id': '133814', 'expansion_name': 'Castle Panic: Crossbow promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133814'}; {'expansion_id': '204542', 'expansion_name': 'Castle Panic: Engines of War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204542'}; {'expansion_id': '106158', 'expansion_name': 'Castle Panic: Feather Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/106158'}; {'expansion_id': '230811', 'expansion_name': 'Castle Panic: Fickle Fortune Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230811'}; {'expansion_id': '169784', 'expansion_name': 'Castle Panic: The Dark Titan', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169784'}; {'expansion_id': '104590', 'expansion_name': \"Castle Panic: The Wizard's Tower\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/104590'}; {'expansion_id': '177069', 'expansion_name': 'Castle Panic: Tower Promo 2015 Tabletop Day', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/177069'}; {'expansion_id': '199154', 'expansion_name': 'Castle Panic: Tower Promo 2016 Tabletop Day', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/199154'}; {'expansion_id': '223114', 'expansion_name': 'Castle Panic: Tower Promo 2017 Tabletop Day', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/223114'}; {'expansion_id': '249579', 'expansion_name': 'Castle Panic: Tower Promo 2018 Tabletop Day', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/249579'}; {'expansion_id': '281981', 'expansion_name': 'Castle Panic: Tower Promo 2019 Tabletop Day', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/281981'}",
+    "expansions_for_string": ""
+}

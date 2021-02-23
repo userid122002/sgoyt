@@ -1,0 +1,515 @@
+{
+    "game_id": "200680",
+    "game_name": "Agricola (Revised Edition)",
+    "bgg_link": "https://boardgamegeek.com/boardgame/200680",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4679071",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4679071#item4679071",
+            "geeklist_host": "koinskyz",
+            "contributor": "dtwiley"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4695430",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4695430#item4695430",
+            "geeklist_host": "koinskyz",
+            "contributor": "King Zimm"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4729580",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4729580#item4729580",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "kf972"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5038640",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5038640#item5038640",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "daimeow"
+        },
+        {
+            "geeklist_id": "219163",
+            "geeklist_item_id": "5178245",
+            "year_month": "2017/01",
+            "year": "2017",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/219163/item/5178245#item5178245",
+            "geeklist_host": "settlerdave",
+            "contributor": "rchandra"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5289930",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5289930#item5289930",
+            "geeklist_host": "suzyvitale",
+            "contributor": "bartlett82"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5325477",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5325477#item5325477",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "bartlett82"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5326518",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5326518#item5326518",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "bartlett82"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5457497",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5457497#item5457497",
+            "geeklist_host": "koinskyz",
+            "contributor": "smittyohio"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5505771",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5505771#item5505771",
+            "geeklist_host": "Mishko",
+            "contributor": "smittyohio"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5512749",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5512749#item5512749",
+            "geeklist_host": "Mishko",
+            "contributor": "Eveline2017"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5513641",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5513641#item5513641",
+            "geeklist_host": "Mishko",
+            "contributor": "smittyohio"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5514514",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5514514#item5514514",
+            "geeklist_host": "Mishko",
+            "contributor": "Eveline2017"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5523567",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5523567#item5523567",
+            "geeklist_host": "Mishko",
+            "contributor": "Issh"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5599175",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5599175#item5599175",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Eveline2017"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5749826",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5749826#item5749826",
+            "geeklist_host": "Albia",
+            "contributor": "King Zimm"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5765211",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5765211#item5765211",
+            "geeklist_host": "Albia",
+            "contributor": "family_gamer"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5799141",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5799141#item5799141",
+            "geeklist_host": "Albia",
+            "contributor": "benjamininja"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5894656",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5894656#item5894656",
+            "geeklist_host": "Jorune",
+            "contributor": "erjones"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5952267",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5952267#item5952267",
+            "geeklist_host": "radthanael",
+            "contributor": "bartlett82"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5953812",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5953812#item5953812",
+            "geeklist_host": "radthanael",
+            "contributor": "bartlett82"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5955407",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5955407#item5955407",
+            "geeklist_host": "radthanael",
+            "contributor": "bartlett82"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5985937",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5985937#item5985937",
+            "geeklist_host": "radthanael",
+            "contributor": "King Zimm"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6149094",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6149094#item6149094",
+            "geeklist_host": "Pjandy",
+            "contributor": "benjamininja"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6293600",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6293600#item6293600",
+            "geeklist_host": "spaceman23",
+            "contributor": "UlrichVon Gamenstein"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6706365",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6706365#item6706365",
+            "geeklist_host": "The_Omnius",
+            "contributor": "DMDupree"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6772206",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6772206#item6772206",
+            "geeklist_host": "The_Omnius",
+            "contributor": "KathKST"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6929686",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6929686#item6929686",
+            "geeklist_host": "Woelf",
+            "contributor": "boyfights"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6995402",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6995402#item6995402",
+            "geeklist_host": "magic_erwt",
+            "contributor": "boyfights"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7066928",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7066928#item7066928",
+            "geeklist_host": "Venom Snake",
+            "contributor": "Marctimmins89"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7132761",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7132761#item7132761",
+            "geeklist_host": "Venom Snake",
+            "contributor": "boyfights"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7403081",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7403081#item7403081",
+            "geeklist_host": "jeffrhind",
+            "contributor": "XanderF"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7641330",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7641330#item7641330",
+            "geeklist_host": "threepointthed",
+            "contributor": "jh_ytth"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7718584",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7718584#item7718584",
+            "geeklist_host": "Elida",
+            "contributor": "mjrobertson"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7750023",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7750023#item7750023",
+            "geeklist_host": "repairmanjack",
+            "contributor": "jh_ytth"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7829041",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7829041#item7829041",
+            "geeklist_host": "mithoron",
+            "contributor": "thewilyf"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7928487",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7928487#item7928487",
+            "geeklist_host": "Elida",
+            "contributor": "jh_ytth"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7955530",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7955530#item7955530",
+            "geeklist_host": "Albia",
+            "contributor": "mjrobertson"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8017151",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8017151#item8017151",
+            "geeklist_host": "airzonk1",
+            "contributor": "thewilyf"
+        }
+    ],
+    "sgoyt_count": 39,
+    "thumbnail": "https://cf.geekdo-images.com/Vf_0TrTfz9yll7rVBvYGsg__thumb/img/booIzVH8Wg4YJa7hIvzgIqwV25Y=/fit-in/200x150/filters:strip_icc()/pic3029377.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "weight": 3.50,
+    "rating": 8.04,
+    "play_time": "30 - 120",
+    "best": "3",
+    "recommended": "84",
+    "not_recommended": "26",
+    "categories": [
+        "Animals",
+        "Economic",
+        "Farming"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Enclosure",
+        "Hand Management",
+        "Worker Placement",
+        "Advantage Token",
+        "Automatic Resource Growth",
+        "Increase Value of Unchosen Resources",
+        "Solo / Solitaire Game",
+        "Team-Based Game",
+        "Turn Order: Claim Action",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "216651",
+            "expansion_name": "Agricola Game Expansion: Blue",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216651"
+        },
+        {
+            "expansion_id": "216650",
+            "expansion_name": "Agricola Game Expansion: Green",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216650"
+        },
+        {
+            "expansion_id": "216652",
+            "expansion_name": "Agricola Game Expansion: Purple",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216652"
+        },
+        {
+            "expansion_id": "216654",
+            "expansion_name": "Agricola Game Expansion: Red",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216654"
+        },
+        {
+            "expansion_id": "216649",
+            "expansion_name": "Agricola Game Expansion: White",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216649"
+        },
+        {
+            "expansion_id": "216655",
+            "expansion_name": "Agricola Game Expansion: Yellow",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216655"
+        },
+        {
+            "expansion_id": "292850",
+            "expansion_name": "Agricola: Agricola Meets Newdale",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292850"
+        },
+        {
+            "expansion_id": "234218",
+            "expansion_name": "Agricola: Artifex Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/234218"
+        },
+        {
+            "expansion_id": "247720",
+            "expansion_name": "Agricola: Bubulcus Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/247720"
+        },
+        {
+            "expansion_id": "263965",
+            "expansion_name": "Agricola: Changelings",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263965"
+        },
+        {
+            "expansion_id": "329847",
+            "expansion_name": "Agricola: Consul Dirigens Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/329847"
+        },
+        {
+            "expansion_id": "271144",
+            "expansion_name": "Agricola: Corbarius Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/271144"
+        },
+        {
+            "expansion_id": "311545",
+            "expansion_name": "Agricola: Dulcinaria Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/311545"
+        },
+        {
+            "expansion_id": "210625",
+            "expansion_name": "Agricola: Expansion for 5 and 6 Players",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/210625"
+        },
+        {
+            "expansion_id": "257344",
+            "expansion_name": "Agricola: Farmers of the Moor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257344"
+        },
+        {
+            "expansion_id": "39090",
+            "expansion_name": "Agricola: L-Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39090"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Uwe Rosenberg",
+    "categories_string": "Animals; Economic; Farming",
+    "mechanics_string": "Card Drafting; Enclosure; Hand Management; Worker Placement; Advantage Token; Automatic Resource Growth; Increase Value of Unchosen Resources; Solo / Solitaire Game; Team-Based Game; Turn Order: Claim Action; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '216651', 'expansion_name': 'Agricola Game Expansion: Blue', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216651'}; {'expansion_id': '216650', 'expansion_name': 'Agricola Game Expansion: Green', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216650'}; {'expansion_id': '216652', 'expansion_name': 'Agricola Game Expansion: Purple', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216652'}; {'expansion_id': '216654', 'expansion_name': 'Agricola Game Expansion: Red', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216654'}; {'expansion_id': '216649', 'expansion_name': 'Agricola Game Expansion: White', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216649'}; {'expansion_id': '216655', 'expansion_name': 'Agricola Game Expansion: Yellow', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216655'}; {'expansion_id': '292850', 'expansion_name': 'Agricola: Agricola Meets Newdale', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292850'}; {'expansion_id': '234218', 'expansion_name': 'Agricola: Artifex Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/234218'}; {'expansion_id': '247720', 'expansion_name': 'Agricola: Bubulcus Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/247720'}; {'expansion_id': '263965', 'expansion_name': 'Agricola: Changelings', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263965'}; {'expansion_id': '329847', 'expansion_name': 'Agricola: Consul Dirigens Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/329847'}; {'expansion_id': '271144', 'expansion_name': 'Agricola: Corbarius Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/271144'}; {'expansion_id': '311545', 'expansion_name': 'Agricola: Dulcinaria Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/311545'}; {'expansion_id': '210625', 'expansion_name': 'Agricola: Expansion for 5 and 6 Players', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/210625'}; {'expansion_id': '257344', 'expansion_name': 'Agricola: Farmers of the Moor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257344'}; {'expansion_id': '39090', 'expansion_name': 'Agricola: L-Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39090'}",
+    "expansions_for_string": ""
+}

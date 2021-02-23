@@ -1,0 +1,126 @@
+{
+    "game_id": "224868",
+    "game_name": "Star Trek: Frontiers - The Return of Khan",
+    "bgg_link": "https://boardgamegeek.com/boardgame/224868",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5908379",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5908379#item5908379",
+            "geeklist_host": "Jorune",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5910470",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5910470#item5910470",
+            "geeklist_host": "Jorune",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5917392",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5917392#item5917392",
+            "geeklist_host": "Jorune",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5951441",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5951441#item5951441",
+            "geeklist_host": "radthanael",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6674878",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6674878#item6674878",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "TheStoicEmperor"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7322018",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7322018#item7322018",
+            "geeklist_host": "Albia",
+            "contributor": "Ender37"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7640595",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7640595#item7640595",
+            "geeklist_host": "threepointthed",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7647726",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7647726#item7647726",
+            "geeklist_host": "threepointthed",
+            "contributor": "carbon_dragon"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/SGFFZ5WSKU-b4caNebfQEQ__thumb/img/CrPBnNz35IZitJbwCNlnb6TrH80=/fit-in/200x150/filters:strip_icc()/pic3731001.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Vlaada Chvatil",
+        "Andrew Parks"
+    ],
+    "weight": 4.64,
+    "rating": 8.49,
+    "play_time": "60 - 120",
+    "best": "5",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Movies / TV / Radio theme",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Modular Board",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "182340",
+            "game_name": "Star Trek: Frontiers",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/182340"
+        }
+    ],
+    "designers_string": "Vlaada Chvatil; Andrew Parks",
+    "categories_string": "Expansion for Base-game; Movies / TV / Radio theme; Science Fiction; Space Exploration",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Modular Board; Tile Placement; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '182340', 'game_name': 'Star Trek: Frontiers', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/182340'}"
+}

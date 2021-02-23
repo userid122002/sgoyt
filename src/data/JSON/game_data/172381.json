@@ -1,0 +1,57 @@
+{
+    "game_id": "172381",
+    "game_name": "My Village",
+    "bgg_link": "https://boardgamegeek.com/boardgame/172381",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4320659",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4320659#item4320659",
+            "geeklist_host": "mikolajl",
+            "contributor": "juanma99"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/btcVFa7mq_IVb8sK1S5CGQ__thumb/img/w6uptcGdtfT7wuGlifccK08-1Lw=/fit-in/200x150/filters:strip_icc()/pic2760567.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Inka Brand",
+        "Markus Brand"
+    ],
+    "weight": 3.10,
+    "rating": 6.98,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "19",
+    "categories": [
+        "City Building",
+        "Dice"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Drafting",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "191779",
+            "expansion_name": "Brettspiel Easter Basket 2016",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/191779"
+        },
+        {
+            "expansion_id": "195751",
+            "expansion_name": "My Village: Vagrants Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/195751"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Inka Brand; Markus Brand",
+    "categories_string": "City Building; Dice",
+    "mechanics_string": "Dice Rolling; Drafting; Worker Placement",
+    "expansions_string": "{'expansion_id': '191779', 'expansion_name': 'Brettspiel Easter Basket 2016', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/191779'}; {'expansion_id': '195751', 'expansion_name': 'My Village: Vagrants Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/195751'}",
+    "expansions_for_string": ""
+}

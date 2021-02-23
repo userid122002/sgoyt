@@ -1,0 +1,76 @@
+{
+    "game_id": "282426",
+    "game_name": "Clank! Expeditions: Temple of the Ape Lords",
+    "bgg_link": "https://boardgamegeek.com/boardgame/282426",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7589381",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7589381#item7589381",
+            "geeklist_host": "jwml",
+            "contributor": "threepointthed"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7808866",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7808866#item7808866",
+            "geeklist_host": "mithoron",
+            "contributor": "threepointthed"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/vvKATmuascQ-ZWQLr4Po3Q__thumb/img/5dF8PTaqSqMwuMgEKMy-sUuFfZY=/fit-in/200x150/filters:strip_icc()/pic4793071.png",
+    "year_published": "2019",
+    "designers": [
+        "Tim McKnight"
+    ],
+    "weight": 2.00,
+    "rating": 8.18,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "3",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Player Elimination",
+        "Point to Point Movement",
+        "Push Your Luck",
+        "Scenario / Mission / Campaign Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "286274",
+            "expansion_name": "Clank!: Opal Apestone",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/286274"
+        },
+        {
+            "expansion_id": "283292",
+            "expansion_name": "Clank!: Trailblazer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/283292"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "201808",
+            "game_name": "Clank!: A Deck-Building Adventure",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/201808"
+        }
+    ],
+    "designers_string": "Tim McKnight",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Player Elimination; Point to Point Movement; Push Your Luck; Scenario / Mission / Campaign Game",
+    "expansions_string": "{'expansion_id': '286274', 'expansion_name': 'Clank!: Opal Apestone', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/286274'}; {'expansion_id': '283292', 'expansion_name': 'Clank!: Trailblazer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/283292'}",
+    "expansions_for_string": "{'game_id': '201808', 'game_name': 'Clank!: A Deck-Building Adventure', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/201808'}"
+}

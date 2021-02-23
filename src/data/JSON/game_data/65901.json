@@ -1,0 +1,79 @@
+{
+    "game_id": "65901",
+    "game_name": "Age of Industry",
+    "bgg_link": "https://boardgamegeek.com/boardgame/65901",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3900284",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3900284#item3900284",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "telengard"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6242956",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6242956#item6242956",
+            "geeklist_host": "emodiu5",
+            "contributor": "davidcoleman"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/F1DJ5wsTySoSTTb9E3fouQ__thumb/img/BpkzyXVeVxZVBmac2jam5LfI4Fg=/fit-in/200x150/filters:strip_icc()/pic715611.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Martin Wallace"
+    ],
+    "weight": 3.36,
+    "rating": 7.37,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "40",
+    "categories": [
+        "Economic",
+        "Industry / Manufacturing",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Loans",
+        "Market",
+        "Network and Route Building"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "99424",
+            "expansion_name": "Age of Industry Expansion #1: Japan and Minnesota",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99424"
+        },
+        {
+            "expansion_id": "136217",
+            "expansion_name": "Age of Industry Expansion: Belgium & USSR",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136217"
+        },
+        {
+            "expansion_id": "121285",
+            "expansion_name": "Age of Industry Expansion: Great Lakes & South Africa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/121285"
+        },
+        {
+            "expansion_id": "188472",
+            "expansion_name": "Portugal (fan expansion for Age of Industry)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/188472"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Martin Wallace",
+    "categories_string": "Economic; Industry / Manufacturing; Transportation",
+    "mechanics_string": "Card Drafting; Hand Management; Loans; Market; Network and Route Building",
+    "expansions_string": "{'expansion_id': '99424', 'expansion_name': 'Age of Industry Expansion #1: Japan and Minnesota', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99424'}; {'expansion_id': '136217', 'expansion_name': 'Age of Industry Expansion: Belgium & USSR', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136217'}; {'expansion_id': '121285', 'expansion_name': 'Age of Industry Expansion: Great Lakes & South Africa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/121285'}; {'expansion_id': '188472', 'expansion_name': 'Portugal (fan expansion for Age of Industry)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/188472'}",
+    "expansions_for_string": ""
+}

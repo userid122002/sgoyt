@@ -1,0 +1,74 @@
+{
+    "game_id": "18602",
+    "game_name": "Caylus",
+    "bgg_link": "https://boardgamegeek.com/boardgame/18602",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3608462",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3608462#item3608462",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "enzo622"
+        },
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4989126",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4989126#item4989126",
+            "geeklist_host": "maloma",
+            "contributor": "nouvato"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7857662",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7857662#item7857662",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/yC7nOSc1x5PT-oNnh6TEcQ__thumb/img/ec9AK_e7FTbxy9tA8er2wW4UnqA=/fit-in/200x150/filters:strip_icc()/pic1638795.jpg",
+    "year_published": "2005",
+    "designers": [
+        "William Attia"
+    ],
+    "weight": 3.80,
+    "rating": 7.77,
+    "play_time": "60 - 150",
+    "best": "0",
+    "recommended": "15",
+    "not_recommended": "356",
+    "categories": [
+        "City Building",
+        "Economic",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Ownership",
+        "Turn Order: Claim Action",
+        "Turn Order: Pass Order",
+        "Variable Set-up",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "34410",
+            "expansion_name": "Caylus Expansion: The Jeweller",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34410"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "William Attia",
+    "categories_string": "City Building; Economic; Medieval",
+    "mechanics_string": "Ownership; Turn Order: Claim Action; Turn Order: Pass Order; Variable Set-up; Worker Placement",
+    "expansions_string": "{'expansion_id': '34410', 'expansion_name': 'Caylus Expansion: The Jeweller', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34410'}",
+    "expansions_for_string": ""
+}

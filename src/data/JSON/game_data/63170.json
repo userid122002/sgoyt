@@ -1,0 +1,58 @@
+{
+    "game_id": "63170",
+    "game_name": "1817",
+    "bgg_link": "https://boardgamegeek.com/boardgame/63170",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7840858",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7840858#item7840858",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Dobbin2"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/ljswtJbDAR_bcgSkF2PSOw__thumb/img/9_Xn-C2Z9pttuidHn4p0fr7Evgc=/fit-in/200x150/filters:strip_icc()/pic4895040.png",
+    "year_published": "2010",
+    "designers": [
+        "Craig Bartell",
+        "Tim Flowers"
+    ],
+    "weight": 4.68,
+    "rating": 8.76,
+    "play_time": "360 - 540",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "11",
+    "categories": [
+        "Economic",
+        "Trains",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Loans",
+        "Market",
+        "Network and Route Building",
+        "Ownership",
+        "Stock Holding",
+        "Tile Placement",
+        "Victory Points as a Resource"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "219717",
+            "expansion_name": "18USA",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219717"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Craig Bartell; Tim Flowers",
+    "categories_string": "Economic; Trains; Transportation",
+    "mechanics_string": "Auction/Bidding; Loans; Market; Network and Route Building; Ownership; Stock Holding; Tile Placement; Victory Points as a Resource",
+    "expansions_string": "{'expansion_id': '219717', 'expansion_name': '18USA', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219717'}",
+    "expansions_for_string": ""
+}

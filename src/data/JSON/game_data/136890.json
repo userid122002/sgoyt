@@ -1,0 +1,56 @@
+{
+    "game_id": "136890",
+    "game_name": "Hold the Line:  Frederick's War",
+    "bgg_link": "https://boardgamegeek.com/boardgame/136890",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5042745",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5042745#item5042745",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Ben_Bos"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/RQWJRKivKuXEjP2A11Okxg__thumb/img/mLETtvPkcAQPzNQre7PbBkW2Be0=/fit-in/200x150/filters:strip_icc()/pic1546998.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Sean Chick"
+    ],
+    "weight": 1.88,
+    "rating": 7.70,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "0",
+    "categories": [
+        "Age of Reason",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Line of Sight",
+        "Modular Board",
+        "Scenario / Mission / Campaign Game",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "136943",
+            "expansion_name": "Hold the Line: Highland Charge",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/136943"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Sean Chick",
+    "categories_string": "Age of Reason; Wargame",
+    "mechanics_string": "Action Points; Dice Rolling; Grid Movement; Hexagon Grid; Line of Sight; Modular Board; Scenario / Mission / Campaign Game; Simulation",
+    "expansions_string": "{'expansion_id': '136943', 'expansion_name': 'Hold the Line: Highland Charge', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/136943'}",
+    "expansions_for_string": ""
+}

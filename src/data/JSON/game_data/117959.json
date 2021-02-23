@@ -1,0 +1,89 @@
+{
+    "game_id": "117959",
+    "game_name": "Las Vegas",
+    "bgg_link": "https://boardgamegeek.com/boardgame/117959",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6462104",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6462104#item6462104",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6656141",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6656141#item6656141",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7604198",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7604198#item7604198",
+            "geeklist_host": "jwml",
+            "contributor": "Elida"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7707456",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7707456#item7707456",
+            "geeklist_host": "Elida",
+            "contributor": "Elida"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/aQJ0HRKx2mobP0g3FCeR_Q__thumb/img/7g-l6beAu5RtsAykBhoO7kMWexc=/fit-in/200x150/filters:strip_icc()/pic1261796.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Rudiger Dorn"
+    ],
+    "weight": 1.19,
+    "rating": 7.13,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "79",
+    "categories": [
+        "Dice"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Dice Rolling"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "178656",
+            "expansion_name": "Brettspiel Adventskalender 2015",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/178656"
+        },
+        {
+            "expansion_id": "149975",
+            "expansion_name": "Las Vegas Boulevard",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149975"
+        },
+        {
+            "expansion_id": "189199",
+            "expansion_name": "Las Vegas: The Slot Machine",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189199"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Rudiger Dorn",
+    "categories_string": "Dice",
+    "mechanics_string": "Area Majority / Influence; Dice Rolling",
+    "expansions_string": "{'expansion_id': '178656', 'expansion_name': 'Brettspiel Adventskalender 2015', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/178656'}; {'expansion_id': '149975', 'expansion_name': 'Las Vegas Boulevard', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149975'}; {'expansion_id': '189199', 'expansion_name': 'Las Vegas: The Slot Machine', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189199'}",
+    "expansions_for_string": ""
+}

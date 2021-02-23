@@ -1,0 +1,55 @@
+{
+    "game_id": "163639",
+    "game_name": "Eminent Domain: Exotica",
+    "bgg_link": "https://boardgamegeek.com/boardgame/163639",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4640531",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4640531#item4640531",
+            "geeklist_host": "gentle",
+            "contributor": "Octarine8"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/LnQC7eBNbjD0PwWGn-LPfw__thumb/img/sxzZ4zu7UG3Fmg0d-0cwU5LjmoM=/fit-in/200x150/filters:strip_icc()/pic2547756.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Seth Jaffee"
+    ],
+    "weight": 2.50,
+    "rating": 7.61,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Civilization",
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Variable Phase Order"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "68425",
+            "game_name": "Eminent Domain",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/68425"
+        }
+    ],
+    "designers_string": "Seth Jaffee",
+    "categories_string": "Card Game; Civilization; Expansion for Base-game; Science Fiction; Space Exploration",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Hand Management; Variable Phase Order",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '68425', 'game_name': 'Eminent Domain', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/68425'}"
+}

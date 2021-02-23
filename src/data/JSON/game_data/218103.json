@@ -1,0 +1,103 @@
+{
+    "game_id": "218103",
+    "game_name": "Clank!: Sunken Treasures",
+    "bgg_link": "https://boardgamegeek.com/boardgame/218103",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5676090",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5676090#item5676090",
+            "geeklist_host": "cornishlee",
+            "contributor": "cdarlage"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5949244",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5949244#item5949244",
+            "geeklist_host": "radthanael",
+            "contributor": "Rindel"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6414682",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6414682#item6414682",
+            "geeklist_host": "dobrazil",
+            "contributor": "threepointthed"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6525231",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6525231#item6525231",
+            "geeklist_host": "Albia",
+            "contributor": "threepointthed"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6525258",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6525258#item6525258",
+            "geeklist_host": "Albia",
+            "contributor": "threepointthed"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/vnPRRrEtY0erOXrTiK4PEg__thumb/img/6sfDYSlXIA79iotjVvG7eXSdv4o=/fit-in/200x150/filters:strip_icc()/pic3489154.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Paul Dennen"
+    ],
+    "weight": 2.24,
+    "rating": 8.01,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "6",
+    "not_recommended": "7",
+    "categories": [
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Player Elimination",
+        "Point to Point Movement",
+        "Push Your Luck"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "234742",
+            "expansion_name": "Clank!: Siren",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/234742"
+        },
+        {
+            "expansion_id": "283292",
+            "expansion_name": "Clank!: Trailblazer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/283292"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "201808",
+            "game_name": "Clank!: A Deck-Building Adventure",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/201808"
+        }
+    ],
+    "designers_string": "Paul Dennen",
+    "categories_string": "Expansion for Base-game; Fantasy",
+    "mechanics_string": "Deck, Bag, and Pool Building; Player Elimination; Point to Point Movement; Push Your Luck",
+    "expansions_string": "{'expansion_id': '234742', 'expansion_name': 'Clank!: Siren', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/234742'}; {'expansion_id': '283292', 'expansion_name': 'Clank!: Trailblazer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/283292'}",
+    "expansions_for_string": "{'game_id': '201808', 'game_name': 'Clank!: A Deck-Building Adventure', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/201808'}"
+}

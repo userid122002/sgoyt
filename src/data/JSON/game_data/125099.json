@@ -1,0 +1,85 @@
+{
+    "game_id": "125099",
+    "game_name": "Core Worlds: Galactic Orders",
+    "bgg_link": "https://boardgamegeek.com/boardgame/125099",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4540140",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4540140#item4540140",
+            "geeklist_host": "pusherman42",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4749893",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4749893#item4749893",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "jgatkinsn"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7924542",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7924542#item7924542",
+            "geeklist_host": "Elida",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/sP2p4ExP5zxKtr05GJVVtQ__thumb/img/5dQ8nuek98039o_tXX5RbiiOX9M=/fit-in/200x150/filters:strip_icc()/pic1377006.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Andrew Parks"
+    ],
+    "weight": 3.00,
+    "rating": 7.91,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "8",
+    "categories": [
+        "Card Game",
+        "Civilization",
+        "Expansion for Base-game",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "180357",
+            "expansion_name": "Core Worlds: Dice Tower Season 11 Kickstarter Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180357"
+        },
+        {
+            "expansion_id": "134153",
+            "expansion_name": "Core Worlds: Galactic Orders Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134153"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "98351",
+            "game_name": "Core Worlds",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/98351"
+        }
+    ],
+    "designers_string": "Andrew Parks",
+    "categories_string": "Card Game; Civilization; Expansion for Base-game; Science Fiction; Space Exploration",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Hand Management",
+    "expansions_string": "{'expansion_id': '180357', 'expansion_name': 'Core Worlds: Dice Tower Season 11 Kickstarter Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180357'}; {'expansion_id': '134153', 'expansion_name': 'Core Worlds: Galactic Orders Promo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134153'}",
+    "expansions_for_string": "{'game_id': '98351', 'game_name': 'Core Worlds', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/98351'}"
+}

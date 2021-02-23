@@ -1,0 +1,68 @@
+{
+    "game_id": "283805",
+    "game_name": "To the Death!",
+    "bgg_link": "https://boardgamegeek.com/boardgame/283805",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7368148",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7368148#item7368148",
+            "geeklist_host": "jeffrhind",
+            "contributor": "desertrat2020"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7528910",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7528910#item7528910",
+            "geeklist_host": "Doc_H",
+            "contributor": "desertrat2020"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/CPLSB_LVG7ko_k7mWETSbg__thumb/img/n9UnTWeQ_S42CvYesIhR09ImzIc=/fit-in/200x150/filters:strip_icc()/pic4828153.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Brian Garber"
+    ],
+    "weight": 2.33,
+    "rating": 8.32,
+    "play_time": "20 - 40",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Fighting",
+        "Medieval",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Campaign / Battle Card Driven",
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Solo / Solitaire Game"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "321617",
+            "expansion_name": "To The Death: The Big Day",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/321617"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Brian Garber",
+    "categories_string": "Card Game; Fantasy; Fighting; Medieval; Wargame",
+    "mechanics_string": "Action Points; Area Majority / Influence; Campaign / Battle Card Driven; Card Drafting; Deck, Bag, and Pool Building; Hand Management; Solo / Solitaire Game",
+    "expansions_string": "{'expansion_id': '321617', 'expansion_name': 'To The Death: The Big Day', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/321617'}",
+    "expansions_for_string": ""
+}

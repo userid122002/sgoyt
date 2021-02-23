@@ -1,0 +1,81 @@
+{
+    "game_id": "266980",
+    "game_name": "Steamopolis",
+    "bgg_link": "https://boardgamegeek.com/boardgame/266980",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7575671",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7575671#item7575671",
+            "geeklist_host": "jwml",
+            "contributor": "Tobina"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7604703",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7604703#item7604703",
+            "geeklist_host": "jwml",
+            "contributor": "Venom Snake"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7952797",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7952797#item7952797",
+            "geeklist_host": "Albia",
+            "contributor": "Tobina"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "7997682",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/7997682#item7997682",
+            "geeklist_host": "airzonk1",
+            "contributor": "gentle"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/qsklgT-nAk7ZIlkwDb2QJA__thumb/img/NOt5g9sFjMbnGxWDRsYWC9OhX78=/fit-in/200x150/filters:strip_icc()/pic4895869.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Gerhard Hecht"
+    ],
+    "weight": 3.62,
+    "rating": 7.16,
+    "play_time": "60 - 100",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Industry / Manufacturing",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Pick-up and Deliver",
+        "Set Collection",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "305042",
+            "expansion_name": "Steamopolis: Versus Machina",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/305042"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Gerhard Hecht",
+    "categories_string": "Industry / Manufacturing; Science Fiction",
+    "mechanics_string": "Pick-up and Deliver; Set Collection; Worker Placement",
+    "expansions_string": "{'expansion_id': '305042', 'expansion_name': 'Steamopolis: Versus Machina', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/305042'}",
+    "expansions_for_string": ""
+}

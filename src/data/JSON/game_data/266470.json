@@ -1,0 +1,84 @@
+{
+    "game_id": "266470",
+    "game_name": "Conan: The Monolith Sourcebook",
+    "bgg_link": "https://boardgamegeek.com/boardgame/266470",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6616132",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6616132#item6616132",
+            "geeklist_host": "squarepegsys",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6618010",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6618010#item6618010",
+            "geeklist_host": "squarepegsys",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7221313",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7221313#item7221313",
+            "geeklist_host": "narcher007",
+            "contributor": "Junik"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/FtK5wkG9ZbX8iY-GrXJImw__thumb/img/fxfx5oyKITgM-j4cAyBpaDZjDIk=/fit-in/200x150/filters:strip_icc()/pic4483731.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Vincent Darlage",
+        "Jason Durall",
+        "Chris Lites",
+        "Matthew (John) Sullivan",
+        "Matthew Sullivan-Barrett"
+    ],
+    "weight": 2.67,
+    "rating": 8.59,
+    "play_time": "90",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Miniatures",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Role Playing",
+        "Team-Based Game",
+        "Variable Phase Order",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "160010",
+            "game_name": "Conan",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/160010"
+        }
+    ],
+    "designers_string": "Vincent Darlage; Jason Durall; Chris Lites; Matthew (John) Sullivan; Matthew Sullivan-Barrett",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy; Fighting; Miniatures; Novel-based",
+    "mechanics_string": "Action Points; Area Movement; Cooperative Game; Dice Rolling; Role Playing; Team-Based Game; Variable Phase Order; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '160010', 'game_name': 'Conan', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/160010'}"
+}

@@ -1,0 +1,61 @@
+{
+    "game_id": "166109",
+    "game_name": "Meteor",
+    "bgg_link": "https://boardgamegeek.com/boardgame/166109",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3964674",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3964674#item3964674",
+            "geeklist_host": "koinskyz",
+            "contributor": "jog1118"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5266459",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5266459#item5266459",
+            "geeklist_host": "suzyvitale",
+            "contributor": "msaya"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/mVC1JCvb488GJFhNF1idsA__thumb/img/Bx9UJsNZV8eF7kebFJlFoCqvtUw=/fit-in/200x150/filters:strip_icc()/pic2256875.png",
+    "year_published": "2014",
+    "designers": [
+        "Mike Young"
+    ],
+    "weight": 1.89,
+    "rating": 6.11,
+    "play_time": "15",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "2",
+    "categories": [
+        "Card Game",
+        "Real-time",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "166068",
+            "expansion_name": "Meteor: Telemetry Rocket",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/166068"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Mike Young",
+    "categories_string": "Card Game; Real-time; Science Fiction",
+    "mechanics_string": "Cooperative Game; Hand Management",
+    "expansions_string": "{'expansion_id': '166068', 'expansion_name': 'Meteor: Telemetry Rocket', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/166068'}",
+    "expansions_for_string": ""
+}

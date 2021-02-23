@@ -1,0 +1,58 @@
+{
+    "game_id": "232291",
+    "game_name": "Dream Home: 156 Sunny Street",
+    "bgg_link": "https://boardgamegeek.com/boardgame/232291",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6580344",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6580344#item6580344",
+            "geeklist_host": "squarepegsys",
+            "contributor": "Klaun86"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/HkKEzJ_9pwo8j3kihud1sA__thumb/img/EhRuDDqhBiMat813sd7-g_pIYP0=/fit-in/200x150/filters:strip_icc()/pic3740707.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Klemens Kalicki"
+    ],
+    "weight": 1.67,
+    "rating": 7.32,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "3",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Memory",
+        "Pattern Building",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "235056",
+            "expansion_name": "Dream Home: 156 Sunny Street - Game Room",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/235056"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "194880",
+            "game_name": "Dream Home",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/194880"
+        }
+    ],
+    "designers_string": "Klemens Kalicki",
+    "categories_string": "Card Game; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Memory; Pattern Building; Set Collection",
+    "expansions_string": "{'expansion_id': '235056', 'expansion_name': 'Dream Home: 156 Sunny Street - Game Room', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/235056'}",
+    "expansions_for_string": "{'game_id': '194880', 'game_name': 'Dream Home', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/194880'}"
+}

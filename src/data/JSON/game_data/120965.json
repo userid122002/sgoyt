@@ -1,0 +1,54 @@
+{
+    "game_id": "120965",
+    "game_name": "Space Hulk: Death Angel - The Card Game - Deathwing Space Marine Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/120965",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6107818",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6107818#item6107818",
+            "geeklist_host": "skeletonhat",
+            "contributor": "jwml"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/3kQDcYxRF9pP9BdPKQWZRQ__thumb/img/-Hg4RapEe-hIkkc3hbBo3sAM6tg=/fit-in/200x150/filters:strip_icc()/pic1331841.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Brady Sadler"
+    ],
+    "weight": 2.38,
+    "rating": 7.40,
+    "play_time": "30",
+    "best": "3",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fighting",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "71721",
+            "game_name": "Space Hulk: Death Angel - The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/71721"
+        }
+    ],
+    "designers_string": "Brady Sadler",
+    "categories_string": "Card Game; Expansion for Base-game; Fighting; Science Fiction",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '71721', 'game_name': 'Space Hulk: Death Angel - The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/71721'}"
+}

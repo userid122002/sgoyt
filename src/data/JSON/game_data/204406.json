@@ -1,0 +1,110 @@
+{
+    "game_id": "204406",
+    "game_name": "Aventuria: Ship of Lost Souls",
+    "bgg_link": "https://boardgamegeek.com/boardgame/204406",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5982738",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5982738#item5982738",
+            "geeklist_host": "radthanael",
+            "contributor": "magic_erwt"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5988470",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5988470#item5988470",
+            "geeklist_host": "radthanael",
+            "contributor": "magic_erwt"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6040219",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6040219#item6040219",
+            "geeklist_host": "busdjur",
+            "contributor": "alamb1101"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6689612",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6689612#item6689612",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7062790",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7062790#item7062790",
+            "geeklist_host": "labrhat22",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6906297",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6906297#item6906297",
+            "geeklist_host": "Woelf",
+            "contributor": "magic_erwt"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/bY07M6jJMXDftTdcrZtgrA__thumb/img/KDDLuTetfrAM3L7plElwd4iG6Kk=/fit-in/200x150/filters:strip_icc()/pic3620215.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Michael Palm",
+        "Lukas Zach"
+    ],
+    "weight": 2.50,
+    "rating": 8.07,
+    "play_time": "30 - 180",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Pirates"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Hand Management",
+        "Role Playing",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "190400",
+            "game_name": "Aventuria: Adventure Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/190400"
+        }
+    ],
+    "designers_string": "Michael Palm; Lukas Zach",
+    "categories_string": "Adventure; Card Game; Expansion for Base-game; Fantasy; Fighting; Pirates",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Dice Rolling; Hand Management; Role Playing; Solo / Solitaire Game; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '190400', 'game_name': 'Aventuria: Adventure Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/190400'}"
+}

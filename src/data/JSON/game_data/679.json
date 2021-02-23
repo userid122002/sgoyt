@@ -1,0 +1,51 @@
+{
+    "game_id": "679",
+    "game_name": "Minion Hunter",
+    "bgg_link": "https://boardgamegeek.com/boardgame/679",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3496751",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3496751#item3496751",
+            "geeklist_host": "joestin",
+            "contributor": "Zouave"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/grijfGeVH6kLetK1GcERLQ__thumb/img/yJoQSmxlPns0MF_Uyoh28JMZOnE=/fit-in/200x150/filters:strip_icc()/pic52496.jpg",
+    "year_published": "1992",
+    "designers": [
+        "Lester Smith"
+    ],
+    "weight": 1.88,
+    "rating": 6.20,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "2",
+    "categories": [
+        "Horror",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "3854",
+            "expansion_name": "Minion Nation",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/3854"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Lester Smith",
+    "categories_string": "Horror; Science Fiction",
+    "mechanics_string": "Action Points; Cooperative Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '3854', 'expansion_name': 'Minion Nation', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/3854'}",
+    "expansions_for_string": ""
+}

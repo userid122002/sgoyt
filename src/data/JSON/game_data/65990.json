@@ -1,0 +1,70 @@
+{
+    "game_id": "65990",
+    "game_name": "Don Quixote",
+    "bgg_link": "https://boardgamegeek.com/boardgame/65990",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "160445",
+            "geeklist_item_id": "2796052",
+            "year_month": "2013/08",
+            "year": "2013",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/160445/item/2796052#item2796052",
+            "geeklist_host": "gertbert",
+            "contributor": "Conphas"
+        },
+        {
+            "geeklist_id": "171598",
+            "geeklist_item_id": "3179804",
+            "year_month": "2014/04",
+            "year": "2014",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/171598/item/3179804#item3179804",
+            "geeklist_host": "Malaiser",
+            "contributor": "Deathworks"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4660998",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4660998#item4660998",
+            "geeklist_host": "koinskyz",
+            "contributor": "fractaloon"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/fkRB7CFd1DnV0MvZ9tSmqA__thumb/img/zPkPEnHbfnwvZju_nrFRZFqkcfw=/fit-in/200x150/filters:strip_icc()/pic1058461.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Reinhard Staupe"
+    ],
+    "weight": 1.64,
+    "rating": 6.11,
+    "play_time": "20",
+    "best": "13",
+    "recommended": "6",
+    "not_recommended": "2",
+    "categories": [
+        "Medieval",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "72675",
+            "expansion_name": "Don Quixote: Sancho-Pansa-Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/72675"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Reinhard Staupe",
+    "categories_string": "Medieval; Novel-based",
+    "mechanics_string": "Hand Management; Tile Placement",
+    "expansions_string": "{'expansion_id': '72675', 'expansion_name': 'Don Quixote: Sancho-Pansa-Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/72675'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,103 @@
+{
+    "game_id": "231553",
+    "game_name": "Jagged Alliance: The Board Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/231553",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7815475",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7815475#item7815475",
+            "geeklist_host": "mithoron",
+            "contributor": "simpsonps121"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7845970",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7845970#item7845970",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "simpsonps121"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7876803",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7876803#item7876803",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "simpsonps121"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7886263",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7886263#item7886263",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "simpsonps121"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7976325",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7976325#item7976325",
+            "geeklist_host": "Albia",
+            "contributor": "SF340B"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/gaD83P_e4Gq4aAEKjibM0g__thumb/img/ml38aVzGlJHQmik_LzsH8IoOxyg=/fit-in/200x150/filters:strip_icc()/pic3810495.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Marko Jelen",
+        "Jan Wagner"
+    ],
+    "weight": 3.47,
+    "rating": 8.41,
+    "play_time": "45 - 360",
+    "best": "2",
+    "recommended": "3",
+    "not_recommended": "3",
+    "categories": [
+        "Dice",
+        "Fighting",
+        "Miniatures",
+        "Modern Warfare",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Campaign / Battle Card Driven",
+        "Cooperative Game",
+        "Modular Board",
+        "Scenario / Mission / Campaign Game",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "327219",
+            "expansion_name": "Jagged Alliance: Gra Planszowa - wspieram.to promo cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/327219"
+        },
+        {
+            "expansion_id": "281263",
+            "expansion_name": "Jagged Alliance: The Board Game - Underground!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/281263"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Marko Jelen; Jan Wagner",
+    "categories_string": "Dice; Fighting; Miniatures; Modern Warfare; Video Game Theme",
+    "mechanics_string": "Action Points; Campaign / Battle Card Driven; Cooperative Game; Modular Board; Scenario / Mission / Campaign Game; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '327219', 'expansion_name': 'Jagged Alliance: Gra Planszowa - wspieram.to promo cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/327219'}; {'expansion_id': '281263', 'expansion_name': 'Jagged Alliance: The Board Game - Underground!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/281263'}",
+    "expansions_for_string": ""
+}

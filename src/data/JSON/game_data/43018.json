@@ -1,0 +1,121 @@
+{
+    "game_id": "43018",
+    "game_name": "Agricola: Farmers of the Moor",
+    "bgg_link": "https://boardgamegeek.com/boardgame/43018",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4502096",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4502096#item4502096",
+            "geeklist_host": "pusherman42",
+            "contributor": "MagusDuNord"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4502098",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4502098#item4502098",
+            "geeklist_host": "pusherman42",
+            "contributor": "MagusDuNord"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5439068",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5439068#item5439068",
+            "geeklist_host": "koinskyz",
+            "contributor": "Themackern"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5766648",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5766648#item5766648",
+            "geeklist_host": "Albia",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5767852",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5767852#item5767852",
+            "geeklist_host": "Albia",
+            "contributor": "Haywood"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5774109",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5774109#item5774109",
+            "geeklist_host": "Albia",
+            "contributor": "Haywood"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5875222",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5875222#item5875222",
+            "geeklist_host": "Jorune",
+            "contributor": "Haywood"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/mEI-4uV5AkzQ3H-8aKsl4Q__thumb/img/WJ89SC0HhICH5EFXWtcdecxc6_A=/fit-in/200x150/filters:strip_icc()/pic568164.jpg",
+    "year_published": "2009",
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "weight": 3.55,
+    "rating": 8.08,
+    "play_time": "100 - 200",
+    "best": "0",
+    "recommended": "45",
+    "not_recommended": "14",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Farming"
+    ],
+    "mechanics": [
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "111165",
+            "expansion_name": "Agricola: Biogas Plant Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/111165"
+        },
+        {
+            "expansion_id": "114557",
+            "expansion_name": "Improved Farming & Disasters (fan expansion for Agricola)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/114557"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "31260",
+            "game_name": "Agricola",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/31260"
+        }
+    ],
+    "designers_string": "Uwe Rosenberg",
+    "categories_string": "Economic; Expansion for Base-game; Farming",
+    "mechanics_string": "Worker Placement",
+    "expansions_string": "{'expansion_id': '111165', 'expansion_name': 'Agricola: Biogas Plant Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/111165'}; {'expansion_id': '114557', 'expansion_name': 'Improved Farming & Disasters (fan expansion for Agricola)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/114557'}",
+    "expansions_for_string": "{'game_id': '31260', 'game_name': 'Agricola', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/31260'}"
+}

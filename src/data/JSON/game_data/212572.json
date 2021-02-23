@@ -1,0 +1,127 @@
+{
+    "game_id": "212572",
+    "game_name": "Elder Sign: Omens of the Deep",
+    "bgg_link": "https://boardgamegeek.com/boardgame/212572",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5258182",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5258182#item5258182",
+            "geeklist_host": "suzyvitale",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5590052",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5590052#item5590052",
+            "geeklist_host": "kevinruns262",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5641131",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5641131#item5641131",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5715922",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5715922#item5715922",
+            "geeklist_host": "cornishlee",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5737092",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5737092#item5737092",
+            "geeklist_host": "cornishlee",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5757729",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5757729#item5757729",
+            "geeklist_host": "Albia",
+            "contributor": "Carthoris"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6601687",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6601687#item6601687",
+            "geeklist_host": "squarepegsys",
+            "contributor": "chuft"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7946093",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7946093#item7946093",
+            "geeklist_host": "Elida",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/b7wH7TcV-ylbEwLvaHJdng__thumb/img/MabGi67b54srt1fGrXdUvUKLmW4=/fit-in/200x150/filters:strip_icc()/pic3539826.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Dane Beltrami"
+    ],
+    "weight": 3.00,
+    "rating": 7.79,
+    "play_time": "90",
+    "best": "2",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "100423",
+            "game_name": "Elder Sign",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/100423"
+        }
+    ],
+    "designers_string": "Dane Beltrami",
+    "categories_string": "Adventure; Card Game; Dice; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '100423', 'game_name': 'Elder Sign', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/100423'}"
+}

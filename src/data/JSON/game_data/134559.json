@@ -1,0 +1,66 @@
+{
+    "game_id": "134559",
+    "game_name": "Tower",
+    "bgg_link": "https://boardgamegeek.com/boardgame/134559",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3993246",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3993246#item3993246",
+            "geeklist_host": "joestin",
+            "contributor": "petegs"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5644968",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5644968#item5644968",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "benjamininja"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/pEMSq0FXkLFu0FJks3cpmw__thumb/img/OHMwCxRUPhJymvsRkhjXXSinLmk=/fit-in/200x150/filters:strip_icc()/pic1925420.png",
+    "year_published": "2013",
+    "designers": [
+        "Ben Haskett"
+    ],
+    "weight": 2.00,
+    "rating": 5.97,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Arabian",
+        "Economic",
+        "Print & Play"
+    ],
+    "mechanics": [
+        "Set Collection",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "173826",
+            "expansion_name": "Mob Tower Promo Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173826"
+        },
+        {
+            "expansion_id": "260202",
+            "expansion_name": "Tower: Market Inventory Randomizers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/260202"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ben Haskett",
+    "categories_string": "Arabian; Economic; Print & Play",
+    "mechanics_string": "Set Collection; Worker Placement",
+    "expansions_string": "{'expansion_id': '173826', 'expansion_name': 'Mob Tower Promo Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173826'}; {'expansion_id': '260202', 'expansion_name': 'Tower: Market Inventory Randomizers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/260202'}",
+    "expansions_for_string": ""
+}

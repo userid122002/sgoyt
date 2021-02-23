@@ -1,0 +1,52 @@
+{
+    "game_id": "166006",
+    "game_name": "Race! Formula 90: Expansion #1 - RF90 Series Championship",
+    "bgg_link": "https://boardgamegeek.com/boardgame/166006",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3932999",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3932999#item3932999",
+            "geeklist_host": "koinskyz",
+            "contributor": "koinskyz"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/dPITe64OzF-l2boD7EYaCQ__thumb/img/ev4-Qx-Ss0MPSguQZ2yaZxm4P4w=/fit-in/200x150/filters:strip_icc()/pic2241982.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Alessandro Lala",
+        "Giuseppe Rossini"
+    ],
+    "weight": 3.69,
+    "rating": 8.70,
+    "play_time": "120",
+    "best": "2",
+    "recommended": "3",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Racing",
+        "Sports"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "125752",
+            "game_name": "Race! Formula 90",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/125752"
+        }
+    ],
+    "designers_string": "Alessandro Lala; Giuseppe Rossini",
+    "categories_string": "Expansion for Base-game; Racing; Sports",
+    "mechanics_string": "Card Drafting; Hand Management",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '125752', 'game_name': 'Race! Formula 90', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/125752'}"
+}

@@ -1,0 +1,67 @@
+{
+    "game_id": "41064",
+    "game_name": "Talisman (Revised 4th Edition): The Dungeon Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/41064",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6048776",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6048776#item6048776",
+            "geeklist_host": "busdjur",
+            "contributor": "jwml"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/iMPBVReepwYBm489jR8ZaQ__thumb/img/5A-ilTLODLNRiDqQXZgujvyLdsg=/fit-in/200x150/filters:strip_icc()/pic5085649.jpg",
+    "year_published": "2009",
+    "designers": [
+        "John Goodenough",
+        "Robert Harris"
+    ],
+    "weight": 2.36,
+    "rating": 7.34,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "3",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Role Playing",
+        "Roll / Spin and Move",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "169254",
+            "expansion_name": "Talisman (Revised 4th Edition): The Deep Realms Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169254"
+        },
+        {
+            "expansion_id": "248506",
+            "expansion_name": "Talisman (Revised 4th Edition): The Lost Realms",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/248506"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "27627",
+            "game_name": "Talisman (Revised 4th Edition)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/27627"
+        }
+    ],
+    "designers_string": "John Goodenough; Robert Harris",
+    "categories_string": "Adventure; Expansion for Base-game; Exploration; Fantasy; Fighting",
+    "mechanics_string": "Dice Rolling; Role Playing; Roll / Spin and Move; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '169254', 'expansion_name': 'Talisman (Revised 4th Edition): The Deep Realms Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169254'}; {'expansion_id': '248506', 'expansion_name': 'Talisman (Revised 4th Edition): The Lost Realms', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/248506'}",
+    "expansions_for_string": "{'game_id': '27627', 'game_name': 'Talisman (Revised 4th Edition)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/27627'}"
+}

@@ -1,0 +1,135 @@
+{
+    "game_id": "191958",
+    "game_name": "Tesla vs. Edison: Powering Up!",
+    "bgg_link": "https://boardgamegeek.com/boardgame/191958",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5027796",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5027796#item5027796",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Tokeydog"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5040857",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5040857#item5040857",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "budkin"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5046290",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5046290#item5046290",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5046400",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5046400#item5046400",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5076379",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5076379#item5076379",
+            "geeklist_host": "mikolajl",
+            "contributor": "Dancing Frog"
+        },
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5211620",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5211620#item5211620",
+            "geeklist_host": "Ibbo",
+            "contributor": "enzo622"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5561891",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5561891#item5561891",
+            "geeklist_host": "kevinruns262",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7676846",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7676846#item7676846",
+            "geeklist_host": "gentle",
+            "contributor": "Ibbo"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/co1CjL6AVMIiEyUGBrENTQ__thumb/img/8bW1G7lTbdSPqaByqxmM7Prkf6Q=/fit-in/200x150/filters:strip_icc()/pic3290704.png",
+    "year_published": "2016",
+    "designers": [
+        "JR Honeycutt",
+        "Dirk Knemeyer"
+    ],
+    "weight": 3.33,
+    "rating": 7.78,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "2",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Industry / Manufacturing",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Auction/Bidding",
+        "Card Drafting",
+        "Hand Management",
+        "Network and Route Building",
+        "Stock Holding",
+        "Variable Player Powers",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "213641",
+            "expansion_name": "Tesla vs. Edison: Powering Up! - Bonus AI Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213641"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "132544",
+            "game_name": "Tesla vs. Edison: War of Currents",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/132544"
+        }
+    ],
+    "designers_string": "JR Honeycutt; Dirk Knemeyer",
+    "categories_string": "Economic; Expansion for Base-game; Industry / Manufacturing; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Auction/Bidding; Card Drafting; Hand Management; Network and Route Building; Stock Holding; Variable Player Powers; Worker Placement",
+    "expansions_string": "{'expansion_id': '213641', 'expansion_name': 'Tesla vs. Edison: Powering Up! - Bonus AI Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213641'}",
+    "expansions_for_string": "{'game_id': '132544', 'game_name': 'Tesla vs. Edison: War of Currents', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/132544'}"
+}

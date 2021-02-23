@@ -1,0 +1,77 @@
+{
+    "game_id": "30804",
+    "game_name": "Song of Blades and Heroes: Revised Edition",
+    "bgg_link": "https://boardgamegeek.com/boardgame/30804",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4425795",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4425795#item4425795",
+            "geeklist_host": "suzyvitale",
+            "contributor": "mrcoolranch"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4450866",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4450866#item4450866",
+            "geeklist_host": "Woelf",
+            "contributor": "mrcoolranch"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/JRoHYqznh0i4ef3ahIV53A__thumb/img/3XchO4ZgNcnGheJW1RatrwJoo3U=/fit-in/200x150/filters:strip_icc()/pic4343335.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Andrea Sfiligoi"
+    ],
+    "weight": 2.22,
+    "rating": 7.77,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "3",
+    "categories": [
+        "Book",
+        "Fantasy",
+        "Fighting",
+        "Miniatures",
+        "Print & Play",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Push Your Luck",
+        "Variable Phase Order",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "58851",
+            "expansion_name": "Song of Deeds and Glory",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/58851"
+        },
+        {
+            "expansion_id": "32072",
+            "expansion_name": "Song of Gold and Darkness",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/32072"
+        },
+        {
+            "expansion_id": "35226",
+            "expansion_name": "Song of Wind and Water",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/35226"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Andrea Sfiligoi",
+    "categories_string": "Book; Fantasy; Fighting; Miniatures; Print & Play; Wargame",
+    "mechanics_string": "Action Points; Dice Rolling; Push Your Luck; Variable Phase Order; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '58851', 'expansion_name': 'Song of Deeds and Glory', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/58851'}; {'expansion_id': '32072', 'expansion_name': 'Song of Gold and Darkness', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/32072'}; {'expansion_id': '35226', 'expansion_name': 'Song of Wind and Water', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/35226'}",
+    "expansions_for_string": ""
+}

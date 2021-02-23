@@ -1,0 +1,56 @@
+{
+    "game_id": "282308",
+    "game_name": "Arkham Horror (Third Edition): Dead of Night",
+    "bgg_link": "https://boardgamegeek.com/boardgame/282308",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7567958",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7567958#item7567958",
+            "geeklist_host": "jwml",
+            "contributor": "omega_player"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/s1x6x8orRLGXOQxLSYz3LA__thumb/img/jE40ItFzEC5swuKp-_3fzjfFtVo=/fit-in/200x150/filters:strip_icc()/pic4819011.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Daniel Clark (I)",
+        "Philip D. Henry"
+    ],
+    "weight": 3.10,
+    "rating": 8.31,
+    "play_time": "120 - 180",
+    "best": "2",
+    "recommended": "4",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Adventure",
+        "Fighting",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "257499",
+            "game_name": "Arkham Horror (Third Edition)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/257499"
+        }
+    ],
+    "designers_string": "Daniel Clark (I); Philip D. Henry",
+    "categories_string": "Expansion for Base-game; Adventure; Fighting; Horror; Novel-based",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '257499', 'game_name': 'Arkham Horror (Third Edition)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/257499'}"
+}

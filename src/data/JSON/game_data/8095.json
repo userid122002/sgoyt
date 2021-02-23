@@ -1,0 +1,99 @@
+{
+    "game_id": "8095",
+    "game_name": "Prophecy",
+    "bgg_link": "https://boardgamegeek.com/boardgame/8095",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3402807",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3402807#item3402807",
+            "geeklist_host": "Malaiser",
+            "contributor": "garthasl"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3502468",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3502468#item3502468",
+            "geeklist_host": "joestin",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3555091",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3555091#item3555091",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "loganbreath"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3559249",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3559249#item3559249",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "183994",
+            "geeklist_item_id": "3686680",
+            "year_month": "2015/01",
+            "year": "2015",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/183994/item/3686680#item3686680",
+            "geeklist_host": "bikefreak",
+            "contributor": "Deathworks"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/kdxA5PUDzdCk5NH2T_SuwQ__thumb/img/b0cUN2oY30xhUXGZQ1-oO2AI74c=/fit-in/200x150/filters:strip_icc()/pic1919190.jpg",
+    "year_published": "2002",
+    "designers": [
+        "Vlaada Chvatil"
+    ],
+    "weight": 2.63,
+    "rating": 6.66,
+    "play_time": "180",
+    "best": "1",
+    "recommended": "8",
+    "not_recommended": "19",
+    "categories": [
+        "Adventure",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Point to Point Movement",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "26218",
+            "expansion_name": "Prophecy: Dragon Realm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/26218"
+        },
+        {
+            "expansion_id": "26219",
+            "expansion_name": "Prophecy: Water Realm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/26219"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vlaada Chvatil",
+    "categories_string": "Adventure; Fantasy; Fighting",
+    "mechanics_string": "Card Drafting; Dice Rolling; Point to Point Movement; Role Playing; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '26218', 'expansion_name': 'Prophecy: Dragon Realm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/26218'}; {'expansion_id': '26219', 'expansion_name': 'Prophecy: Water Realm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/26219'}",
+    "expansions_for_string": ""
+}

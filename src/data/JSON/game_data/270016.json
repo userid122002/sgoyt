@@ -1,0 +1,51 @@
+{
+    "game_id": "270016",
+    "game_name": "Brook City: Delta Keys",
+    "bgg_link": "https://boardgamegeek.com/boardgame/270016",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7028566",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7028566#item7028566",
+            "geeklist_host": "labrhat22",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/wpD7fbAF70ceCSrU7dbytQ__thumb/img/CuqO23TXYoq8kVBnZOiZFvqBcqQ=/fit-in/200x150/filters:strip_icc()/pic4862750.jpg",
+    "year_published": "2019",
+    "designers": [],
+    "weight": 0.00,
+    "rating": 6.96,
+    "play_time": "45 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Miniatures",
+        "Murder/Mystery"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "244946",
+            "game_name": "Brook City",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/244946"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Adventure; Expansion for Base-game; Miniatures; Murder/Mystery",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '244946', 'game_name': 'Brook City', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/244946'}"
+}

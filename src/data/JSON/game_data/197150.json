@@ -1,0 +1,49 @@
+{
+    "game_id": "197150",
+    "game_name": "CardRPG",
+    "bgg_link": "https://boardgamegeek.com/boardgame/197150",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5622915",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5622915#item5622915",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "",
+    "year_published": "0",
+    "designers": [
+        "Ray of Ash"
+    ],
+    "weight": 0.00,
+    "rating": 4.00,
+    "play_time": "15 - 0",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "7",
+    "categories": [
+        "Card Game"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Role Playing"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "190442",
+            "expansion_name": "CaRdPG",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190442"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ray of Ash",
+    "categories_string": "Card Game",
+    "mechanics_string": "Dice Rolling; Role Playing",
+    "expansions_string": "{'expansion_id': '190442', 'expansion_name': 'CaRdPG', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190442'}",
+    "expansions_for_string": ""
+}

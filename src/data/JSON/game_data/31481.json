@@ -1,0 +1,117 @@
+{
+    "game_id": "31481",
+    "game_name": "Galaxy Trucker",
+    "bgg_link": "https://boardgamegeek.com/boardgame/31481",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3807265",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3807265#item3807265",
+            "geeklist_host": "HRune",
+            "contributor": "LongTom"
+        },
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4714852",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4714852#item4714852",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "njshaw2"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5103229",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5103229#item5103229",
+            "geeklist_host": "mikolajl",
+            "contributor": "Sundog"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6829674",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6829674#item6829674",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "Jy0831"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/gLFt1Kif5Cfag505_COYYw__thumb/img/WOW_QsRuV1KyP8dLjP0yH6TlpvU=/fit-in/200x150/filters:strip_icc()/pic3926631.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Vlaada Chvatil"
+    ],
+    "weight": 2.33,
+    "rating": 7.41,
+    "play_time": "60",
+    "best": "1",
+    "recommended": "21",
+    "not_recommended": "221",
+    "categories": [
+        "Real-time",
+        "Science Fiction",
+        "Space Exploration",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Events",
+        "Real-Time",
+        "Relative Movement",
+        "Team-Based Game",
+        "Tile Placement",
+        "Track Movement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "97845",
+            "expansion_name": "Galaxy Trucker: Another Big Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/97845"
+        },
+        {
+            "expansion_id": "40484",
+            "expansion_name": "Galaxy Trucker: Bonus Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40484"
+        },
+        {
+            "expansion_id": "132435",
+            "expansion_name": "Galaxy Trucker: Even-Steven Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132435"
+        },
+        {
+            "expansion_id": "144227",
+            "expansion_name": "Galaxy Trucker: Latest Models",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144227"
+        },
+        {
+            "expansion_id": "182027",
+            "expansion_name": "Galaxy Trucker: Missions",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182027"
+        },
+        {
+            "expansion_id": "33963",
+            "expansion_name": "Galaxy Trucker: Rough Road Ahead",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/33963"
+        },
+        {
+            "expansion_id": "38378",
+            "expansion_name": "Galaxy Trucker: The Big Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38378"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Vlaada Chvatil",
+    "categories_string": "Real-time; Science Fiction; Space Exploration; Transportation",
+    "mechanics_string": "Dice Rolling; Events; Real-Time; Relative Movement; Team-Based Game; Tile Placement; Track Movement",
+    "expansions_string": "{'expansion_id': '97845', 'expansion_name': 'Galaxy Trucker: Another Big Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/97845'}; {'expansion_id': '40484', 'expansion_name': 'Galaxy Trucker: Bonus Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40484'}; {'expansion_id': '132435', 'expansion_name': 'Galaxy Trucker: Even-Steven Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132435'}; {'expansion_id': '144227', 'expansion_name': 'Galaxy Trucker: Latest Models', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144227'}; {'expansion_id': '182027', 'expansion_name': 'Galaxy Trucker: Missions', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182027'}; {'expansion_id': '33963', 'expansion_name': 'Galaxy Trucker: Rough Road Ahead', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/33963'}; {'expansion_id': '38378', 'expansion_name': 'Galaxy Trucker: The Big Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38378'}",
+    "expansions_for_string": ""
+}

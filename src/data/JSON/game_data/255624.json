@@ -1,0 +1,63 @@
+{
+    "game_id": "255624",
+    "game_name": "Deadball: Year II",
+    "bgg_link": "https://boardgamegeek.com/boardgame/255624",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7339580",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7339580#item7339580",
+            "geeklist_host": "Albia",
+            "contributor": "Redheaded Pharmacist"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/j1nSSx-lNDv8iu_6kck-SA__thumb/img/Uvy07UgPhm9GuwSrW6rGNdCP3q4=/fit-in/200x150/filters:strip_icc()/pic4215919.png",
+    "year_published": "2018",
+    "designers": [
+        "W.M. Akers"
+    ],
+    "weight": 3.00,
+    "rating": 8.73,
+    "play_time": "15 - 30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "3",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Print & Play",
+        "Sports"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "284915",
+            "expansion_name": "Deadball: Year III",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284915"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "224149",
+            "game_name": "Deadball",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/224149"
+        },
+        {
+            "game_id": "232850",
+            "game_name": "Deadball: 1909",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/232850"
+        }
+    ],
+    "designers_string": "W.M. Akers",
+    "categories_string": "Dice; Expansion for Base-game; Print & Play; Sports",
+    "mechanics_string": "Dice Rolling; Simulation",
+    "expansions_string": "{'expansion_id': '284915', 'expansion_name': 'Deadball: Year III', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284915'}",
+    "expansions_for_string": "{'game_id': '224149', 'game_name': 'Deadball', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/224149'}; {'game_id': '232850', 'game_name': 'Deadball: 1909', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/232850'}"
+}

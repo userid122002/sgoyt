@@ -1,0 +1,864 @@
+{
+    "game_id": "160902",
+    "game_name": "Dungeons & Dragons Dice Masters: Battle for Faerun",
+    "bgg_link": "https://boardgamegeek.com/boardgame/160902",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3809904",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3809904#item3809904",
+            "geeklist_host": "HRune",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3898216",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3898216#item3898216",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3901514",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3901514#item3901514",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3903154",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3903154#item3903154",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3939158",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3939158#item3939158",
+            "geeklist_host": "koinskyz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3941191",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3941191#item3941191",
+            "geeklist_host": "koinskyz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3946543",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3946543#item3946543",
+            "geeklist_host": "koinskyz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3947894",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3947894#item3947894",
+            "geeklist_host": "koinskyz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3950371",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3950371#item3950371",
+            "geeklist_host": "koinskyz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3963103",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3963103#item3963103",
+            "geeklist_host": "koinskyz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3967730",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3967730#item3967730",
+            "geeklist_host": "koinskyz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3977570",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3977570#item3977570",
+            "geeklist_host": "koinskyz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3980628",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3980628#item3980628",
+            "geeklist_host": "joestin",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3988509",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3988509#item3988509",
+            "geeklist_host": "joestin",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3996537",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3996537#item3996537",
+            "geeklist_host": "joestin",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4001216",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4001216#item4001216",
+            "geeklist_host": "joestin",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4008236",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4008236#item4008236",
+            "geeklist_host": "joestin",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4012683",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4012683#item4012683",
+            "geeklist_host": "joestin",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4015354",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4015354#item4015354",
+            "geeklist_host": "joestin",
+            "contributor": "FancyWolverine"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4027099",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4027099#item4027099",
+            "geeklist_host": "joestin",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4032315",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4032315#item4032315",
+            "geeklist_host": "joestin",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4033390",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4033390#item4033390",
+            "geeklist_host": "joestin",
+            "contributor": "RainRaven"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4034907",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4034907#item4034907",
+            "geeklist_host": "joestin",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4036185",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4036185#item4036185",
+            "geeklist_host": "joestin",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4037500",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4037500#item4037500",
+            "geeklist_host": "joestin",
+            "contributor": "fortheloveofdice"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4038317",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4038317#item4038317",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4039457",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4039457#item4039457",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4040514",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4040514#item4040514",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4042415",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4042415#item4042415",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4055482",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4055482#item4055482",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "nouvato"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4057802",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4057802#item4057802",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4058043",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4058043#item4058043",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4067826",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4067826#item4067826",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "Rayz2112"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4075783",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4075783#item4075783",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4080660",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4080660#item4080660",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4092084",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4092084#item4092084",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4092419",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4092419#item4092419",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4093321",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4093321#item4093321",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4098259",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4098259#item4098259",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4105834",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4105834#item4105834",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "de_la_poer"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4121336",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4121336#item4121336",
+            "geeklist_host": "lukather",
+            "contributor": "suzyvitale"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4121415",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4121415#item4121415",
+            "geeklist_host": "lukather",
+            "contributor": "suzyvitale"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4124118",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4124118#item4124118",
+            "geeklist_host": "lukather",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4135525",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4135525#item4135525",
+            "geeklist_host": "lukather",
+            "contributor": "FancyWolverine"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4136864",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4136864#item4136864",
+            "geeklist_host": "lukather",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4167660",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4167660#item4167660",
+            "geeklist_host": "lukather",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4200018",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4200018#item4200018",
+            "geeklist_host": "SBGrad",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4295400",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4295400#item4295400",
+            "geeklist_host": "rangerx",
+            "contributor": "Kamaitatchi"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4299971",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4299971#item4299971",
+            "geeklist_host": "rangerx",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4425823",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4425823#item4425823",
+            "geeklist_host": "suzyvitale",
+            "contributor": "ShaunGamer"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4426954",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4426954#item4426954",
+            "geeklist_host": "suzyvitale",
+            "contributor": "Katastrophy9"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4441414",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4441414#item4441414",
+            "geeklist_host": "Woelf",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4492960",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4492960#item4492960",
+            "geeklist_host": "pusherman42",
+            "contributor": "FancyWolverine"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4521915",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4521915#item4521915",
+            "geeklist_host": "pusherman42",
+            "contributor": "squarepegsys"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5303833",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5303833#item5303833",
+            "geeklist_host": "suzyvitale",
+            "contributor": "mrmagpieman"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5310736",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5310736#item5310736",
+            "geeklist_host": "suzyvitale",
+            "contributor": "mrmagpieman"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5358248",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5358248#item5358248",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "mrmagpieman"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5359125",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5359125#item5359125",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "mrmagpieman"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5374219",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5374219#item5374219",
+            "geeklist_host": "maloma",
+            "contributor": "darkyeoman"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5398508",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5398508#item5398508",
+            "geeklist_host": "maloma",
+            "contributor": "darkyeoman"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5414782",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5414782#item5414782",
+            "geeklist_host": "maloma",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5429100",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5429100#item5429100",
+            "geeklist_host": "koinskyz",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5429856",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5429856#item5429856",
+            "geeklist_host": "koinskyz",
+            "contributor": "fortheloveofdice"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5536904",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5536904#item5536904",
+            "geeklist_host": "kevinruns262",
+            "contributor": "mrmagpieman"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6234687",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6234687#item6234687",
+            "geeklist_host": "emodiu5",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7388522",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7388522#item7388522",
+            "geeklist_host": "jeffrhind",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 66,
+    "thumbnail": "https://cf.geekdo-images.com/Ihp2pwpvsxaVgnil5JqUoQ__thumb/img/pQdQzHKmE4e829LCBvWJeaPqC6A=/fit-in/200x150/filters:strip_icc()/pic2391607.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Mike Elliott",
+        "Eric M. Lang"
+    ],
+    "weight": 2.19,
+    "rating": 7.27,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "11",
+    "categories": [
+        "Collectible Components",
+        "Dice",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "202098",
+            "expansion_name": "DC Comics Dice Masters: Batman",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202098"
+        },
+        {
+            "expansion_id": "246899",
+            "expansion_name": "DC Comics Dice Masters: Doom Patrol Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246899"
+        },
+        {
+            "expansion_id": "198619",
+            "expansion_name": "DC Comics Dice Masters: Green Arrow and The Flash",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/198619"
+        },
+        {
+            "expansion_id": "229132",
+            "expansion_name": "DC Comics Dice Masters: Harley Quinn Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/229132"
+        },
+        {
+            "expansion_id": "246897",
+            "expansion_name": "DC Comics Dice Masters: Mystics Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/246897"
+        },
+        {
+            "expansion_id": "303810",
+            "expansion_name": "Dungeons & Dragons Dice Masters: Adventures in Waterdeep Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303810"
+        },
+        {
+            "expansion_id": "183482",
+            "expansion_name": "Dungeons & Dragons Dice Masters: Battle for Faerun - Minsc and Boo Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/183482"
+        },
+        {
+            "expansion_id": "268355",
+            "expansion_name": "Dungeons & Dragons Dice Masters: Promo Cards Set 1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268355"
+        },
+        {
+            "expansion_id": "268356",
+            "expansion_name": "Dungeons & Dragons Dice Masters: Promo Cards Set 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268356"
+        },
+        {
+            "expansion_id": "303813",
+            "expansion_name": "Dungeons & Dragons Dice Masters: The Zhentarim Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303813"
+        },
+        {
+            "expansion_id": "228674",
+            "expansion_name": "Dungeons & Dragons Dice Masters: Tomb of Annihilation",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228674"
+        },
+        {
+            "expansion_id": "253566",
+            "expansion_name": "Marvel Dice Masters: Dark X-Men Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253566"
+        },
+        {
+            "expansion_id": "198620",
+            "expansion_name": "Marvel Dice Masters: Deadpool",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/198620"
+        },
+        {
+            "expansion_id": "268340",
+            "expansion_name": "Marvel Dice Masters: Deadpool Family Values Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268340"
+        },
+        {
+            "expansion_id": "198618",
+            "expansion_name": "Marvel Dice Masters: Doctor Strange Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/198618"
+        },
+        {
+            "expansion_id": "268343",
+            "expansion_name": "Marvel Dice Masters: Exiles Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268343"
+        },
+        {
+            "expansion_id": "244295",
+            "expansion_name": "Marvel Dice Masters: Justice, Like Lightning... Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244295"
+        },
+        {
+            "expansion_id": "244296",
+            "expansion_name": "Marvel Dice Masters: Kree Invasion Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244296"
+        },
+        {
+            "expansion_id": "268345",
+            "expansion_name": "Marvel Dice Masters: Rocket and Groot Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268345"
+        },
+        {
+            "expansion_id": "223601",
+            "expansion_name": "Marvel Dice Masters: Spider-Man Maximum Carnage Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/223601"
+        },
+        {
+            "expansion_id": "268347",
+            "expansion_name": "Marvel Dice Masters: The Brotherhood Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268347"
+        },
+        {
+            "expansion_id": "208917",
+            "expansion_name": "Marvel Dice Masters: The Defenders Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/208917"
+        },
+        {
+            "expansion_id": "225643",
+            "expansion_name": "Marvel Dice Masters: The Mighty Thor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/225643"
+        },
+        {
+            "expansion_id": "268342",
+            "expansion_name": "Marvel Dice Masters: Uncanny Inhumans Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268342"
+        },
+        {
+            "expansion_id": "253565",
+            "expansion_name": "Marvel Dice Masters: X-Force Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253565"
+        },
+        {
+            "expansion_id": "214817",
+            "expansion_name": "Marvel Dice Masters: X-Men First Class",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/214817"
+        },
+        {
+            "expansion_id": "268341",
+            "expansion_name": "Marvel Dice Masters: Xavier's School Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/268341"
+        },
+        {
+            "expansion_id": "270942",
+            "expansion_name": "Warhammer 40,000 Dice Masters: Blood Angels - Black Rage Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/270942"
+        },
+        {
+            "expansion_id": "270941",
+            "expansion_name": "Warhammer 40,000 Dice Masters: Dark Angels - The First Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/270941"
+        },
+        {
+            "expansion_id": "242771",
+            "expansion_name": "Warhammer 40,000 Dice Masters: Orks - WAAAGH! Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/242771"
+        },
+        {
+            "expansion_id": "242776",
+            "expansion_name": "Warhammer 40,000 Dice Masters: Space Wolves - Sons of Russ Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/242776"
+        },
+        {
+            "expansion_id": "280474",
+            "expansion_name": "WWE Dice Masters: Bitter Rivals Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/280474"
+        },
+        {
+            "expansion_id": "280473",
+            "expansion_name": "WWE Dice Masters: Tag Teams Team Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/280473"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Mike Elliott; Eric M. Lang",
+    "categories_string": "Collectible Components; Dice; Fantasy; Fighting",
+    "mechanics_string": "Deck, Bag, and Pool Building; Dice Rolling; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '202098', 'expansion_name': 'DC Comics Dice Masters: Batman', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202098'}; {'expansion_id': '246899', 'expansion_name': 'DC Comics Dice Masters: Doom Patrol Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246899'}; {'expansion_id': '198619', 'expansion_name': 'DC Comics Dice Masters: Green Arrow and The Flash', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/198619'}; {'expansion_id': '229132', 'expansion_name': 'DC Comics Dice Masters: Harley Quinn Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/229132'}; {'expansion_id': '246897', 'expansion_name': 'DC Comics Dice Masters: Mystics Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/246897'}; {'expansion_id': '303810', 'expansion_name': 'Dungeons & Dragons Dice Masters: Adventures in Waterdeep Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303810'}; {'expansion_id': '183482', 'expansion_name': 'Dungeons & Dragons Dice Masters: Battle for Faerun - Minsc and Boo Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/183482'}; {'expansion_id': '268355', 'expansion_name': 'Dungeons & Dragons Dice Masters: Promo Cards Set 1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268355'}; {'expansion_id': '268356', 'expansion_name': 'Dungeons & Dragons Dice Masters: Promo Cards Set 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268356'}; {'expansion_id': '303813', 'expansion_name': 'Dungeons & Dragons Dice Masters: The Zhentarim Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303813'}; {'expansion_id': '228674', 'expansion_name': 'Dungeons & Dragons Dice Masters: Tomb of Annihilation', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228674'}; {'expansion_id': '253566', 'expansion_name': 'Marvel Dice Masters: Dark X-Men Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253566'}; {'expansion_id': '198620', 'expansion_name': 'Marvel Dice Masters: Deadpool', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/198620'}; {'expansion_id': '268340', 'expansion_name': 'Marvel Dice Masters: Deadpool Family Values Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268340'}; {'expansion_id': '198618', 'expansion_name': 'Marvel Dice Masters: Doctor Strange Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/198618'}; {'expansion_id': '268343', 'expansion_name': 'Marvel Dice Masters: Exiles Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268343'}; {'expansion_id': '244295', 'expansion_name': 'Marvel Dice Masters: Justice, Like Lightning... Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244295'}; {'expansion_id': '244296', 'expansion_name': 'Marvel Dice Masters: Kree Invasion Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244296'}; {'expansion_id': '268345', 'expansion_name': 'Marvel Dice Masters: Rocket and Groot Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268345'}; {'expansion_id': '223601', 'expansion_name': 'Marvel Dice Masters: Spider-Man Maximum Carnage Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/223601'}; {'expansion_id': '268347', 'expansion_name': 'Marvel Dice Masters: The Brotherhood Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268347'}; {'expansion_id': '208917', 'expansion_name': 'Marvel Dice Masters: The Defenders Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/208917'}; {'expansion_id': '225643', 'expansion_name': 'Marvel Dice Masters: The Mighty Thor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/225643'}; {'expansion_id': '268342', 'expansion_name': 'Marvel Dice Masters: Uncanny Inhumans Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268342'}; {'expansion_id': '253565', 'expansion_name': 'Marvel Dice Masters: X-Force Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253565'}; {'expansion_id': '214817', 'expansion_name': 'Marvel Dice Masters: X-Men First Class', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/214817'}; {'expansion_id': '268341', 'expansion_name': \"Marvel Dice Masters: Xavier's School Promo Cards\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/268341'}; {'expansion_id': '270942', 'expansion_name': 'Warhammer 40,000 Dice Masters: Blood Angels - Black Rage Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/270942'}; {'expansion_id': '270941', 'expansion_name': 'Warhammer 40,000 Dice Masters: Dark Angels - The First Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/270941'}; {'expansion_id': '242771', 'expansion_name': 'Warhammer 40,000 Dice Masters: Orks - WAAAGH! Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/242771'}; {'expansion_id': '242776', 'expansion_name': 'Warhammer 40,000 Dice Masters: Space Wolves - Sons of Russ Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/242776'}; {'expansion_id': '280474', 'expansion_name': 'WWE Dice Masters: Bitter Rivals Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/280474'}; {'expansion_id': '280473', 'expansion_name': 'WWE Dice Masters: Tag Teams Team Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/280473'}",
+    "expansions_for_string": ""
+}

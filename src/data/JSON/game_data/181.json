@@ -1,0 +1,98 @@
+{
+    "game_id": "181",
+    "game_name": "Risk",
+    "bgg_link": "https://boardgamegeek.com/boardgame/181",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "170533",
+            "geeklist_item_id": "3125353",
+            "year_month": "2014/03",
+            "year": "2014",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/170533/item/3125353#item3125353",
+            "geeklist_host": "pusherman42",
+            "contributor": "mo7189"
+        },
+        {
+            "geeklist_id": "262008",
+            "geeklist_item_id": "7382804",
+            "year_month": "2019/12",
+            "year": "2019",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262008/item/7382804#item7382804",
+            "geeklist_host": "jeffrhind",
+            "contributor": "thredith"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__thumb/img/5cltSV60oVvjL3Ag_KTJbmTdU6w=/fit-in/200x150/filters:strip_icc()/pic4916782.jpg",
+    "year_published": "1959",
+    "designers": [
+        "Albert Lamorisse",
+        "Michael I. Levin"
+    ],
+    "weight": 2.08,
+    "rating": 5.59,
+    "play_time": "120",
+    "best": "2",
+    "recommended": "3",
+    "not_recommended": "188",
+    "categories": [
+        "Territory Building",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Dice Rolling",
+        "Player Elimination",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "299914",
+            "expansion_name": "Chaos Risk",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/299914"
+        },
+        {
+            "expansion_id": "131576",
+            "expansion_name": "Concurrent",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131576"
+        },
+        {
+            "expansion_id": "42921",
+            "expansion_name": "La Conquete du Monde revised",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42921"
+        },
+        {
+            "expansion_id": "37555",
+            "expansion_name": "Euro Risk",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37555"
+        },
+        {
+            "expansion_id": "21808",
+            "expansion_name": "Hyborian Risk",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21808"
+        },
+        {
+            "expansion_id": "18371",
+            "expansion_name": "Medieval Risk",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18371"
+        },
+        {
+            "expansion_id": "3755",
+            "expansion_name": "One World Dominion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/3755"
+        },
+        {
+            "expansion_id": "15004",
+            "expansion_name": "Risk 2042 (fan expansion for Risk / Axis & Allies)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/15004"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Albert Lamorisse; Michael I. Levin",
+    "categories_string": "Territory Building; Wargame",
+    "mechanics_string": "Area Movement; Dice Rolling; Player Elimination; Set Collection",
+    "expansions_string": "{'expansion_id': '299914', 'expansion_name': 'Chaos Risk', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/299914'}; {'expansion_id': '131576', 'expansion_name': 'Concurrent', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131576'}; {'expansion_id': '42921', 'expansion_name': 'La Conquete du Monde revised', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42921'}; {'expansion_id': '37555', 'expansion_name': 'Euro Risk', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37555'}; {'expansion_id': '21808', 'expansion_name': 'Hyborian Risk', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21808'}; {'expansion_id': '18371', 'expansion_name': 'Medieval Risk', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18371'}; {'expansion_id': '3755', 'expansion_name': 'One World Dominion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/3755'}; {'expansion_id': '15004', 'expansion_name': 'Risk 2042 (fan expansion for Risk / Axis & Allies)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/15004'}",
+    "expansions_for_string": ""
+}

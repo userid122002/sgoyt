@@ -1,0 +1,70 @@
+{
+    "game_id": "278824",
+    "game_name": "Rollecate",
+    "bgg_link": "https://boardgamegeek.com/boardgame/278824",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7594788",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7594788#item7594788",
+            "geeklist_host": "jwml",
+            "contributor": "Ibbo"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8107935",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8107935#item8107935",
+            "geeklist_host": "Swizze",
+            "contributor": "Ibbo"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Jy1YpV6w3xTBhpxXxRj5Sg__thumb/img/ziXi4nWsnMI_Y0mIDQTj_rv2PGc=/fit-in/200x150/filters:strip_icc()/pic5646560.png",
+    "year_published": "2019",
+    "designers": [
+        "Michiel de Wit"
+    ],
+    "weight": 1.67,
+    "rating": 6.83,
+    "play_time": "10 - 15",
+    "best": "1",
+    "recommended": "3",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Miniatures",
+        "Trains"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Network and Route Building",
+        "Push Your Luck",
+        "Set Collection",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "291104",
+            "expansion_name": "Rollecate: Broken Rails",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291104"
+        },
+        {
+            "expansion_id": "330703",
+            "expansion_name": "Rollecate: Stations",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/330703"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Michiel de Wit",
+    "categories_string": "Card Game; Miniatures; Trains",
+    "mechanics_string": "Dice Rolling; Hand Management; Network and Route Building; Push Your Luck; Set Collection; Tile Placement",
+    "expansions_string": "{'expansion_id': '291104', 'expansion_name': 'Rollecate: Broken Rails', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291104'}; {'expansion_id': '330703', 'expansion_name': 'Rollecate: Stations', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/330703'}",
+    "expansions_for_string": ""
+}

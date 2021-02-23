@@ -1,0 +1,131 @@
+{
+    "game_id": "191051",
+    "game_name": "Outlive",
+    "bgg_link": "https://boardgamegeek.com/boardgame/191051",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5405594",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5405594#item5405594",
+            "geeklist_host": "maloma",
+            "contributor": "kevinruns262"
+        },
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5476751",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5476751#item5476751",
+            "geeklist_host": "koinskyz",
+            "contributor": "bobpony"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5923572",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5923572#item5923572",
+            "geeklist_host": "Jorune",
+            "contributor": "busdjur"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6023376",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6023376#item6023376",
+            "geeklist_host": "busdjur",
+            "contributor": "enzo622"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6144119",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6144119#item6144119",
+            "geeklist_host": "Pjandy",
+            "contributor": "RadKit"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6210099",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6210099#item6210099",
+            "geeklist_host": "Gribbon",
+            "contributor": "camidon"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7609349",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7609349#item7609349",
+            "geeklist_host": "jwml",
+            "contributor": "enzo622"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/EMl8sVObQQmJFiZJnwfrXw__thumb/img/O1tVSJbqG9Jm9hNwuZDzS8W1Jrw=/fit-in/200x150/filters:strip_icc()/pic3021719.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Gregory Oliver"
+    ],
+    "weight": 3.02,
+    "rating": 7.37,
+    "play_time": "40 - 110",
+    "best": "2",
+    "recommended": "14",
+    "not_recommended": "20",
+    "categories": [
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Set Collection",
+        "Variable Player Powers",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "261663",
+            "expansion_name": "Outlive: Underwater",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/261663"
+        },
+        {
+            "expansion_id": "256951",
+            "expansion_name": "Brettspiel Adventskalender 2018",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256951"
+        },
+        {
+            "expansion_id": "228048",
+            "expansion_name": "Outlive: Kickstarter Exclusives",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228048"
+        },
+        {
+            "expansion_id": "243965",
+            "expansion_name": "Outlive: Leader - Greg & Emmy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/243965"
+        },
+        {
+            "expansion_id": "293240",
+            "expansion_name": "Super Power",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293240"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Gregory Oliver",
+    "categories_string": "Science Fiction",
+    "mechanics_string": "Area Movement; Set Collection; Variable Player Powers; Worker Placement",
+    "expansions_string": "{'expansion_id': '261663', 'expansion_name': 'Outlive: Underwater', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/261663'}; {'expansion_id': '256951', 'expansion_name': 'Brettspiel Adventskalender 2018', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256951'}; {'expansion_id': '228048', 'expansion_name': 'Outlive: Kickstarter Exclusives', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228048'}; {'expansion_id': '243965', 'expansion_name': 'Outlive: Leader - Greg & Emmy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/243965'}; {'expansion_id': '293240', 'expansion_name': 'Super Power', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293240'}",
+    "expansions_for_string": ""
+}

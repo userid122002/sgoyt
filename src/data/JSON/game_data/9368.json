@@ -1,0 +1,51 @@
+{
+    "game_id": "9368",
+    "game_name": "Ave Tenebrae",
+    "bgg_link": "https://boardgamegeek.com/boardgame/9368",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7839066",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7839066#item7839066",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/wdVxRi6zzci7MIJIaR7frA__thumb/img/DATPeLPk9N-MIs8awJIvGhZKuBY=/fit-in/200x150/filters:strip_icc()/pic73874.jpg",
+    "year_published": "1982",
+    "designers": [
+        "Francois Marcela-Froideval"
+    ],
+    "weight": 3.17,
+    "rating": 5.48,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Fantasy",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "38002",
+            "expansion_name": "Fiefs et Empires",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38002"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Francois Marcela-Froideval",
+    "categories_string": "Fantasy; Wargame",
+    "mechanics_string": "Dice Rolling; Hexagon Grid; Simulation",
+    "expansions_string": "{'expansion_id': '38002', 'expansion_name': 'Fiefs et Empires', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38002'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,54 @@
+{
+    "game_id": "138072",
+    "game_name": "Snowdonia: Lost Train Promo Card",
+    "bgg_link": "https://boardgamegeek.com/boardgame/138072",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7970291",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7970291#item7970291",
+            "geeklist_host": "Albia",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/52WVnCRlXi65Gta-ngfPeA__thumb/img/aumHfbw0RqP82LVXpb81g2rnVNA=/fit-in/200x150/filters:strip_icc()/pic1574434.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Tony Boydell"
+    ],
+    "weight": 3.00,
+    "rating": 7.05,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Trains"
+    ],
+    "mechanics": [
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "119432",
+            "game_name": "Snowdonia",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/119432"
+        },
+        {
+            "game_id": "132425",
+            "game_name": "Snowdonia: Essen 2012 Promo Cards",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/132425"
+        }
+    ],
+    "designers_string": "Tony Boydell",
+    "categories_string": "Expansion for Base-game; Trains",
+    "mechanics_string": "Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '119432', 'game_name': 'Snowdonia', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/119432'}; {'game_id': '132425', 'game_name': 'Snowdonia: Essen 2012 Promo Cards', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/132425'}"
+}

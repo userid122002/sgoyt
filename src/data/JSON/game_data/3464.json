@@ -1,0 +1,91 @@
+{
+    "game_id": "3464",
+    "game_name": "Melee",
+    "bgg_link": "https://boardgamegeek.com/boardgame/3464",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7039355",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7039355#item7039355",
+            "geeklist_host": "labrhat22",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/DZDv2n3L_T3CRK_aqNlJ0A__thumb/img/plL2z14lECJhXf0BzpaiElcwiFQ=/fit-in/200x150/filters:strip_icc()/pic4711280.jpg",
+    "year_published": "1977",
+    "designers": [
+        "Steve Jackson (I)"
+    ],
+    "weight": 2.29,
+    "rating": 7.30,
+    "play_time": "15",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "7",
+    "categories": [
+        "Adventure",
+        "Fantasy",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Line of Sight",
+        "Scenario / Mission / Campaign Game",
+        "Simulation",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "17729",
+            "expansion_name": "Death Test",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/17729"
+        },
+        {
+            "expansion_id": "19605",
+            "expansion_name": "Death Test 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/19605"
+        },
+        {
+            "expansion_id": "18160",
+            "expansion_name": "Grail Quest",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18160"
+        },
+        {
+            "expansion_id": "16651",
+            "expansion_name": "Master of the Amulets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/16651"
+        },
+        {
+            "expansion_id": "18161",
+            "expansion_name": "Orb Quest",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18161"
+        },
+        {
+            "expansion_id": "16650",
+            "expansion_name": "Security Station",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/16650"
+        },
+        {
+            "expansion_id": "16667",
+            "expansion_name": "Treasure of the Silver Dragon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/16667"
+        },
+        {
+            "expansion_id": "16668",
+            "expansion_name": "Treasure of Unicorn Gold",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/16668"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Steve Jackson (I)",
+    "categories_string": "Adventure; Fantasy; Wargame",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Line of Sight; Scenario / Mission / Campaign Game; Simulation; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '17729', 'expansion_name': 'Death Test', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/17729'}; {'expansion_id': '19605', 'expansion_name': 'Death Test 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/19605'}; {'expansion_id': '18160', 'expansion_name': 'Grail Quest', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18160'}; {'expansion_id': '16651', 'expansion_name': 'Master of the Amulets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/16651'}; {'expansion_id': '18161', 'expansion_name': 'Orb Quest', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18161'}; {'expansion_id': '16650', 'expansion_name': 'Security Station', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/16650'}; {'expansion_id': '16667', 'expansion_name': 'Treasure of the Silver Dragon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/16667'}; {'expansion_id': '16668', 'expansion_name': 'Treasure of Unicorn Gold', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/16668'}",
+    "expansions_for_string": ""
+}

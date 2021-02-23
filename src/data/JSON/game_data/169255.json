@@ -1,0 +1,341 @@
+{
+    "game_id": "169255",
+    "game_name": "A Game of Thrones: The Card Game (Second Edition)",
+    "bgg_link": "https://boardgamegeek.com/boardgame/169255",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6357560",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6357560#item6357560",
+            "geeklist_host": "dobrazil",
+            "contributor": "Turnpike"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "7013595",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/7013595#item7013595",
+            "geeklist_host": "magic_erwt",
+            "contributor": "MadMihi"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/2gP4Uti9RPquZVlweeapLw__thumb/img/fe1ELDopk_qSeiDruI0hs8nmzSQ=/fit-in/200x150/filters:strip_icc()/pic2783386.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Nate French",
+        "Eric M. Lang"
+    ],
+    "weight": 3.53,
+    "rating": 7.57,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "40",
+    "categories": [
+        "Bluffing",
+        "Card Game",
+        "Collectible Components",
+        "Fantasy",
+        "Fighting",
+        "Medieval",
+        "Negotiation",
+        "Novel-based",
+        "Political"
+    ],
+    "mechanics": [
+        "Alliances",
+        "Card Drafting",
+        "Hand Management",
+        "Simultaneous Action Selection",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "194198",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Across the Seven Kingdoms",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194198"
+        },
+        {
+            "expansion_id": "218983",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - All Men Are Fools",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218983"
+        },
+        {
+            "expansion_id": "277567",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - At the Gates",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/277567"
+        },
+        {
+            "expansion_id": "278302",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Beneath the Red Keep",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278302"
+        },
+        {
+            "expansion_id": "196619",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Called to Arms",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196619"
+        },
+        {
+            "expansion_id": "191236",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Calm over Westeros",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/191236"
+        },
+        {
+            "expansion_id": "277578",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - City of Secrets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/277578"
+        },
+        {
+            "expansion_id": "258651",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Daggers in the Dark",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/258651"
+        },
+        {
+            "expansion_id": "294384",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Dragons of the East",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/294384"
+        },
+        {
+            "expansion_id": "239939",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Favor of the Old Gods",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239939"
+        },
+        {
+            "expansion_id": "200634",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - For Family Honor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/200634"
+        },
+        {
+            "expansion_id": "279766",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Fury of the Storm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279766"
+        },
+        {
+            "expansion_id": "212312",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Ghosts of Harrenhal",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/212312"
+        },
+        {
+            "expansion_id": "224754",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Guarding the Realm",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/224754"
+        },
+        {
+            "expansion_id": "251487",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - House Baratheon Intro Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251487"
+        },
+        {
+            "expansion_id": "251486",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - House Greyjoy Intro Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251486"
+        },
+        {
+            "expansion_id": "251485",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - House Lannister Intro Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251485"
+        },
+        {
+            "expansion_id": "251490",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - House Martell Intro Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251490"
+        },
+        {
+            "expansion_id": "236435",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - House of Thorns",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/236435"
+        },
+        {
+            "expansion_id": "251484",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - House Stark Intro Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251484"
+        },
+        {
+            "expansion_id": "251491",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - House Targaryen Intro Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251491"
+        },
+        {
+            "expansion_id": "251488",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - House Tyrell Intro Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251488"
+        },
+        {
+            "expansion_id": "297207",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Ice and Fire Draft Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/297207"
+        },
+        {
+            "expansion_id": "258652",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - In Daznak's Pit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/258652"
+        },
+        {
+            "expansion_id": "235543",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Journey to Oldtown",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/235543"
+        },
+        {
+            "expansion_id": "262638",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Kings of the Isles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/262638"
+        },
+        {
+            "expansion_id": "237731",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Kingsmoot",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/237731"
+        },
+        {
+            "expansion_id": "201277",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Lions of Casterly Rock",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/201277"
+        },
+        {
+            "expansion_id": "282256",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Long May He Reign",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/282256"
+        },
+        {
+            "expansion_id": "258730",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Music of Dragons",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/258730"
+        },
+        {
+            "expansion_id": "251492",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Night's Watch Intro Deck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/251492"
+        },
+        {
+            "expansion_id": "185060",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - No Middle Ground",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185060"
+        },
+        {
+            "expansion_id": "227881",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Oberyn's Revenge",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227881"
+        },
+        {
+            "expansion_id": "277419",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Pit of Snakes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/277419"
+        },
+        {
+            "expansion_id": "245349",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Sands of Dorne",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/245349"
+        },
+        {
+            "expansion_id": "247709",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Someone Always Tells",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/247709"
+        },
+        {
+            "expansion_id": "258136",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Streets of King's Landing",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/258136"
+        },
+        {
+            "expansion_id": "179601",
+            "expansion_name": "A Game of Thrones: The Card Game (Second edition) - Taking the Black",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179601"
+        },
+        {
+            "expansion_id": "236467",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The Archmaester's Key",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/236467"
+        },
+        {
+            "expansion_id": "282711",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The Blackwater",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/282711"
+        },
+        {
+            "expansion_id": "228665",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The Brotherhood Without Banners",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228665"
+        },
+        {
+            "expansion_id": "245336",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The Faith Militant",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/245336"
+        },
+        {
+            "expansion_id": "226880",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The Fall of Astapor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/226880"
+        },
+        {
+            "expansion_id": "182995",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The King's Peace",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182995"
+        },
+        {
+            "expansion_id": "253380",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The March on Winterfell",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253380"
+        },
+        {
+            "expansion_id": "225567",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The Red Wedding",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/225567"
+        },
+        {
+            "expansion_id": "181458",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The Road to Winterfell",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181458"
+        },
+        {
+            "expansion_id": "247710",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - The Shadow City",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/247710"
+        },
+        {
+            "expansion_id": "294341",
+            "expansion_name": "A Game of Thrones: The Card Game (Second edition) - The Things We Do for Love",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/294341"
+        },
+        {
+            "expansion_id": "204029",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - There is My Claim",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204029"
+        },
+        {
+            "expansion_id": "193060",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - True Steel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193060"
+        },
+        {
+            "expansion_id": "218174",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Tyrion's Chain",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218174"
+        },
+        {
+            "expansion_id": "217960",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Watchers on the Wall",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/217960"
+        },
+        {
+            "expansion_id": "297205",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Westeros Draft Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/297205"
+        },
+        {
+            "expansion_id": "189169",
+            "expansion_name": "A Game of Thrones: The Card Game (Second Edition) - Wolves of the North",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189169"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Nate French; Eric M. Lang",
+    "categories_string": "Bluffing; Card Game; Collectible Components; Fantasy; Fighting; Medieval; Negotiation; Novel-based; Political",
+    "mechanics_string": "Alliances; Card Drafting; Hand Management; Simultaneous Action Selection; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '194198', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Across the Seven Kingdoms', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194198'}; {'expansion_id': '218983', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - All Men Are Fools', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218983'}; {'expansion_id': '277567', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - At the Gates', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/277567'}; {'expansion_id': '278302', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Beneath the Red Keep', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278302'}; {'expansion_id': '196619', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Called to Arms', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196619'}; {'expansion_id': '191236', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Calm over Westeros', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/191236'}; {'expansion_id': '277578', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - City of Secrets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/277578'}; {'expansion_id': '258651', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Daggers in the Dark', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/258651'}; {'expansion_id': '294384', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Dragons of the East', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/294384'}; {'expansion_id': '239939', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Favor of the Old Gods', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239939'}; {'expansion_id': '200634', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - For Family Honor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/200634'}; {'expansion_id': '279766', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Fury of the Storm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279766'}; {'expansion_id': '212312', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Ghosts of Harrenhal', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/212312'}; {'expansion_id': '224754', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Guarding the Realm', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/224754'}; {'expansion_id': '251487', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - House Baratheon Intro Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251487'}; {'expansion_id': '251486', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - House Greyjoy Intro Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251486'}; {'expansion_id': '251485', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - House Lannister Intro Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251485'}; {'expansion_id': '251490', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - House Martell Intro Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251490'}; {'expansion_id': '236435', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - House of Thorns', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/236435'}; {'expansion_id': '251484', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - House Stark Intro Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251484'}; {'expansion_id': '251491', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - House Targaryen Intro Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251491'}; {'expansion_id': '251488', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - House Tyrell Intro Deck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251488'}; {'expansion_id': '297207', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Ice and Fire Draft Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/297207'}; {'expansion_id': '258652', 'expansion_name': \"A Game of Thrones: The Card Game (Second Edition) - In Daznak's Pit\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/258652'}; {'expansion_id': '235543', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Journey to Oldtown', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/235543'}; {'expansion_id': '262638', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Kings of the Isles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/262638'}; {'expansion_id': '237731', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Kingsmoot', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/237731'}; {'expansion_id': '201277', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Lions of Casterly Rock', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/201277'}; {'expansion_id': '282256', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Long May He Reign', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/282256'}; {'expansion_id': '258730', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Music of Dragons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/258730'}; {'expansion_id': '251492', 'expansion_name': \"A Game of Thrones: The Card Game (Second Edition) - Night's Watch Intro Deck\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/251492'}; {'expansion_id': '185060', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - No Middle Ground', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185060'}; {'expansion_id': '227881', 'expansion_name': \"A Game of Thrones: The Card Game (Second Edition) - Oberyn's Revenge\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227881'}; {'expansion_id': '277419', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Pit of Snakes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/277419'}; {'expansion_id': '245349', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Sands of Dorne', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/245349'}; {'expansion_id': '247709', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Someone Always Tells', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/247709'}; {'expansion_id': '258136', 'expansion_name': \"A Game of Thrones: The Card Game (Second Edition) - Streets of King's Landing\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/258136'}; {'expansion_id': '179601', 'expansion_name': 'A Game of Thrones: The Card Game (Second edition) - Taking the Black', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179601'}; {'expansion_id': '236467', 'expansion_name': \"A Game of Thrones: The Card Game (Second Edition) - The Archmaester's Key\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/236467'}; {'expansion_id': '282711', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - The Blackwater', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/282711'}; {'expansion_id': '228665', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - The Brotherhood Without Banners', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228665'}; {'expansion_id': '245336', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - The Faith Militant', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/245336'}; {'expansion_id': '226880', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - The Fall of Astapor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/226880'}; {'expansion_id': '182995', 'expansion_name': \"A Game of Thrones: The Card Game (Second Edition) - The King's Peace\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182995'}; {'expansion_id': '253380', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - The March on Winterfell', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253380'}; {'expansion_id': '225567', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - The Red Wedding', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/225567'}; {'expansion_id': '181458', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - The Road to Winterfell', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181458'}; {'expansion_id': '247710', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - The Shadow City', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/247710'}; {'expansion_id': '294341', 'expansion_name': 'A Game of Thrones: The Card Game (Second edition) - The Things We Do for Love', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/294341'}; {'expansion_id': '204029', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - There is My Claim', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204029'}; {'expansion_id': '193060', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - True Steel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193060'}; {'expansion_id': '218174', 'expansion_name': \"A Game of Thrones: The Card Game (Second Edition) - Tyrion's Chain\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218174'}; {'expansion_id': '217960', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Watchers on the Wall', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/217960'}; {'expansion_id': '297205', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Westeros Draft Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/297205'}; {'expansion_id': '189169', 'expansion_name': 'A Game of Thrones: The Card Game (Second Edition) - Wolves of the North', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189169'}",
+    "expansions_for_string": ""
+}

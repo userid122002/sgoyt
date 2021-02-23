@@ -1,0 +1,60 @@
+{
+    "game_id": "103649",
+    "game_name": "The City",
+    "bgg_link": "https://boardgamegeek.com/boardgame/103649",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3227933",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3227933#item3227933",
+            "geeklist_host": "fractaloon",
+            "contributor": "sascha36"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/sSuL2M_3ukm0Nj3Z2jGaUA__thumb/img/fARe1anDcPA71e4SjlsogJFhn7g=/fit-in/200x150/filters:strip_icc()/pic4495514.png",
+    "year_published": "2011",
+    "designers": [
+        "Thomas Lehmann"
+    ],
+    "weight": 1.56,
+    "rating": 6.55,
+    "play_time": "30",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "17",
+    "categories": [
+        "Card Game",
+        "City Building"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "291697",
+            "expansion_name": "The City: Eco expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291697"
+        },
+        {
+            "expansion_id": "318481",
+            "expansion_name": "The City: Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/318481"
+        },
+        {
+            "expansion_id": "270603",
+            "expansion_name": "The City: The Expanded City",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/270603"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Thomas Lehmann",
+    "categories_string": "Card Game; City Building",
+    "mechanics_string": "Hand Management; Simultaneous Action Selection",
+    "expansions_string": "{'expansion_id': '291697', 'expansion_name': 'The City: Eco expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291697'}; {'expansion_id': '318481', 'expansion_name': 'The City: Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/318481'}; {'expansion_id': '270603', 'expansion_name': 'The City: The Expanded City', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/270603'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,72 @@
+{
+    "game_id": "96913",
+    "game_name": "Lancaster",
+    "bgg_link": "https://boardgamegeek.com/boardgame/96913",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3548822",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3548822#item3548822",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "casey nedry"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4010062",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4010062#item4010062",
+            "geeklist_host": "joestin",
+            "contributor": "splittist"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/8e4XYBOnFKGMoiW591ih8g__thumb/img/dsG2vzx6pcFyxghLg_dww9NcHOQ=/fit-in/200x150/filters:strip_icc()/pic1280761.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Matthias Cramer"
+    ],
+    "weight": 2.99,
+    "rating": 7.42,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "88",
+    "categories": [
+        "Medieval"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Auction/Bidding",
+        "Voting",
+        "Worker Placement",
+        "Worker Placement, Different Worker Types"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "132150",
+            "expansion_name": "Lancaster: Henry V - The Power of the King",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132150"
+        },
+        {
+            "expansion_id": "132431",
+            "expansion_name": "Lancaster: Reward Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132431"
+        },
+        {
+            "expansion_id": "107863",
+            "expansion_name": "Lancaster: The New Laws",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/107863"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Matthias Cramer",
+    "categories_string": "Medieval",
+    "mechanics_string": "Area Majority / Influence; Auction/Bidding; Voting; Worker Placement; Worker Placement, Different Worker Types",
+    "expansions_string": "{'expansion_id': '132150', 'expansion_name': 'Lancaster: Henry V - The Power of the King', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132150'}; {'expansion_id': '132431', 'expansion_name': 'Lancaster: Reward Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132431'}; {'expansion_id': '107863', 'expansion_name': 'Lancaster: The New Laws', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/107863'}",
+    "expansions_for_string": ""
+}

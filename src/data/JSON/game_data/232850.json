@@ -1,0 +1,127 @@
+{
+    "game_id": "232850",
+    "game_name": "Deadball: 1909",
+    "bgg_link": "https://boardgamegeek.com/boardgame/232850",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5613890",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5613890#item5613890",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "paxdomina"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5734115",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5734115#item5734115",
+            "geeklist_host": "cornishlee",
+            "contributor": "paxdomina"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5738496",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5738496#item5738496",
+            "geeklist_host": "Albia",
+            "contributor": "TheStoicEmperor"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5744607",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5744607#item5744607",
+            "geeklist_host": "Albia",
+            "contributor": "TheStoicEmperor"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6118765",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6118765#item6118765",
+            "geeklist_host": "Pjandy",
+            "contributor": "TheStoicEmperor"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7247613",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7247613#item7247613",
+            "geeklist_host": "narcher007",
+            "contributor": "wolvesjr"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7610566",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7610566#item7610566",
+            "geeklist_host": "jwml",
+            "contributor": "Redheaded Pharmacist"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/nGUCapsBfrkj-6O-0rTwug__thumb/img/ixNUxy-O7CBPeaxuN54zOTGdnbs=/fit-in/200x150/filters:strip_icc()/pic3724400.jpg",
+    "year_published": "2017",
+    "designers": [
+        "W.M. Akers"
+    ],
+    "weight": 2.00,
+    "rating": 8.63,
+    "play_time": "15 - 30",
+    "best": "2",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Dice",
+        "Print & Play",
+        "Sports"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "255624",
+            "expansion_name": "Deadball: Year II",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/255624"
+        },
+        {
+            "expansion_id": "284915",
+            "expansion_name": "Deadball: Year III",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284915"
+        },
+        {
+            "expansion_id": "322206",
+            "expansion_name": "Deadball: Year IV",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/322206"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "224149",
+            "game_name": "Deadball",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/224149"
+        }
+    ],
+    "designers_string": "W.M. Akers",
+    "categories_string": "Dice; Print & Play; Sports",
+    "mechanics_string": "Dice Rolling; Simulation",
+    "expansions_string": "{'expansion_id': '255624', 'expansion_name': 'Deadball: Year II', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/255624'}; {'expansion_id': '284915', 'expansion_name': 'Deadball: Year III', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284915'}; {'expansion_id': '322206', 'expansion_name': 'Deadball: Year IV', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/322206'}",
+    "expansions_for_string": "{'game_id': '224149', 'game_name': 'Deadball', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/224149'}"
+}

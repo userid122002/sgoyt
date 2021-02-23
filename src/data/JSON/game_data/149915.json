@@ -1,0 +1,77 @@
+{
+    "game_id": "149915",
+    "game_name": "Descent: Journeys in the Dark (Second Edition) - Shadow of Nerekhall",
+    "bgg_link": "https://boardgamegeek.com/boardgame/149915",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5212689",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5212689#item5212689",
+            "geeklist_host": "Ibbo",
+            "contributor": "mil05006"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6066146",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6066146#item6066146",
+            "geeklist_host": "skeletonhat",
+            "contributor": "cyberdiscman"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6278983",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6278983#item6278983",
+            "geeklist_host": "emodiu5",
+            "contributor": "cyberdiscman"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/uCYMit1Mhw7zvinsXoLvYw__thumb/img/-Y8TC6Lby2X5aeXDyBhbWO5GHPM=/fit-in/200x150/filters:strip_icc()/pic1851077.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Justin Kemppainen"
+    ],
+    "weight": 3.27,
+    "rating": 8.35,
+    "play_time": "90",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "9",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Miniatures"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hand Management",
+        "Modular Board",
+        "Pick-up and Deliver"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "104162",
+            "game_name": "Descent: Journeys in the Dark (Second Edition)",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/104162"
+        }
+    ],
+    "designers_string": "Justin Kemppainen",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy; Fighting; Miniatures",
+    "mechanics_string": "Action Points; Dice Rolling; Grid Movement; Hand Management; Modular Board; Pick-up and Deliver",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '104162', 'game_name': 'Descent: Journeys in the Dark (Second Edition)', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/104162'}"
+}

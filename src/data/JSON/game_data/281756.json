@@ -1,0 +1,63 @@
+{
+    "game_id": "281756",
+    "game_name": "DinoGenics: Controlled Chaos",
+    "bgg_link": "https://boardgamegeek.com/boardgame/281756",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7826768",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7826768#item7826768",
+            "geeklist_host": "mithoron",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7830270",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7830270#item7830270",
+            "geeklist_host": "mithoron",
+            "contributor": "carbon_dragon"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/R8vcIdHIFOd0GMLpl0Zt4w__thumb/img/nwVlR0OvjUBU1juKxjWZc1LLJ2w=/fit-in/200x150/filters:strip_icc()/pic4781651.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Richard Keene"
+    ],
+    "weight": 3.10,
+    "rating": 8.25,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Prehistoric",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Set Collection",
+        "Tile Placement",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "210296",
+            "game_name": "DinoGenics",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/210296"
+        }
+    ],
+    "designers_string": "Richard Keene",
+    "categories_string": "Expansion for Base-game; Prehistoric; Science Fiction",
+    "mechanics_string": "Hand Management; Set Collection; Tile Placement; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '210296', 'game_name': 'DinoGenics', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/210296'}"
+}

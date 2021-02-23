@@ -1,0 +1,100 @@
+{
+    "game_id": "224363",
+    "game_name": "Arkham Horror: The Card Game - Lost in Time and Space: Mythos Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/224363",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5658417",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5658417#item5658417",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "kittenhoarder"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5677765",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5677765#item5677765",
+            "geeklist_host": "cornishlee",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6161672",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6161672#item6161672",
+            "geeklist_host": "Pjandy",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6785398",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6785398#item6785398",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "drpaj"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7421837",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7421837#item7421837",
+            "geeklist_host": "jomurph86",
+            "contributor": "thebinmann"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/OZ1ZTLYHNPTbYidi7kFeYg__thumb/img/_M_OgAdLmu2nh5ePB8p8V7SBGTE=/fit-in/200x150/filters:strip_icc()/pic3493370.png",
+    "year_published": "2017",
+    "designers": [
+        "Nate French",
+        "Matthew Newman"
+    ],
+    "weight": 3.57,
+    "rating": 8.33,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "6",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        },
+        {
+            "game_id": "208545",
+            "game_name": "Arkham Horror: The Card Game - The Dunwich Legacy: Expansion",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/208545"
+        }
+    ],
+    "designers_string": "Nate French; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}; {'game_id': '208545', 'game_name': 'Arkham Horror: The Card Game - The Dunwich Legacy: Expansion', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/208545'}"
+}

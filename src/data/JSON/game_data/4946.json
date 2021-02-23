@@ -1,0 +1,56 @@
+{
+    "game_id": "4946",
+    "game_name": "Formula De Circuits 23 - 26: USA Track Pack #1",
+    "bgg_link": "https://boardgamegeek.com/boardgame/4946",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "176697",
+            "geeklist_item_id": "3364430",
+            "year_month": "2014/08",
+            "year": "2014",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/176697/item/3364430#item3364430",
+            "geeklist_host": "petegs",
+            "contributor": "ad79"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/1VgwCebHJ738fUUgypIsDA__thumb/img/MGcXq_v9N1yliQh5qoXoq-5CWrc=/fit-in/200x150/filters:strip_icc()/pic16290.jpg",
+    "year_published": "1999",
+    "designers": [
+        "Laurent Lavaur",
+        "Eric Randall"
+    ],
+    "weight": 1.82,
+    "rating": 7.37,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Racing",
+        "Sports"
+    ],
+    "mechanics": [
+        "Roll / Spin and Move"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "37904",
+            "game_name": "Formula D",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/37904"
+        },
+        {
+            "game_id": "173",
+            "game_name": "Formula De",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/173"
+        }
+    ],
+    "designers_string": "Laurent Lavaur; Eric Randall",
+    "categories_string": "Expansion for Base-game; Racing; Sports",
+    "mechanics_string": "Roll / Spin and Move",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '37904', 'game_name': 'Formula D', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/37904'}; {'game_id': '173', 'game_name': 'Formula De', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/173'}"
+}

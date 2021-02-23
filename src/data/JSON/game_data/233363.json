@@ -1,0 +1,77 @@
+{
+    "game_id": "233363",
+    "game_name": "Oh My Goods!: Escape to Canyon Brook",
+    "bgg_link": "https://boardgamegeek.com/boardgame/233363",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5932411",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5932411#item5932411",
+            "geeklist_host": "radthanael",
+            "contributor": "charrm"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6781822",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6781822#item6781822",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "bills933"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6933022",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6933022#item6933022",
+            "geeklist_host": "Woelf",
+            "contributor": "bills933"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/CLlPAqvtxHXMy-hNBTKq4Q__thumb/img/Q7ZK-XFeqVsBbN_tKPdSPPI0Qso=/fit-in/200x150/filters:strip_icc()/pic3729077.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Alexander Pfister"
+    ],
+    "weight": 2.25,
+    "rating": 7.59,
+    "play_time": "45",
+    "best": "3",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Medieval",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Set Collection"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "183840",
+            "game_name": "Oh My Goods!",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/183840"
+        },
+        {
+            "game_id": "209323",
+            "game_name": "Oh My Goods!: Longsdale in Revolt",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/209323"
+        }
+    ],
+    "designers_string": "Alexander Pfister",
+    "categories_string": "Card Game; Expansion for Base-game; Medieval; Territory Building",
+    "mechanics_string": "Hand Management; Set Collection",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '183840', 'game_name': 'Oh My Goods!', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/183840'}; {'game_id': '209323', 'game_name': 'Oh My Goods!: Longsdale in Revolt', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/209323'}"
+}

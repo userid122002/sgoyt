@@ -1,0 +1,74 @@
+{
+    "game_id": "251387",
+    "game_name": "Dragonfire: Campaign - Moonshae Storms",
+    "bgg_link": "https://boardgamegeek.com/boardgame/251387",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6615551",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6615551#item6615551",
+            "geeklist_host": "squarepegsys",
+            "contributor": "threepointthed"
+        },
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6620810",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6620810#item6620810",
+            "geeklist_host": "squarepegsys",
+            "contributor": "threepointthed"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Wl6t9oCwgKMPZ1EBeUJkyA__thumb/img/Dr8rOuFN94fabObXtEHJq2TzBjc=/fit-in/200x150/filters:strip_icc()/pic4142478.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Randall N. Bills",
+        "Dylan Birtolo",
+        "Loren Coleman",
+        "Talon Coleman",
+        "Mike Elliott",
+        "Rob Heinsoo",
+        "Jim Lin",
+        "Gregory Marques",
+        "Sean McCarthy",
+        "Jay Schneider",
+        "Rob Watkins"
+    ],
+    "weight": 0.00,
+    "rating": 7.75,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "226501",
+            "game_name": "Dragonfire",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/226501"
+        }
+    ],
+    "designers_string": "Randall N. Bills; Dylan Birtolo; Loren Coleman; Talon Coleman; Mike Elliott; Rob Heinsoo; Jim Lin; Gregory Marques; Sean McCarthy; Jay Schneider; Rob Watkins",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Card Drafting; Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '226501', 'game_name': 'Dragonfire', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/226501'}"
+}

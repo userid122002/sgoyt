@@ -1,0 +1,81 @@
+{
+    "game_id": "205738",
+    "game_name": "Vikings Gone Wild: Ragnarok!",
+    "bgg_link": "https://boardgamegeek.com/boardgame/205738",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5237136",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5237136#item5237136",
+            "geeklist_host": "Ibbo",
+            "contributor": "sjliver"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5558997",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5558997#item5558997",
+            "geeklist_host": "kevinruns262",
+            "contributor": "sjliver"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5927711",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5927711#item5927711",
+            "geeklist_host": "Jorune",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/ELOQCCRX-jWBYIfuJ10vmA__thumb/img/nh_SMsNwWCjgjIJeFRNb8aizWWw=/fit-in/200x150/filters:strip_icc()/pic3363176.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Julien Vergonjeanne"
+    ],
+    "weight": 1.50,
+    "rating": 7.20,
+    "play_time": "40 - 90",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Humor",
+        "Medieval",
+        "Mythology",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "187377",
+            "game_name": "Vikings Gone Wild",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/187377"
+        },
+        {
+            "game_id": "219774",
+            "game_name": "Vikings Gone Wild Ultimate Set",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/219774"
+        }
+    ],
+    "designers_string": "Julien Vergonjeanne",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Humor; Medieval; Mythology; Video Game Theme",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Hand Management",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '187377', 'game_name': 'Vikings Gone Wild', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/187377'}; {'game_id': '219774', 'game_name': 'Vikings Gone Wild Ultimate Set', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/219774'}"
+}

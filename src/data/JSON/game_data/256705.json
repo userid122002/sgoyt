@@ -1,0 +1,77 @@
+{
+    "game_id": "256705",
+    "game_name": "Seasons of Rice",
+    "bgg_link": "https://boardgamegeek.com/boardgame/256705",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6578559",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6578559#item6578559",
+            "geeklist_host": "squarepegsys",
+            "contributor": "TacoKnight"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7657880",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7657880#item7657880",
+            "geeklist_host": "threepointthed",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7689309",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7689309#item7689309",
+            "geeklist_host": "gentle",
+            "contributor": "Brenoit"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/reaBPlaUou-GKPgUTL-jgQ__thumb/img/yFBHTGHvzLOcV5Qg4XN7lKb7v4M=/fit-in/200x150/filters:strip_icc()/pic4872869.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Corry Damey"
+    ],
+    "weight": 1.62,
+    "rating": 7.24,
+    "play_time": "20",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "3",
+    "categories": [
+        "Card Game",
+        "Farming",
+        "Print & Play"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "284848",
+            "expansion_name": "Seasons of Rice: Jasmine & Ginger",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284848"
+        },
+        {
+            "expansion_id": "284847",
+            "expansion_name": "Seasons of Rice: The Water Festival",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284847"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Corry Damey",
+    "categories_string": "Card Game; Farming; Print & Play",
+    "mechanics_string": "Card Drafting; Tile Placement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '284848', 'expansion_name': 'Seasons of Rice: Jasmine & Ginger', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284848'}; {'expansion_id': '284847', 'expansion_name': 'Seasons of Rice: The Water Festival', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284847'}",
+    "expansions_for_string": ""
+}

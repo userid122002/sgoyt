@@ -1,0 +1,94 @@
+{
+    "game_id": "221725",
+    "game_name": "Arkham Horror: The Card Game - Where Doom Awaits: Mythos Pack",
+    "bgg_link": "https://boardgamegeek.com/boardgame/221725",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5652974",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5652974#item5652974",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "kittenhoarder"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5677752",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5677752#item5677752",
+            "geeklist_host": "cornishlee",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6493105",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6493105#item6493105",
+            "geeklist_host": "kevinruns262",
+            "contributor": "thebinmann"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6768476",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6768476#item6768476",
+            "geeklist_host": "The_Omnius",
+            "contributor": "drpaj"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/IiupvBl5ci81u1RxQK9iCw__thumb/img/UMY56QI3g6ChtdhIGuVGgN4SnXE=/fit-in/200x150/filters:strip_icc()/pic3459711.png",
+    "year_published": "2017",
+    "designers": [
+        "Nate French",
+        "Matthew Newman"
+    ],
+    "weight": 3.64,
+    "rating": 8.14,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "5",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Collectible Components",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205637",
+            "game_name": "Arkham Horror: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205637"
+        },
+        {
+            "game_id": "208545",
+            "game_name": "Arkham Horror: The Card Game - The Dunwich Legacy: Expansion",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/208545"
+        }
+    ],
+    "designers_string": "Nate French; Matthew Newman",
+    "categories_string": "Adventure; Card Game; Collectible Components; Expansion for Base-game; Fantasy; Horror; Novel-based",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Role Playing; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205637', 'game_name': 'Arkham Horror: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205637'}; {'game_id': '208545', 'game_name': 'Arkham Horror: The Card Game - The Dunwich Legacy: Expansion', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/208545'}"
+}

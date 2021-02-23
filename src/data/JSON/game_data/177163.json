@@ -1,0 +1,91 @@
+{
+    "game_id": "177163",
+    "game_name": "The Lord of the Rings: The Card Game - The Land of Shadow",
+    "bgg_link": "https://boardgamegeek.com/boardgame/177163",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7634073",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7634073#item7634073",
+            "geeklist_host": "threepointthed",
+            "contributor": "Shellin"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7679729",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7679729#item7679729",
+            "geeklist_host": "gentle",
+            "contributor": "Shellin"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7689443",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7689443#item7689443",
+            "geeklist_host": "gentle",
+            "contributor": "Shellin"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8038779",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8038779#item8038779",
+            "geeklist_host": "airzonk1",
+            "contributor": "Lady Mondegreen"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/mYlCKWo-_GgQFZ244trxWA__thumb/img/vOT-jmnl-K-xhahEsdIoJOlbWcE=/fit-in/200x150/filters:strip_icc()/pic2783396.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Nate French",
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 3.14,
+    "rating": 8.29,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "227264",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Decks: The Land of Shadow",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/227264"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        }
+    ],
+    "designers_string": "Nate French; Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '227264', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Decks: The Land of Shadow', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/227264'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}"
+}

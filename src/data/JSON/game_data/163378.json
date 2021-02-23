@@ -1,0 +1,64 @@
+{
+    "game_id": "163378",
+    "game_name": "Zombie 15': Left Alone - Solo Campaign",
+    "bgg_link": "https://boardgamegeek.com/boardgame/163378",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4276599",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4276599#item4276599",
+            "geeklist_host": "rangerx",
+            "contributor": "Moe45673"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4278671",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4278671#item4278671",
+            "geeklist_host": "rangerx",
+            "contributor": "Moe45673"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/hbavEQBlvLTVYg7V4OACUw__thumb/img/BCW1a_chLMMibcPPBhNsg9X6vkc=/fit-in/200x150/filters:strip_icc()/pic2582987.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Guillaume Lemery",
+        "Nicolas Schlewitz"
+    ],
+    "weight": 2.50,
+    "rating": 7.06,
+    "play_time": "15",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Real-time",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "144826",
+            "game_name": "Zombie 15'",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/144826"
+        }
+    ],
+    "designers_string": "Guillaume Lemery; Nicolas Schlewitz",
+    "categories_string": "Expansion for Base-game; Real-time; Zombies",
+    "mechanics_string": "Action Points; Cooperative Game; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '144826', 'game_name': \"Zombie 15'\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/144826'}"
+}

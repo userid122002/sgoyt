@@ -1,0 +1,67 @@
+{
+    "game_id": "65996",
+    "game_name": "Le Havre: Le Grand Hameau",
+    "bgg_link": "https://boardgamegeek.com/boardgame/65996",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7411382",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7411382#item7411382",
+            "geeklist_host": "jomurph86",
+            "contributor": "swizit"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/gcRJIPiL-yamgpiaxgWVpg__thumb/img/AoRvkm0WUTGhWcs7okHUh4FtmU0=/fit-in/200x150/filters:strip_icc()/pic657431.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Grzegorz Kobiela",
+        "Uwe Rosenberg"
+    ],
+    "weight": 3.43,
+    "rating": 7.81,
+    "play_time": "150",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "2",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "86455",
+            "expansion_name": "Le Havre: Le Grand Hameau - Rattletrap car",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/86455"
+        },
+        {
+            "expansion_id": "132772",
+            "expansion_name": "Le Havre: Le Grand Hameau - Tablet with App",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132772"
+        },
+        {
+            "expansion_id": "86456",
+            "expansion_name": "Le Havre: Le Grand Hameau - Wholesale Bakery",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/86456"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "35677",
+            "game_name": "Le Havre",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/35677"
+        }
+    ],
+    "designers_string": "Grzegorz Kobiela; Uwe Rosenberg",
+    "categories_string": "Economic; Expansion for Base-game; Industry / Manufacturing",
+    "mechanics_string": "Worker Placement",
+    "expansions_string": "{'expansion_id': '86455', 'expansion_name': 'Le Havre: Le Grand Hameau - Rattletrap car', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/86455'}; {'expansion_id': '132772', 'expansion_name': 'Le Havre: Le Grand Hameau - Tablet with App', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132772'}; {'expansion_id': '86456', 'expansion_name': 'Le Havre: Le Grand Hameau - Wholesale Bakery', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/86456'}",
+    "expansions_for_string": "{'game_id': '35677', 'game_name': 'Le Havre', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/35677'}"
+}

@@ -1,0 +1,102 @@
+{
+    "game_id": "226846",
+    "game_name": "Feudum: The Queen's Army",
+    "bgg_link": "https://boardgamegeek.com/boardgame/226846",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6349866",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6349866#item6349866",
+            "geeklist_host": "dobrazil",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6488456",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6488456#item6488456",
+            "geeklist_host": "kevinruns262",
+            "contributor": "ColintheFlea"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6560455",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6560455#item6560455",
+            "geeklist_host": "Albia",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7628565",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7628565#item7628565",
+            "geeklist_host": "threepointthed",
+            "contributor": "SpaceAlien"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7807689",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7807689#item7807689",
+            "geeklist_host": "mithoron",
+            "contributor": "fdoug64"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/glLTlK1djjY54mgyjFW_xg__thumb/img/LPQ9V2jQpdh8m773f2rmrX_xsBs=/fit-in/200x150/filters:strip_icc()/pic3604115.png",
+    "year_published": "2018",
+    "designers": [
+        "Brian Neff",
+        "Mark K. Swanson",
+        "JR Honeycutt"
+    ],
+    "weight": 4.50,
+    "rating": 7.78,
+    "play_time": "80",
+    "best": "3",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Economic",
+        "Fantasy",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Action Queue",
+        "Area Majority / Influence",
+        "Hand Management",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "226905",
+            "expansion_name": "Feudum: The Queen's Army - Atticus Promotional Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/226905"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "163839",
+            "game_name": "Feudum",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/163839"
+        }
+    ],
+    "designers_string": "Brian Neff; Mark K. Swanson; JR Honeycutt",
+    "categories_string": "Adventure; Economic; Fantasy; Medieval",
+    "mechanics_string": "Action Queue; Area Majority / Influence; Hand Management; Simultaneous Action Selection",
+    "expansions_string": "{'expansion_id': '226905', 'expansion_name': \"Feudum: The Queen's Army - Atticus Promotional Card\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/226905'}",
+    "expansions_for_string": "{'game_id': '163839', 'game_name': 'Feudum', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/163839'}"
+}

@@ -1,0 +1,57 @@
+{
+    "game_id": "29311",
+    "game_name": "Tide of Iron:  Days of the Fox",
+    "bgg_link": "https://boardgamegeek.com/boardgame/29311",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "210694",
+            "geeklist_item_id": "4734915",
+            "year_month": "2016/07",
+            "year": "2016",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/210694/item/4734915#item4734915",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "casey nedry"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/RLDEhTF0bhdBIG4JZNpBOw__thumb/img/eSzdOlP_18NUiQS_TuPNIBEI8IM=/fit-in/200x150/filters:strip_icc()/pic2472392.png",
+    "year_published": "2008",
+    "designers": [
+        "Corey Konieczka"
+    ],
+    "weight": 3.17,
+    "rating": 7.75,
+    "play_time": "60 - 240",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Miniatures",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Modular Board"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "22825",
+            "game_name": "Tide of Iron",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/22825"
+        },
+        {
+            "game_id": "174402",
+            "game_name": "Tide of Iron: Next Wave",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/174402"
+        }
+    ],
+    "designers_string": "Corey Konieczka",
+    "categories_string": "Expansion for Base-game; Miniatures; Wargame; World War II",
+    "mechanics_string": "Dice Rolling; Modular Board",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '22825', 'game_name': 'Tide of Iron', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/22825'}; {'game_id': '174402', 'game_name': 'Tide of Iron: Next Wave', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/174402'}"
+}

@@ -1,0 +1,85 @@
+{
+    "game_id": "139766",
+    "game_name": "Flash Point: Fire Rescue - Extreme Danger",
+    "bgg_link": "https://boardgamegeek.com/boardgame/139766",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3247110",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3247110#item3247110",
+            "geeklist_host": "fractaloon",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4147945",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4147945#item4147945",
+            "geeklist_host": "lukather",
+            "contributor": "Moe45673"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5051262",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5051262#item5051262",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Firedrake"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/0Is0anMyQqaSb5nMCbj0PQ__thumb/img/yLhjrjkjNL8MwbwLhFIpPFHvRHQ=/fit-in/200x150/filters:strip_icc()/pic2008476.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Lutz Pietschker"
+    ],
+    "weight": 2.33,
+    "rating": 7.75,
+    "play_time": "45",
+    "best": "1",
+    "recommended": "6",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Simulation",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "168849",
+            "expansion_name": "Flash Point: Fire Rescue - Extreme Danger Kickstarter Bonus Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/168849"
+        },
+        {
+            "expansion_id": "162616",
+            "expansion_name": "Flash Point: Fire Rescue - Honor & Duty",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/162616"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "100901",
+            "game_name": "Flash Point: Fire Rescue",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/100901"
+        }
+    ],
+    "designers_string": "Lutz Pietschker",
+    "categories_string": "Adventure; Expansion for Base-game",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Grid Movement; Simulation; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '168849', 'expansion_name': 'Flash Point: Fire Rescue - Extreme Danger Kickstarter Bonus Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/168849'}; {'expansion_id': '162616', 'expansion_name': 'Flash Point: Fire Rescue - Honor & Duty', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/162616'}",
+    "expansions_for_string": "{'game_id': '100901', 'game_name': 'Flash Point: Fire Rescue', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/100901'}"
+}

@@ -1,0 +1,64 @@
+{
+    "game_id": "202976",
+    "game_name": "7 Wonders Duel: Pantheon",
+    "bgg_link": "https://boardgamegeek.com/boardgame/202976",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6808094",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6808094#item6808094",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6814162",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6814162#item6814162",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "MadMihi"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/iQRqtxgRuh-4J5vYLdhsMg__thumb/img/7KX-iJ5e3ZW0LnbEd9OQHRSpHG8=/fit-in/200x150/filters:strip_icc()/pic3143885.png",
+    "year_published": "2016",
+    "designers": [
+        "Antoine Bauza",
+        "Bruno Cathala"
+    ],
+    "weight": 2.30,
+    "rating": 8.03,
+    "play_time": "30 - 45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "64",
+    "categories": [
+        "Ancient",
+        "Card Game",
+        "City Building",
+        "Civilization",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Set Collection"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "173346",
+            "game_name": "7 Wonders Duel",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/173346"
+        }
+    ],
+    "designers_string": "Antoine Bauza; Bruno Cathala",
+    "categories_string": "Ancient; Card Game; City Building; Civilization; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Set Collection",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '173346', 'game_name': '7 Wonders Duel', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/173346'}"
+}

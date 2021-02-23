@@ -1,0 +1,74 @@
+{
+    "game_id": "163498",
+    "game_name": "Run, Fight, or Die!: Expansion Pack 3",
+    "bgg_link": "https://boardgamegeek.com/boardgame/163498",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4958797",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4958797#item4958797",
+            "geeklist_host": "maloma",
+            "contributor": "eracer68"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5387464",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5387464#item5387464",
+            "geeklist_host": "maloma",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7901588",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7901588#item7901588",
+            "geeklist_host": "Elida",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/d_SoNsJL0xrMB49qtEP5IQ__thumb/img/6zHLVd_cohOL9F7h9eSaBKHi6Fs=/fit-in/200x150/filters:strip_icc()/pic4082277.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Richard Launius"
+    ],
+    "weight": 2.00,
+    "rating": 7.09,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Horror",
+        "Miniatures",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Push Your Luck",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "89910",
+            "game_name": "Run, Fight, or Die!",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/89910"
+        }
+    ],
+    "designers_string": "Richard Launius",
+    "categories_string": "Dice; Horror; Miniatures; Zombies",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Push Your Luck; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '89910', 'game_name': 'Run, Fight, or Die!', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/89910'}"
+}

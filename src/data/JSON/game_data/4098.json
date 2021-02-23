@@ -1,0 +1,732 @@
+{
+    "game_id": "4098",
+    "game_name": "Age of Steam",
+    "bgg_link": "https://boardgamegeek.com/boardgame/4098",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3867431",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3867431#item3867431",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "telengard"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4359792",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4359792#item4359792",
+            "geeklist_host": "suzyvitale",
+            "contributor": "travisdhill"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5098151",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5098151#item5098151",
+            "geeklist_host": "mikolajl",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5373585",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5373585#item5373585",
+            "geeklist_host": "maloma",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5982750",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5982750#item5982750",
+            "geeklist_host": "radthanael",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7620669",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7620669#item7620669",
+            "geeklist_host": "threepointthed",
+            "contributor": "ubiquitousp"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7778360",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7778360#item7778360",
+            "geeklist_host": "repairmanjack",
+            "contributor": "game green"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7839105",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7839105#item7839105",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "alexankh"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/gBPzZsgm9nrUYVfdK216NA__thumb/img/aceZ647BbV53Yv7rod9AwpTTst0=/fit-in/200x150/filters:strip_icc()/pic4557340.png",
+    "year_published": "2002",
+    "designers": [
+        "Martin Wallace"
+    ],
+    "weight": 3.90,
+    "rating": 7.78,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "14",
+    "not_recommended": "75",
+    "categories": [
+        "Economic",
+        "Trains",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Catch the Leader",
+        "Connections",
+        "Dice Rolling",
+        "Loans",
+        "Network and Route Building",
+        "Pick-up and Deliver",
+        "Player Elimination",
+        "Scenario / Mission / Campaign Game",
+        "Selection Order Bid",
+        "Tile Placement",
+        "Turn Order: Auction",
+        "Victory Points as a Resource"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "303949",
+            "expansion_name": "Age of Steam Deluxe Expansion: Detroit Bankruptcy & Heavy Cardboard Maps",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/303949"
+        },
+        {
+            "expansion_id": "297784",
+            "expansion_name": "Age of Steam Deluxe Expansion: France & Poland Maps",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/297784"
+        },
+        {
+            "expansion_id": "294765",
+            "expansion_name": "Age of Steam Deluxe Expansion: Hungary & Finland Maps",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/294765"
+        },
+        {
+            "expansion_id": "294606",
+            "expansion_name": "Age of Steam Deluxe Expansion: New England/Pittsburgh & Switzerland Maps",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/294606"
+        },
+        {
+            "expansion_id": "6356",
+            "expansion_name": "Age of Steam Expansion #1: England & Ireland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/6356"
+        },
+        {
+            "expansion_id": "8845",
+            "expansion_name": "Age of Steam Expansion #2: Western United States and Germany",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/8845"
+        },
+        {
+            "expansion_id": "14183",
+            "expansion_name": "Age of Steam Expansion #3: Scandinavia and Korea",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/14183"
+        },
+        {
+            "expansion_id": "13925",
+            "expansion_name": "Age of Steam Expansion #4: France and Italy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/13925"
+        },
+        {
+            "expansion_id": "23189",
+            "expansion_name": "Age of Steam Expansion: 1830's Pennsylvania / Northern California",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/23189"
+        },
+        {
+            "expansion_id": "47687",
+            "expansion_name": "Age of Steam Expansion: 1867 Georgia Reconstruction, South Carolina & Oklahoma Land Rush",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47687"
+        },
+        {
+            "expansion_id": "64119",
+            "expansion_name": "Age of Steam Expansion: 1890 Berlin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/64119"
+        },
+        {
+            "expansion_id": "49743",
+            "expansion_name": "Age of Steam Expansion: 18Steam",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/49743"
+        },
+        {
+            "expansion_id": "25612",
+            "expansion_name": "Age of Steam Expansion: 20,000 Rails Under the Sea",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/25612"
+        },
+        {
+            "expansion_id": "101082",
+            "expansion_name": "Age of Steam Expansion: African Diamond Mines & Taiwan Cube Factories",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/101082"
+        },
+        {
+            "expansion_id": "47686",
+            "expansion_name": "Age of Steam Expansion: Alabama Railways, Antebellum Louisiana & Four Corners",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47686"
+        },
+        {
+            "expansion_id": "38746",
+            "expansion_name": "Age of Steam Expansion: Alpha Centauri - A New Hope",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38746"
+        },
+        {
+            "expansion_id": "75825",
+            "expansion_name": "Age of Steam Expansion: Amazon Rainforest & Sahara Desert",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/75825"
+        },
+        {
+            "expansion_id": "30930",
+            "expansion_name": "Age of Steam Expansion: America / Europe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30930"
+        },
+        {
+            "expansion_id": "160732",
+            "expansion_name": "Age of Steam Expansion: Argentina / The French Riviera",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160732"
+        },
+        {
+            "expansion_id": "76727",
+            "expansion_name": "Age of Steam Expansion: Atlantis & Trisland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/76727"
+        },
+        {
+            "expansion_id": "101081",
+            "expansion_name": "Age of Steam Expansion: Australia & Tasmania",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/101081"
+        },
+        {
+            "expansion_id": "28474",
+            "expansion_name": "Age of Steam Expansion: Austria & India",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28474"
+        },
+        {
+            "expansion_id": "19898",
+            "expansion_name": "Age of Steam Expansion: Austria, Switzerland & The Netherlands",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/19898"
+        },
+        {
+            "expansion_id": "30929",
+            "expansion_name": "Age of Steam Expansion: Barbados / St. Lucia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30929"
+        },
+        {
+            "expansion_id": "19983",
+            "expansion_name": "Age of Steam Expansion: Bay Area",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/19983"
+        },
+        {
+            "expansion_id": "47689",
+            "expansion_name": "Age of Steam Expansion: Beer & Pretzels",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47689"
+        },
+        {
+            "expansion_id": "144455",
+            "expansion_name": "Age of Steam Expansion: Belgium",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144455"
+        },
+        {
+            "expansion_id": "43259",
+            "expansion_name": "Age of Steam Expansion: Brazil / Chicago",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/43259"
+        },
+        {
+            "expansion_id": "300185",
+            "expansion_name": "Age of Steam Expansion: Brummie Rails / Southern China",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/300185"
+        },
+        {
+            "expansion_id": "74493",
+            "expansion_name": "Age of Steam Expansion: California Gold Rush & Underground Railroad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/74493"
+        },
+        {
+            "expansion_id": "49738",
+            "expansion_name": "Age of Steam Expansion: Chesapeake & Ohio",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/49738"
+        },
+        {
+            "expansion_id": "49732",
+            "expansion_name": "Age of Steam Expansion: Cheshire",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/49732"
+        },
+        {
+            "expansion_id": "37388",
+            "expansion_name": "Age of Steam Expansion: Chile, Egypt and CCCP",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37388"
+        },
+        {
+            "expansion_id": "21030",
+            "expansion_name": "Age of Steam Expansion: China / South America",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21030"
+        },
+        {
+            "expansion_id": "295404",
+            "expansion_name": "Age of Steam Expansion: Christmas Village / Mexico",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/295404"
+        },
+        {
+            "expansion_id": "241614",
+            "expansion_name": "Age of Steam Expansion: Congo/Sweden",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/241614"
+        },
+        {
+            "expansion_id": "49748",
+            "expansion_name": "Age of Steam Expansion: Connecticut Corridor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/49748"
+        },
+        {
+            "expansion_id": "47489",
+            "expansion_name": "Age of Steam Expansion: Corsica",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47489"
+        },
+        {
+            "expansion_id": "215829",
+            "expansion_name": "Age of Steam Expansion: Cuba & Sicily",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/215829"
+        },
+        {
+            "expansion_id": "180660",
+            "expansion_name": "Age of Steam Expansion: Denmark",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180660"
+        },
+        {
+            "expansion_id": "277021",
+            "expansion_name": "Age of Steam Expansion: Detroit Bankruptcy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/277021"
+        },
+        {
+            "expansion_id": "25193",
+            "expansion_name": "Age of Steam Expansion: Disco Inferno / Soul Train",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/25193"
+        },
+        {
+            "expansion_id": "25300",
+            "expansion_name": "Age of Steam Expansion: Eastern US & Canada",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/25300"
+        },
+        {
+            "expansion_id": "43572",
+            "expansion_name": "Age of Steam Expansion: Finland & Portugal",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/43572"
+        },
+        {
+            "expansion_id": "47493",
+            "expansion_name": "Age of Steam Expansion: Frontline",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47493"
+        },
+        {
+            "expansion_id": "173627",
+            "expansion_name": "Age of Steam Expansion: Fukushima/Chernobyl",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173627"
+        },
+        {
+            "expansion_id": "55209",
+            "expansion_name": "Age of Steam Expansion: Germany & France",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/55209"
+        },
+        {
+            "expansion_id": "102158",
+            "expansion_name": "Age of Steam Expansion: Great Britain",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/102158"
+        },
+        {
+            "expansion_id": "102527",
+            "expansion_name": "Age of Steam Expansion: Greece and Cyclades",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/102527"
+        },
+        {
+            "expansion_id": "241613",
+            "expansion_name": "Age of Steam Expansion: Hawaiian Islands",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/241613"
+        },
+        {
+            "expansion_id": "46935",
+            "expansion_name": "Age of Steam Expansion: Holland / Madagascar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/46935"
+        },
+        {
+            "expansion_id": "47486",
+            "expansion_name": "Age of Steam Expansion: Hong Kong",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47486"
+        },
+        {
+            "expansion_id": "173628",
+            "expansion_name": "Age of Steam Expansion: Human Body/Synapses",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173628"
+        },
+        {
+            "expansion_id": "127224",
+            "expansion_name": "Age of Steam Expansion: Hungary",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127224"
+        },
+        {
+            "expansion_id": "215828",
+            "expansion_name": "Age of Steam Expansion: Ice Pack & Solar System",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/215828"
+        },
+        {
+            "expansion_id": "47485",
+            "expansion_name": "Age of Steam Expansion: Iceland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47485"
+        },
+        {
+            "expansion_id": "265670",
+            "expansion_name": "Age of Steam Expansion: Iceland/Texas",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/265670"
+        },
+        {
+            "expansion_id": "47209",
+            "expansion_name": "Age of Steam Expansion: India",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47209"
+        },
+        {
+            "expansion_id": "30928",
+            "expansion_name": "Age of Steam Expansion: Jamaica / Puerto Rico",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30928"
+        },
+        {
+            "expansion_id": "46481",
+            "expansion_name": "Age of Steam Expansion: Japan",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/46481"
+        },
+        {
+            "expansion_id": "323505",
+            "expansion_name": "Age of Steam Expansion: Japan/Venezuela/Tasmania",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/323505"
+        },
+        {
+            "expansion_id": "253437",
+            "expansion_name": "Age of Steam Expansion: Kansas City Interurban",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253437"
+        },
+        {
+            "expansion_id": "276720",
+            "expansion_name": "Age of Steam Expansion: Kansas Tornadoes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/276720"
+        },
+        {
+            "expansion_id": "124565",
+            "expansion_name": "Age of Steam Expansion: Las Vegas and Korea (N&S)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/124565"
+        },
+        {
+            "expansion_id": "181400",
+            "expansion_name": "Age of Steam Expansion: Long Island",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/181400"
+        },
+        {
+            "expansion_id": "27040",
+            "expansion_name": "Age of Steam Expansion: Mars - Global Surveyor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/27040"
+        },
+        {
+            "expansion_id": "93448",
+            "expansion_name": "Age of Steam Expansion: Mexico & China",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93448"
+        },
+        {
+            "expansion_id": "28806",
+            "expansion_name": "Age of Steam Expansion: Mexico, Spain/Portugal",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28806"
+        },
+        {
+            "expansion_id": "27520",
+            "expansion_name": "Age of Steam Expansion: Mississippi Steamboats / Golden Spike",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/27520"
+        },
+        {
+            "expansion_id": "49750",
+            "expansion_name": "Age of Steam Expansion: Missouri",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/49750"
+        },
+        {
+            "expansion_id": "47488",
+            "expansion_name": "Age of Steam Expansion: Mongolia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47488"
+        },
+        {
+            "expansion_id": "30725",
+            "expansion_name": "Age of Steam Expansion: Montreal Metro",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30725"
+        },
+        {
+            "expansion_id": "99690",
+            "expansion_name": "Age of Steam Expansion: Moon and Berlin Wall",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99690"
+        },
+        {
+            "expansion_id": "180203",
+            "expansion_name": "Age of Steam Expansion: New England",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180203"
+        },
+        {
+            "expansion_id": "47210",
+            "expansion_name": "Age of Steam Expansion: New Zealand",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47210"
+        },
+        {
+            "expansion_id": "21031",
+            "expansion_name": "Age of Steam Expansion: North Eastern USA / South Africa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/21031"
+        },
+        {
+            "expansion_id": "46827",
+            "expansion_name": "Age of Steam Expansion: Northern England",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/46827"
+        },
+        {
+            "expansion_id": "160731",
+            "expansion_name": "Age of Steam Expansion: Old Europe / 51st State",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160731"
+        },
+        {
+            "expansion_id": "101083",
+            "expansion_name": "Age of Steam Expansion: Orient Express & Disoriented Express",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/101083"
+        },
+        {
+            "expansion_id": "101080",
+            "expansion_name": "Age of Steam Expansion: Outer Space & Reversteam",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/101080"
+        },
+        {
+            "expansion_id": "265669",
+            "expansion_name": "Age of Steam Expansion: Panama/Corsica",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/265669"
+        },
+        {
+            "expansion_id": "74712",
+            "expansion_name": "Age of Steam Expansion: Paris & Moscow",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/74712"
+        },
+        {
+            "expansion_id": "74681",
+            "expansion_name": "Age of Steam Expansion: Poland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/74681"
+        },
+        {
+            "expansion_id": "43242",
+            "expansion_name": "Age of Steam Expansion: Portugal",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/43242"
+        },
+        {
+            "expansion_id": "49740",
+            "expansion_name": "Age of Steam Expansion: Puerto Rico",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/49740"
+        },
+        {
+            "expansion_id": "19993",
+            "expansion_name": "Age of Steam Expansion: Reunion Island",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/19993"
+        },
+        {
+            "expansion_id": "74713",
+            "expansion_name": "Age of Steam Expansion: Robot & Hexpansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/74713"
+        },
+        {
+            "expansion_id": "241612",
+            "expansion_name": "Age of Steam Expansion: San Andreas Fault",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/241612"
+        },
+        {
+            "expansion_id": "36377",
+            "expansion_name": "Age of Steam Expansion: Scotland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/36377"
+        },
+        {
+            "expansion_id": "37326",
+            "expansion_name": "Age of Steam Expansion: Secret Blueprints of Steam Plans 1 & 2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37326"
+        },
+        {
+            "expansion_id": "78386",
+            "expansion_name": "Age of Steam Expansion: Sharing",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/78386"
+        },
+        {
+            "expansion_id": "47491",
+            "expansion_name": "Age of Steam Expansion: Siberia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47491"
+        },
+        {
+            "expansion_id": "228375",
+            "expansion_name": "Age of Steam Expansion: Sicily",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228375"
+        },
+        {
+            "expansion_id": "47492",
+            "expansion_name": "Age of Steam Expansion: Slovakia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47492"
+        },
+        {
+            "expansion_id": "127421",
+            "expansion_name": "Age of Steam Expansion: South America / South Africa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127421"
+        },
+        {
+            "expansion_id": "180659",
+            "expansion_name": "Age of Steam Expansion: South East Australia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180659"
+        },
+        {
+            "expansion_id": "153187",
+            "expansion_name": "Age of Steam Expansion: Southern US / Western US",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153187"
+        },
+        {
+            "expansion_id": "49736",
+            "expansion_name": "Age of Steam Expansion: Spain",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/49736"
+        },
+        {
+            "expansion_id": "37325",
+            "expansion_name": "Age of Steam Expansion: Special 2008 Spiel Limited Edition - Essen Spiel & Secret Blueprints of Steam Plan #3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37325"
+        },
+        {
+            "expansion_id": "25487",
+            "expansion_name": "Age of Steam Expansion: Sun / London",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/25487"
+        },
+        {
+            "expansion_id": "88245",
+            "expansion_name": "Age of Steam Expansion: Switzerland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/88245"
+        },
+        {
+            "expansion_id": "36481",
+            "expansion_name": "Age of Steam Expansion: Texas, Oklahoma & New Mexico",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/36481"
+        },
+        {
+            "expansion_id": "144894",
+            "expansion_name": "Age of Steam Expansion: The Alps",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144894"
+        },
+        {
+            "expansion_id": "144896",
+            "expansion_name": "Age of Steam Expansion: The Giant Maps",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144896"
+        },
+        {
+            "expansion_id": "19992",
+            "expansion_name": "Age of Steam Expansion: The Moon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/19992"
+        },
+        {
+            "expansion_id": "28896",
+            "expansion_name": "Age of Steam Expansion: The Netherlands",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/28896"
+        },
+        {
+            "expansion_id": "144897",
+            "expansion_name": "Age of Steam Expansion: The Railroad Switches",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144897"
+        },
+        {
+            "expansion_id": "56602",
+            "expansion_name": "Age of Steam Expansion: The Zombie Apocalypse",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/56602"
+        },
+        {
+            "expansion_id": "124564",
+            "expansion_name": "Age of Steam Expansion: Tibet and Cyprus",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/124564"
+        },
+        {
+            "expansion_id": "87173",
+            "expansion_name": "Age of Steam Expansion: Time Traveler",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/87173"
+        },
+        {
+            "expansion_id": "161883",
+            "expansion_name": "Age of Steam Expansion: Ukraine",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161883"
+        },
+        {
+            "expansion_id": "38745",
+            "expansion_name": "Age of Steam Expansion: Umbria",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38745"
+        },
+        {
+            "expansion_id": "37302",
+            "expansion_name": "Age of Steam Expansion: Vermont, New Hampshire & Central New England",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37302"
+        },
+        {
+            "expansion_id": "295405",
+            "expansion_name": "Age of Steam Expansion: Vietnam / Sahara",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/295405"
+        },
+        {
+            "expansion_id": "180658",
+            "expansion_name": "Age of Steam Expansion: Wales",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/180658"
+        },
+        {
+            "expansion_id": "30830",
+            "expansion_name": "Age of Steam Expansion: War in Iraq & New York Subway",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30830"
+        },
+        {
+            "expansion_id": "38261",
+            "expansion_name": "Age of Steam Expansion: Washington DC and The Berlin Wall",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38261"
+        },
+        {
+            "expansion_id": "31544",
+            "expansion_name": "Age of Steam Expansions: Southern US & Pittsburgh",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/31544"
+        },
+        {
+            "expansion_id": "47487",
+            "expansion_name": "Age of Steam: Expansion Colony",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/47487"
+        },
+        {
+            "expansion_id": "177580",
+            "expansion_name": "Heavy Cardboard (fan expansion for Age of Steam)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/177580"
+        },
+        {
+            "expansion_id": "230351",
+            "expansion_name": "North-East Ohio: Solitaire Map (fan expansion for Age of Steam)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230351"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Martin Wallace",
+    "categories_string": "Economic; Trains; Transportation",
+    "mechanics_string": "Auction/Bidding; Catch the Leader; Connections; Dice Rolling; Loans; Network and Route Building; Pick-up and Deliver; Player Elimination; Scenario / Mission / Campaign Game; Selection Order Bid; Tile Placement; Turn Order: Auction; Victory Points as a Resource",
+    "expansions_string": "{'expansion_id': '303949', 'expansion_name': 'Age of Steam Deluxe Expansion: Detroit Bankruptcy & Heavy Cardboard Maps', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/303949'}; {'expansion_id': '297784', 'expansion_name': 'Age of Steam Deluxe Expansion: France & Poland Maps', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/297784'}; {'expansion_id': '294765', 'expansion_name': 'Age of Steam Deluxe Expansion: Hungary & Finland Maps', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/294765'}; {'expansion_id': '294606', 'expansion_name': 'Age of Steam Deluxe Expansion: New England/Pittsburgh & Switzerland Maps', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/294606'}; {'expansion_id': '6356', 'expansion_name': 'Age of Steam Expansion #1: England & Ireland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/6356'}; {'expansion_id': '8845', 'expansion_name': 'Age of Steam Expansion #2: Western United States and Germany', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/8845'}; {'expansion_id': '14183', 'expansion_name': 'Age of Steam Expansion #3: Scandinavia and Korea', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/14183'}; {'expansion_id': '13925', 'expansion_name': 'Age of Steam Expansion #4: France and Italy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/13925'}; {'expansion_id': '23189', 'expansion_name': \"Age of Steam Expansion: 1830's Pennsylvania / Northern California\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/23189'}; {'expansion_id': '47687', 'expansion_name': 'Age of Steam Expansion: 1867 Georgia Reconstruction, South Carolina & Oklahoma Land Rush', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47687'}; {'expansion_id': '64119', 'expansion_name': 'Age of Steam Expansion: 1890 Berlin', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/64119'}; {'expansion_id': '49743', 'expansion_name': 'Age of Steam Expansion: 18Steam', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/49743'}; {'expansion_id': '25612', 'expansion_name': 'Age of Steam Expansion: 20,000 Rails Under the Sea', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/25612'}; {'expansion_id': '101082', 'expansion_name': 'Age of Steam Expansion: African Diamond Mines & Taiwan Cube Factories', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/101082'}; {'expansion_id': '47686', 'expansion_name': 'Age of Steam Expansion: Alabama Railways, Antebellum Louisiana & Four Corners', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47686'}; {'expansion_id': '38746', 'expansion_name': 'Age of Steam Expansion: Alpha Centauri - A New Hope', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38746'}; {'expansion_id': '75825', 'expansion_name': 'Age of Steam Expansion: Amazon Rainforest & Sahara Desert', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/75825'}; {'expansion_id': '30930', 'expansion_name': 'Age of Steam Expansion: America / Europe', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30930'}; {'expansion_id': '160732', 'expansion_name': 'Age of Steam Expansion: Argentina / The French Riviera', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160732'}; {'expansion_id': '76727', 'expansion_name': 'Age of Steam Expansion: Atlantis & Trisland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/76727'}; {'expansion_id': '101081', 'expansion_name': 'Age of Steam Expansion: Australia & Tasmania', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/101081'}; {'expansion_id': '28474', 'expansion_name': 'Age of Steam Expansion: Austria & India', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28474'}; {'expansion_id': '19898', 'expansion_name': 'Age of Steam Expansion: Austria, Switzerland & The Netherlands', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/19898'}; {'expansion_id': '30929', 'expansion_name': 'Age of Steam Expansion: Barbados / St. Lucia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30929'}; {'expansion_id': '19983', 'expansion_name': 'Age of Steam Expansion: Bay Area', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/19983'}; {'expansion_id': '47689', 'expansion_name': 'Age of Steam Expansion: Beer & Pretzels', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47689'}; {'expansion_id': '144455', 'expansion_name': 'Age of Steam Expansion: Belgium', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144455'}; {'expansion_id': '43259', 'expansion_name': 'Age of Steam Expansion: Brazil / Chicago', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/43259'}; {'expansion_id': '300185', 'expansion_name': 'Age of Steam Expansion: Brummie Rails / Southern China', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/300185'}; {'expansion_id': '74493', 'expansion_name': 'Age of Steam Expansion: California Gold Rush & Underground Railroad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/74493'}; {'expansion_id': '49738', 'expansion_name': 'Age of Steam Expansion: Chesapeake & Ohio', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/49738'}; {'expansion_id': '49732', 'expansion_name': 'Age of Steam Expansion: Cheshire', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/49732'}; {'expansion_id': '37388', 'expansion_name': 'Age of Steam Expansion: Chile, Egypt and CCCP', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37388'}; {'expansion_id': '21030', 'expansion_name': 'Age of Steam Expansion: China / South America', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21030'}; {'expansion_id': '295404', 'expansion_name': 'Age of Steam Expansion: Christmas Village / Mexico', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/295404'}; {'expansion_id': '241614', 'expansion_name': 'Age of Steam Expansion: Congo/Sweden', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/241614'}; {'expansion_id': '49748', 'expansion_name': 'Age of Steam Expansion: Connecticut Corridor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/49748'}; {'expansion_id': '47489', 'expansion_name': 'Age of Steam Expansion: Corsica', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47489'}; {'expansion_id': '215829', 'expansion_name': 'Age of Steam Expansion: Cuba & Sicily', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/215829'}; {'expansion_id': '180660', 'expansion_name': 'Age of Steam Expansion: Denmark', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180660'}; {'expansion_id': '277021', 'expansion_name': 'Age of Steam Expansion: Detroit Bankruptcy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/277021'}; {'expansion_id': '25193', 'expansion_name': 'Age of Steam Expansion: Disco Inferno / Soul Train', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/25193'}; {'expansion_id': '25300', 'expansion_name': 'Age of Steam Expansion: Eastern US & Canada', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/25300'}; {'expansion_id': '43572', 'expansion_name': 'Age of Steam Expansion: Finland & Portugal', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/43572'}; {'expansion_id': '47493', 'expansion_name': 'Age of Steam Expansion: Frontline', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47493'}; {'expansion_id': '173627', 'expansion_name': 'Age of Steam Expansion: Fukushima/Chernobyl', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173627'}; {'expansion_id': '55209', 'expansion_name': 'Age of Steam Expansion: Germany & France', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/55209'}; {'expansion_id': '102158', 'expansion_name': 'Age of Steam Expansion: Great Britain', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/102158'}; {'expansion_id': '102527', 'expansion_name': 'Age of Steam Expansion: Greece and Cyclades', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/102527'}; {'expansion_id': '241613', 'expansion_name': 'Age of Steam Expansion: Hawaiian Islands', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/241613'}; {'expansion_id': '46935', 'expansion_name': 'Age of Steam Expansion: Holland / Madagascar', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/46935'}; {'expansion_id': '47486', 'expansion_name': 'Age of Steam Expansion: Hong Kong', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47486'}; {'expansion_id': '173628', 'expansion_name': 'Age of Steam Expansion: Human Body/Synapses', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173628'}; {'expansion_id': '127224', 'expansion_name': 'Age of Steam Expansion: Hungary', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127224'}; {'expansion_id': '215828', 'expansion_name': 'Age of Steam Expansion: Ice Pack & Solar System', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/215828'}; {'expansion_id': '47485', 'expansion_name': 'Age of Steam Expansion: Iceland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47485'}; {'expansion_id': '265670', 'expansion_name': 'Age of Steam Expansion: Iceland/Texas', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/265670'}; {'expansion_id': '47209', 'expansion_name': 'Age of Steam Expansion: India', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47209'}; {'expansion_id': '30928', 'expansion_name': 'Age of Steam Expansion: Jamaica / Puerto Rico', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30928'}; {'expansion_id': '46481', 'expansion_name': 'Age of Steam Expansion: Japan', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/46481'}; {'expansion_id': '323505', 'expansion_name': 'Age of Steam Expansion: Japan/Venezuela/Tasmania', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/323505'}; {'expansion_id': '253437', 'expansion_name': 'Age of Steam Expansion: Kansas City Interurban', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253437'}; {'expansion_id': '276720', 'expansion_name': 'Age of Steam Expansion: Kansas Tornadoes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/276720'}; {'expansion_id': '124565', 'expansion_name': 'Age of Steam Expansion: Las Vegas and Korea (N&S)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/124565'}; {'expansion_id': '181400', 'expansion_name': 'Age of Steam Expansion: Long Island', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/181400'}; {'expansion_id': '27040', 'expansion_name': 'Age of Steam Expansion: Mars - Global Surveyor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/27040'}; {'expansion_id': '93448', 'expansion_name': 'Age of Steam Expansion: Mexico & China', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93448'}; {'expansion_id': '28806', 'expansion_name': 'Age of Steam Expansion: Mexico, Spain/Portugal', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28806'}; {'expansion_id': '27520', 'expansion_name': 'Age of Steam Expansion: Mississippi Steamboats / Golden Spike', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/27520'}; {'expansion_id': '49750', 'expansion_name': 'Age of Steam Expansion: Missouri', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/49750'}; {'expansion_id': '47488', 'expansion_name': 'Age of Steam Expansion: Mongolia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47488'}; {'expansion_id': '30725', 'expansion_name': 'Age of Steam Expansion: Montreal Metro', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30725'}; {'expansion_id': '99690', 'expansion_name': 'Age of Steam Expansion: Moon and Berlin Wall', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99690'}; {'expansion_id': '180203', 'expansion_name': 'Age of Steam Expansion: New England', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180203'}; {'expansion_id': '47210', 'expansion_name': 'Age of Steam Expansion: New Zealand', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47210'}; {'expansion_id': '21031', 'expansion_name': 'Age of Steam Expansion: North Eastern USA / South Africa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/21031'}; {'expansion_id': '46827', 'expansion_name': 'Age of Steam Expansion: Northern England', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/46827'}; {'expansion_id': '160731', 'expansion_name': 'Age of Steam Expansion: Old Europe / 51st State', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160731'}; {'expansion_id': '101083', 'expansion_name': 'Age of Steam Expansion: Orient Express & Disoriented Express', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/101083'}; {'expansion_id': '101080', 'expansion_name': 'Age of Steam Expansion: Outer Space & Reversteam', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/101080'}; {'expansion_id': '265669', 'expansion_name': 'Age of Steam Expansion: Panama/Corsica', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/265669'}; {'expansion_id': '74712', 'expansion_name': 'Age of Steam Expansion: Paris & Moscow', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/74712'}; {'expansion_id': '74681', 'expansion_name': 'Age of Steam Expansion: Poland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/74681'}; {'expansion_id': '43242', 'expansion_name': 'Age of Steam Expansion: Portugal', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/43242'}; {'expansion_id': '49740', 'expansion_name': 'Age of Steam Expansion: Puerto Rico', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/49740'}; {'expansion_id': '19993', 'expansion_name': 'Age of Steam Expansion: Reunion Island', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/19993'}; {'expansion_id': '74713', 'expansion_name': 'Age of Steam Expansion: Robot & Hexpansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/74713'}; {'expansion_id': '241612', 'expansion_name': 'Age of Steam Expansion: San Andreas Fault', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/241612'}; {'expansion_id': '36377', 'expansion_name': 'Age of Steam Expansion: Scotland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/36377'}; {'expansion_id': '37326', 'expansion_name': 'Age of Steam Expansion: Secret Blueprints of Steam Plans 1 & 2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37326'}; {'expansion_id': '78386', 'expansion_name': 'Age of Steam Expansion: Sharing', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/78386'}; {'expansion_id': '47491', 'expansion_name': 'Age of Steam Expansion: Siberia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47491'}; {'expansion_id': '228375', 'expansion_name': 'Age of Steam Expansion: Sicily', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228375'}; {'expansion_id': '47492', 'expansion_name': 'Age of Steam Expansion: Slovakia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47492'}; {'expansion_id': '127421', 'expansion_name': 'Age of Steam Expansion: South America / South Africa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127421'}; {'expansion_id': '180659', 'expansion_name': 'Age of Steam Expansion: South East Australia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180659'}; {'expansion_id': '153187', 'expansion_name': 'Age of Steam Expansion: Southern US / Western US', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153187'}; {'expansion_id': '49736', 'expansion_name': 'Age of Steam Expansion: Spain', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/49736'}; {'expansion_id': '37325', 'expansion_name': 'Age of Steam Expansion: Special 2008 Spiel Limited Edition - Essen Spiel & Secret Blueprints of Steam Plan #3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37325'}; {'expansion_id': '25487', 'expansion_name': 'Age of Steam Expansion: Sun / London', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/25487'}; {'expansion_id': '88245', 'expansion_name': 'Age of Steam Expansion: Switzerland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/88245'}; {'expansion_id': '36481', 'expansion_name': 'Age of Steam Expansion: Texas, Oklahoma & New Mexico', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/36481'}; {'expansion_id': '144894', 'expansion_name': 'Age of Steam Expansion: The Alps', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144894'}; {'expansion_id': '144896', 'expansion_name': 'Age of Steam Expansion: The Giant Maps', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144896'}; {'expansion_id': '19992', 'expansion_name': 'Age of Steam Expansion: The Moon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/19992'}; {'expansion_id': '28896', 'expansion_name': 'Age of Steam Expansion: The Netherlands', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/28896'}; {'expansion_id': '144897', 'expansion_name': 'Age of Steam Expansion: The Railroad Switches', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144897'}; {'expansion_id': '56602', 'expansion_name': 'Age of Steam Expansion: The Zombie Apocalypse', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/56602'}; {'expansion_id': '124564', 'expansion_name': 'Age of Steam Expansion: Tibet and Cyprus', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/124564'}; {'expansion_id': '87173', 'expansion_name': 'Age of Steam Expansion: Time Traveler', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/87173'}; {'expansion_id': '161883', 'expansion_name': 'Age of Steam Expansion: Ukraine', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161883'}; {'expansion_id': '38745', 'expansion_name': 'Age of Steam Expansion: Umbria', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38745'}; {'expansion_id': '37302', 'expansion_name': 'Age of Steam Expansion: Vermont, New Hampshire & Central New England', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37302'}; {'expansion_id': '295405', 'expansion_name': 'Age of Steam Expansion: Vietnam / Sahara', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/295405'}; {'expansion_id': '180658', 'expansion_name': 'Age of Steam Expansion: Wales', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/180658'}; {'expansion_id': '30830', 'expansion_name': 'Age of Steam Expansion: War in Iraq & New York Subway', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30830'}; {'expansion_id': '38261', 'expansion_name': 'Age of Steam Expansion: Washington DC and The Berlin Wall', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38261'}; {'expansion_id': '31544', 'expansion_name': 'Age of Steam Expansions: Southern US & Pittsburgh', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/31544'}; {'expansion_id': '47487', 'expansion_name': 'Age of Steam: Expansion Colony', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/47487'}; {'expansion_id': '177580', 'expansion_name': 'Heavy Cardboard (fan expansion for Age of Steam)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/177580'}; {'expansion_id': '230351', 'expansion_name': 'North-East Ohio: Solitaire Map (fan expansion for Age of Steam)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230351'}",
+    "expansions_for_string": ""
+}

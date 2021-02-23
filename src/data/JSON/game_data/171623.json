@@ -1,0 +1,121 @@
+{
+    "game_id": "171623",
+    "game_name": "The Voyages of Marco Polo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/171623",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3897976",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3897976#item3897976",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "HRune"
+        },
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4292788",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4292788#item4292788",
+            "geeklist_host": "rangerx",
+            "contributor": "SoundCity"
+        },
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5201416",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5201416#item5201416",
+            "geeklist_host": "Ibbo",
+            "contributor": "budkin"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6134289",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6134289#item6134289",
+            "geeklist_host": "Pjandy",
+            "contributor": "Angie666"
+        },
+        {
+            "geeklist_id": "246401",
+            "geeklist_item_id": "6425885",
+            "year_month": "2018/10",
+            "year": "2018",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/246401/item/6425885#item6425885",
+            "geeklist_host": "kevinruns262",
+            "contributor": "Belechael"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7636562",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7636562#item7636562",
+            "geeklist_host": "threepointthed",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/n1G7_aWToLAAB7Mqt8iwyA__thumb/img/qfEgrXBN5L1EeMQ91siw6r_OoL4=/fit-in/200x150/filters:strip_icc()/pic2461346.png",
+    "year_published": "2015",
+    "designers": [
+        "Simone Luciani",
+        "Daniele Tascini"
+    ],
+    "weight": 3.19,
+    "rating": 7.87,
+    "play_time": "40 - 100",
+    "best": "1",
+    "recommended": "11",
+    "not_recommended": "195",
+    "categories": [
+        "Dice",
+        "Economic",
+        "Medieval",
+        "Travel"
+    ],
+    "mechanics": [
+        "Contracts",
+        "Dice Rolling",
+        "Income",
+        "Point to Point Movement",
+        "Resource to Move",
+        "Set Collection",
+        "Turn Order: Claim Action",
+        "Variable Player Powers",
+        "Variable Set-up",
+        "Worker Placement with Dice Workers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "232945",
+            "expansion_name": "The Voyages of Marco Polo: Agents of Venice",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/232945"
+        },
+        {
+            "expansion_id": "186554",
+            "expansion_name": "The Voyages of Marco Polo: The New Characters",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186554"
+        },
+        {
+            "expansion_id": "249086",
+            "expansion_name": "The Voyages of Marco Polo: The Secret Path of Marco Polo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/249086"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Simone Luciani; Daniele Tascini",
+    "categories_string": "Dice; Economic; Medieval; Travel",
+    "mechanics_string": "Contracts; Dice Rolling; Income; Point to Point Movement; Resource to Move; Set Collection; Turn Order: Claim Action; Variable Player Powers; Variable Set-up; Worker Placement with Dice Workers",
+    "expansions_string": "{'expansion_id': '232945', 'expansion_name': 'The Voyages of Marco Polo: Agents of Venice', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/232945'}; {'expansion_id': '186554', 'expansion_name': 'The Voyages of Marco Polo: The New Characters', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186554'}; {'expansion_id': '249086', 'expansion_name': 'The Voyages of Marco Polo: The Secret Path of Marco Polo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/249086'}",
+    "expansions_for_string": ""
+}

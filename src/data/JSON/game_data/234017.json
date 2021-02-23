@@ -1,0 +1,49 @@
+{
+    "game_id": "234017",
+    "game_name": "Wir sind das Volk!: 2+2",
+    "bgg_link": "https://boardgamegeek.com/boardgame/234017",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7511867",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7511867#item7511867",
+            "geeklist_host": "Doc_H",
+            "contributor": "patton55"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/p9J6B-TrKqIWu4ETLsjZ3Q__thumb/img/5BrCc9Ia35w5wMMd-4mUYZOGC9c=/fit-in/200x150/filters:strip_icc()/pic3710484.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Richard Sivel",
+        "Peer Sylvester"
+    ],
+    "weight": 3.78,
+    "rating": 8.07,
+    "play_time": "180 - 200",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "4",
+    "categories": [
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Team-Based Game"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "165401",
+            "game_name": "Wir sind das Volk!",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/165401"
+        }
+    ],
+    "designers_string": "Richard Sivel; Peer Sylvester",
+    "categories_string": "Expansion for Base-game",
+    "mechanics_string": "Team-Based Game",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '165401', 'game_name': 'Wir sind das Volk!', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/165401'}"
+}

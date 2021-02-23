@@ -1,0 +1,105 @@
+{
+    "game_id": "230889",
+    "game_name": "Aristeia!",
+    "bgg_link": "https://boardgamegeek.com/boardgame/230889",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6350842",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6350842#item6350842",
+            "geeklist_host": "dobrazil",
+            "contributor": "plataille"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Tre1B7gmGFMNfNi6XsgkBQ__thumb/img/VpimSXyvCXN7mF3SCbiXhPZQQl0=/fit-in/200x150/filters:strip_icc()/pic3667786.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Alberto Abal",
+        "Jesus Fuster",
+        "David Rosillo"
+    ],
+    "weight": 3.00,
+    "rating": 8.36,
+    "play_time": "60 - 90",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "14",
+    "categories": [
+        "Fighting",
+        "Miniatures",
+        "Science Fiction",
+        "Sports"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Grid Movement",
+        "Hand Management",
+        "Line of Sight",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "292403",
+            "expansion_name": "Aristeia!: Advanced Tactics Decks",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292403"
+        },
+        {
+            "expansion_id": "281011",
+            "expansion_name": "Aristeia!: Chemical Brothers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/281011"
+        },
+        {
+            "expansion_id": "298126",
+            "expansion_name": "Aristeia!: Double Trouble",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/298126"
+        },
+        {
+            "expansion_id": "261602",
+            "expansion_name": "Aristeia!: Human Fate",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/261602"
+        },
+        {
+            "expansion_id": "263780",
+            "expansion_name": "Aristeia!: Legendary Bahadurs",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263780"
+        },
+        {
+            "expansion_id": "281012",
+            "expansion_name": "Aristeia!: Masters of Puppets",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/281012"
+        },
+        {
+            "expansion_id": "325427",
+            "expansion_name": "Aristeia!: Prime Time",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/325427"
+        },
+        {
+            "expansion_id": "291103",
+            "expansion_name": "Aristeia!: Reckless Hearts",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/291103"
+        },
+        {
+            "expansion_id": "256907",
+            "expansion_name": "Aristeia!: Smoke and Mirrors",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/256907"
+        },
+        {
+            "expansion_id": "239933",
+            "expansion_name": "Aristeia!: Soldiers of Fortune",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239933"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Alberto Abal; Jesus Fuster; David Rosillo",
+    "categories_string": "Fighting; Miniatures; Science Fiction; Sports",
+    "mechanics_string": "Action Points; Area Majority / Influence; Deck, Bag, and Pool Building; Dice Rolling; Grid Movement; Hand Management; Line of Sight; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '292403', 'expansion_name': 'Aristeia!: Advanced Tactics Decks', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292403'}; {'expansion_id': '281011', 'expansion_name': 'Aristeia!: Chemical Brothers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/281011'}; {'expansion_id': '298126', 'expansion_name': 'Aristeia!: Double Trouble', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/298126'}; {'expansion_id': '261602', 'expansion_name': 'Aristeia!: Human Fate', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/261602'}; {'expansion_id': '263780', 'expansion_name': 'Aristeia!: Legendary Bahadurs', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263780'}; {'expansion_id': '281012', 'expansion_name': 'Aristeia!: Masters of Puppets', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/281012'}; {'expansion_id': '325427', 'expansion_name': 'Aristeia!: Prime Time', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/325427'}; {'expansion_id': '291103', 'expansion_name': 'Aristeia!: Reckless Hearts', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/291103'}; {'expansion_id': '256907', 'expansion_name': 'Aristeia!: Smoke and Mirrors', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/256907'}; {'expansion_id': '239933', 'expansion_name': 'Aristeia!: Soldiers of Fortune', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239933'}",
+    "expansions_for_string": ""
+}

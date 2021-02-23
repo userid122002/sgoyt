@@ -1,0 +1,59 @@
+{
+    "game_id": "165023",
+    "game_name": "Concordia: Britannia / Germania",
+    "bgg_link": "https://boardgamegeek.com/boardgame/165023",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4366553",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4366553#item4366553",
+            "geeklist_host": "suzyvitale",
+            "contributor": "mogust"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/VcPlJmpKIz1eN24VYrTovQ__thumb/img/jvFRs9vXRqMnbQORmz1A4befsB0=/fit-in/200x150/filters:strip_icc()/pic2286539.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Mac Gerdts"
+    ],
+    "weight": 3.04,
+    "rating": 8.08,
+    "play_time": "100",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "10",
+    "categories": [
+        "Ancient",
+        "Economic",
+        "Expansion for Base-game",
+        "Nautical"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Point to Point Movement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "124361",
+            "game_name": "Concordia",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/124361"
+        },
+        {
+            "game_id": "256916",
+            "game_name": "Concordia Venus",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/256916"
+        }
+    ],
+    "designers_string": "Mac Gerdts",
+    "categories_string": "Ancient; Economic; Expansion for Base-game; Nautical",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Hand Management; Point to Point Movement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '124361', 'game_name': 'Concordia', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/124361'}; {'game_id': '256916', 'game_name': 'Concordia Venus', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/256916'}"
+}

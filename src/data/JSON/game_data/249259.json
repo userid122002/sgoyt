@@ -1,0 +1,61 @@
+{
+    "game_id": "249259",
+    "game_name": "War Chest",
+    "bgg_link": "https://boardgamegeek.com/boardgame/249259",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7920592",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7920592#item7920592",
+            "geeklist_host": "Elida",
+            "contributor": "montrealmovil"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/BryJNSSDbCohXeaJPx3tpw__thumb/img/5fmJlAM307xX3zozMnStTuWYphI=/fit-in/200x150/filters:strip_icc()/pic4232048.png",
+    "year_published": "2018",
+    "designers": [
+        "Trevor Benjamin",
+        "David Thompson (I)"
+    ],
+    "weight": 2.29,
+    "rating": 7.94,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "45",
+    "categories": [
+        "Abstract Strategy",
+        "Medieval",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Deck, Bag, and Pool Building",
+        "Grid Movement",
+        "Hand Management",
+        "Team-Based Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "284444",
+            "expansion_name": "War Chest: Nobility",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/284444"
+        },
+        {
+            "expansion_id": "324656",
+            "expansion_name": "War Chest: Siege",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324656"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Trevor Benjamin; David Thompson (I)",
+    "categories_string": "Abstract Strategy; Medieval; Wargame",
+    "mechanics_string": "Area Majority / Influence; Deck, Bag, and Pool Building; Grid Movement; Hand Management; Team-Based Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '284444', 'expansion_name': 'War Chest: Nobility', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/284444'}; {'expansion_id': '324656', 'expansion_name': 'War Chest: Siege', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324656'}",
+    "expansions_for_string": ""
+}

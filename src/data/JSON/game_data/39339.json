@@ -1,0 +1,125 @@
+{
+    "game_id": "39339",
+    "game_name": "Android",
+    "bgg_link": "https://boardgamegeek.com/boardgame/39339",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2898576",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2898576#item2898576",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Marlowespade"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3545762",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3545762#item3545762",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Ikim"
+        },
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3862368",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3862368#item3862368",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "patton55"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3980068",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3980068#item3980068",
+            "geeklist_host": "joestin",
+            "contributor": "Lhowser"
+        },
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6787732",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6787732#item6787732",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "benjebobs"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6930760",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6930760#item6930760",
+            "geeklist_host": "Woelf",
+            "contributor": "murjani1"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6930762",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6930762#item6930762",
+            "geeklist_host": "Woelf",
+            "contributor": "murjani1"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/gm1pY1yQzd_9VNDcZzQIxQ__thumb/img/sgDeJwgPrrNKpaE2koz0xHiJ134=/fit-in/200x150/filters:strip_icc()/pic400196.jpg",
+    "year_published": "2008",
+    "designers": [
+        "Daniel Clark (I)",
+        "Kevin Wilson"
+    ],
+    "weight": 3.96,
+    "rating": 6.74,
+    "play_time": "180",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "79",
+    "categories": [
+        "Murder/Mystery",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Connections",
+        "Hand Management",
+        "Network and Route Building",
+        "Take That",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "112596",
+            "expansion_name": "Android: \"A Golem, To Use the Vernacular\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/112596"
+        },
+        {
+            "expansion_id": "132763",
+            "expansion_name": "Android: \"See this? See this? See this? That's right.\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132763"
+        },
+        {
+            "expansion_id": "103230",
+            "expansion_name": "Android: \"We're tracking you in free fall\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/103230"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Daniel Clark (I); Kevin Wilson",
+    "categories_string": "Murder/Mystery; Science Fiction",
+    "mechanics_string": "Action Points; Connections; Hand Management; Network and Route Building; Take That; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '112596', 'expansion_name': 'Android: \"A Golem, To Use the Vernacular\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/112596'}; {'expansion_id': '132763', 'expansion_name': 'Android: \"See this? See this? See this? That\\'s right.\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132763'}; {'expansion_id': '103230', 'expansion_name': 'Android: \"We\\'re tracking you in free fall\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/103230'}",
+    "expansions_for_string": ""
+}

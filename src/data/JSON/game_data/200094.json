@@ -1,0 +1,64 @@
+{
+    "game_id": "200094",
+    "game_name": "Paper 'Mech: Factory",
+    "bgg_link": "https://boardgamegeek.com/boardgame/200094",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7640762",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7640762#item7640762",
+            "geeklist_host": "threepointthed",
+            "contributor": "ThroughTheDeckGlass"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7649246",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7649246#item7649246",
+            "geeklist_host": "threepointthed",
+            "contributor": "ThroughTheDeckGlass"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/PwLXAhoxfuxaVoTdfKVJ2g__thumb/img/qD2f79KqMsQ39btgmjbYkjem_7Y=/fit-in/200x150/filters:strip_icc()/pic3018609.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Chris Alton"
+    ],
+    "weight": 3.00,
+    "rating": 8.52,
+    "play_time": "20 - 40",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Print & Play",
+        "Science Fiction",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Paper-and-Pencil",
+        "Solo / Solitaire Game",
+        "Time Track",
+        "Variable Phase Order"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "198541",
+            "game_name": "Paper 'Mech",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/198541"
+        }
+    ],
+    "designers_string": "Chris Alton",
+    "categories_string": "Print & Play; Science Fiction; Wargame",
+    "mechanics_string": "Dice Rolling; Paper-and-Pencil; Solo / Solitaire Game; Time Track; Variable Phase Order",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '198541', 'game_name': \"Paper 'Mech\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/198541'}"
+}

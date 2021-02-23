@@ -1,0 +1,65 @@
+{
+    "game_id": "154493",
+    "game_name": "The Lord of the Rings: The Card Game - The Three Trials",
+    "bgg_link": "https://boardgamegeek.com/boardgame/154493",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4014081",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4014081#item4014081",
+            "geeklist_host": "joestin",
+            "contributor": "mattprom"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/mQNpoDhoJjRzLQ7JtoXG8A__thumb/img/qm1THTiJEtwN8SDDegWpOsAacPY=/fit-in/200x150/filters:strip_icc()/pic1940728.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 2.71,
+    "rating": 8.09,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "189949",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: The Three Trials",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189949"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        },
+        {
+            "game_id": "146574",
+            "game_name": "The Lord of the Rings: The Card Game - The Voice of Isengard",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/146574"
+        }
+    ],
+    "designers_string": "Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '189949', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: The Three Trials', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189949'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}; {'game_id': '146574', 'game_name': 'The Lord of the Rings: The Card Game - The Voice of Isengard', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/146574'}"
+}

@@ -1,0 +1,84 @@
+{
+    "game_id": "84406",
+    "game_name": "Memoir '44: Winter Wars",
+    "bgg_link": "https://boardgamegeek.com/boardgame/84406",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5973021",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5973021#item5973021",
+            "geeklist_host": "radthanael",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6031744",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6031744#item6031744",
+            "geeklist_host": "busdjur",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6064763",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6064763#item6064763",
+            "geeklist_host": "skeletonhat",
+            "contributor": "Ben_Bos"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6065976",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6065976#item6065976",
+            "geeklist_host": "skeletonhat",
+            "contributor": "Ben_Bos"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/08yc9vg8ZPV4LRXLQDAU-Q__thumb/img/hZ2M2SYJRPpCCAAWz-od5QVB_jQ=/fit-in/200x150/filters:strip_icc()/pic871764.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Richard Borg"
+    ],
+    "weight": 2.23,
+    "rating": 8.15,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [],
+    "expansions": [
+        {
+            "expansion_id": "244078",
+            "expansion_name": "Memoir '44: Through Jungle and Desert",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/244078"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "10630",
+            "game_name": "Memoir '44",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/10630"
+        }
+    ],
+    "designers_string": "Richard Borg",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "",
+    "expansions_string": "{'expansion_id': '244078', 'expansion_name': \"Memoir '44: Through Jungle and Desert\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/244078'}",
+    "expansions_for_string": "{'game_id': '10630', 'game_name': \"Memoir '44\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/10630'}"
+}

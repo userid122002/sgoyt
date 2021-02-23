@@ -1,0 +1,72 @@
+{
+    "game_id": "293495",
+    "game_name": "StoneFire",
+    "bgg_link": "https://boardgamegeek.com/boardgame/293495",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7769566",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7769566#item7769566",
+            "geeklist_host": "repairmanjack",
+            "contributor": "Haywood"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7772471",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7772471#item7772471",
+            "geeklist_host": "repairmanjack",
+            "contributor": "pleroph"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7773095",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7773095#item7773095",
+            "geeklist_host": "repairmanjack",
+            "contributor": "pleroph"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/Kd6k62fnUo21_fEcvLmJQA__thumb/img/u9rEmWFRwpOEXMwHpn0WgdGArJA=/fit-in/200x150/filters:strip_icc()/pic5036782.png",
+    "year_published": "2020",
+    "designers": [
+        "Jason Glover",
+        "Calvin Nelson"
+    ],
+    "weight": 2.00,
+    "rating": 6.90,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Fantasy",
+        "Prehistoric"
+    ],
+    "mechanics": [
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "329707",
+            "expansion_name": "StoneFire: Dodo Bird Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/329707"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jason Glover; Calvin Nelson",
+    "categories_string": "Fantasy; Prehistoric",
+    "mechanics_string": "Deck, Bag, and Pool Building; Hand Management; Set Collection",
+    "expansions_string": "{'expansion_id': '329707', 'expansion_name': 'StoneFire: Dodo Bird Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/329707'}",
+    "expansions_for_string": ""
+}

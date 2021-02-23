@@ -1,0 +1,59 @@
+{
+    "game_id": "2073",
+    "game_name": "Sixth Fleet: Modern Naval Combat in the Mediterranean",
+    "bgg_link": "https://boardgamegeek.com/boardgame/2073",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "190679",
+            "geeklist_item_id": "3900626",
+            "year_month": "2015/05",
+            "year": "2015",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/190679/item/3900626#item3900626",
+            "geeklist_host": "reverendunclebastard",
+            "contributor": "Sundog"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/_l0JEjYPhCgeWJtaOAz7Rw__thumb/img/wX_b77lKSbDNZ_F63TOydCO5BhM=/fit-in/200x150/filters:strip_icc()/pic48153.jpg",
+    "year_published": "1985",
+    "designers": [
+        "Joseph M. Balkoski"
+    ],
+    "weight": 3.29,
+    "rating": 6.95,
+    "play_time": "360",
+    "best": "0",
+    "recommended": "3",
+    "not_recommended": "1",
+    "categories": [
+        "Modern Warfare",
+        "Nautical",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Secret Unit Deployment",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "194236",
+            "expansion_name": "Anatolian Fleet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194236"
+        },
+        {
+            "expansion_id": "290851",
+            "expansion_name": "Some Submarine Second-Guessing",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/290851"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Joseph M. Balkoski",
+    "categories_string": "Modern Warfare; Nautical; Wargame",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Secret Unit Deployment; Simulation",
+    "expansions_string": "{'expansion_id': '194236', 'expansion_name': 'Anatolian Fleet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194236'}; {'expansion_id': '290851', 'expansion_name': 'Some Submarine Second-Guessing', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/290851'}",
+    "expansions_for_string": ""
+}

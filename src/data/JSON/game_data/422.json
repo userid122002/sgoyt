@@ -1,0 +1,52 @@
+{
+    "game_id": "422",
+    "game_name": "1835",
+    "bgg_link": "https://boardgamegeek.com/boardgame/422",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7636476",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7636476#item7636476",
+            "geeklist_host": "threepointthed",
+            "contributor": "DocSavage2001"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/7UvvhAg807X1ITyIRALfag__thumb/img/NTZKgBt3dziZXfygZoktzwmISII=/fit-in/200x150/filters:strip_icc()/pic202312.jpg",
+    "year_published": "1990",
+    "designers": [
+        "Michael Meier-Bachl",
+        "Francis Tresham"
+    ],
+    "weight": 3.99,
+    "rating": 7.05,
+    "play_time": "360",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "8",
+    "categories": [
+        "Economic",
+        "Trains"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Network and Route Building",
+        "Stock Holding"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "94856",
+            "expansion_name": "1835: Schlesien",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94856"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Michael Meier-Bachl; Francis Tresham",
+    "categories_string": "Economic; Trains",
+    "mechanics_string": "Auction/Bidding; Network and Route Building; Stock Holding",
+    "expansions_string": "{'expansion_id': '94856', 'expansion_name': '1835: Schlesien', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94856'}",
+    "expansions_for_string": ""
+}

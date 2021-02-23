@@ -1,0 +1,61 @@
+{
+    "game_id": "305035",
+    "game_name": "Legendary: A Marvel Deck Building Game - The New Mutants",
+    "bgg_link": "https://boardgamegeek.com/boardgame/305035",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7671254",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7671254#item7671254",
+            "geeklist_host": "gentle",
+            "contributor": "overhaul"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7836231",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7836231#item7836231",
+            "geeklist_host": "mithoron",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/snMuGnn-eZ6rPY6JXdjDMA__thumb/img/kjxCNcoBbXLW0OdsdIxH3wQz0M8=/fit-in/200x150/filters:strip_icc()/pic5395363.png",
+    "year_published": "2020",
+    "designers": [
+        "Devin Low"
+    ],
+    "weight": 2.00,
+    "rating": 8.36,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Comic Book / Strip",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "129437",
+            "game_name": "Legendary: A Marvel Deck Building Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/129437"
+        }
+    ],
+    "designers_string": "Devin Low",
+    "categories_string": "Card Game; Comic Book / Strip; Expansion for Base-game",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '129437', 'game_name': 'Legendary: A Marvel Deck Building Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/129437'}"
+}

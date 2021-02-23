@@ -1,0 +1,50 @@
+{
+    "game_id": "187046",
+    "game_name": "Star Wars: The Card Game - The Forest Moon",
+    "bgg_link": "https://boardgamegeek.com/boardgame/187046",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6100236",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6100236#item6100236",
+            "geeklist_host": "skeletonhat",
+            "contributor": "dobrazil"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/yz2L4cHZ_ZzdQhdHArhE7g__thumb/img/raeFH8gyLP2jbOEWGrWxyZum2YU=/fit-in/200x150/filters:strip_icc()/pic2728491.png",
+    "year_published": "2016",
+    "designers": [],
+    "weight": 0.00,
+    "rating": 7.82,
+    "play_time": "60 - 0",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Movies / TV / Radio theme",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "103886",
+            "game_name": "Star Wars: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/103886"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Card Game; Expansion for Base-game; Movies / TV / Radio theme; Science Fiction",
+    "mechanics_string": "Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '103886', 'game_name': 'Star Wars: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/103886'}"
+}

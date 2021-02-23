@@ -1,0 +1,92 @@
+{
+    "game_id": "127023",
+    "game_name": "Kemet",
+    "bgg_link": "https://boardgamegeek.com/boardgame/127023",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4070394",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4070394#item4070394",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "philmcd"
+        },
+        {
+            "geeklist_id": "223927",
+            "geeklist_item_id": "5380541",
+            "year_month": "2017/05",
+            "year": "2017",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223927/item/5380541#item5380541",
+            "geeklist_host": "maloma",
+            "contributor": "Formersd"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__thumb/img/930_NppLsnIGUDG_W6wkdOGgKR8=/fit-in/200x150/filters:strip_icc()/pic3979527.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Jacques Bariot",
+        "Guillaume Montiage"
+    ],
+    "weight": 3.01,
+    "rating": 7.72,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "148",
+    "categories": [
+        "Ancient",
+        "Miniatures",
+        "Mythology",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Area Movement",
+        "Card Drafting",
+        "Card Play Conflict Resolution",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "146781",
+            "expansion_name": "C3K: Creatures Crossover Cyclades/Kemet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146781"
+        },
+        {
+            "expansion_id": "207149",
+            "expansion_name": "Kemet: Dice Tower Promo 2016",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207149"
+        },
+        {
+            "expansion_id": "190744",
+            "expansion_name": "Kemet: New Power Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190744"
+        },
+        {
+            "expansion_id": "254543",
+            "expansion_name": "Kemet: Seth",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/254543"
+        },
+        {
+            "expansion_id": "190743",
+            "expansion_name": "Kemet: Skills and Black Power Tile For Ta-Seti",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190743"
+        },
+        {
+            "expansion_id": "161842",
+            "expansion_name": "Kemet: Ta-Seti",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161842"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jacques Bariot; Guillaume Montiage",
+    "categories_string": "Ancient; Miniatures; Mythology; Wargame",
+    "mechanics_string": "Action Points; Area Majority / Influence; Area Movement; Card Drafting; Card Play Conflict Resolution; Hand Management",
+    "expansions_string": "{'expansion_id': '146781', 'expansion_name': 'C3K: Creatures Crossover Cyclades/Kemet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146781'}; {'expansion_id': '207149', 'expansion_name': 'Kemet: Dice Tower Promo 2016', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207149'}; {'expansion_id': '190744', 'expansion_name': 'Kemet: New Power Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190744'}; {'expansion_id': '254543', 'expansion_name': 'Kemet: Seth', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/254543'}; {'expansion_id': '190743', 'expansion_name': 'Kemet: Skills and Black Power Tile For Ta-Seti', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190743'}; {'expansion_id': '161842', 'expansion_name': 'Kemet: Ta-Seti', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161842'}",
+    "expansions_for_string": ""
+}

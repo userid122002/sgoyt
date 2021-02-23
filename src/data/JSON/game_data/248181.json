@@ -1,0 +1,101 @@
+{
+    "game_id": "248181",
+    "game_name": "The Lost Expedition: The Fountain of Youth & Other Adventures",
+    "bgg_link": "https://boardgamegeek.com/boardgame/248181",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6523099",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6523099#item6523099",
+            "geeklist_host": "Albia",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6547132",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6547132#item6547132",
+            "geeklist_host": "Albia",
+            "contributor": "hoangart"
+        },
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6943720",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6943720#item6943720",
+            "geeklist_host": "Woelf",
+            "contributor": "Phyrexian"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6968929",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6968929#item6968929",
+            "geeklist_host": "magic_erwt",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7837932",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7837932#item7837932",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "woodjh"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8131221",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8131221#item8131221",
+            "geeklist_host": "ArianneH",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 6,
+    "thumbnail": "https://cf.geekdo-images.com/ymbo8rmuoAuGeTeloPfm3g__thumb/img/35EM-xMw3KKPh30mRqfyTFYBPwM=/fit-in/200x150/filters:strip_icc()/pic4025010.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Peer Sylvester"
+    ],
+    "weight": 2.00,
+    "rating": 7.58,
+    "play_time": "30 - 50",
+    "best": "7",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Expansion for Base-game",
+        "Exploration"
+    ],
+    "mechanics": [
+        "Cooperative Game"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "216459",
+            "game_name": "The Lost Expedition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/216459"
+        }
+    ],
+    "designers_string": "Peer Sylvester",
+    "categories_string": "Adventure; Card Game; Expansion for Base-game; Exploration",
+    "mechanics_string": "Cooperative Game",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '216459', 'game_name': 'The Lost Expedition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/216459'}"
+}

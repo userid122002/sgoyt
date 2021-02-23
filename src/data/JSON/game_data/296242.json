@@ -1,0 +1,53 @@
+{
+    "game_id": "296242",
+    "game_name": "Space Marine Adventures: Recon Mission Pack Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/296242",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7592445",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7592445#item7592445",
+            "geeklist_host": "jwml",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/3qL_qY0p0Pz0490nlb_kAw__thumb/img/ORa7yPWQe6kmgBg49ZzpXgB_nR0=/fit-in/200x150/filters:strip_icc()/pic5108373.png",
+    "year_published": "2019",
+    "designers": [],
+    "weight": 2.00,
+    "rating": 7.92,
+    "play_time": "30 - 45",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fighting",
+        "Miniatures",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "247106",
+            "game_name": "Space Marine Adventures: Labyrinth of the Necrons",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/247106"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Adventure; Expansion for Base-game; Fighting; Miniatures; Science Fiction",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Grid Movement; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '247106', 'game_name': 'Space Marine Adventures: Labyrinth of the Necrons', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/247106'}"
+}

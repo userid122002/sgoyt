@@ -1,0 +1,88 @@
+{
+    "game_id": "229987",
+    "game_name": "Mansions of Madness: Second Edition - Streets of Arkham Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/229987",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5765032",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5765032#item5765032",
+            "geeklist_host": "Albia",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5985481",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5985481#item5985481",
+            "geeklist_host": "radthanael",
+            "contributor": "King Zimm"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6013652",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6013652#item6013652",
+            "geeklist_host": "busdjur",
+            "contributor": "King Zimm"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/fQuZVotnICKQK9YEoRDdsA__thumb/img/orThX13drP8zdvDgX1xOWonQ4C4=/fit-in/200x150/filters:strip_icc()/pic3763364.jpg",
+    "year_published": "2017",
+    "designers": [
+        "Kara Centell-Dunk",
+        "Tony Fanchi",
+        "Grace Holdinghaus"
+    ],
+    "weight": 2.60,
+    "rating": 8.63,
+    "play_time": "120 - 180",
+    "best": "3",
+    "recommended": "5",
+    "not_recommended": "1",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Fighting",
+        "Horror",
+        "Miniatures",
+        "Murder/Mystery",
+        "Novel-based",
+        "Puzzle"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Pick-up and Deliver",
+        "Role Playing",
+        "Solo / Solitaire Game",
+        "Team-Based Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "205059",
+            "game_name": "Mansions of Madness: Second Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/205059"
+        }
+    ],
+    "designers_string": "Kara Centell-Dunk; Tony Fanchi; Grace Holdinghaus",
+    "categories_string": "Adventure; Expansion for Base-game; Exploration; Fantasy; Fighting; Horror; Miniatures; Murder/Mystery; Novel-based; Puzzle",
+    "mechanics_string": "Area Movement; Cooperative Game; Dice Rolling; Hand Management; Modular Board; Pick-up and Deliver; Role Playing; Solo / Solitaire Game; Team-Based Game; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '205059', 'game_name': 'Mansions of Madness: Second Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/205059'}"
+}

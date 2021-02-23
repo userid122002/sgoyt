@@ -1,0 +1,66 @@
+{
+    "game_id": "144734",
+    "game_name": "Arcane Academy",
+    "bgg_link": "https://boardgamegeek.com/boardgame/144734",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5012332",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5012332#item5012332",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Dstanely"
+        },
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5015693",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5015693#item5015693",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Dstanely"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/rQZHip8vqrS_kZVrz8X_Ig__thumb/img/0hOK2P2yk7PMvVj791HP9KlaNPs=/fit-in/200x150/filters:strip_icc()/pic2971623.png",
+    "year_published": "2016",
+    "designers": [
+        "Eric M. Lang",
+        "Kevin Wilson"
+    ],
+    "weight": 2.24,
+    "rating": 6.79,
+    "play_time": "30 - 45",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "3",
+    "categories": [
+        "Comic Book / Strip",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "233065",
+            "expansion_name": "Arcane Academy: Advanced Arithmancy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233065"
+        },
+        {
+            "expansion_id": "230098",
+            "expansion_name": "Arcane Academy: Bow of Spell Mastery",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/230098"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Eric M. Lang; Kevin Wilson",
+    "categories_string": "Comic Book / Strip; Fantasy",
+    "mechanics_string": "Card Drafting; Tile Placement",
+    "expansions_string": "{'expansion_id': '233065', 'expansion_name': 'Arcane Academy: Advanced Arithmancy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233065'}; {'expansion_id': '230098', 'expansion_name': 'Arcane Academy: Bow of Spell Mastery', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/230098'}",
+    "expansions_for_string": ""
+}

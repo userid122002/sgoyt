@@ -1,0 +1,70 @@
+{
+    "game_id": "285984",
+    "game_name": "Last Bastion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/285984",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7547356",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7547356#item7547356",
+            "geeklist_host": "Doc_H",
+            "contributor": "Solinete"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7830160",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7830160#item7830160",
+            "geeklist_host": "mithoron",
+            "contributor": "kevinruns262"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/eL5ZK9gerP9D3cld4xXjxQ__thumb/img/4_3lMCgwHtx3rb42ry8vGqMN2K4=/fit-in/200x150/filters:strip_icc()/pic4882123.png",
+    "year_published": "2019",
+    "designers": [
+        "Antoine Bauza"
+    ],
+    "weight": 2.57,
+    "rating": 7.67,
+    "play_time": "45",
+    "best": "3",
+    "recommended": "13",
+    "not_recommended": "10",
+    "categories": [
+        "Fantasy",
+        "Fighting",
+        "Medieval"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Die Icon Resolution",
+        "Grid Movement",
+        "Modular Board",
+        "Move Through Deck",
+        "Player Elimination",
+        "Solo / Solitaire Game",
+        "Square Grid",
+        "Variable Player Powers",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "292778",
+            "expansion_name": "Last Bastion: Wu-Feng",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292778"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Antoine Bauza",
+    "categories_string": "Fantasy; Fighting; Medieval",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Die Icon Resolution; Grid Movement; Modular Board; Move Through Deck; Player Elimination; Solo / Solitaire Game; Square Grid; Variable Player Powers; Variable Set-up",
+    "expansions_string": "{'expansion_id': '292778', 'expansion_name': 'Last Bastion: Wu-Feng', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292778'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,84 @@
+{
+    "game_id": "130715",
+    "game_name": "The Lord of the Rings: The Card Game - The Hobbit: On the Doorstep",
+    "bgg_link": "https://boardgamegeek.com/boardgame/130715",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4225313",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4225313#item4225313",
+            "geeklist_host": "SBGrad",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4456311",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4456311#item4456311",
+            "geeklist_host": "Woelf",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6032537",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6032537#item6032537",
+            "geeklist_host": "busdjur",
+            "contributor": "fractaloon"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/5qjd1KFIUuUhZPiRQcgeUQ__thumb/img/XyMZyjocn9NSb9kdRoGXUASJfq4=/fit-in/200x150/filters:strip_icc()/pic1534818.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Caleb Grace"
+    ],
+    "weight": 3.23,
+    "rating": 8.02,
+    "play_time": "0",
+    "best": "2",
+    "recommended": "3",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "161068",
+            "expansion_name": "The Lord of the Rings: The Card Game - Game Night Kit 2014 Fall Season",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161068"
+        },
+        {
+            "expansion_id": "161069",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Decks: On the Doorstep",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/161069"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        }
+    ],
+    "designers_string": "Caleb Grace",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '161068', 'expansion_name': 'The Lord of the Rings: The Card Game - Game Night Kit 2014 Fall Season', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161068'}; {'expansion_id': '161069', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Decks: On the Doorstep', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/161069'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}"
+}

@@ -1,0 +1,52 @@
+{
+    "game_id": "811",
+    "game_name": "Rummikub",
+    "bgg_link": "https://boardgamegeek.com/boardgame/811",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7272170",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7272170#item7272170",
+            "geeklist_host": "narcher007",
+            "contributor": "overhaul"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/LeaLDlTTmeN639MfuflcMw__thumb/img/CSPEyoFAcA3WwtzDekp3Mfepcek=/fit-in/200x150/filters:strip_icc()/pic2286966.jpg",
+    "year_published": "1977",
+    "designers": [
+        "Ephraim Hertzano"
+    ],
+    "weight": 1.75,
+    "rating": 6.38,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "79",
+    "categories": [
+        "Abstract Strategy",
+        "Card Game",
+        "Number"
+    ],
+    "mechanics": [
+        "Melding and Splaying",
+        "Set Collection",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "169466",
+            "expansion_name": "Original Rummikub Erganzungs-Set fur 5 und 6 Spieler",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169466"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Ephraim Hertzano",
+    "categories_string": "Abstract Strategy; Card Game; Number",
+    "mechanics_string": "Melding and Splaying; Set Collection; Tile Placement",
+    "expansions_string": "{'expansion_id': '169466', 'expansion_name': 'Original Rummikub Erganzungs-Set fur 5 und 6 Spieler', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169466'}",
+    "expansions_for_string": ""
+}

@@ -1,0 +1,100 @@
+{
+    "game_id": "124545",
+    "game_name": "Town Center",
+    "bgg_link": "https://boardgamegeek.com/boardgame/124545",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5476686",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5476686#item5476686",
+            "geeklist_host": "koinskyz",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7209672",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7209672#item7209672",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Dubious Bryn"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7230090",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7230090#item7230090",
+            "geeklist_host": "narcher007",
+            "contributor": "zombie_homer"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/TxKhPNnR8q60S6MRbTc0ag__thumb/img/lmBbWbClMivhOmVZ-fSw16H-l_g=/fit-in/200x150/filters:strip_icc()/pic1834531.jpg",
+    "year_published": "2012",
+    "designers": [
+        "Alban Viard"
+    ],
+    "weight": 2.85,
+    "rating": 6.43,
+    "play_time": "30",
+    "best": "5",
+    "recommended": "2",
+    "not_recommended": "1",
+    "categories": [
+        "Abstract Strategy",
+        "City Building",
+        "Economic"
+    ],
+    "mechanics": [
+        "Area Majority / Influence"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "179530",
+            "expansion_name": "Town Center: Beaune / Turku",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/179530"
+        },
+        {
+            "expansion_id": "163268",
+            "expansion_name": "Town Center: Essen / SPIEL",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163268"
+        },
+        {
+            "expansion_id": "141989",
+            "expansion_name": "Town Center: Expansion n1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/141989"
+        },
+        {
+            "expansion_id": "141990",
+            "expansion_name": "Town Center: Expansion n2",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/141990"
+        },
+        {
+            "expansion_id": "159447",
+            "expansion_name": "Town Center: London / Hong Kong",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159447"
+        },
+        {
+            "expansion_id": "160031",
+            "expansion_name": "Town Center: Lower Manhattan / Paris La Cite - St. Louis",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/160031"
+        },
+        {
+            "expansion_id": "143510",
+            "expansion_name": "Town Center: Manhattan",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/143510"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Alban Viard",
+    "categories_string": "Abstract Strategy; City Building; Economic",
+    "mechanics_string": "Area Majority / Influence",
+    "expansions_string": "{'expansion_id': '179530', 'expansion_name': 'Town Center: Beaune / Turku', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/179530'}; {'expansion_id': '163268', 'expansion_name': 'Town Center: Essen / SPIEL', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163268'}; {'expansion_id': '141989', 'expansion_name': 'Town Center: Expansion n1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/141989'}; {'expansion_id': '141990', 'expansion_name': 'Town Center: Expansion n2', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/141990'}; {'expansion_id': '159447', 'expansion_name': 'Town Center: London / Hong Kong', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159447'}; {'expansion_id': '160031', 'expansion_name': 'Town Center: Lower Manhattan / Paris La Cite - St. Louis', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/160031'}; {'expansion_id': '143510', 'expansion_name': 'Town Center: Manhattan', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/143510'}",
+    "expansions_for_string": ""
+}

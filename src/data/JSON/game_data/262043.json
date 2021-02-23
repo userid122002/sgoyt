@@ -1,0 +1,53 @@
+{
+    "game_id": "262043",
+    "game_name": "Sprawlopolis: Wrecktar",
+    "bgg_link": "https://boardgamegeek.com/boardgame/262043",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6798674",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6798674#item6798674",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "govmiller"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/R3NcqPhXcDV2Vx2KXVMbbg__thumb/img/IXpOY2llN3Wcyk-jYYnPMYVkfDs=/fit-in/200x150/filters:strip_icc()/pic4534833.png",
+    "year_published": "2018",
+    "designers": [
+        "Steven Aramini"
+    ],
+    "weight": 1.00,
+    "rating": 7.08,
+    "play_time": "15 - 20",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "City Building",
+        "Expansion for Base-game",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Cooperative Game",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "251658",
+            "game_name": "Sprawlopolis",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/251658"
+        }
+    ],
+    "designers_string": "Steven Aramini",
+    "categories_string": "Card Game; City Building; Expansion for Base-game; Territory Building",
+    "mechanics_string": "Area Majority / Influence; Cooperative Game; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '251658', 'game_name': 'Sprawlopolis', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/251658'}"
+}

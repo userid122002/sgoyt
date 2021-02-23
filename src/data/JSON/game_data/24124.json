@@ -1,0 +1,89 @@
+{
+    "game_id": "24124",
+    "game_name": "Combat Commander: Mediterranean",
+    "bgg_link": "https://boardgamegeek.com/boardgame/24124",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178257",
+            "geeklist_item_id": "3402281",
+            "year_month": "2014/09",
+            "year": "2014",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3402281#item3402281",
+            "geeklist_host": "Malaiser",
+            "contributor": "Bobble Hat"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/kX4DutrRSDHUWoMHbh9Bpw__thumb/img/eNCwq-fkfNoc4MscuJiweQOWbYc=/fit-in/200x150/filters:strip_icc()/pic257507.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Chad Jensen"
+    ],
+    "weight": 2.97,
+    "rating": 8.51,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "8",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Hexagon Grid",
+        "Simulation",
+        "Variable Phase Order"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "34580",
+            "expansion_name": "Combat Commander: Battle Pack #2 - Stalingrad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34580"
+        },
+        {
+            "expansion_id": "41985",
+            "expansion_name": "Combat Commander: Battle Pack #3 - Normandy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/41985"
+        },
+        {
+            "expansion_id": "129341",
+            "expansion_name": "Combat Commander: Battle Pack #5 - Fall of the West",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/129341"
+        },
+        {
+            "expansion_id": "134269",
+            "expansion_name": "Combat Commander: Battle Pack #6 - Sea Lion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134269"
+        },
+        {
+            "expansion_id": "169076",
+            "expansion_name": "Combat Commander: Battle Pack #7 - Leader of Men: Tournament Battle Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/169076"
+        },
+        {
+            "expansion_id": "280647",
+            "expansion_name": "Combat Commander: Europe - C3i #24 Scenarios",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/280647"
+        },
+        {
+            "expansion_id": "86957",
+            "expansion_name": "Combat Commander: Resistance!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/86957"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "21050",
+            "game_name": "Combat Commander: Europe",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/21050"
+        }
+    ],
+    "designers_string": "Chad Jensen",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Campaign / Battle Card Driven; Hexagon Grid; Simulation; Variable Phase Order",
+    "expansions_string": "{'expansion_id': '34580', 'expansion_name': 'Combat Commander: Battle Pack #2 - Stalingrad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34580'}; {'expansion_id': '41985', 'expansion_name': 'Combat Commander: Battle Pack #3 - Normandy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/41985'}; {'expansion_id': '129341', 'expansion_name': 'Combat Commander: Battle Pack #5 - Fall of the West', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/129341'}; {'expansion_id': '134269', 'expansion_name': 'Combat Commander: Battle Pack #6 - Sea Lion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134269'}; {'expansion_id': '169076', 'expansion_name': 'Combat Commander: Battle Pack #7 - Leader of Men: Tournament Battle Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/169076'}; {'expansion_id': '280647', 'expansion_name': 'Combat Commander: Europe - C3i #24 Scenarios', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/280647'}; {'expansion_id': '86957', 'expansion_name': 'Combat Commander: Resistance!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/86957'}",
+    "expansions_for_string": "{'game_id': '21050', 'game_name': 'Combat Commander: Europe', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/21050'}"
+}

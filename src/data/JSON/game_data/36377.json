@@ -1,0 +1,63 @@
+{
+    "game_id": "36377",
+    "game_name": "Age of Steam Expansion: Scotland",
+    "bgg_link": "https://boardgamegeek.com/boardgame/36377",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "3997570",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/3997570#item3997570",
+            "geeklist_host": "joestin",
+            "contributor": "telengard"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4488347",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4488347#item4488347",
+            "geeklist_host": "Woelf",
+            "contributor": "telengard"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/UD8AuasCjTQ-7qDBz-35_g__thumb/img/EwrQYxtKmhLmK4aLazS46jpuoog=/fit-in/200x150/filters:strip_icc()/pic404360.jpg",
+    "year_published": "2006",
+    "designers": [
+        "Kevin Duffy"
+    ],
+    "weight": 3.86,
+    "rating": 7.55,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "6",
+    "categories": [
+        "Economic",
+        "Expansion for Base-game",
+        "Print & Play",
+        "Trains",
+        "Transportation"
+    ],
+    "mechanics": [
+        "Pick-up and Deliver",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "4098",
+            "game_name": "Age of Steam",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/4098"
+        }
+    ],
+    "designers_string": "Kevin Duffy",
+    "categories_string": "Economic; Expansion for Base-game; Print & Play; Trains; Transportation",
+    "mechanics_string": "Pick-up and Deliver; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '4098', 'game_name': 'Age of Steam', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/4098'}"
+}

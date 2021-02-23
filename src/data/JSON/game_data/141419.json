@@ -1,0 +1,62 @@
+{
+    "game_id": "141419",
+    "game_name": "Koi Pond: A Coy Card Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/141419",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4321581",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4321581#item4321581",
+            "geeklist_host": "mikolajl",
+            "contributor": "BilboAtBagEnd"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/yaWWHQgSiphruGSVqib2VQ__thumb/img/blieNgIvDNt1R309yLK6qdmvfB0=/fit-in/200x150/filters:strip_icc()/pic1634301.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Daniel Solis"
+    ],
+    "weight": 1.89,
+    "rating": 6.78,
+    "play_time": "20",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Abstract Strategy",
+        "Animals",
+        "Card Game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "147810",
+            "expansion_name": "Koi Pond: Four Walls",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147810"
+        },
+        {
+            "expansion_id": "147809",
+            "expansion_name": "Koi Pond: Four Winds",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147809"
+        },
+        {
+            "expansion_id": "155761",
+            "expansion_name": "Koi Pond: Moon Temple",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/155761"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Daniel Solis",
+    "categories_string": "Abstract Strategy; Animals; Card Game",
+    "mechanics_string": "Card Drafting; Hand Management; Set Collection",
+    "expansions_string": "{'expansion_id': '147810', 'expansion_name': 'Koi Pond: Four Walls', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147810'}; {'expansion_id': '147809', 'expansion_name': 'Koi Pond: Four Winds', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147809'}; {'expansion_id': '155761', 'expansion_name': 'Koi Pond: Moon Temple', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/155761'}",
+    "expansions_for_string": ""
+}

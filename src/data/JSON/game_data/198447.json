@@ -1,0 +1,56 @@
+{
+    "game_id": "198447",
+    "game_name": "Jim Henson's Labyrinth: The Board Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/198447",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5059766",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5059766#item5059766",
+            "geeklist_host": "mikolajl",
+            "contributor": "FrankZed"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/fh-sdfcn-kDRAjGRN-pVRA__thumb/img/3kd8F4syr1MiexDO2BbSrgvxHDQ=/fit-in/200x150/filters:strip_icc()/pic2995108.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Alessio Cavatore"
+    ],
+    "weight": 1.75,
+    "rating": 5.26,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Adventure",
+        "Movies / TV / Radio theme"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Cooperative Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "269147",
+            "expansion_name": "Jim Henson's Labyrinth: The Board Game - Fireys! Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/269147"
+        },
+        {
+            "expansion_id": "218498",
+            "expansion_name": "Jim Henson's Labyrinth: The Board Game - Goblins!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218498"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Alessio Cavatore",
+    "categories_string": "Adventure; Movies / TV / Radio theme",
+    "mechanics_string": "Area Movement; Cooperative Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '269147', 'expansion_name': \"Jim Henson's Labyrinth: The Board Game - Fireys! Expansion\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/269147'}; {'expansion_id': '218498', 'expansion_name': \"Jim Henson's Labyrinth: The Board Game - Goblins!\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218498'}",
+    "expansions_for_string": ""
+}

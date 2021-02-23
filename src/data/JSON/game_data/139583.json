@@ -1,0 +1,84 @@
+{
+    "game_id": "139583",
+    "game_name": "Dungeon Roll: Hero Booster Pack #1",
+    "bgg_link": "https://boardgamegeek.com/boardgame/139583",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3477993",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3477993#item3477993",
+            "geeklist_host": "joestin",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3544901",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3544901#item3544901",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "182573",
+            "geeklist_item_id": "3595772",
+            "year_month": "2014/12",
+            "year": "2014",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182573/item/3595772#item3595772",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Iz Nibz"
+        },
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4234324",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4234324#item4234324",
+            "geeklist_host": "SBGrad",
+            "contributor": "Iz Nibz"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/4BzmbXjPGZsLeNmmI6s4Rg__thumb/img/6oy4zFjKB1m9EG2fa7-9ighJ91A=/fit-in/200x150/filters:strip_icc()/pic1750877.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Chris Darden"
+    ],
+    "weight": 1.62,
+    "rating": 6.42,
+    "play_time": "0",
+    "best": "4",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Push Your Luck",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "138788",
+            "game_name": "Dungeon Roll",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/138788"
+        }
+    ],
+    "designers_string": "Chris Darden",
+    "categories_string": "Dice; Expansion for Base-game; Fantasy; Fighting",
+    "mechanics_string": "Dice Rolling; Hand Management; Push Your Luck; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '138788', 'game_name': 'Dungeon Roll', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/138788'}"
+}

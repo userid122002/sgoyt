@@ -1,0 +1,68 @@
+{
+    "game_id": "24439",
+    "game_name": "Ticket to Ride: USA 1910",
+    "bgg_link": "https://boardgamegeek.com/boardgame/24439",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4461700",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4461700#item4461700",
+            "geeklist_host": "Woelf",
+            "contributor": "mogust"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4551552",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4551552#item4551552",
+            "geeklist_host": "jdarnold",
+            "contributor": "mogust"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/JMC_eP625nO1t_uI9HoQ7g__thumb/img/3_K2lD007FGiRNsD7qvhOXO1roM=/fit-in/200x150/filters:strip_icc()/pic144599.jpg",
+    "year_published": "2006",
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "weight": 1.90,
+    "rating": 8.01,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "63",
+    "categories": [
+        "Expansion for Base-game",
+        "Trains"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Hand Management",
+        "Network and Route Building",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "197697",
+            "expansion_name": "Netherlands (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197697"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "9209",
+            "game_name": "Ticket to Ride",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/9209"
+        }
+    ],
+    "designers_string": "Alan R. Moon",
+    "categories_string": "Expansion for Base-game; Trains",
+    "mechanics_string": "Card Drafting; Hand Management; Network and Route Building; Set Collection",
+    "expansions_string": "{'expansion_id': '197697', 'expansion_name': 'Netherlands (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197697'}",
+    "expansions_for_string": "{'game_id': '9209', 'game_name': 'Ticket to Ride', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/9209'}"
+}

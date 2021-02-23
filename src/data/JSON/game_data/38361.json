@@ -1,0 +1,65 @@
+{
+    "game_id": "38361",
+    "game_name": "Borodino 20",
+    "bgg_link": "https://boardgamegeek.com/boardgame/38361",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7711442",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7711442#item7711442",
+            "geeklist_host": "Elida",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/zNDGyR3V8I7AvnDstfYZVQ__thumb/img/mOWgDqHf4QcZ77VzG_GxW71S5Tg=/fit-in/200x150/filters:strip_icc()/pic370183.jpg",
+    "year_published": "2008",
+    "designers": [
+        "Lance McMillan"
+    ],
+    "weight": 2.07,
+    "rating": 7.18,
+    "play_time": "70",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "103702",
+            "expansion_name": "Berezina 20",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/103702"
+        },
+        {
+            "expansion_id": "107682",
+            "expansion_name": "Gzhatsk 20",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/107682"
+        },
+        {
+            "expansion_id": "42837",
+            "expansion_name": "Napoleonic 20 Expansion Kit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42837"
+        },
+        {
+            "expansion_id": "39815",
+            "expansion_name": "Smolensk 20",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/39815"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Lance McMillan",
+    "categories_string": "Napoleonic; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Hexagon Grid",
+    "expansions_string": "{'expansion_id': '103702', 'expansion_name': 'Berezina 20', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/103702'}; {'expansion_id': '107682', 'expansion_name': 'Gzhatsk 20', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/107682'}; {'expansion_id': '42837', 'expansion_name': 'Napoleonic 20 Expansion Kit', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42837'}; {'expansion_id': '39815', 'expansion_name': 'Smolensk 20', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/39815'}",
+    "expansions_for_string": ""
+}

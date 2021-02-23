@@ -1,0 +1,76 @@
+{
+    "game_id": "144826",
+    "game_name": "Zombie 15'",
+    "bgg_link": "https://boardgamegeek.com/boardgame/144826",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7787085",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7787085#item7787085",
+            "geeklist_host": "repairmanjack",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/RGK02ffZrgloU6p_sXVlFQ__thumb/img/beFzNoSRm5kqbLKAwl-q5RuSXfw=/fit-in/200x150/filters:strip_icc()/pic2138386.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Guillaume Lemery",
+        "Nicolas Schlewitz"
+    ],
+    "weight": 2.23,
+    "rating": 6.87,
+    "play_time": "15",
+    "best": "0",
+    "recommended": "7",
+    "not_recommended": "11",
+    "categories": [
+        "Fighting",
+        "Horror",
+        "Real-time",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Grid Movement",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "163379",
+            "expansion_name": "Zombie 15': 12 Extra Search Cards Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163379"
+        },
+        {
+            "expansion_id": "163376",
+            "expansion_name": "Zombie 15': Bonus Campaign",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163376"
+        },
+        {
+            "expansion_id": "163378",
+            "expansion_name": "Zombie 15': Left Alone - Solo Campaign",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163378"
+        },
+        {
+            "expansion_id": "293637",
+            "expansion_name": "Zombie 15': Potwory w Tokio Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/293637"
+        },
+        {
+            "expansion_id": "163374",
+            "expansion_name": "Zombie 15': Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/163374"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Guillaume Lemery; Nicolas Schlewitz",
+    "categories_string": "Fighting; Horror; Real-time; Zombies",
+    "mechanics_string": "Action Points; Cooperative Game; Grid Movement; Modular Board; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '163379', 'expansion_name': \"Zombie 15': 12 Extra Search Cards Promo\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163379'}; {'expansion_id': '163376', 'expansion_name': \"Zombie 15': Bonus Campaign\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163376'}; {'expansion_id': '163378', 'expansion_name': \"Zombie 15': Left Alone - Solo Campaign\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163378'}; {'expansion_id': '293637', 'expansion_name': \"Zombie 15': Potwory w Tokio Promo Cards\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/293637'}; {'expansion_id': '163374', 'expansion_name': \"Zombie 15': Promo Cards\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/163374'}",
+    "expansions_for_string": ""
+}

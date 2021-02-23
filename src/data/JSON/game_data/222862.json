@@ -1,0 +1,145 @@
+{
+    "game_id": "222862",
+    "game_name": "Archmage",
+    "bgg_link": "https://boardgamegeek.com/boardgame/222862",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7089824",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7089824#item7089824",
+            "geeklist_host": "Venom Snake",
+            "contributor": "KillerPower"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7107669",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7107669#item7107669",
+            "geeklist_host": "Venom Snake",
+            "contributor": "KillerPower"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7464403",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7464403#item7464403",
+            "geeklist_host": "jomurph86",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7686775",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7686775#item7686775",
+            "geeklist_host": "gentle",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7745277",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7745277#item7745277",
+            "geeklist_host": "repairmanjack",
+            "contributor": "murjani1"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7790304",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7790304#item7790304",
+            "geeklist_host": "mithoron",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7791905",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7791905#item7791905",
+            "geeklist_host": "mithoron",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7919727",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7919727#item7919727",
+            "geeklist_host": "Elida",
+            "contributor": "TheStoicEmperor"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7963043",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7963043#item7963043",
+            "geeklist_host": "Albia",
+            "contributor": "josseroo"
+        },
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7965119",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7965119#item7965119",
+            "geeklist_host": "Albia",
+            "contributor": "josseroo"
+        }
+    ],
+    "sgoyt_count": 10,
+    "thumbnail": "https://cf.geekdo-images.com/UCEROEH7sFwvrjTwU16c7g__thumb/img/6vMnEdH24f8kjNUDyG74IsSaPWg=/fit-in/200x150/filters:strip_icc()/pic3537131.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Tim Heerema"
+    ],
+    "weight": 3.27,
+    "rating": 6.76,
+    "play_time": "60 - 120",
+    "best": "1",
+    "recommended": "5",
+    "not_recommended": "3",
+    "categories": [
+        "Exploration",
+        "Fantasy",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Area Majority / Influence",
+        "Pattern Building",
+        "Solo / Solitaire Game",
+        "Time Track",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "263229",
+            "expansion_name": "Archmage: Ascendant",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/263229"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Tim Heerema",
+    "categories_string": "Exploration; Fantasy; Territory Building",
+    "mechanics_string": "Action Points; Area Majority / Influence; Pattern Building; Solo / Solitaire Game; Time Track; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '263229', 'expansion_name': 'Archmage: Ascendant', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/263229'}",
+    "expansions_for_string": ""
+}

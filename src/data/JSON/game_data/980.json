@@ -1,0 +1,65 @@
+{
+    "game_id": "980",
+    "game_name": "Al Cabohne",
+    "bgg_link": "https://boardgamegeek.com/boardgame/980",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3936865",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3936865#item3936865",
+            "geeklist_host": "koinskyz",
+            "contributor": "BilboAtBagEnd"
+        },
+        {
+            "geeklist_id": "204546",
+            "geeklist_item_id": "4441432",
+            "year_month": "2016/02",
+            "year": "2016",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/204546/item/4441432#item4441432",
+            "geeklist_host": "Woelf",
+            "contributor": "BilboAtBagEnd"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/yiik2fv203GZg7mh_cDdGA__thumb/img/B1f4CCNNA2zvodUEMUCkoOIjFXk=/fit-in/200x150/filters:strip_icc()/pic19358.jpg",
+    "year_published": "2000",
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "weight": 1.77,
+    "rating": 5.96,
+    "play_time": "60",
+    "best": "15",
+    "recommended": "15",
+    "not_recommended": "3",
+    "categories": [
+        "Card Game",
+        "Farming",
+        "Mafia"
+    ],
+    "mechanics": [
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "913",
+            "expansion_name": "High Bohn",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/913"
+        },
+        {
+            "expansion_id": "18793",
+            "expansion_name": "High Bohn: Bohnenduell um 12 Uhr mittags",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/18793"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Uwe Rosenberg",
+    "categories_string": "Card Game; Farming; Mafia",
+    "mechanics_string": "Set Collection",
+    "expansions_string": "{'expansion_id': '913', 'expansion_name': 'High Bohn', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/913'}; {'expansion_id': '18793', 'expansion_name': 'High Bohn: Bohnenduell um 12 Uhr mittags', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/18793'}",
+    "expansions_for_string": ""
+}

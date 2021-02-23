@@ -1,0 +1,82 @@
+{
+    "game_id": "24508",
+    "game_name": "Taluva",
+    "bgg_link": "https://boardgamegeek.com/boardgame/24508",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4088239",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4088239#item4088239",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4652810",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4652810#item4652810",
+            "geeklist_host": "gentle",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5239083",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5239083#item5239083",
+            "geeklist_host": "Ibbo",
+            "contributor": "bigeeh"
+        },
+        {
+            "geeklist_id": "228234",
+            "geeklist_item_id": "5556035",
+            "year_month": "2017/08",
+            "year": "2017",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/228234/item/5556035#item5556035",
+            "geeklist_host": "kevinruns262",
+            "contributor": "eastwoodk"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/PC01tlKF5hf3et7F3mtHtw__thumb/img/e2-h91qjH6nNLby7xn-T_ohmVaA=/fit-in/200x150/filters:strip_icc()/pic1948254.png",
+    "year_published": "2006",
+    "designers": [
+        "Marcel-Andre Casasola Merkle"
+    ],
+    "weight": 2.27,
+    "rating": 7.17,
+    "play_time": "45",
+    "best": "1",
+    "recommended": "3",
+    "not_recommended": "86",
+    "categories": [
+        "City Building",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Layering",
+        "Modular Board",
+        "Race",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "235255",
+            "expansion_name": "Taluva Extension",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/235255"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Marcel-Andre Casasola Merkle",
+    "categories_string": "City Building; Territory Building",
+    "mechanics_string": "Layering; Modular Board; Race; Tile Placement",
+    "expansions_string": "{'expansion_id': '235255', 'expansion_name': 'Taluva Extension', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/235255'}",
+    "expansions_for_string": ""
+}

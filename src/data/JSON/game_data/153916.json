@@ -1,0 +1,259 @@
+{
+    "game_id": "153916",
+    "game_name": "Sergeants D-Day",
+    "bgg_link": "https://boardgamegeek.com/boardgame/153916",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "182515",
+            "geeklist_item_id": "3812951",
+            "year_month": "2015/03",
+            "year": "2015",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/182515/item/3812951#item3812951",
+            "geeklist_host": "HRune",
+            "contributor": "petegs"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4015206",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4015206#item4015206",
+            "geeklist_host": "joestin",
+            "contributor": "philmcd"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4019204",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4019204#item4019204",
+            "geeklist_host": "joestin",
+            "contributor": "philmcd"
+        },
+        {
+            "geeklist_id": "202271",
+            "geeklist_item_id": "4400438",
+            "year_month": "2016/01",
+            "year": "2016",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/202271/item/4400438#item4400438",
+            "geeklist_host": "suzyvitale",
+            "contributor": "Raygun1966"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/vpHlrq5pvQUwLUvSjv5Cww__thumb/img/xVVUporE7W475DKdWlOV5sVuytk=/fit-in/200x150/filters:strip_icc()/pic2420862.png",
+    "year_published": "2014",
+    "designers": [
+        "Jeff Billings"
+    ],
+    "weight": 3.17,
+    "rating": 7.15,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "173722",
+            "expansion_name": "Sergeants D-Day: Chapter 2 La Fiere Bridge",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173722"
+        },
+        {
+            "expansion_id": "173723",
+            "expansion_name": "Sergeants D-Day: Chapter 3 La Fiere Manor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173723"
+        },
+        {
+            "expansion_id": "173719",
+            "expansion_name": "Sergeants D-Day: Chapter 4 Merderet Fields",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173719"
+        },
+        {
+            "expansion_id": "173720",
+            "expansion_name": "Sergeants D-Day: Chapter 5 Bunker with a View",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173720"
+        },
+        {
+            "expansion_id": "173721",
+            "expansion_name": "Sergeants D-Day: Chapter 6 Carentan",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173721"
+        },
+        {
+            "expansion_id": "173724",
+            "expansion_name": "Sergeants D-Day: Chapter 7 Brecourt Manor",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173724"
+        },
+        {
+            "expansion_id": "173730",
+            "expansion_name": "Sergeants D-Day: German Fusilier Assault Tactics expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173730"
+        },
+        {
+            "expansion_id": "173951",
+            "expansion_name": "Sergeants D-Day: German Fusilier Assault Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173951"
+        },
+        {
+            "expansion_id": "173707",
+            "expansion_name": "Sergeants D-Day: German Fusilier bundle",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173707"
+        },
+        {
+            "expansion_id": "173949",
+            "expansion_name": "Sergeants D-Day: German Fusilier MG42 Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173949"
+        },
+        {
+            "expansion_id": "173950",
+            "expansion_name": "Sergeants D-Day: German Fusilier STG44 Leader expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173950"
+        },
+        {
+            "expansion_id": "173717",
+            "expansion_name": "Sergeants D-Day: German Light Infantry Assault Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173717"
+        },
+        {
+            "expansion_id": "173728",
+            "expansion_name": "Sergeants D-Day: German Light Infantry Battle Patrol Tactics expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173728"
+        },
+        {
+            "expansion_id": "173729",
+            "expansion_name": "Sergeants D-Day: German Light Infantry Infiltration Tactics expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173729"
+        },
+        {
+            "expansion_id": "173718",
+            "expansion_name": "Sergeants D-Day: German Light Infantry MG-42 Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173718"
+        },
+        {
+            "expansion_id": "173711",
+            "expansion_name": "Sergeants D-Day: German Light Infantry Rifle Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173711"
+        },
+        {
+            "expansion_id": "173710",
+            "expansion_name": "Sergeants D-Day: German Light Infantry Sergeants expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173710"
+        },
+        {
+            "expansion_id": "173716",
+            "expansion_name": "Sergeants D-Day: German Light Infantry Skirmishers Section expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173716"
+        },
+        {
+            "expansion_id": "173704",
+            "expansion_name": "Sergeants D-Day: Jagdtiger expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173704"
+        },
+        {
+            "expansion_id": "173709",
+            "expansion_name": "Sergeants D-Day: Paratrooper - M1 Garand Rifle Team",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173709"
+        },
+        {
+            "expansion_id": "173705",
+            "expansion_name": "Sergeants D-Day: Pershing expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173705"
+        },
+        {
+            "expansion_id": "173706",
+            "expansion_name": "Sergeants D-Day: US Glider Assault bundle",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173706"
+        },
+        {
+            "expansion_id": "173727",
+            "expansion_name": "Sergeants D-Day: US Glider Assault Tactics expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173727"
+        },
+        {
+            "expansion_id": "173725",
+            "expansion_name": "Sergeants D-Day: US Parachute Battle Patrol Tactics expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173725"
+        },
+        {
+            "expansion_id": "173726",
+            "expansion_name": "Sergeants D-Day: US Parachute Infiltration Tactics expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173726"
+        },
+        {
+            "expansion_id": "173957",
+            "expansion_name": "Sergeants D-Day: US Paratrooper .30 Cal Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173957"
+        },
+        {
+            "expansion_id": "173956",
+            "expansion_name": "Sergeants D-Day: US Paratrooper Assault Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173956"
+        },
+        {
+            "expansion_id": "173953",
+            "expansion_name": "Sergeants D-Day: US Paratrooper Glider Assault Section expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173953"
+        },
+        {
+            "expansion_id": "173952",
+            "expansion_name": "Sergeants D-Day: US Paratrooper Glider Rifle Grenadier Section expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173952"
+        },
+        {
+            "expansion_id": "173954",
+            "expansion_name": "Sergeants D-Day: US Paratrooper Glider Rifle Leader expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173954"
+        },
+        {
+            "expansion_id": "173955",
+            "expansion_name": "Sergeants D-Day: US Paratrooper Glider Thompson Leader expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173955"
+        },
+        {
+            "expansion_id": "173714",
+            "expansion_name": "Sergeants D-Day: US Paratrooper M1919A4 MG Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173714"
+        },
+        {
+            "expansion_id": "173713",
+            "expansion_name": "Sergeants D-Day: US Paratrooper Rifle Grenade Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173713"
+        },
+        {
+            "expansion_id": "173712",
+            "expansion_name": "Sergeants D-Day: US Paratrooper Scout Section expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173712"
+        },
+        {
+            "expansion_id": "173708",
+            "expansion_name": "Sergeants D-Day: US Paratrooper Sergeants expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173708"
+        },
+        {
+            "expansion_id": "173715",
+            "expansion_name": "Sergeants D-Day: US Paratroopers BAR Team expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/173715"
+        },
+        {
+            "expansion_id": "200814",
+            "expansion_name": "Sergeants: Hell on Wheels - M8 Greyhound",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/200814"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jeff Billings",
+    "categories_string": "Wargame; World War II",
+    "mechanics_string": "Campaign / Battle Card Driven",
+    "expansions_string": "{'expansion_id': '173722', 'expansion_name': 'Sergeants D-Day: Chapter 2 La Fiere Bridge', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173722'}; {'expansion_id': '173723', 'expansion_name': 'Sergeants D-Day: Chapter 3 La Fiere Manor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173723'}; {'expansion_id': '173719', 'expansion_name': 'Sergeants D-Day: Chapter 4 Merderet Fields', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173719'}; {'expansion_id': '173720', 'expansion_name': 'Sergeants D-Day: Chapter 5 Bunker with a View', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173720'}; {'expansion_id': '173721', 'expansion_name': 'Sergeants D-Day: Chapter 6 Carentan', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173721'}; {'expansion_id': '173724', 'expansion_name': 'Sergeants D-Day: Chapter 7 Brecourt Manor', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173724'}; {'expansion_id': '173730', 'expansion_name': 'Sergeants D-Day: German Fusilier Assault Tactics expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173730'}; {'expansion_id': '173951', 'expansion_name': 'Sergeants D-Day: German Fusilier Assault Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173951'}; {'expansion_id': '173707', 'expansion_name': 'Sergeants D-Day: German Fusilier bundle', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173707'}; {'expansion_id': '173949', 'expansion_name': 'Sergeants D-Day: German Fusilier MG42 Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173949'}; {'expansion_id': '173950', 'expansion_name': 'Sergeants D-Day: German Fusilier STG44 Leader expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173950'}; {'expansion_id': '173717', 'expansion_name': 'Sergeants D-Day: German Light Infantry Assault Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173717'}; {'expansion_id': '173728', 'expansion_name': 'Sergeants D-Day: German Light Infantry Battle Patrol Tactics expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173728'}; {'expansion_id': '173729', 'expansion_name': 'Sergeants D-Day: German Light Infantry Infiltration Tactics expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173729'}; {'expansion_id': '173718', 'expansion_name': 'Sergeants D-Day: German Light Infantry MG-42 Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173718'}; {'expansion_id': '173711', 'expansion_name': 'Sergeants D-Day: German Light Infantry Rifle Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173711'}; {'expansion_id': '173710', 'expansion_name': 'Sergeants D-Day: German Light Infantry Sergeants expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173710'}; {'expansion_id': '173716', 'expansion_name': 'Sergeants D-Day: German Light Infantry Skirmishers Section expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173716'}; {'expansion_id': '173704', 'expansion_name': 'Sergeants D-Day: Jagdtiger expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173704'}; {'expansion_id': '173709', 'expansion_name': 'Sergeants D-Day: Paratrooper - M1 Garand Rifle Team', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173709'}; {'expansion_id': '173705', 'expansion_name': 'Sergeants D-Day: Pershing expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173705'}; {'expansion_id': '173706', 'expansion_name': 'Sergeants D-Day: US Glider Assault bundle', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173706'}; {'expansion_id': '173727', 'expansion_name': 'Sergeants D-Day: US Glider Assault Tactics expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173727'}; {'expansion_id': '173725', 'expansion_name': 'Sergeants D-Day: US Parachute Battle Patrol Tactics expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173725'}; {'expansion_id': '173726', 'expansion_name': 'Sergeants D-Day: US Parachute Infiltration Tactics expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173726'}; {'expansion_id': '173957', 'expansion_name': 'Sergeants D-Day: US Paratrooper .30 Cal Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173957'}; {'expansion_id': '173956', 'expansion_name': 'Sergeants D-Day: US Paratrooper Assault Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173956'}; {'expansion_id': '173953', 'expansion_name': 'Sergeants D-Day: US Paratrooper Glider Assault Section expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173953'}; {'expansion_id': '173952', 'expansion_name': 'Sergeants D-Day: US Paratrooper Glider Rifle Grenadier Section expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173952'}; {'expansion_id': '173954', 'expansion_name': 'Sergeants D-Day: US Paratrooper Glider Rifle Leader expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173954'}; {'expansion_id': '173955', 'expansion_name': 'Sergeants D-Day: US Paratrooper Glider Thompson Leader expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173955'}; {'expansion_id': '173714', 'expansion_name': 'Sergeants D-Day: US Paratrooper M1919A4 MG Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173714'}; {'expansion_id': '173713', 'expansion_name': 'Sergeants D-Day: US Paratrooper Rifle Grenade Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173713'}; {'expansion_id': '173712', 'expansion_name': 'Sergeants D-Day: US Paratrooper Scout Section expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173712'}; {'expansion_id': '173708', 'expansion_name': 'Sergeants D-Day: US Paratrooper Sergeants expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173708'}; {'expansion_id': '173715', 'expansion_name': 'Sergeants D-Day: US Paratroopers BAR Team expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/173715'}; {'expansion_id': '200814', 'expansion_name': 'Sergeants: Hell on Wheels - M8 Greyhound', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/200814'}",
+    "expansions_for_string": ""
+}

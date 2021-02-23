@@ -1,0 +1,1013 @@
+{
+    "game_id": "9209",
+    "game_name": "Ticket to Ride",
+    "bgg_link": "https://boardgamegeek.com/boardgame/9209",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3252227",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3252227#item3252227",
+            "geeklist_host": "fractaloon",
+            "contributor": "FNH1"
+        },
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3516059",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3516059#item3516059",
+            "geeklist_host": "joestin",
+            "contributor": "splittist"
+        },
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3741852",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3741852#item3741852",
+            "geeklist_host": "Woelf",
+            "contributor": "Formersd"
+        },
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3971458",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3971458#item3971458",
+            "geeklist_host": "koinskyz",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4656231",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4656231#item4656231",
+            "geeklist_host": "gentle",
+            "contributor": "Brom Ironfist"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6089631",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6089631#item6089631",
+            "geeklist_host": "skeletonhat",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6090918",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6090918#item6090918",
+            "geeklist_host": "skeletonhat",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6093162",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6093162#item6093162",
+            "geeklist_host": "skeletonhat",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6101578",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6101578#item6101578",
+            "geeklist_host": "skeletonhat",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6128535",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6128535#item6128535",
+            "geeklist_host": "Pjandy",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6159613",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6159613#item6159613",
+            "geeklist_host": "Pjandy",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6192578",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6192578#item6192578",
+            "geeklist_host": "Gribbon",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6193080",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6193080#item6193080",
+            "geeklist_host": "Gribbon",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "241745",
+            "geeklist_item_id": "6222102",
+            "year_month": "2018/06",
+            "year": "2018",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241745/item/6222102#item6222102",
+            "geeklist_host": "Gribbon",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6232491",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6232491#item6232491",
+            "geeklist_host": "emodiu5",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6394836",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6394836#item6394836",
+            "geeklist_host": "dobrazil",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "247302",
+            "geeklist_item_id": "6520699",
+            "year_month": "2018/11",
+            "year": "2018",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/247302/item/6520699#item6520699",
+            "geeklist_host": "Albia",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "252324",
+            "geeklist_item_id": "6769396",
+            "year_month": "2019/02",
+            "year": "2019",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/252324/item/6769396#item6769396",
+            "geeklist_host": "The_Omnius",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "7010211",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/7010211#item7010211",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7126207",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7126207#item7126207",
+            "geeklist_host": "Venom Snake",
+            "contributor": "lostphd"
+        },
+        {
+            "geeklist_id": "260880",
+            "geeklist_item_id": "7136748",
+            "year_month": "2019/09",
+            "year": "2019",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/260880/item/7136748#item7136748",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Albia"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7330289",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7330289#item7330289",
+            "geeklist_host": "Albia",
+            "contributor": "sarebear62"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8032989",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8032989#item8032989",
+            "geeklist_host": "airzonk1",
+            "contributor": "jeffrhind"
+        }
+    ],
+    "sgoyt_count": 23,
+    "thumbnail": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__thumb/img/a9rsFV6KR0aun8GobhRU16aU8Kc=/fit-in/200x150/filters:strip_icc()/pic38668.jpg",
+    "year_published": "2004",
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "weight": 1.85,
+    "rating": 7.42,
+    "play_time": "30 - 60",
+    "best": "1",
+    "recommended": "6",
+    "not_recommended": "590",
+    "categories": [
+        "Trains"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "End Game Bonuses",
+        "Hand Management",
+        "Network and Route Building",
+        "Push Your Luck",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "185197",
+            "expansion_name": "Alaska (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185197"
+        },
+        {
+            "expansion_id": "184013",
+            "expansion_name": "Alice in Wonderland (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/184013"
+        },
+        {
+            "expansion_id": "189445",
+            "expansion_name": "Ancient Greece (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189445"
+        },
+        {
+            "expansion_id": "185198",
+            "expansion_name": "Ancient Sicily (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185198"
+        },
+        {
+            "expansion_id": "197040",
+            "expansion_name": "Antarctica (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/197040"
+        },
+        {
+            "expansion_id": "252142",
+            "expansion_name": "Antarctica (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/252142"
+        },
+        {
+            "expansion_id": "108422",
+            "expansion_name": "Les Aventuriers du Rail: a Lyon (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108422"
+        },
+        {
+            "expansion_id": "120034",
+            "expansion_name": "Les Aventuriers du Rail: en Belgique (fan expansion to Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/120034"
+        },
+        {
+            "expansion_id": "223979",
+            "expansion_name": "Barsoom (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/223979"
+        },
+        {
+            "expansion_id": "211230",
+            "expansion_name": "Belarus (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211230"
+        },
+        {
+            "expansion_id": "289366",
+            "expansion_name": "Biblical Israel (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/289366"
+        },
+        {
+            "expansion_id": "185200",
+            "expansion_name": "Borneo (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185200"
+        },
+        {
+            "expansion_id": "130427",
+            "expansion_name": "Bretagne (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130427"
+        },
+        {
+            "expansion_id": "114528",
+            "expansion_name": "Britain & Ireland (fan expansion for Ticket to Ride: Europe)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/114528"
+        },
+        {
+            "expansion_id": "209430",
+            "expansion_name": "Bulgaria (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/209430"
+        },
+        {
+            "expansion_id": "210647",
+            "expansion_name": "Cambodia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/210647"
+        },
+        {
+            "expansion_id": "123300",
+            "expansion_name": "Canada (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/123300"
+        },
+        {
+            "expansion_id": "222388",
+            "expansion_name": "Canada 2017 (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/222388"
+        },
+        {
+            "expansion_id": "185201",
+            "expansion_name": "Canary Islands (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185201"
+        },
+        {
+            "expansion_id": "70712",
+            "expansion_name": "Castilla y Leon (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/70712"
+        },
+        {
+            "expansion_id": "120037",
+            "expansion_name": "Alsace (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/120037"
+        },
+        {
+            "expansion_id": "185202",
+            "expansion_name": "Channel Islands (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185202"
+        },
+        {
+            "expansion_id": "130419",
+            "expansion_name": "China (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130419"
+        },
+        {
+            "expansion_id": "186937",
+            "expansion_name": "Corsica (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186937"
+        },
+        {
+            "expansion_id": "196789",
+            "expansion_name": "Cuba (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/196789"
+        },
+        {
+            "expansion_id": "130634",
+            "expansion_name": "Cuba: Region Occidental (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130634"
+        },
+        {
+            "expansion_id": "209093",
+            "expansion_name": "Cyprus (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/209093"
+        },
+        {
+            "expansion_id": "202082",
+            "expansion_name": "Czech Republic (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202082"
+        },
+        {
+            "expansion_id": "209680",
+            "expansion_name": "Czech Republic (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/209680"
+        },
+        {
+            "expansion_id": "187440",
+            "expansion_name": "Denmark (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187440"
+        },
+        {
+            "expansion_id": "193824",
+            "expansion_name": "Dickensian Intrigue (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193824"
+        },
+        {
+            "expansion_id": "204580",
+            "expansion_name": "East Africa (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204580"
+        },
+        {
+            "expansion_id": "185204",
+            "expansion_name": "East Indies (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185204"
+        },
+        {
+            "expansion_id": "185205",
+            "expansion_name": "Eastern Europe (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185205"
+        },
+        {
+            "expansion_id": "185206",
+            "expansion_name": "Egypt (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185206"
+        },
+        {
+            "expansion_id": "129237",
+            "expansion_name": "The Emerald City (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/129237"
+        },
+        {
+            "expansion_id": "203135",
+            "expansion_name": "Estonia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/203135"
+        },
+        {
+            "expansion_id": "123217",
+            "expansion_name": "Extension France (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/123217"
+        },
+        {
+            "expansion_id": "185207",
+            "expansion_name": "Falkland Islands (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185207"
+        },
+        {
+            "expansion_id": "198842",
+            "expansion_name": "France (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/198842"
+        },
+        {
+            "expansion_id": "200052",
+            "expansion_name": "The Grand Duchy of Luxembourg (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/200052"
+        },
+        {
+            "expansion_id": "189868",
+            "expansion_name": "Greece (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/189868"
+        },
+        {
+            "expansion_id": "185208",
+            "expansion_name": "Greenland (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185208"
+        },
+        {
+            "expansion_id": "195926",
+            "expansion_name": "Gulf States (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/195926"
+        },
+        {
+            "expansion_id": "184978",
+            "expansion_name": "Hallowe'en (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/184978"
+        },
+        {
+            "expansion_id": "192128",
+            "expansion_name": "Hawaii (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/192128"
+        },
+        {
+            "expansion_id": "218288",
+            "expansion_name": "Hispaniola (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218288"
+        },
+        {
+            "expansion_id": "194756",
+            "expansion_name": "Hokkaido (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194756"
+        },
+        {
+            "expansion_id": "130183",
+            "expansion_name": "Holland (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130183"
+        },
+        {
+            "expansion_id": "130483",
+            "expansion_name": "Holland Express (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130483"
+        },
+        {
+            "expansion_id": "185209",
+            "expansion_name": "Hungary (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185209"
+        },
+        {
+            "expansion_id": "187441",
+            "expansion_name": "Iberia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187441"
+        },
+        {
+            "expansion_id": "185210",
+            "expansion_name": "Iceland (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185210"
+        },
+        {
+            "expansion_id": "185211",
+            "expansion_name": "India (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185211"
+        },
+        {
+            "expansion_id": "194176",
+            "expansion_name": "Indiana (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194176"
+        },
+        {
+            "expansion_id": "187442",
+            "expansion_name": "Indochina (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187442"
+        },
+        {
+            "expansion_id": "187447",
+            "expansion_name": "Ireland (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187447"
+        },
+        {
+            "expansion_id": "191856",
+            "expansion_name": "Isle of Man (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/191856"
+        },
+        {
+            "expansion_id": "130399",
+            "expansion_name": "Italy (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130399"
+        },
+        {
+            "expansion_id": "130484",
+            "expansion_name": "Italy (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130484"
+        },
+        {
+            "expansion_id": "130485",
+            "expansion_name": "Italy (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130485"
+        },
+        {
+            "expansion_id": "211712",
+            "expansion_name": "Jamaica (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211712"
+        },
+        {
+            "expansion_id": "192367",
+            "expansion_name": "Japan (fan expansion for Ticket To Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/192367"
+        },
+        {
+            "expansion_id": "127364",
+            "expansion_name": "Komorow (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127364"
+        },
+        {
+            "expansion_id": "187448",
+            "expansion_name": "Korean Peninsula (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187448"
+        },
+        {
+            "expansion_id": "213959",
+            "expansion_name": "Kosovo (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213959"
+        },
+        {
+            "expansion_id": "200730",
+            "expansion_name": "Latvia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/200730"
+        },
+        {
+            "expansion_id": "207241",
+            "expansion_name": "Liechtenstein (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207241"
+        },
+        {
+            "expansion_id": "134118",
+            "expansion_name": "Lietuva (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134118"
+        },
+        {
+            "expansion_id": "140727",
+            "expansion_name": "London Underground (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140727"
+        },
+        {
+            "expansion_id": "210102",
+            "expansion_name": "Macedonia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/210102"
+        },
+        {
+            "expansion_id": "154440",
+            "expansion_name": "Madagascar (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154440"
+        },
+        {
+            "expansion_id": "193703",
+            "expansion_name": "Madeira (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193703"
+        },
+        {
+            "expansion_id": "187449",
+            "expansion_name": "Mars (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187449"
+        },
+        {
+            "expansion_id": "208660",
+            "expansion_name": "Mascarene Islands (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/208660"
+        },
+        {
+            "expansion_id": "207675",
+            "expansion_name": "Mauritius & Reunion (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207675"
+        },
+        {
+            "expansion_id": "192874",
+            "expansion_name": "Mauritius (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/192874"
+        },
+        {
+            "expansion_id": "212811",
+            "expansion_name": "Moldova (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/212811"
+        },
+        {
+            "expansion_id": "212635",
+            "expansion_name": "Montenegro (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/212635"
+        },
+        {
+            "expansion_id": "217666",
+            "expansion_name": "Myanmar (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/217666"
+        },
+        {
+            "expansion_id": "212045",
+            "expansion_name": "Nepal (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/212045"
+        },
+        {
+            "expansion_id": "185203",
+            "expansion_name": "New China (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185203"
+        },
+        {
+            "expansion_id": "187450",
+            "expansion_name": "New York (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187450"
+        },
+        {
+            "expansion_id": "298058",
+            "expansion_name": "New York State (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/298058"
+        },
+        {
+            "expansion_id": "185212",
+            "expansion_name": "New Zealand (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185212"
+        },
+        {
+            "expansion_id": "187451",
+            "expansion_name": "Niagara (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187451"
+        },
+        {
+            "expansion_id": "130421",
+            "expansion_name": "North-Africa (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130421"
+        },
+        {
+            "expansion_id": "185213",
+            "expansion_name": "Northamptonshire (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185213"
+        },
+        {
+            "expansion_id": "192452",
+            "expansion_name": "Ohio (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/192452"
+        },
+        {
+            "expansion_id": "134079",
+            "expansion_name": "Ostergotland in the 1930's (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/134079"
+        },
+        {
+            "expansion_id": "130397",
+            "expansion_name": "Osterreich Karte: Zug um Zug (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130397"
+        },
+        {
+            "expansion_id": "191003",
+            "expansion_name": "Poland (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/191003"
+        },
+        {
+            "expansion_id": "130423",
+            "expansion_name": "Portugal (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130423"
+        },
+        {
+            "expansion_id": "135440",
+            "expansion_name": "Quebec et l'Est du Canada (fan expansion to Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/135440"
+        },
+        {
+            "expansion_id": "130428",
+            "expansion_name": "Quebec Province (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130428"
+        },
+        {
+            "expansion_id": "130632",
+            "expansion_name": "Reise durch Agypten (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130632"
+        },
+        {
+            "expansion_id": "208157",
+            "expansion_name": "Reunion & Mauritius (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/208157"
+        },
+        {
+            "expansion_id": "208623",
+            "expansion_name": "Rodrigues & Mauritius (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/208623"
+        },
+        {
+            "expansion_id": "202306",
+            "expansion_name": "Roman Italy (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202306"
+        },
+        {
+            "expansion_id": "153997",
+            "expansion_name": "Russian Empire 1912 (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/153997"
+        },
+        {
+            "expansion_id": "324464",
+            "expansion_name": "Sardinia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324464"
+        },
+        {
+            "expansion_id": "130422",
+            "expansion_name": "Scandinavia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130422"
+        },
+        {
+            "expansion_id": "215212",
+            "expansion_name": "Scandinavia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/215212"
+        },
+        {
+            "expansion_id": "185214",
+            "expansion_name": "Scilly Isles (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185214"
+        },
+        {
+            "expansion_id": "64262",
+            "expansion_name": "Seattle (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/64262"
+        },
+        {
+            "expansion_id": "206639",
+            "expansion_name": "Serbia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206639"
+        },
+        {
+            "expansion_id": "185215",
+            "expansion_name": "Slovakia (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185215"
+        },
+        {
+            "expansion_id": "205628",
+            "expansion_name": "Slovenia (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/205628"
+        },
+        {
+            "expansion_id": "185216",
+            "expansion_name": "South America (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185216"
+        },
+        {
+            "expansion_id": "216561",
+            "expansion_name": "South Korea (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/216561"
+        },
+        {
+            "expansion_id": "159347",
+            "expansion_name": "South-East Sweden 1925 (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/159347"
+        },
+        {
+            "expansion_id": "192548",
+            "expansion_name": "Sri Lanka (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/192548"
+        },
+        {
+            "expansion_id": "130182",
+            "expansion_name": "Sweden (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130182"
+        },
+        {
+            "expansion_id": "187452",
+            "expansion_name": "Texas (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/187452"
+        },
+        {
+            "expansion_id": "220018",
+            "expansion_name": "Thailand (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220018"
+        },
+        {
+            "expansion_id": "130398",
+            "expansion_name": "Ticket to Finland (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130398"
+        },
+        {
+            "expansion_id": "106637",
+            "expansion_name": "Ticket to Ride Map Collection: Volume 1 - Team Asia & Legendary Asia",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/106637"
+        },
+        {
+            "expansion_id": "106645",
+            "expansion_name": "Ticket to Ride Map Collection: Volume 2 - India & Switzerland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/106645"
+        },
+        {
+            "expansion_id": "131188",
+            "expansion_name": "Ticket to Ride Map Collection: Volume 3 - The Heart of Africa",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131188"
+        },
+        {
+            "expansion_id": "147938",
+            "expansion_name": "Ticket to Ride Map Collection: Volume 4 - Nederland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147938"
+        },
+        {
+            "expansion_id": "182078",
+            "expansion_name": "Ticket to Ride Map Collection: Volume 5 - United Kingdom & Pennsylvania",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182078"
+        },
+        {
+            "expansion_id": "233891",
+            "expansion_name": "Ticket to Ride Map Collection: Volume 6 - France & Old West",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233891"
+        },
+        {
+            "expansion_id": "288679",
+            "expansion_name": "Ticket to Ride Map Collection: Volume 7 - Japan & Italy",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/288679"
+        },
+        {
+            "expansion_id": "89848",
+            "expansion_name": "Ticket to Ride: Alvin & Dexter",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/89848"
+        },
+        {
+            "expansion_id": "53383",
+            "expansion_name": "Ticket to Ride: Europa 1912",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/53383"
+        },
+        {
+            "expansion_id": "13297",
+            "expansion_name": "Ticket to Ride: Mystery Train Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/13297"
+        },
+        {
+            "expansion_id": "310711",
+            "expansion_name": "Ticket to Ride: Stay at Home",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/310711"
+        },
+        {
+            "expansion_id": "30746",
+            "expansion_name": "Ticket to Ride: Switzerland",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/30746"
+        },
+        {
+            "expansion_id": "38454",
+            "expansion_name": "Ticket to Ride: The Dice Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/38454"
+        },
+        {
+            "expansion_id": "24439",
+            "expansion_name": "Ticket to Ride: USA 1910",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/24439"
+        },
+        {
+            "expansion_id": "277270",
+            "expansion_name": "Ticket to Ryde: The Game (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/277270"
+        },
+        {
+            "expansion_id": "186205",
+            "expansion_name": "Transylvania (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/186205"
+        },
+        {
+            "expansion_id": "190161",
+            "expansion_name": "Turkey (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/190161"
+        },
+        {
+            "expansion_id": "119897",
+            "expansion_name": "UK (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/119897"
+        },
+        {
+            "expansion_id": "130481",
+            "expansion_name": "UK (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130481"
+        },
+        {
+            "expansion_id": "130482",
+            "expansion_name": "UK Cynical Edition (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130482"
+        },
+        {
+            "expansion_id": "137427",
+            "expansion_name": "UK version 2.0 (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/137427"
+        },
+        {
+            "expansion_id": "142110",
+            "expansion_name": "Ukraine (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142110"
+        },
+        {
+            "expansion_id": "188748",
+            "expansion_name": "Ukraine (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/188748"
+        },
+        {
+            "expansion_id": "115070",
+            "expansion_name": "USSR (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/115070"
+        },
+        {
+            "expansion_id": "185727",
+            "expansion_name": "Wales (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185727"
+        },
+        {
+            "expansion_id": "193323",
+            "expansion_name": "West Country (UK) (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193323"
+        },
+        {
+            "expansion_id": "185217",
+            "expansion_name": "West Indies (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185217"
+        },
+        {
+            "expansion_id": "185218",
+            "expansion_name": "Western Isles (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/185218"
+        },
+        {
+            "expansion_id": "130635",
+            "expansion_name": "Wild Wild West (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130635"
+        },
+        {
+            "expansion_id": "193206",
+            "expansion_name": "Winnie-the-Pooh (fan expansion for Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193206"
+        },
+        {
+            "expansion_id": "283595",
+            "expansion_name": "Wsiasc do Pociagu: Polska",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/283595"
+        },
+        {
+            "expansion_id": "194418",
+            "expansion_name": "Zanzibar: Pemba (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194418"
+        },
+        {
+            "expansion_id": "194417",
+            "expansion_name": "Zanzibar: Unguja (fan expansion of Ticket to Ride)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/194417"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Alan R. Moon",
+    "categories_string": "Trains",
+    "mechanics_string": "Card Drafting; End Game Bonuses; Hand Management; Network and Route Building; Push Your Luck; Set Collection",
+    "expansions_string": "{'expansion_id': '185197', 'expansion_name': 'Alaska (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185197'}; {'expansion_id': '184013', 'expansion_name': 'Alice in Wonderland (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/184013'}; {'expansion_id': '189445', 'expansion_name': 'Ancient Greece (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189445'}; {'expansion_id': '185198', 'expansion_name': 'Ancient Sicily (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185198'}; {'expansion_id': '197040', 'expansion_name': 'Antarctica (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/197040'}; {'expansion_id': '252142', 'expansion_name': 'Antarctica (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/252142'}; {'expansion_id': '108422', 'expansion_name': 'Les Aventuriers du Rail: a Lyon (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108422'}; {'expansion_id': '120034', 'expansion_name': 'Les Aventuriers du Rail: en Belgique (fan expansion to Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/120034'}; {'expansion_id': '223979', 'expansion_name': 'Barsoom (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/223979'}; {'expansion_id': '211230', 'expansion_name': 'Belarus (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211230'}; {'expansion_id': '289366', 'expansion_name': 'Biblical Israel (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/289366'}; {'expansion_id': '185200', 'expansion_name': 'Borneo (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185200'}; {'expansion_id': '130427', 'expansion_name': 'Bretagne (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130427'}; {'expansion_id': '114528', 'expansion_name': 'Britain & Ireland (fan expansion for Ticket to Ride: Europe)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/114528'}; {'expansion_id': '209430', 'expansion_name': 'Bulgaria (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/209430'}; {'expansion_id': '210647', 'expansion_name': 'Cambodia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/210647'}; {'expansion_id': '123300', 'expansion_name': 'Canada (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/123300'}; {'expansion_id': '222388', 'expansion_name': 'Canada 2017 (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/222388'}; {'expansion_id': '185201', 'expansion_name': 'Canary Islands (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185201'}; {'expansion_id': '70712', 'expansion_name': 'Castilla y Leon (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/70712'}; {'expansion_id': '120037', 'expansion_name': 'Alsace (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/120037'}; {'expansion_id': '185202', 'expansion_name': 'Channel Islands (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185202'}; {'expansion_id': '130419', 'expansion_name': 'China (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130419'}; {'expansion_id': '186937', 'expansion_name': 'Corsica (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186937'}; {'expansion_id': '196789', 'expansion_name': 'Cuba (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/196789'}; {'expansion_id': '130634', 'expansion_name': 'Cuba: Region Occidental (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130634'}; {'expansion_id': '209093', 'expansion_name': 'Cyprus (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/209093'}; {'expansion_id': '202082', 'expansion_name': 'Czech Republic (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202082'}; {'expansion_id': '209680', 'expansion_name': 'Czech Republic (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/209680'}; {'expansion_id': '187440', 'expansion_name': 'Denmark (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187440'}; {'expansion_id': '193824', 'expansion_name': 'Dickensian Intrigue (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193824'}; {'expansion_id': '204580', 'expansion_name': 'East Africa (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204580'}; {'expansion_id': '185204', 'expansion_name': 'East Indies (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185204'}; {'expansion_id': '185205', 'expansion_name': 'Eastern Europe (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185205'}; {'expansion_id': '185206', 'expansion_name': 'Egypt (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185206'}; {'expansion_id': '129237', 'expansion_name': 'The Emerald City (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/129237'}; {'expansion_id': '203135', 'expansion_name': 'Estonia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/203135'}; {'expansion_id': '123217', 'expansion_name': 'Extension France (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/123217'}; {'expansion_id': '185207', 'expansion_name': 'Falkland Islands (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185207'}; {'expansion_id': '198842', 'expansion_name': 'France (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/198842'}; {'expansion_id': '200052', 'expansion_name': 'The Grand Duchy of Luxembourg (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/200052'}; {'expansion_id': '189868', 'expansion_name': 'Greece (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/189868'}; {'expansion_id': '185208', 'expansion_name': 'Greenland (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185208'}; {'expansion_id': '195926', 'expansion_name': 'Gulf States (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/195926'}; {'expansion_id': '184978', 'expansion_name': \"Hallowe'en (fan expansion for Ticket to Ride)\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/184978'}; {'expansion_id': '192128', 'expansion_name': 'Hawaii (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/192128'}; {'expansion_id': '218288', 'expansion_name': 'Hispaniola (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218288'}; {'expansion_id': '194756', 'expansion_name': 'Hokkaido (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194756'}; {'expansion_id': '130183', 'expansion_name': 'Holland (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130183'}; {'expansion_id': '130483', 'expansion_name': 'Holland Express (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130483'}; {'expansion_id': '185209', 'expansion_name': 'Hungary (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185209'}; {'expansion_id': '187441', 'expansion_name': 'Iberia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187441'}; {'expansion_id': '185210', 'expansion_name': 'Iceland (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185210'}; {'expansion_id': '185211', 'expansion_name': 'India (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185211'}; {'expansion_id': '194176', 'expansion_name': 'Indiana (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194176'}; {'expansion_id': '187442', 'expansion_name': 'Indochina (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187442'}; {'expansion_id': '187447', 'expansion_name': 'Ireland (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187447'}; {'expansion_id': '191856', 'expansion_name': 'Isle of Man (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/191856'}; {'expansion_id': '130399', 'expansion_name': 'Italy (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130399'}; {'expansion_id': '130484', 'expansion_name': 'Italy (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130484'}; {'expansion_id': '130485', 'expansion_name': 'Italy (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130485'}; {'expansion_id': '211712', 'expansion_name': 'Jamaica (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211712'}; {'expansion_id': '192367', 'expansion_name': 'Japan (fan expansion for Ticket To Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/192367'}; {'expansion_id': '127364', 'expansion_name': 'Komorow (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127364'}; {'expansion_id': '187448', 'expansion_name': 'Korean Peninsula (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187448'}; {'expansion_id': '213959', 'expansion_name': 'Kosovo (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213959'}; {'expansion_id': '200730', 'expansion_name': 'Latvia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/200730'}; {'expansion_id': '207241', 'expansion_name': 'Liechtenstein (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207241'}; {'expansion_id': '134118', 'expansion_name': 'Lietuva (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134118'}; {'expansion_id': '140727', 'expansion_name': 'London Underground (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140727'}; {'expansion_id': '210102', 'expansion_name': 'Macedonia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/210102'}; {'expansion_id': '154440', 'expansion_name': 'Madagascar (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154440'}; {'expansion_id': '193703', 'expansion_name': 'Madeira (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193703'}; {'expansion_id': '187449', 'expansion_name': 'Mars (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187449'}; {'expansion_id': '208660', 'expansion_name': 'Mascarene Islands (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/208660'}; {'expansion_id': '207675', 'expansion_name': 'Mauritius & Reunion (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207675'}; {'expansion_id': '192874', 'expansion_name': 'Mauritius (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/192874'}; {'expansion_id': '212811', 'expansion_name': 'Moldova (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/212811'}; {'expansion_id': '212635', 'expansion_name': 'Montenegro (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/212635'}; {'expansion_id': '217666', 'expansion_name': 'Myanmar (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/217666'}; {'expansion_id': '212045', 'expansion_name': 'Nepal (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/212045'}; {'expansion_id': '185203', 'expansion_name': 'New China (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185203'}; {'expansion_id': '187450', 'expansion_name': 'New York (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187450'}; {'expansion_id': '298058', 'expansion_name': 'New York State (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/298058'}; {'expansion_id': '185212', 'expansion_name': 'New Zealand (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185212'}; {'expansion_id': '187451', 'expansion_name': 'Niagara (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187451'}; {'expansion_id': '130421', 'expansion_name': 'North-Africa (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130421'}; {'expansion_id': '185213', 'expansion_name': 'Northamptonshire (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185213'}; {'expansion_id': '192452', 'expansion_name': 'Ohio (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/192452'}; {'expansion_id': '134079', 'expansion_name': \"Ostergotland in the 1930's (fan expansion for Ticket to Ride)\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/134079'}; {'expansion_id': '130397', 'expansion_name': 'Osterreich Karte: Zug um Zug (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130397'}; {'expansion_id': '191003', 'expansion_name': 'Poland (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/191003'}; {'expansion_id': '130423', 'expansion_name': 'Portugal (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130423'}; {'expansion_id': '135440', 'expansion_name': \"Quebec et l'Est du Canada (fan expansion to Ticket to Ride)\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/135440'}; {'expansion_id': '130428', 'expansion_name': 'Quebec Province (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130428'}; {'expansion_id': '130632', 'expansion_name': 'Reise durch Agypten (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130632'}; {'expansion_id': '208157', 'expansion_name': 'Reunion & Mauritius (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/208157'}; {'expansion_id': '208623', 'expansion_name': 'Rodrigues & Mauritius (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/208623'}; {'expansion_id': '202306', 'expansion_name': 'Roman Italy (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202306'}; {'expansion_id': '153997', 'expansion_name': 'Russian Empire 1912 (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/153997'}; {'expansion_id': '324464', 'expansion_name': 'Sardinia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324464'}; {'expansion_id': '130422', 'expansion_name': 'Scandinavia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130422'}; {'expansion_id': '215212', 'expansion_name': 'Scandinavia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/215212'}; {'expansion_id': '185214', 'expansion_name': 'Scilly Isles (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185214'}; {'expansion_id': '64262', 'expansion_name': 'Seattle (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/64262'}; {'expansion_id': '206639', 'expansion_name': 'Serbia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206639'}; {'expansion_id': '185215', 'expansion_name': 'Slovakia (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185215'}; {'expansion_id': '205628', 'expansion_name': 'Slovenia (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/205628'}; {'expansion_id': '185216', 'expansion_name': 'South America (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185216'}; {'expansion_id': '216561', 'expansion_name': 'South Korea (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/216561'}; {'expansion_id': '159347', 'expansion_name': 'South-East Sweden 1925 (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/159347'}; {'expansion_id': '192548', 'expansion_name': 'Sri Lanka (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/192548'}; {'expansion_id': '130182', 'expansion_name': 'Sweden (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130182'}; {'expansion_id': '187452', 'expansion_name': 'Texas (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/187452'}; {'expansion_id': '220018', 'expansion_name': 'Thailand (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220018'}; {'expansion_id': '130398', 'expansion_name': 'Ticket to Finland (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130398'}; {'expansion_id': '106637', 'expansion_name': 'Ticket to Ride Map Collection: Volume 1 - Team Asia & Legendary Asia', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/106637'}; {'expansion_id': '106645', 'expansion_name': 'Ticket to Ride Map Collection: Volume 2 - India & Switzerland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/106645'}; {'expansion_id': '131188', 'expansion_name': 'Ticket to Ride Map Collection: Volume 3 - The Heart of Africa', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131188'}; {'expansion_id': '147938', 'expansion_name': 'Ticket to Ride Map Collection: Volume 4 - Nederland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147938'}; {'expansion_id': '182078', 'expansion_name': 'Ticket to Ride Map Collection: Volume 5 - United Kingdom & Pennsylvania', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182078'}; {'expansion_id': '233891', 'expansion_name': 'Ticket to Ride Map Collection: Volume 6 - France & Old West', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233891'}; {'expansion_id': '288679', 'expansion_name': 'Ticket to Ride Map Collection: Volume 7 - Japan & Italy', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/288679'}; {'expansion_id': '89848', 'expansion_name': 'Ticket to Ride: Alvin & Dexter', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/89848'}; {'expansion_id': '53383', 'expansion_name': 'Ticket to Ride: Europa 1912', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/53383'}; {'expansion_id': '13297', 'expansion_name': 'Ticket to Ride: Mystery Train Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/13297'}; {'expansion_id': '310711', 'expansion_name': 'Ticket to Ride: Stay at Home', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/310711'}; {'expansion_id': '30746', 'expansion_name': 'Ticket to Ride: Switzerland', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/30746'}; {'expansion_id': '38454', 'expansion_name': 'Ticket to Ride: The Dice Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/38454'}; {'expansion_id': '24439', 'expansion_name': 'Ticket to Ride: USA 1910', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/24439'}; {'expansion_id': '277270', 'expansion_name': 'Ticket to Ryde: The Game (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/277270'}; {'expansion_id': '186205', 'expansion_name': 'Transylvania (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/186205'}; {'expansion_id': '190161', 'expansion_name': 'Turkey (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/190161'}; {'expansion_id': '119897', 'expansion_name': 'UK (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/119897'}; {'expansion_id': '130481', 'expansion_name': 'UK (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130481'}; {'expansion_id': '130482', 'expansion_name': 'UK Cynical Edition (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130482'}; {'expansion_id': '137427', 'expansion_name': 'UK version 2.0 (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/137427'}; {'expansion_id': '142110', 'expansion_name': 'Ukraine (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142110'}; {'expansion_id': '188748', 'expansion_name': 'Ukraine (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/188748'}; {'expansion_id': '115070', 'expansion_name': 'USSR (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/115070'}; {'expansion_id': '185727', 'expansion_name': 'Wales (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185727'}; {'expansion_id': '193323', 'expansion_name': 'West Country (UK) (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193323'}; {'expansion_id': '185217', 'expansion_name': 'West Indies (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185217'}; {'expansion_id': '185218', 'expansion_name': 'Western Isles (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/185218'}; {'expansion_id': '130635', 'expansion_name': 'Wild Wild West (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130635'}; {'expansion_id': '193206', 'expansion_name': 'Winnie-the-Pooh (fan expansion for Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193206'}; {'expansion_id': '283595', 'expansion_name': 'Wsiasc do Pociagu: Polska', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/283595'}; {'expansion_id': '194418', 'expansion_name': 'Zanzibar: Pemba (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194418'}; {'expansion_id': '194417', 'expansion_name': 'Zanzibar: Unguja (fan expansion of Ticket to Ride)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/194417'}",
+    "expansions_for_string": ""
+}

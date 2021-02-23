@@ -1,0 +1,57 @@
+{
+    "game_id": "134172",
+    "game_name": "Questor",
+    "bgg_link": "https://boardgamegeek.com/boardgame/134172",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3711044",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3711044#item3711044",
+            "geeklist_host": "Woelf",
+            "contributor": "HRune"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/MeqKaKTjhbPYtcgiMZWzCA__thumb/img/FFu3Y_rW7PRHj1-Uo1QYuRFUB54=/fit-in/200x150/filters:strip_icc()/pic1584549.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Benjamin D. Stanley"
+    ],
+    "weight": 2.00,
+    "rating": 7.12,
+    "play_time": "15",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Children's Game",
+        "Dice",
+        "Exploration",
+        "Fantasy",
+        "Puzzle"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Grid Movement",
+        "Tile Placement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "140311",
+            "expansion_name": "Questor Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140311"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Benjamin D. Stanley",
+    "categories_string": "Adventure; Children's Game; Dice; Exploration; Fantasy; Puzzle",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Grid Movement; Tile Placement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '140311', 'expansion_name': 'Questor Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140311'}",
+    "expansions_for_string": ""
+}

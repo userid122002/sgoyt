@@ -1,0 +1,94 @@
+{
+    "game_id": "196421",
+    "game_name": "Aeon's End: The Depths",
+    "bgg_link": "https://boardgamegeek.com/boardgame/196421",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "225998",
+            "geeklist_item_id": "5470032",
+            "year_month": "2017/06",
+            "year": "2017",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/225998/item/5470032#item5470032",
+            "geeklist_host": "koinskyz",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5528498",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5528498#item5528498",
+            "geeklist_host": "Mishko",
+            "contributor": "Danneq"
+        },
+        {
+            "geeklist_id": "229124",
+            "geeklist_item_id": "5642618",
+            "year_month": "2017/09",
+            "year": "2017",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229124/item/5642618#item5642618",
+            "geeklist_host": "DocSavage2001",
+            "contributor": "Danneq"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7067454",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7067454#item7067454",
+            "geeklist_host": "Venom Snake",
+            "contributor": "philipneri"
+        },
+        {
+            "geeklist_id": "279491",
+            "geeklist_item_id": "8006464",
+            "year_month": "2020/12",
+            "year": "2020",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8006464#item8006464",
+            "geeklist_host": "airzonk1",
+            "contributor": "Marctimmins89"
+        }
+    ],
+    "sgoyt_count": 5,
+    "thumbnail": "https://cf.geekdo-images.com/XhbORoF1gRpUoVWCDJ_k4A__thumb/img/b-tC0ULv5EDPmO6WR28FxQD2los=/fit-in/200x150/filters:strip_icc()/pic4910149.png",
+    "year_published": "2016",
+    "designers": [
+        "Kevin Riley"
+    ],
+    "weight": 2.62,
+    "rating": 8.34,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "5",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "191189",
+            "game_name": "Aeon's End",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/191189"
+        }
+    ],
+    "designers_string": "Kevin Riley",
+    "categories_string": "Expansion for Base-game; Fantasy; Science Fiction",
+    "mechanics_string": "Card Drafting; Cooperative Game; Deck, Bag, and Pool Building; Hand Management; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '191189', 'game_name': \"Aeon's End\", 'game_bgg_link': 'https://boardgamegeek.com/boardgame/191189'}"
+}

@@ -1,0 +1,78 @@
+{
+    "game_id": "10640",
+    "game_name": "Doom: The Boardgame",
+    "bgg_link": "https://boardgamegeek.com/boardgame/10640",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "163198",
+            "geeklist_item_id": "2853503",
+            "year_month": "2013/10",
+            "year": "2013",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/163198/item/2853503#item2853503",
+            "geeklist_host": "Ryanmobile",
+            "contributor": "Sapper_SB"
+        },
+        {
+            "geeklist_id": "172996",
+            "geeklist_item_id": "3236361",
+            "year_month": "2014/05",
+            "year": "2014",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/172996/item/3236361#item3236361",
+            "geeklist_host": "fractaloon",
+            "contributor": "ad79"
+        },
+        {
+            "geeklist_id": "221242",
+            "geeklist_item_id": "5230710",
+            "year_month": "2017/02",
+            "year": "2017",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/221242/item/5230710#item5230710",
+            "geeklist_host": "Ibbo",
+            "contributor": "Jackal2k"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/ii6AlIs7FfXhx-feZHGbrw__thumb/img/eaieSnIR18aLzu6D1fg_EZm-Ukk=/fit-in/200x150/filters:strip_icc()/pic71199.jpg",
+    "year_published": "2004",
+    "designers": [
+        "Christian T. Petersen",
+        "Kevin Wilson"
+    ],
+    "weight": 2.91,
+    "rating": 6.86,
+    "play_time": "180",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "52",
+    "categories": [
+        "Exploration",
+        "Fighting",
+        "Horror",
+        "Miniatures",
+        "Science Fiction",
+        "Video Game Theme"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Modular Board",
+        "Square Grid",
+        "Team-Based Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "20055",
+            "expansion_name": "Doom: The Boardgame Expansion Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/20055"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Christian T. Petersen; Kevin Wilson",
+    "categories_string": "Exploration; Fighting; Horror; Miniatures; Science Fiction; Video Game Theme",
+    "mechanics_string": "Dice Rolling; Modular Board; Square Grid; Team-Based Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '20055', 'expansion_name': 'Doom: The Boardgame Expansion Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/20055'}",
+    "expansions_for_string": ""
+}

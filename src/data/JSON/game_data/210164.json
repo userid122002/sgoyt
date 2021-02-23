@@ -1,0 +1,58 @@
+{
+    "game_id": "210164",
+    "game_name": "Raiders of the North Sea: Fields of Fame",
+    "bgg_link": "https://boardgamegeek.com/boardgame/210164",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "244471",
+            "geeklist_item_id": "6615702",
+            "year_month": "2018/12",
+            "year": "2018",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/244471/item/6615702#item6615702",
+            "geeklist_host": "squarepegsys",
+            "contributor": "permagoof"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/TUzn3WrQ8yf-3X9AtoMd9A__thumb/img/o3cUdNpXaDSNzXEHht9CYpt0MEA=/fit-in/200x150/filters:strip_icc()/pic3360831.png",
+    "year_published": "2018",
+    "designers": [
+        "Shem Phillips"
+    ],
+    "weight": 2.85,
+    "rating": 8.07,
+    "play_time": "60 - 80",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "6",
+    "categories": [
+        "Expansion for Base-game",
+        "Medieval",
+        "Nautical"
+    ],
+    "mechanics": [
+        "Hand Management",
+        "Set Collection",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "253275",
+            "expansion_name": "Raiders of the North Sea: Jarl Promo",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/253275"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "170042",
+            "game_name": "Raiders of the North Sea",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/170042"
+        }
+    ],
+    "designers_string": "Shem Phillips",
+    "categories_string": "Expansion for Base-game; Medieval; Nautical",
+    "mechanics_string": "Hand Management; Set Collection; Worker Placement",
+    "expansions_string": "{'expansion_id': '253275', 'expansion_name': 'Raiders of the North Sea: Jarl Promo', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/253275'}",
+    "expansions_for_string": "{'game_id': '170042', 'game_name': 'Raiders of the North Sea', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/170042'}"
+}

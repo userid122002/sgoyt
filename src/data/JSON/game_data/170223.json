@@ -1,0 +1,134 @@
+{
+    "game_id": "170223",
+    "game_name": "Centauri Saga",
+    "bgg_link": "https://boardgamegeek.com/boardgame/170223",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4665266",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4665266#item4665266",
+            "geeklist_host": "koinskyz",
+            "contributor": "oduh"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4671493",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4671493#item4671493",
+            "geeklist_host": "koinskyz",
+            "contributor": "Ibbo"
+        },
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4674926",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4674926#item4674926",
+            "geeklist_host": "koinskyz",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4862897",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4862897#item4862897",
+            "geeklist_host": "kikerl",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "213557",
+            "geeklist_item_id": "4910540",
+            "year_month": "2016/09",
+            "year": "2016",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/213557/item/4910540#item4910540",
+            "geeklist_host": "kikerl",
+            "contributor": "Ibbo"
+        },
+        {
+            "geeklist_id": "223793",
+            "geeklist_item_id": "5353135",
+            "year_month": "2017/04",
+            "year": "2017",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/223793/item/5353135#item5353135",
+            "geeklist_host": "ian_07720169619",
+            "contributor": "Logus Vile"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5772386",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5772386#item5772386",
+            "geeklist_host": "Albia",
+            "contributor": "eastwoodk"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6232084",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6232084#item6232084",
+            "geeklist_host": "emodiu5",
+            "contributor": "gentle"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/lBO1j-4SueipWvSeQcrRdQ__thumb/img/bi9e1LGBiazbNTLII01yPMqWUog=/fit-in/200x150/filters:strip_icc()/pic2689545.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Constantine Kevorque"
+    ],
+    "weight": 2.94,
+    "rating": 6.60,
+    "play_time": "60 - 90",
+    "best": "2",
+    "recommended": "5",
+    "not_recommended": "2",
+    "categories": [
+        "Adventure",
+        "Science Fiction",
+        "Space Exploration"
+    ],
+    "mechanics": [
+        "Area Movement",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "225321",
+            "expansion_name": "Centauri Saga: Abandoned",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/225321"
+        },
+        {
+            "expansion_id": "235615",
+            "expansion_name": "Centauri Saga: Arena",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/235615"
+        },
+        {
+            "expansion_id": "225322",
+            "expansion_name": "Centauri Saga: Special Ops",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/225322"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Constantine Kevorque",
+    "categories_string": "Adventure; Science Fiction; Space Exploration",
+    "mechanics_string": "Area Movement; Cooperative Game; Dice Rolling; Hand Management; Modular Board",
+    "expansions_string": "{'expansion_id': '225321', 'expansion_name': 'Centauri Saga: Abandoned', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/225321'}; {'expansion_id': '235615', 'expansion_name': 'Centauri Saga: Arena', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/235615'}; {'expansion_id': '225322', 'expansion_name': 'Centauri Saga: Special Ops', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/225322'}",
+    "expansions_for_string": ""
+}

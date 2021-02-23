@@ -1,0 +1,61 @@
+{
+    "game_id": "171046",
+    "game_name": "Ancient Terrible Things: The Lost Charter",
+    "bgg_link": "https://boardgamegeek.com/boardgame/171046",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4689389",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4689389#item4689389",
+            "geeklist_host": "koinskyz",
+            "contributor": "taeryn"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6074311",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6074311#item6074311",
+            "geeklist_host": "skeletonhat",
+            "contributor": "smic"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/sOUHVmw3xsJkKQJLyQo6XA__thumb/img/hwTYMzmGaULTF_TLmfwJT4Qzb0c=/fit-in/200x150/filters:strip_icc()/pic2371222.png",
+    "year_published": "2015",
+    "designers": [
+        "Simon McGregor"
+    ],
+    "weight": 2.00,
+    "rating": 7.00,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "1",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Hand Management",
+        "Set Collection"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "137031",
+            "game_name": "Ancient Terrible Things",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/137031"
+        }
+    ],
+    "designers_string": "Simon McGregor",
+    "categories_string": "Dice; Expansion for Base-game",
+    "mechanics_string": "Dice Rolling; Hand Management; Set Collection",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '137031', 'game_name': 'Ancient Terrible Things', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/137031'}"
+}

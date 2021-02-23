@@ -1,0 +1,68 @@
+{
+    "game_id": "18985",
+    "game_name": "Battleground",
+    "bgg_link": "https://boardgamegeek.com/boardgame/18985",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3468623",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3468623#item3468623",
+            "geeklist_host": "joestin",
+            "contributor": "gatesphere"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/XAf1ARTvfQjginQAq-JBOw__thumb/img/oo6UvZinPhVqYH5HA2ptF6dA5ck=/fit-in/200x150/filters:strip_icc()/pic4358646.png",
+    "year_published": "2005",
+    "designers": [
+        "Robert Dougherty",
+        "Chad Ellis",
+        "Darwin Kastle",
+        "Marcus Giegerich",
+        "Scott Garner",
+        "Brook Villa"
+    ],
+    "weight": 2.84,
+    "rating": 6.96,
+    "play_time": "60",
+    "best": "0",
+    "recommended": "5",
+    "not_recommended": "8",
+    "categories": [
+        "Ancient",
+        "Card Game",
+        "Fantasy",
+        "Fighting",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "42127",
+            "expansion_name": "Battleground Fantasy Warfare: Scenario Booklet",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/42127"
+        },
+        {
+            "expansion_id": "312270",
+            "expansion_name": "Battleground Fantasy Warfare: The Lords of Vlachold",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/312270"
+        },
+        {
+            "expansion_id": "37638",
+            "expansion_name": "Battleground: Kingdoms",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/37638"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Robert Dougherty; Chad Ellis; Darwin Kastle; Marcus Giegerich; Scott Garner; Brook Villa",
+    "categories_string": "Ancient; Card Game; Fantasy; Fighting; Wargame",
+    "mechanics_string": "Action Points; Dice Rolling",
+    "expansions_string": "{'expansion_id': '42127', 'expansion_name': 'Battleground Fantasy Warfare: Scenario Booklet', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/42127'}; {'expansion_id': '312270', 'expansion_name': 'Battleground Fantasy Warfare: The Lords of Vlachold', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/312270'}; {'expansion_id': '37638', 'expansion_name': 'Battleground: Kingdoms', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/37638'}",
+    "expansions_for_string": ""
+}

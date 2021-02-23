@@ -1,0 +1,51 @@
+{
+    "game_id": "2656",
+    "game_name": "Inferno",
+    "bgg_link": "https://boardgamegeek.com/boardgame/2656",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "171598",
+            "geeklist_item_id": "3164504",
+            "year_month": "2014/04",
+            "year": "2014",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/171598/item/3164504#item3164504",
+            "geeklist_host": "Malaiser",
+            "contributor": "Deathworks"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/lYOtPulkLadsCuoqW4uMJA__thumb/img/P_onOjJYQk0MbwRvwm6NAXS22kg=/fit-in/200x150/filters:strip_icc()/pic613909.jpg",
+    "year_published": "1996",
+    "designers": [
+        "Marco Pecota"
+    ],
+    "weight": 2.78,
+    "rating": 5.05,
+    "play_time": "120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Fighting",
+        "Horror",
+        "Miniatures",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Hexagon Grid"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "40664",
+            "expansion_name": "The Towers of Bel",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/40664"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Marco Pecota",
+    "categories_string": "Fighting; Horror; Miniatures; Wargame",
+    "mechanics_string": "Hexagon Grid",
+    "expansions_string": "{'expansion_id': '40664', 'expansion_name': 'The Towers of Bel', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/40664'}",
+    "expansions_for_string": ""
+}

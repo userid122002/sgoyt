@@ -1,0 +1,97 @@
+{
+    "game_id": "244521",
+    "game_name": "The Quacks of Quedlinburg",
+    "bgg_link": "https://boardgamegeek.com/boardgame/244521",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6278429",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6278429#item6278429",
+            "geeklist_host": "emodiu5",
+            "contributor": "suzyvitale"
+        },
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6646757",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6646757#item6646757",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "vacuumdude"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7040984",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7040984#item7040984",
+            "geeklist_host": "labrhat22",
+            "contributor": "mtsedwards"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7619475",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7619475#item7619475",
+            "geeklist_host": "threepointthed",
+            "contributor": "Tobina"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/tdnjJI31M1S12L36kw8Yyg__thumb/img/fyB75tXevMIM9yoV-WOum4bbAYM=/fit-in/200x150/filters:strip_icc()/pic4474567.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Wolfgang Warsch"
+    ],
+    "weight": 1.95,
+    "rating": 7.82,
+    "play_time": "45",
+    "best": "1",
+    "recommended": "15",
+    "not_recommended": "173",
+    "categories": [
+        "Medieval"
+    ],
+    "mechanics": [
+        "Catch the Leader",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Push Your Luck",
+        "Variable Set-up"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "257590",
+            "expansion_name": "Deutscher Spielepreis 2018 Goodie Box",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257590"
+        },
+        {
+            "expansion_id": "269259",
+            "expansion_name": "The Quacks of Quedlinburg: The Herb Witches",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/269259"
+        },
+        {
+            "expansion_id": "264019",
+            "expansion_name": "The Quacks of Quedlinburg: Wolfgang's Exchange Office",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/264019"
+        },
+        {
+            "expansion_id": "316597",
+            "expansion_name": "Die Quacksalber von Quedlinburg: Die Alchemisten",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/316597"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Wolfgang Warsch",
+    "categories_string": "Medieval",
+    "mechanics_string": "Catch the Leader; Deck, Bag, and Pool Building; Dice Rolling; Push Your Luck; Variable Set-up",
+    "expansions_string": "{'expansion_id': '257590', 'expansion_name': 'Deutscher Spielepreis 2018 Goodie Box', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257590'}; {'expansion_id': '269259', 'expansion_name': 'The Quacks of Quedlinburg: The Herb Witches', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/269259'}; {'expansion_id': '264019', 'expansion_name': \"The Quacks of Quedlinburg: Wolfgang's Exchange Office\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/264019'}; {'expansion_id': '316597', 'expansion_name': 'Die Quacksalber von Quedlinburg: Die Alchemisten', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/316597'}",
+    "expansions_for_string": ""
+}

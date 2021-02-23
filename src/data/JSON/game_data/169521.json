@@ -1,0 +1,63 @@
+{
+    "game_id": "169521",
+    "game_name": "Commands & Colors: Ancients Expansions #2 and #3 - Rome vs the Barbarians; The Roman Civil Wars",
+    "bgg_link": "https://boardgamegeek.com/boardgame/169521",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5095824",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5095824#item5095824",
+            "geeklist_host": "mikolajl",
+            "contributor": "gatchaman"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5263212",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5263212#item5263212",
+            "geeklist_host": "suzyvitale",
+            "contributor": "gatchaman"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/_6Pq_afzjt2KvsZgjhUsaQ__thumb/img/4mbd0-0mlaSzSM_61YSL9Wo9ags=/fit-in/200x150/filters:strip_icc()/pic2318086.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Richard Borg"
+    ],
+    "weight": 2.30,
+    "rating": 8.51,
+    "play_time": "0",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "2",
+    "categories": [
+        "Ancient",
+        "Expansion for Base-game",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Dice Rolling",
+        "Hand Management",
+        "Hexagon Grid"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "14105",
+            "game_name": "Commands & Colors: Ancients",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/14105"
+        }
+    ],
+    "designers_string": "Richard Borg",
+    "categories_string": "Ancient; Expansion for Base-game; Wargame",
+    "mechanics_string": "Campaign / Battle Card Driven; Dice Rolling; Hand Management; Hexagon Grid",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '14105', 'game_name': 'Commands & Colors: Ancients', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/14105'}"
+}

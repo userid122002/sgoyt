@@ -1,0 +1,70 @@
+{
+    "game_id": "90137",
+    "game_name": "Blood Bowl: Team Manager - The Card Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/90137",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "158763",
+            "geeklist_item_id": "2752590",
+            "year_month": "2013/07",
+            "year": "2013",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/158763/item/2752590#item2752590",
+            "geeklist_host": "mo7189",
+            "contributor": "Kappa_ap"
+        },
+        {
+            "geeklist_id": "194940",
+            "geeklist_item_id": "4130150",
+            "year_month": "2015/09",
+            "year": "2015",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194940/item/4130150#item4130150",
+            "geeklist_host": "lukather",
+            "contributor": "Al_Shrew"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/45THq8eYHMqv3wEfckUVmQ__thumb/img/e5u99K5CrwckRe_CYm5A7W1FhsI=/fit-in/200x150/filters:strip_icc()/pic1222746.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Jason Little"
+    ],
+    "weight": 2.33,
+    "rating": 7.38,
+    "play_time": "60 - 120",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "110",
+    "categories": [
+        "Card Game",
+        "Fantasy",
+        "Fighting",
+        "Sports"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "157126",
+            "expansion_name": "Blood Bowl: Team Manager - The Card Game: Foul Play",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/157126"
+        },
+        {
+            "expansion_id": "129721",
+            "expansion_name": "Blood Bowl: Team Manager - The Card Game: Sudden Death",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/129721"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jason Little",
+    "categories_string": "Card Game; Fantasy; Fighting; Sports",
+    "mechanics_string": "Area Majority / Influence; Card Drafting; Deck, Bag, and Pool Building; Dice Rolling; Hand Management",
+    "expansions_string": "{'expansion_id': '157126', 'expansion_name': 'Blood Bowl: Team Manager - The Card Game: Foul Play', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/157126'}; {'expansion_id': '129721', 'expansion_name': 'Blood Bowl: Team Manager - The Card Game: Sudden Death', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/129721'}",
+    "expansions_for_string": ""
+}

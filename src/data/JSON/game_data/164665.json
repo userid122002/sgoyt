@@ -1,0 +1,120 @@
+{
+    "game_id": "164665",
+    "game_name": "The Lord of the Rings: The Card Game - The Treason of Saruman",
+    "bgg_link": "https://boardgamegeek.com/boardgame/164665",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4566256",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4566256#item4566256",
+            "geeklist_host": "jdarnold",
+            "contributor": "hervuli"
+        },
+        {
+            "geeklist_id": "208306",
+            "geeklist_item_id": "4625179",
+            "year_month": "2016/05",
+            "year": "2016",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/208306/item/4625179#item4625179",
+            "geeklist_host": "gentle",
+            "contributor": "Herodotus Herodotus"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5986278",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5986278#item5986278",
+            "geeklist_host": "radthanael",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "262319",
+            "geeklist_item_id": "7285945",
+            "year_month": "2019/10",
+            "year": "2019",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262319/item/7285945#item7285945",
+            "geeklist_host": "narcher007",
+            "contributor": "davekuhns"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7460403",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7460403#item7460403",
+            "geeklist_host": "jomurph86",
+            "contributor": "Shellin"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7501606",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7501606#item7501606",
+            "geeklist_host": "Doc_H",
+            "contributor": "Shellin"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7619398",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7619398#item7619398",
+            "geeklist_host": "threepointthed",
+            "contributor": "Shellin"
+        }
+    ],
+    "sgoyt_count": 7,
+    "thumbnail": "https://cf.geekdo-images.com/MhE0VmR6gWllme1XpscbDg__thumb/img/Cv7BgioKpQRo_58ulwNmk0GfuGk=/fit-in/200x150/filters:strip_icc()/pic2355165.jpg",
+    "year_published": "2015",
+    "designers": [
+        "Caleb Grace",
+        "Matthew Newman"
+    ],
+    "weight": 2.86,
+    "rating": 8.37,
+    "play_time": "30 - 90",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Expansion for Base-game",
+        "Fantasy",
+        "Novel-based"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "203755",
+            "expansion_name": "The Lord of the Rings: The Card Game - Nightmare Deck: The Treason of Saruman",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/203755"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "77423",
+            "game_name": "The Lord of the Rings: The Card Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/77423"
+        }
+    ],
+    "designers_string": "Caleb Grace; Matthew Newman",
+    "categories_string": "Card Game; Expansion for Base-game; Fantasy; Novel-based",
+    "mechanics_string": "Cooperative Game; Hand Management; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '203755', 'expansion_name': 'The Lord of the Rings: The Card Game - Nightmare Deck: The Treason of Saruman', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/203755'}",
+    "expansions_for_string": "{'game_id': '77423', 'game_name': 'The Lord of the Rings: The Card Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/77423'}"
+}

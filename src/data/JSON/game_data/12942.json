@@ -1,0 +1,57 @@
+{
+    "game_id": "12942",
+    "game_name": "No Thanks!",
+    "bgg_link": "https://boardgamegeek.com/boardgame/12942",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "211592",
+            "geeklist_item_id": "4819842",
+            "year_month": "2016/08",
+            "year": "2016",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4819842#item4819842",
+            "geeklist_host": "govmiller",
+            "contributor": "maloma"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/2DyxMVASynw87LRULZuyqA__thumb/img/yIUSMoN8O5FeDZjXa4vreKj5Ogw=/fit-in/200x150/filters:strip_icc()/pic4657706.jpg",
+    "year_published": "2004",
+    "designers": [
+        "Thorsten Gimmler"
+    ],
+    "weight": 1.14,
+    "rating": 7.05,
+    "play_time": "20",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "151",
+    "categories": [
+        "Card Game"
+    ],
+    "mechanics": [
+        "Auction/Bidding",
+        "Closed Economy Auction",
+        "Increase Value of Unchosen Resources",
+        "Push Your Luck",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "231506",
+            "expansion_name": "Brettspiel Adventskalender 2017",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/231506"
+        },
+        {
+            "expansion_id": "234160",
+            "expansion_name": "Schone Sch#!?e: Stroke of Luck",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/234160"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Thorsten Gimmler",
+    "categories_string": "Card Game",
+    "mechanics_string": "Auction/Bidding; Closed Economy Auction; Increase Value of Unchosen Resources; Push Your Luck; Set Collection",
+    "expansions_string": "{'expansion_id': '231506', 'expansion_name': 'Brettspiel Adventskalender 2017', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/231506'}; {'expansion_id': '234160', 'expansion_name': 'Schone Sch#!?e: Stroke of Luck', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/234160'}",
+    "expansions_for_string": ""
+}

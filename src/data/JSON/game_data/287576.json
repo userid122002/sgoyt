@@ -1,0 +1,129 @@
+{
+    "game_id": "287576",
+    "game_name": "Tiny Towns: Fortune",
+    "bgg_link": "https://boardgamegeek.com/boardgame/287576",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7578271",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7578271#item7578271",
+            "geeklist_host": "jwml",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7587982",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7587982#item7587982",
+            "geeklist_host": "jwml",
+            "contributor": "BunniCladwell"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7635059",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7635059#item7635059",
+            "geeklist_host": "threepointthed",
+            "contributor": "Annanicolesmith"
+        },
+        {
+            "geeklist_id": "272126",
+            "geeklist_item_id": "7668145",
+            "year_month": "2020/05",
+            "year": "2020",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/272126/item/7668145#item7668145",
+            "geeklist_host": "gentle",
+            "contributor": "Annanicolesmith"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7723420",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7723420#item7723420",
+            "geeklist_host": "Elida",
+            "contributor": "djott70"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7725653",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7725653#item7725653",
+            "geeklist_host": "Elida",
+            "contributor": "djott70"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7729350",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7729350#item7729350",
+            "geeklist_host": "Elida",
+            "contributor": "djott70"
+        },
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7772277",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7772277#item7772277",
+            "geeklist_host": "repairmanjack",
+            "contributor": "Annanicolesmith"
+        }
+    ],
+    "sgoyt_count": 8,
+    "thumbnail": "https://cf.geekdo-images.com/q-f_WC1FSkKb7ATCNRdHqw__thumb/img/PzEzKZEy9seFTn8ujFTDWV6XB10=/fit-in/200x150/filters:strip_icc()/pic5159161.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Peter McPherson",
+        "Josh Wood"
+    ],
+    "weight": 2.38,
+    "rating": 7.82,
+    "play_time": "45 - 60",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Abstract Strategy",
+        "Animals",
+        "City Building"
+    ],
+    "mechanics": [
+        "Follow",
+        "Pattern Building"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "312568",
+            "expansion_name": "Tiny Towns: Fortune - Dead Reckoning Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/312568"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "265736",
+            "game_name": "Tiny Towns",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/265736"
+        }
+    ],
+    "designers_string": "Peter McPherson; Josh Wood",
+    "categories_string": "Expansion for Base-game; Abstract Strategy; Animals; City Building",
+    "mechanics_string": "Follow; Pattern Building",
+    "expansions_string": "{'expansion_id': '312568', 'expansion_name': 'Tiny Towns: Fortune - Dead Reckoning Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/312568'}",
+    "expansions_for_string": "{'game_id': '265736', 'game_name': 'Tiny Towns', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/265736'}"
+}

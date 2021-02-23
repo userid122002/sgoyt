@@ -1,0 +1,55 @@
+{
+    "game_id": "284936",
+    "game_name": "Cafe",
+    "bgg_link": "https://boardgamegeek.com/boardgame/284936",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7959912",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7959912#item7959912",
+            "geeklist_host": "Albia",
+            "contributor": "ankno"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/_k736Etdsm6zTTOnF3RXYw__thumb/img/Ux0zQYYi1zO7fjbrUZ9LIrmiRAU=/fit-in/200x150/filters:strip_icc()/pic5410171.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Costa",
+        "Rola"
+    ],
+    "weight": 1.88,
+    "rating": 7.88,
+    "play_time": "20 - 45",
+    "best": "3",
+    "recommended": "6",
+    "not_recommended": "1",
+    "categories": [
+        "Farming",
+        "Industry / Manufacturing"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Highest-Lowest Scoring",
+        "Layering",
+        "Melding and Splaying",
+        "Pick-up and Deliver",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "329198",
+            "expansion_name": "Cafe: EXPRESSO",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/329198"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Costa; Rola",
+    "categories_string": "Farming; Industry / Manufacturing",
+    "mechanics_string": "Action Points; Highest-Lowest Scoring; Layering; Melding and Splaying; Pick-up and Deliver; Tile Placement",
+    "expansions_string": "{'expansion_id': '329198', 'expansion_name': 'Cafe: EXPRESSO', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/329198'}",
+    "expansions_for_string": ""
+}

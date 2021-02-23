@@ -1,0 +1,531 @@
+{
+    "game_id": "190400",
+    "game_name": "Aventuria: Adventure Card Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/190400",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "214406",
+            "geeklist_item_id": "4944464",
+            "year_month": "2016/10",
+            "year": "2016",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/214406/item/4944464#item4944464",
+            "geeklist_host": "maloma",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5072023",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5072023#item5072023",
+            "geeklist_host": "mikolajl",
+            "contributor": "Kyanoe"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5080360",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5080360#item5080360",
+            "geeklist_host": "mikolajl",
+            "contributor": "Kyanoe"
+        },
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5516497",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5516497#item5516497",
+            "geeklist_host": "Mishko",
+            "contributor": "Zouave"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5688175",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5688175#item5688175",
+            "geeklist_host": "cornishlee",
+            "contributor": "alamb1101"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5698722",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5698722#item5698722",
+            "geeklist_host": "cornishlee",
+            "contributor": "alamb1101"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5703690",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5703690#item5703690",
+            "geeklist_host": "cornishlee",
+            "contributor": "adm1"
+        },
+        {
+            "geeklist_id": "229952",
+            "geeklist_item_id": "5729769",
+            "year_month": "2017/10",
+            "year": "2017",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5729769#item5729769",
+            "geeklist_host": "cornishlee",
+            "contributor": "alamb1101"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5767342",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5767342#item5767342",
+            "geeklist_host": "Albia",
+            "contributor": "alamb1101"
+        },
+        {
+            "geeklist_id": "231127",
+            "geeklist_item_id": "5788970",
+            "year_month": "2017/11",
+            "year": "2017",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/231127/item/5788970#item5788970",
+            "geeklist_host": "Albia",
+            "contributor": "Afram64"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5857004",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5857004#item5857004",
+            "geeklist_host": "Jorune",
+            "contributor": "vondarkmoor"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5887981",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5887981#item5887981",
+            "geeklist_host": "Jorune",
+            "contributor": "magic_erwt"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5907830",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5907830#item5907830",
+            "geeklist_host": "Jorune",
+            "contributor": "Afram64"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5918041",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5918041#item5918041",
+            "geeklist_host": "Jorune",
+            "contributor": "magic_erwt"
+        },
+        {
+            "geeklist_id": "235012",
+            "geeklist_item_id": "5919998",
+            "year_month": "2018/01",
+            "year": "2018",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/235012/item/5919998#item5919998",
+            "geeklist_host": "Jorune",
+            "contributor": "magic_erwt"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5939328",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5939328#item5939328",
+            "geeklist_host": "radthanael",
+            "contributor": "kerskine"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5974194",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5974194#item5974194",
+            "geeklist_host": "radthanael",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "237172",
+            "geeklist_item_id": "5978007",
+            "year_month": "2018/02",
+            "year": "2018",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/237172/item/5978007#item5978007",
+            "geeklist_host": "radthanael",
+            "contributor": "benjamininja"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6012207",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6012207#item6012207",
+            "geeklist_host": "busdjur",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6012350",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6012350#item6012350",
+            "geeklist_host": "busdjur",
+            "contributor": "repairmanjack"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6032603",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6032603#item6032603",
+            "geeklist_host": "busdjur",
+            "contributor": "smittyohio"
+        },
+        {
+            "geeklist_id": "238328",
+            "geeklist_item_id": "6042356",
+            "year_month": "2018/03",
+            "year": "2018",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238328/item/6042356#item6042356",
+            "geeklist_host": "busdjur",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "238369",
+            "geeklist_item_id": "6102776",
+            "year_month": "2018/04",
+            "year": "2018",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/238369/item/6102776#item6102776",
+            "geeklist_host": "skeletonhat",
+            "contributor": "usfbrown"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6294381",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6294381#item6294381",
+            "geeklist_host": "spaceman23",
+            "contributor": "Phantom Load"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6314120",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6314120#item6314120",
+            "geeklist_host": "spaceman23",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6315918",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6315918#item6315918",
+            "geeklist_host": "spaceman23",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "241528",
+            "geeklist_item_id": "6317634",
+            "year_month": "2018/08",
+            "year": "2018",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/241528/item/6317634#item6317634",
+            "geeklist_host": "spaceman23",
+            "contributor": "carbon_dragon"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6262575",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6262575#item6262575",
+            "geeklist_host": "emodiu5",
+            "contributor": "Phantom Load"
+        },
+        {
+            "geeklist_id": "242306",
+            "geeklist_item_id": "6276754",
+            "year_month": "2018/07",
+            "year": "2018",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6276754#item6276754",
+            "geeklist_host": "emodiu5",
+            "contributor": "jwml"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6958965",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6958965#item6958965",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Eawyne"
+        },
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7103660",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7103660#item7103660",
+            "geeklist_host": "Venom Snake",
+            "contributor": "Eawyne"
+        },
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7539826",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7539826#item7539826",
+            "geeklist_host": "Doc_H",
+            "contributor": "DocSavage2001"
+        },
+        {
+            "geeklist_id": "270349",
+            "geeklist_item_id": "7631881",
+            "year_month": "2020/04",
+            "year": "2020",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/270349/item/7631881#item7631881",
+            "geeklist_host": "threepointthed",
+            "contributor": "alamb1101"
+        }
+    ],
+    "sgoyt_count": 33,
+    "thumbnail": "https://cf.geekdo-images.com/jNzWBCVht3FdOEGT6ESWTA__thumb/img/z5kLflqWeugWWdT98rwVbSvjf88=/fit-in/200x150/filters:strip_icc()/pic3620198.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Michael Palm",
+        "Lukas Zach"
+    ],
+    "weight": 2.35,
+    "rating": 7.51,
+    "play_time": "45 - 180",
+    "best": "3",
+    "recommended": "12",
+    "not_recommended": "2",
+    "categories": [
+        "Adventure",
+        "Card Game",
+        "Fantasy",
+        "Fighting"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Critical Hits and Failures",
+        "Deck, Bag, and Pool Building",
+        "Dice Rolling",
+        "Hand Management",
+        "Narrative Choice / Paragraph",
+        "Role Playing",
+        "Scenario / Mission / Campaign Game",
+        "Solo / Solitaire Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "200863",
+            "expansion_name": "Aventuria Abenteuerspiel-Box: Verlockender Koder Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/200863"
+        },
+        {
+            "expansion_id": "240176",
+            "expansion_name": "Aventuria: Arsenal of Heroes",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/240176"
+        },
+        {
+            "expansion_id": "302651",
+            "expansion_name": "Aventuria: Borbarads Fluch",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302651"
+        },
+        {
+            "expansion_id": "302699",
+            "expansion_name": "Aventuria: Das Steinerne Schiff",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302699"
+        },
+        {
+            "expansion_id": "302654",
+            "expansion_name": "Aventuria: Diener des Namenlosen Heldenset",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302654"
+        },
+        {
+            "expansion_id": "199943",
+            "expansion_name": "Aventuria: Forest of No Return",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/199943"
+        },
+        {
+            "expansion_id": "228962",
+            "expansion_name": "Aventuria: Heroes' Struggle",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/228962"
+        },
+        {
+            "expansion_id": "279459",
+            "expansion_name": "Aventuria: Inn of the Black Boar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279459"
+        },
+        {
+            "expansion_id": "302653",
+            "expansion_name": "Aventuria: Kommando Rietholz Teamherausforderung",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302653"
+        },
+        {
+            "expansion_id": "302655",
+            "expansion_name": "Aventuria: Meisterin der Alchimie Heldenset",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302655"
+        },
+        {
+            "expansion_id": "302650",
+            "expansion_name": "Aventuria: Nedime, die Tochter des Kalifen",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302650"
+        },
+        {
+            "expansion_id": "213302",
+            "expansion_name": "Aventuria: Orkfamilie Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/213302"
+        },
+        {
+            "expansion_id": "239512",
+            "expansion_name": "Aventuria: Promokarte \"Drachenjunges\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239512"
+        },
+        {
+            "expansion_id": "239440",
+            "expansion_name": "Aventuria: Promokarte \"Improvisierte Waffe\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239440"
+        },
+        {
+            "expansion_id": "239446",
+            "expansion_name": "Aventuria: Promokarte \"Liebestrank\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239446"
+        },
+        {
+            "expansion_id": "239445",
+            "expansion_name": "Aventuria: Promokarte \"Nachahmung\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239445"
+        },
+        {
+            "expansion_id": "239441",
+            "expansion_name": "Aventuria: Promokarte \"Rahjasutra\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239441"
+        },
+        {
+            "expansion_id": "239444",
+            "expansion_name": "Aventuria: Promokarte \"Schlagring\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239444"
+        },
+        {
+            "expansion_id": "239442",
+            "expansion_name": "Aventuria: Promokarte \"Schlosser knacken\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239442"
+        },
+        {
+            "expansion_id": "239439",
+            "expansion_name": "Aventuria: Promokarte \"Schwitzkasten\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239439"
+        },
+        {
+            "expansion_id": "239511",
+            "expansion_name": "Aventuria: Promokarte \"Tiergestalt (Morderstorch)\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239511"
+        },
+        {
+            "expansion_id": "239443",
+            "expansion_name": "Aventuria: Promokarte \"Zechgelage\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/239443"
+        },
+        {
+            "expansion_id": "290634",
+            "expansion_name": "Aventuria: Promokarten \"Das Steinerne Schiff\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/290634"
+        },
+        {
+            "expansion_id": "302657",
+            "expansion_name": "Aventuria: Schatzjager Heldenset",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302657"
+        },
+        {
+            "expansion_id": "302656",
+            "expansion_name": "Aventuria: Schleiertanzerin Heldenset",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302656"
+        },
+        {
+            "expansion_id": "302652",
+            "expansion_name": "Aventuria: Schneidermeisters Poltergeister",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/302652"
+        },
+        {
+            "expansion_id": "204798",
+            "expansion_name": "Aventuria: Schwarzes Auge Promokarte",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204798"
+        },
+        {
+            "expansion_id": "204406",
+            "expansion_name": "Aventuria: Ship of Lost Souls",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/204406"
+        },
+        {
+            "expansion_id": "237028",
+            "expansion_name": "Aventuria: Tears of Fire",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/237028"
+        },
+        {
+            "expansion_id": "206213",
+            "expansion_name": "Aventuria: The Non-Gambling Kind",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206213"
+        },
+        {
+            "expansion_id": "279460",
+            "expansion_name": "Aventuria: The Return to the Inn of the Black Boar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/279460"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Michael Palm; Lukas Zach",
+    "categories_string": "Adventure; Card Game; Fantasy; Fighting",
+    "mechanics_string": "Cooperative Game; Critical Hits and Failures; Deck, Bag, and Pool Building; Dice Rolling; Hand Management; Narrative Choice / Paragraph; Role Playing; Scenario / Mission / Campaign Game; Solo / Solitaire Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '200863', 'expansion_name': 'Aventuria Abenteuerspiel-Box: Verlockender Koder Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/200863'}; {'expansion_id': '240176', 'expansion_name': 'Aventuria: Arsenal of Heroes', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/240176'}; {'expansion_id': '302651', 'expansion_name': 'Aventuria: Borbarads Fluch', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302651'}; {'expansion_id': '302699', 'expansion_name': 'Aventuria: Das Steinerne Schiff', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302699'}; {'expansion_id': '302654', 'expansion_name': 'Aventuria: Diener des Namenlosen Heldenset', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302654'}; {'expansion_id': '199943', 'expansion_name': 'Aventuria: Forest of No Return', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/199943'}; {'expansion_id': '228962', 'expansion_name': \"Aventuria: Heroes' Struggle\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/228962'}; {'expansion_id': '279459', 'expansion_name': 'Aventuria: Inn of the Black Boar', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279459'}; {'expansion_id': '302653', 'expansion_name': 'Aventuria: Kommando Rietholz Teamherausforderung', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302653'}; {'expansion_id': '302655', 'expansion_name': 'Aventuria: Meisterin der Alchimie Heldenset', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302655'}; {'expansion_id': '302650', 'expansion_name': 'Aventuria: Nedime, die Tochter des Kalifen', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302650'}; {'expansion_id': '213302', 'expansion_name': 'Aventuria: Orkfamilie Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/213302'}; {'expansion_id': '239512', 'expansion_name': 'Aventuria: Promokarte \"Drachenjunges\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239512'}; {'expansion_id': '239440', 'expansion_name': 'Aventuria: Promokarte \"Improvisierte Waffe\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239440'}; {'expansion_id': '239446', 'expansion_name': 'Aventuria: Promokarte \"Liebestrank\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239446'}; {'expansion_id': '239445', 'expansion_name': 'Aventuria: Promokarte \"Nachahmung\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239445'}; {'expansion_id': '239441', 'expansion_name': 'Aventuria: Promokarte \"Rahjasutra\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239441'}; {'expansion_id': '239444', 'expansion_name': 'Aventuria: Promokarte \"Schlagring\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239444'}; {'expansion_id': '239442', 'expansion_name': 'Aventuria: Promokarte \"Schlosser knacken\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239442'}; {'expansion_id': '239439', 'expansion_name': 'Aventuria: Promokarte \"Schwitzkasten\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239439'}; {'expansion_id': '239511', 'expansion_name': 'Aventuria: Promokarte \"Tiergestalt (Morderstorch)\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239511'}; {'expansion_id': '239443', 'expansion_name': 'Aventuria: Promokarte \"Zechgelage\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/239443'}; {'expansion_id': '290634', 'expansion_name': 'Aventuria: Promokarten \"Das Steinerne Schiff\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/290634'}; {'expansion_id': '302657', 'expansion_name': 'Aventuria: Schatzjager Heldenset', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302657'}; {'expansion_id': '302656', 'expansion_name': 'Aventuria: Schleiertanzerin Heldenset', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302656'}; {'expansion_id': '302652', 'expansion_name': 'Aventuria: Schneidermeisters Poltergeister', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/302652'}; {'expansion_id': '204798', 'expansion_name': 'Aventuria: Schwarzes Auge Promokarte', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204798'}; {'expansion_id': '204406', 'expansion_name': 'Aventuria: Ship of Lost Souls', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/204406'}; {'expansion_id': '237028', 'expansion_name': 'Aventuria: Tears of Fire', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/237028'}; {'expansion_id': '206213', 'expansion_name': 'Aventuria: The Non-Gambling Kind', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206213'}; {'expansion_id': '279460', 'expansion_name': 'Aventuria: The Return to the Inn of the Black Boar', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/279460'}",
+    "expansions_for_string": ""
+}

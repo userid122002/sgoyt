@@ -1,0 +1,75 @@
+{
+    "game_id": "253185",
+    "game_name": "Chai",
+    "bgg_link": "https://boardgamegeek.com/boardgame/253185",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6657016",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6657016#item6657016",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "Xabbusan"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7330718",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7330718#item7330718",
+            "geeklist_host": "Albia",
+            "contributor": "lucsen"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7895639",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7895639#item7895639",
+            "geeklist_host": "Elida",
+            "contributor": "Elida"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/wMd7npCj8VObsqMVK5kawg__thumb/img/gn57JBYDT_FOSqFvnJH68zECEq4=/fit-in/200x150/filters:strip_icc()/pic4175159.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Dan Kazmaier",
+        "Connie Kazmaier"
+    ],
+    "weight": 1.62,
+    "rating": 7.07,
+    "play_time": "20 - 60",
+    "best": "0",
+    "recommended": "4",
+    "not_recommended": "8",
+    "categories": [
+        "Card Game",
+        "Economic",
+        "Print & Play"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Contracts",
+        "Drafting",
+        "Race",
+        "Set Collection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "309251",
+            "expansion_name": "Chai: High Tea",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/309251"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Dan Kazmaier; Connie Kazmaier",
+    "categories_string": "Card Game; Economic; Print & Play",
+    "mechanics_string": "Card Drafting; Contracts; Drafting; Race; Set Collection",
+    "expansions_string": "{'expansion_id': '309251', 'expansion_name': 'Chai: High Tea', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/309251'}",
+    "expansions_for_string": ""
+}

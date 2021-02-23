@@ -1,0 +1,67 @@
+{
+    "game_id": "95683",
+    "game_name": "Arkham Horror: The Curse of the Dark Pharaoh Expansion (Revised Edition)",
+    "bgg_link": "https://boardgamegeek.com/boardgame/95683",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3467623",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3467623#item3467623",
+            "geeklist_host": "joestin",
+            "contributor": "kikerl"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Rhck-F8G9T2fx4QL4BlTFA__thumb/img/C8-QrLQxA8nGPIzbfXSlkEjwd_s=/fit-in/200x150/filters:strip_icc()/pic955312.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Tim Uren",
+        "Robert Vaughn"
+    ],
+    "weight": 3.48,
+    "rating": 7.74,
+    "play_time": "120 - 240",
+    "best": "1",
+    "recommended": "4",
+    "not_recommended": "4",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fighting",
+        "Horror"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Point to Point Movement",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "93465",
+            "expansion_name": "Arkham Horror: Miskatonic Horror Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/93465"
+        },
+        {
+            "expansion_id": "142500",
+            "expansion_name": "Cult of the Golden Scarab (fan expansion for Arkham Horror)",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/142500"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "15987",
+            "game_name": "Arkham Horror",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/15987"
+        }
+    ],
+    "designers_string": "Tim Uren; Robert Vaughn",
+    "categories_string": "Adventure; Expansion for Base-game; Fighting; Horror",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Hand Management; Point to Point Movement; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '93465', 'expansion_name': 'Arkham Horror: Miskatonic Horror Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/93465'}; {'expansion_id': '142500', 'expansion_name': 'Cult of the Golden Scarab (fan expansion for Arkham Horror)', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/142500'}",
+    "expansions_for_string": "{'game_id': '15987', 'game_name': 'Arkham Horror', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/15987'}"
+}

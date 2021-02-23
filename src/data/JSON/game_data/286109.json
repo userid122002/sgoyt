@@ -1,0 +1,60 @@
+{
+    "game_id": "286109",
+    "game_name": "Hierarchy",
+    "bgg_link": "https://boardgamegeek.com/boardgame/286109",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "268583",
+            "geeklist_item_id": "7528892",
+            "year_month": "2020/02",
+            "year": "2020",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/268583/item/7528892#item7528892",
+            "geeklist_host": "Doc_H",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7934800",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7934800#item7934800",
+            "geeklist_host": "Elida",
+            "contributor": "woodjh"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/nMnhqrNWKXe_0bkII-V7Hw__thumb/img/rF0Jh0NCz5_48ld89fiaO6_g3qs=/fit-in/200x150/filters:strip_icc()/pic4943154.png",
+    "year_published": "2019",
+    "designers": [
+        "Hugo Kawamata"
+    ],
+    "weight": 1.33,
+    "rating": 7.02,
+    "play_time": "20",
+    "best": "1",
+    "recommended": "1",
+    "not_recommended": "2",
+    "categories": [
+        "Abstract Strategy",
+        "Card Game",
+        "Print & Play"
+    ],
+    "mechanics": [
+        "Area Majority / Influence"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "301475",
+            "expansion_name": "Hierarchy: Emissary",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/301475"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Hugo Kawamata",
+    "categories_string": "Abstract Strategy; Card Game; Print & Play",
+    "mechanics_string": "Area Majority / Influence",
+    "expansions_string": "{'expansion_id': '301475', 'expansion_name': 'Hierarchy: Emissary', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/301475'}",
+    "expansions_for_string": ""
+}

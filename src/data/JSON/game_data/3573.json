@@ -1,0 +1,65 @@
+{
+    "game_id": "3573",
+    "game_name": "Napoleon at Waterloo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/3573",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186592",
+            "geeklist_item_id": "3724442",
+            "year_month": "2015/02",
+            "year": "2015",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186592/item/3724442#item3724442",
+            "geeklist_host": "Woelf",
+            "contributor": "joestin"
+        },
+        {
+            "geeklist_id": "217780",
+            "geeklist_item_id": "5107249",
+            "year_month": "2016/12",
+            "year": "2016",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/217780/item/5107249#item5107249",
+            "geeklist_host": "mikolajl",
+            "contributor": "jfardette"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/YTTA0RalDSHNF5HSZwbKAg__thumb/img/91_b1E_8sj9TvRCj26jme9usang=/fit-in/200x150/filters:strip_icc()/pic2034149.jpg",
+    "year_published": "1971",
+    "designers": [
+        "Jim Dunnigan"
+    ],
+    "weight": 1.92,
+    "rating": 6.64,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "11",
+    "not_recommended": "1",
+    "categories": [
+        "Napoleonic",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Movement Points",
+        "Ratio / Combat Results Table",
+        "Simulation",
+        "Zone of Control"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "23641",
+            "expansion_name": "Napoleon at Waterloo Advanced Game Expansion Kit",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/23641"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Jim Dunnigan",
+    "categories_string": "Napoleonic; Wargame",
+    "mechanics_string": "Dice Rolling; Grid Movement; Hexagon Grid; Movement Points; Ratio / Combat Results Table; Simulation; Zone of Control",
+    "expansions_string": "{'expansion_id': '23641', 'expansion_name': 'Napoleon at Waterloo Advanced Game Expansion Kit', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/23641'}",
+    "expansions_for_string": ""
+}

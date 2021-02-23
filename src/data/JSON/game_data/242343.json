@@ -1,0 +1,62 @@
+{
+    "game_id": "242343",
+    "game_name": "Siege Storm",
+    "bgg_link": "https://boardgamegeek.com/boardgame/242343",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7952921",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7952921#item7952921",
+            "geeklist_host": "Albia",
+            "contributor": "airzonk1"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/xKRi_dJtP4_CtGb8X5lT5g__thumb/img/Yg2TVCgdjfOdHKKjRrjxfI2p0K0=/fit-in/200x150/filters:strip_icc()/pic4148388.jpg",
+    "year_published": "2019",
+    "designers": [
+        "Marcin Swierkot"
+    ],
+    "weight": 2.50,
+    "rating": 6.70,
+    "play_time": "15 - 30",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "1",
+    "categories": [
+        "Card Game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Cooperative Game",
+        "Hand Management",
+        "Take That",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "257340",
+            "expansion_name": "SiegeStorm: Shade Slayers",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257340"
+        },
+        {
+            "expansion_id": "257338",
+            "expansion_name": "SiegeStorm: Frost Giants",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257338"
+        },
+        {
+            "expansion_id": "257339",
+            "expansion_name": "SiegeStorm: Wild Fairies",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/257339"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Marcin Swierkot",
+    "categories_string": "Card Game; Fantasy",
+    "mechanics_string": "Cooperative Game; Hand Management; Take That; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '257340', 'expansion_name': 'SiegeStorm: Shade Slayers', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257340'}; {'expansion_id': '257338', 'expansion_name': 'SiegeStorm: Frost Giants', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257338'}; {'expansion_id': '257339', 'expansion_name': 'SiegeStorm: Wild Fairies', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/257339'}",
+    "expansions_for_string": ""
+}

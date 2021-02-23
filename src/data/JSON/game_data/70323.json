@@ -1,0 +1,151 @@
+{
+    "game_id": "70323",
+    "game_name": "King of Tokyo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/70323",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3828854",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3828854#item3828854",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "dlikos"
+        },
+        {
+            "geeklist_id": "186058",
+            "geeklist_item_id": "3836267",
+            "year_month": "2015/04",
+            "year": "2015",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/186058/item/3836267#item3836267",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "ralsar"
+        },
+        {
+            "geeklist_id": "240624",
+            "geeklist_item_id": "6133906",
+            "year_month": "2018/05",
+            "year": "2018",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/240624/item/6133906#item6133906",
+            "geeklist_host": "Pjandy",
+            "contributor": "bwguinig"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__thumb/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU=/fit-in/200x150/filters:strip_icc()/pic3043734.jpg",
+    "year_published": "2011",
+    "designers": [
+        "Richard Garfield"
+    ],
+    "weight": 1.49,
+    "rating": 7.18,
+    "play_time": "30",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "518",
+    "categories": [
+        "Dice",
+        "Fighting",
+        "Movies / TV / Radio theme",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "King of the Hill",
+        "Player Elimination",
+        "Push Your Luck",
+        "Re-rolling and Locking"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "193320",
+            "expansion_name": "King of New York: Power Up!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/193320"
+        },
+        {
+            "expansion_id": "250532",
+            "expansion_name": "King of Tokyo/New York: Monster Pack - Anubis",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/250532"
+        },
+        {
+            "expansion_id": "207292",
+            "expansion_name": "King of Tokyo/New York: Monster Pack - Cthulhu",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/207292"
+        },
+        {
+            "expansion_id": "282788",
+            "expansion_name": "King of Tokyo/New York: Monster Pack - Cybertooth",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/282788"
+        },
+        {
+            "expansion_id": "233076",
+            "expansion_name": "King of Tokyo/New York: Monster Pack - King Kong",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/233076"
+        },
+        {
+            "expansion_id": "234725",
+            "expansion_name": "King of Tokyo: Champion of the Gods Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/234725"
+        },
+        {
+            "expansion_id": "211103",
+            "expansion_name": "King of Tokyo: Fish Market promo card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/211103"
+        },
+        {
+            "expansion_id": "292108",
+            "expansion_name": "King of Tokyo: Frantic Mutations Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/292108"
+        },
+        {
+            "expansion_id": "132530",
+            "expansion_name": "King of Tokyo: Garfield's Gift Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/132530"
+        },
+        {
+            "expansion_id": "147183",
+            "expansion_name": "King of Tokyo: Halloween",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147183"
+        },
+        {
+            "expansion_id": "127067",
+            "expansion_name": "King of Tokyo: Power Up!",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127067"
+        },
+        {
+            "expansion_id": "98833",
+            "expansion_name": "King of Tokyo: Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98833"
+        },
+        {
+            "expansion_id": "318580",
+            "expansion_name": "King of Tokyo: Super Jump Goodie Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/318580"
+        },
+        {
+            "expansion_id": "287306",
+            "expansion_name": "King of Tokyo: Teamwork Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/287306"
+        },
+        {
+            "expansion_id": "154945",
+            "expansion_name": "King of Tokyo: The Horde Promo Card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/154945"
+        },
+        {
+            "expansion_id": "249752",
+            "expansion_name": "King of Tokyo: Zombify promo card",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/249752"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Richard Garfield",
+    "categories_string": "Dice; Fighting; Movies / TV / Radio theme; Science Fiction",
+    "mechanics_string": "Card Drafting; Dice Rolling; King of the Hill; Player Elimination; Push Your Luck; Re-rolling and Locking",
+    "expansions_string": "{'expansion_id': '193320', 'expansion_name': 'King of New York: Power Up!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/193320'}; {'expansion_id': '250532', 'expansion_name': 'King of Tokyo/New York: Monster Pack - Anubis', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/250532'}; {'expansion_id': '207292', 'expansion_name': 'King of Tokyo/New York: Monster Pack - Cthulhu', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/207292'}; {'expansion_id': '282788', 'expansion_name': 'King of Tokyo/New York: Monster Pack - Cybertooth', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/282788'}; {'expansion_id': '233076', 'expansion_name': 'King of Tokyo/New York: Monster Pack - King Kong', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/233076'}; {'expansion_id': '234725', 'expansion_name': 'King of Tokyo: Champion of the Gods Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/234725'}; {'expansion_id': '211103', 'expansion_name': 'King of Tokyo: Fish Market promo card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/211103'}; {'expansion_id': '292108', 'expansion_name': 'King of Tokyo: Frantic Mutations Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/292108'}; {'expansion_id': '132530', 'expansion_name': \"King of Tokyo: Garfield's Gift Promo Card\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/132530'}; {'expansion_id': '147183', 'expansion_name': 'King of Tokyo: Halloween', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147183'}; {'expansion_id': '127067', 'expansion_name': 'King of Tokyo: Power Up!', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127067'}; {'expansion_id': '98833', 'expansion_name': 'King of Tokyo: Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98833'}; {'expansion_id': '318580', 'expansion_name': 'King of Tokyo: Super Jump Goodie Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/318580'}; {'expansion_id': '287306', 'expansion_name': 'King of Tokyo: Teamwork Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/287306'}; {'expansion_id': '154945', 'expansion_name': 'King of Tokyo: The Horde Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/154945'}; {'expansion_id': '249752', 'expansion_name': 'King of Tokyo: Zombify promo card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/249752'}",
+    "expansions_for_string": ""
+}

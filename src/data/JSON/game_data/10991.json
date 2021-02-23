@@ -1,0 +1,54 @@
+{
+    "game_id": "10991",
+    "game_name": "WarCraft: The Board Game Expansion Set",
+    "bgg_link": "https://boardgamegeek.com/boardgame/10991",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4247729",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4247729#item4247729",
+            "geeklist_host": "SBGrad",
+            "contributor": "Kamaitatchi"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/iRLZF1_sIXoq9V4g5b9s0A__thumb/img/MvvewuA1B_DRfjG0rgfJ5n6deLg=/fit-in/200x150/filters:strip_icc()/pic1140882.jpg",
+    "year_published": "2004",
+    "designers": [
+        "Kevin Wilson"
+    ],
+    "weight": 2.88,
+    "rating": 6.89,
+    "play_time": "90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "5",
+    "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Fighting",
+        "Video Game Theme",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "7479",
+            "game_name": "WarCraft: The Board Game",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/7479"
+        }
+    ],
+    "designers_string": "Kevin Wilson",
+    "categories_string": "Expansion for Base-game; Fantasy; Fighting; Video Game Theme; Wargame",
+    "mechanics_string": "Dice Rolling; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '7479', 'game_name': 'WarCraft: The Board Game', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/7479'}"
+}

@@ -1,0 +1,58 @@
+{
+    "game_id": "66589",
+    "game_name": "Navegador",
+    "bgg_link": "https://boardgamegeek.com/boardgame/66589",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7613793",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7613793#item7613793",
+            "geeklist_host": "jwml",
+            "contributor": "montrealmovil"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/rdZb15WqByPZzdTKEvNz0Q__thumb/img/H49jq0-D4ceSoqO2c3ZGiNfkOH8=/fit-in/200x150/filters:strip_icc()/pic3246725.jpg",
+    "year_published": "2010",
+    "designers": [
+        "Mac Gerdts"
+    ],
+    "weight": 3.09,
+    "rating": 7.55,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "71",
+    "categories": [
+        "Economic",
+        "Exploration",
+        "Nautical",
+        "Renaissance"
+    ],
+    "mechanics": [
+        "Advantage Token",
+        "Area Movement",
+        "Rondel"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "120105",
+            "expansion_name": "Navegador: Pirates & Diplomats",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/120105"
+        },
+        {
+            "expansion_id": "209573",
+            "expansion_name": "Navegador: Privilege Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/209573"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Mac Gerdts",
+    "categories_string": "Economic; Exploration; Nautical; Renaissance",
+    "mechanics_string": "Advantage Token; Area Movement; Rondel",
+    "expansions_string": "{'expansion_id': '120105', 'expansion_name': 'Navegador: Pirates & Diplomats', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/120105'}; {'expansion_id': '209573', 'expansion_name': 'Navegador: Privilege Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/209573'}",
+    "expansions_for_string": ""
+}

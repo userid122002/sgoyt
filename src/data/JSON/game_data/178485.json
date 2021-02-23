@@ -1,0 +1,64 @@
+{
+    "game_id": "178485",
+    "game_name": "Zombicide: Black Plague - Wulfsburg",
+    "bgg_link": "https://boardgamegeek.com/boardgame/178485",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "209493",
+            "geeklist_item_id": "4663785",
+            "year_month": "2016/06",
+            "year": "2016",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/209493/item/4663785#item4663785",
+            "geeklist_host": "koinskyz",
+            "contributor": "taeryn"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/L6aBcTQv6Rhpm9q8pO4LcQ__thumb/img/LuuDmaQy_d-On2_DBmR2b9qMZfA=/fit-in/200x150/filters:strip_icc()/pic2552628.png",
+    "year_published": "2016",
+    "designers": [
+        "Raphael Guiton",
+        "Jean-Baptiste Lullien",
+        "Nicolas Raoult"
+    ],
+    "weight": 2.54,
+    "rating": 8.04,
+    "play_time": "60",
+    "best": "2",
+    "recommended": "8",
+    "not_recommended": "3",
+    "categories": [
+        "Expansion for Base-game",
+        "Horror",
+        "Miniatures",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "236775",
+            "expansion_name": "Massive Darkness: Black Plague Crossover Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/236775"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "176189",
+            "game_name": "Zombicide: Black Plague",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/176189"
+        }
+    ],
+    "designers_string": "Raphael Guiton; Jean-Baptiste Lullien; Nicolas Raoult",
+    "categories_string": "Expansion for Base-game; Horror; Miniatures; Zombies",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Hand Management; Modular Board; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '236775', 'expansion_name': 'Massive Darkness: Black Plague Crossover Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/236775'}",
+    "expansions_for_string": "{'game_id': '176189', 'game_name': 'Zombicide: Black Plague', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/176189'}"
+}

@@ -1,0 +1,56 @@
+{
+    "game_id": "32072",
+    "game_name": "Song of Gold and Darkness",
+    "bgg_link": "https://boardgamegeek.com/boardgame/32072",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3468621",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3468621#item3468621",
+            "geeklist_host": "joestin",
+            "contributor": "gatesphere"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/48w6C6fvtA1ZkcRtGXn-5w__thumb/img/oCfaMeLejL7UrYmpz57Rz4WFLrA=/fit-in/200x150/filters:strip_icc()/pic252952.jpg",
+    "year_published": "2007",
+    "designers": [
+        "Andrea Sfiligoi"
+    ],
+    "weight": 3.25,
+    "rating": 7.57,
+    "play_time": "45",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Expansion for Base-game",
+        "Exploration",
+        "Fantasy",
+        "Miniatures",
+        "Print & Play",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Role Playing",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "30804",
+            "game_name": "Song of Blades and Heroes: Revised Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/30804"
+        }
+    ],
+    "designers_string": "Andrea Sfiligoi",
+    "categories_string": "Expansion for Base-game; Exploration; Fantasy; Miniatures; Print & Play; Wargame",
+    "mechanics_string": "Action Points; Dice Rolling; Role Playing; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '30804', 'game_name': 'Song of Blades and Heroes: Revised Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/30804'}"
+}

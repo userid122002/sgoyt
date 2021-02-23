@@ -1,0 +1,835 @@
+{
+    "game_id": "101786",
+    "game_name": "Dust Tactics: Revised Core Set",
+    "bgg_link": "https://boardgamegeek.com/boardgame/101786",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "160445",
+            "geeklist_item_id": "2757025",
+            "year_month": "2013/08",
+            "year": "2013",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/160445/item/2757025#item2757025",
+            "geeklist_host": "gertbert",
+            "contributor": "Sapper_SB"
+        },
+        {
+            "geeklist_id": "179645",
+            "geeklist_item_id": "3570318",
+            "year_month": "2014/11",
+            "year": "2014",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/179645/item/3570318#item3570318",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Ryanmobile"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/jDNMNRFKW-fGHny1nU7NwA__thumb/img/iHrl-hCfSnNJAfmQEmpRjEC2OwY=/fit-in/200x150/filters:strip_icc()/pic1024941.jpg",
+    "year_published": "2011",
+    "designers": [],
+    "weight": 2.53,
+    "rating": 7.38,
+    "play_time": "45",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "2",
+    "categories": [
+        "Miniatures",
+        "Science Fiction",
+        "World War II"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Dice Rolling",
+        "Modular Board"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "220163",
+            "expansion_name": "Dust 1947: Fallschirm RSO Laserkanone",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220163"
+        },
+        {
+            "expansion_id": "220165",
+            "expansion_name": "Dust 1947: Fallschirm RSO/Flak 3",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220165"
+        },
+        {
+            "expansion_id": "220164",
+            "expansion_name": "Dust 1947: Fallschirm RSO/PAK 40",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220164"
+        },
+        {
+            "expansion_id": "219828",
+            "expansion_name": "Dust 1947: Fallschirmjager Anti-Aircraft Squad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219828"
+        },
+        {
+            "expansion_id": "219827",
+            "expansion_name": "Dust 1947: Fallschirmjager Tank-Hunter Squad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219827"
+        },
+        {
+            "expansion_id": "218846",
+            "expansion_name": "Dust 1947: Guai-Lo Moloi",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218846"
+        },
+        {
+            "expansion_id": "220168",
+            "expansion_name": "Dust 1947: Mobelwagen Ausf. B",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220168"
+        },
+        {
+            "expansion_id": "220169",
+            "expansion_name": "Dust 1947: Panzerkampfwagen IV Ausf. K - \"Panzer IV-K\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220169"
+        },
+        {
+            "expansion_id": "220162",
+            "expansion_name": "Dust 1947: Panzerspahlaufer I-H (Flak) - \"Luft Heinrich\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220162"
+        },
+        {
+            "expansion_id": "220244",
+            "expansion_name": "Dust 1947: Panzerspahlaufer I-K - \"Luft Hans\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220244"
+        },
+        {
+            "expansion_id": "219830",
+            "expansion_name": "Dust 1947: Raketentruppe Battle Squad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219830"
+        },
+        {
+            "expansion_id": "219264",
+            "expansion_name": "Dust 1947: Ranger Attack Squad - \"Death Dealers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219264"
+        },
+        {
+            "expansion_id": "219266",
+            "expansion_name": "Dust 1947: Ranger Attack Squad - \"Hell boys\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219266"
+        },
+        {
+            "expansion_id": "218847",
+            "expansion_name": "Dust 1947: Red Ace & Red Star",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218847"
+        },
+        {
+            "expansion_id": "218848",
+            "expansion_name": "Dust 1947: Steel Guard Battlegroup",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218848"
+        },
+        {
+            "expansion_id": "219459",
+            "expansion_name": "Dust 1947: USMC War Dogs Recon Squad",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219459"
+        },
+        {
+            "expansion_id": "219825",
+            "expansion_name": "Dust Tactics:  NDAK Mortar Squad - \"Sandstorm\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219825"
+        },
+        {
+            "expansion_id": "139570",
+            "expansion_name": "Dust Tactics: \"Nightwatch\" Elite Premium",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139570"
+        },
+        {
+            "expansion_id": "152974",
+            "expansion_name": "Dust Tactics: \"Snow Lynx\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152974"
+        },
+        {
+            "expansion_id": "131996",
+            "expansion_name": "Dust Tactics: Airfield Accessory Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131996"
+        },
+        {
+            "expansion_id": "146407",
+            "expansion_name": "Dust Tactics: Allied Fortification - Field Phaser Bunker / Strongpoint",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146407"
+        },
+        {
+            "expansion_id": "133706",
+            "expansion_name": "Dust Tactics: Allies Heavy Support Walker - \"Long Tom II / Mobile HQ / Skysweeper\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133706"
+        },
+        {
+            "expansion_id": "110636",
+            "expansion_name": "Dust Tactics: Allies Hero Pack - \"Action Jackson / The Priest / Johnny One-Eye\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/110636"
+        },
+        {
+            "expansion_id": "137186",
+            "expansion_name": "Dust Tactics: Allies P-48 Pelican - \"Bellowing Bertie / Diving Dotty\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/137186"
+        },
+        {
+            "expansion_id": "94978",
+            "expansion_name": "Dust Tactics: Assault Rangers Squad - \"BBQ Squad\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94978"
+        },
+        {
+            "expansion_id": "94549",
+            "expansion_name": "Dust Tactics: Aufklarer Sturmgrenadieren Squad - \"Recon Grenadiers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94549"
+        },
+        {
+            "expansion_id": "130663",
+            "expansion_name": "Dust Tactics: Axis Armored Transport - \"Prinzluther / Sturmprinz\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/130663"
+        },
+        {
+            "expansion_id": "146406",
+            "expansion_name": "Dust Tactics: Axis Fortification - Heavy Laser Bunker / Strongpoint",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146406"
+        },
+        {
+            "expansion_id": "110635",
+            "expansion_name": "Dust Tactics: Axis Hero Pack - \"Stefan / Totenmeister / Grenadier X\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/110635"
+        },
+        {
+            "expansion_id": "133710",
+            "expansion_name": "Dust Tactics: Axis Ubertoten Assault Squad - \"Braineaters\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133710"
+        },
+        {
+            "expansion_id": "137185",
+            "expansion_name": "Dust Tactics: Axis Ubertoten Suicide Squad - \"Heilige Tod\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/137185"
+        },
+        {
+            "expansion_id": "98847",
+            "expansion_name": "Dust Tactics: Blutkreuz Korps Kampfaffen Squad - \"Axis Gorillas\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98847"
+        },
+        {
+            "expansion_id": "99415",
+            "expansion_name": "Dust Tactics: Blutkreuz Korps Untertoten Squad - \"Axis Zombies\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99415"
+        },
+        {
+            "expansion_id": "146401",
+            "expansion_name": "Dust Tactics: Blutkreuz Pioneer Squad - \"Sturmaffe\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146401"
+        },
+        {
+            "expansion_id": "129654",
+            "expansion_name": "Dust Tactics: British Commandos Kill Squad - \"Devil's Own / Legio Patria Nostra\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/129654"
+        },
+        {
+            "expansion_id": "107762",
+            "expansion_name": "Dust Tactics: British Paratroops, 3rd Para Brigade - \"Red Devils\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/107762"
+        },
+        {
+            "expansion_id": "121924",
+            "expansion_name": "Dust Tactics: Building Accessory Pack - \"Warzone Tenement\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/121924"
+        },
+        {
+            "expansion_id": "94979",
+            "expansion_name": "Dust Tactics: Combat Rangers Squad - \"The Gunners\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94979"
+        },
+        {
+            "expansion_id": "146360",
+            "expansion_name": "Dust Tactics: Dust-48 \"Bergeluther\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146360"
+        },
+        {
+            "expansion_id": "152973",
+            "expansion_name": "Dust Tactics: Dust-48 \"Mickey ARV\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/152973"
+        },
+        {
+            "expansion_id": "146357",
+            "expansion_name": "Dust Tactics: Dust-48 \"Recon Mickey\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146357"
+        },
+        {
+            "expansion_id": "219267",
+            "expansion_name": "Dust Tactics: First Sergeant James Murphy - \"Crazy Jimmy\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219267"
+        },
+        {
+            "expansion_id": "219724",
+            "expansion_name": "Dust Tactics: General Erwin Rommel - \"Desert Fox\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219724"
+        },
+        {
+            "expansion_id": "219269",
+            "expansion_name": "Dust Tactics: Gunnery Sergeant Q 'Mack' MacDonald - \"Machette Mack\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219269"
+        },
+        {
+            "expansion_id": "129655",
+            "expansion_name": "Dust Tactics: Heavy Antitank Grenadiers - \"Jagdgrenadiere / Laser-Jagdgrenadiere\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/129655"
+        },
+        {
+            "expansion_id": "106676",
+            "expansion_name": "Dust Tactics: Heavy Assault Walker - \"Punisher / Fireball\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/106676"
+        },
+        {
+            "expansion_id": "146402",
+            "expansion_name": "Dust Tactics: Heavy Destroyer Walker - \"The Six Shooter\" / \"Bulldog\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146402"
+        },
+        {
+            "expansion_id": "106673",
+            "expansion_name": "Dust Tactics: Heavy Panzer Walker - \"Konigs-Luther / Sturm-Konig\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/106673"
+        },
+        {
+            "expansion_id": "98846",
+            "expansion_name": "Dust Tactics: Heavy Ranger Attack Squad -  \"Grim Reapers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98846"
+        },
+        {
+            "expansion_id": "99414",
+            "expansion_name": "Dust Tactics: Heavy Ranger Tank Hunter Squad - \"Tank Busters\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/99414"
+        },
+        {
+            "expansion_id": "108813",
+            "expansion_name": "Dust Tactics: Heavy Rangers Command Squad - \"Corps Officers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108813"
+        },
+        {
+            "expansion_id": "146358",
+            "expansion_name": "Dust Tactics: Horten HO-347 - \"Der Blitz\" / \"Der Adler\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146358"
+        },
+        {
+            "expansion_id": "131999",
+            "expansion_name": "Dust Tactics: Horten HO-347 - \"Fledermaus III / Fledermaus IV\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131999"
+        },
+        {
+            "expansion_id": "218902",
+            "expansion_name": "Dust Tactics: Iron Joe",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218902"
+        },
+        {
+            "expansion_id": "127930",
+            "expansion_name": "Dust Tactics: IS-5 Heavy Tank - \"Mao Zedong / Vladimir Lenin\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127930"
+        },
+        {
+            "expansion_id": "219138",
+            "expansion_name": "Dust Tactics: IS-5C Heavy Assault Tank - \"Iosef Stalin\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219138"
+        },
+        {
+            "expansion_id": "219140",
+            "expansion_name": "Dust Tactics: ISU-203 Heavy Assault Gun - \"Sergei Shtemenko\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219140"
+        },
+        {
+            "expansion_id": "218900",
+            "expansion_name": "Dust Tactics: Ivan The Butcher",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218900"
+        },
+        {
+            "expansion_id": "139966",
+            "expansion_name": "Dust Tactics: Joe vs Sigrid",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/139966"
+        },
+        {
+            "expansion_id": "94548",
+            "expansion_name": "Dust Tactics: Kampf Sturmgrenadieren Squad - \"Battle Grenadiers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94548"
+        },
+        {
+            "expansion_id": "219022",
+            "expansion_name": "Dust Tactics: KV-47B (TSH) Light Gun Walker - \"Natasha\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219022"
+        },
+        {
+            "expansion_id": "219021",
+            "expansion_name": "Dust Tactics: KV-47D (TSH) Light Anti-Tank Walker - \"Nina\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219021"
+        },
+        {
+            "expansion_id": "219018",
+            "expansion_name": "Dust Tactics: KV-47G (TSH) Light Assault Walker - \"Mikhail\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219018"
+        },
+        {
+            "expansion_id": "219011",
+            "expansion_name": "Dust Tactics: KV-47K (TSH) Light Gatling Walker - \"Aleksei\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219011"
+        },
+        {
+            "expansion_id": "219010",
+            "expansion_name": "Dust Tactics: KV-47K (TSH) Light Tesla Walker - \"Anatoly\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219010"
+        },
+        {
+            "expansion_id": "131998",
+            "expansion_name": "Dust Tactics: KV47 Recovery & Demolition Walker - \"Maksim / Marlen / Melor / Mikhail\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131998"
+        },
+        {
+            "expansion_id": "118302",
+            "expansion_name": "Dust Tactics: KV47 Walker - \"Nadya / Natalya / Natasha\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/118302"
+        },
+        {
+            "expansion_id": "94547",
+            "expansion_name": "Dust Tactics: Laser Sturmgrenadiere Squad - \"Laser Grenadiers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94547"
+        },
+        {
+            "expansion_id": "219826",
+            "expansion_name": "Dust Tactics: Leutnant Sammt, Luftwaffe - \"Rolf Samt\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219826"
+        },
+        {
+            "expansion_id": "95621",
+            "expansion_name": "Dust Tactics: Light Assault Walker - \"Wildfire / Honey\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/95621"
+        },
+        {
+            "expansion_id": "95622",
+            "expansion_name": "Dust Tactics: Light Panzer Walker - \"Heinrich / Hermann\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/95622"
+        },
+        {
+            "expansion_id": "219480",
+            "expansion_name": "Dust Tactics: M1D Light Assault Walker Anti-tank - \"Bushmaster\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219480"
+        },
+        {
+            "expansion_id": "219481",
+            "expansion_name": "Dust Tactics: M3A2 Medium Combat Walker \"Mickey (Light)\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219481"
+        },
+        {
+            "expansion_id": "219485",
+            "expansion_name": "Dust Tactics: M3C2 Medium Combat Walker Anti-Tank - \"Pounder (Light)\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219485"
+        },
+        {
+            "expansion_id": "219487",
+            "expansion_name": "Dust Tactics: M3G2 Medium Combat Walker Anti-Tank - \"Barking Dog (Light)\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219487"
+        },
+        {
+            "expansion_id": "219488",
+            "expansion_name": "Dust Tactics: M7D Heavy Assault Walker - \"Devastator\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219488"
+        },
+        {
+            "expansion_id": "219246",
+            "expansion_name": "Dust Tactics: Maintenance Contractors - \"Justine & Co\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219246"
+        },
+        {
+            "expansion_id": "219726",
+            "expansion_name": "Dust Tactics: Major Tina Baumann's - \"Tina & Hyane\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219726"
+        },
+        {
+            "expansion_id": "219268",
+            "expansion_name": "Dust Tactics: Master Sergeant Frank Stone - \"Quiet Jack\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219268"
+        },
+        {
+            "expansion_id": "120535",
+            "expansion_name": "Dust Tactics: MCW M3  Walker - \"Rattler / Rattler-Amp / Cobra / Cobra-Amp\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/120535"
+        },
+        {
+            "expansion_id": "94799",
+            "expansion_name": "Dust Tactics: Medium Assault Walker - \"Hot Dog / Pounder / Steel Rain / Mickey\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94799"
+        },
+        {
+            "expansion_id": "94550",
+            "expansion_name": "Dust Tactics: Medium Panzer Walker - \"Luther / Ludwig / Lothar\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94550"
+        },
+        {
+            "expansion_id": "219243",
+            "expansion_name": "Dust Tactics: Mercenary Heavy Machine Gun Squad - \"Sisters of Mayhem\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219243"
+        },
+        {
+            "expansion_id": "147528",
+            "expansion_name": "Dust Tactics: MIL MI-45K - \"Air Ambulance\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/147528"
+        },
+        {
+            "expansion_id": "219758",
+            "expansion_name": "Dust Tactics: NDAK Battle Grenadier Squad - \"Sand Vipers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219758"
+        },
+        {
+            "expansion_id": "219755",
+            "expansion_name": "Dust Tactics: NDAK Command Grenadier Squad - \"Fox Cubs\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219755"
+        },
+        {
+            "expansion_id": "219754",
+            "expansion_name": "Dust Tactics: NDAK Observer Squad - \"Desert Eagles\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219754"
+        },
+        {
+            "expansion_id": "219752",
+            "expansion_name": "Dust Tactics: NDAK Recon Squad - \"Desert Scorpions\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219752"
+        },
+        {
+            "expansion_id": "219756",
+            "expansion_name": "Dust Tactics: NDAK Security Squad - \"Tomb Cleaners\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219756"
+        },
+        {
+            "expansion_id": "219753",
+            "expansion_name": "Dust Tactics: NDAK Tank-Hunter Grenadier Squad - \"African Lions\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219753"
+        },
+        {
+            "expansion_id": "144827",
+            "expansion_name": "Dust Tactics: Operation \"Achilles\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/144827"
+        },
+        {
+            "expansion_id": "108327",
+            "expansion_name": "Dust Tactics: Operation \"Cerberus\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108327"
+        },
+        {
+            "expansion_id": "95400",
+            "expansion_name": "Dust Tactics: Operation \"Cyclone\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/95400"
+        },
+        {
+            "expansion_id": "127692",
+            "expansion_name": "Dust Tactics: Operation \"Hades\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127692"
+        },
+        {
+            "expansion_id": "131995",
+            "expansion_name": "Dust Tactics: Operation \"Icarus\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131995"
+        },
+        {
+            "expansion_id": "95616",
+            "expansion_name": "Dust Tactics: Operation \"SeeLowe\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/95616"
+        },
+        {
+            "expansion_id": "118303",
+            "expansion_name": "Dust Tactics: Operation \"Zverograd\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/118303"
+        },
+        {
+            "expansion_id": "122022",
+            "expansion_name": "Dust Tactics: Panzer-Kampflaufer III - \"Flamm-Luther / Wotan / Wotan-AR\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/122022"
+        },
+        {
+            "expansion_id": "220086",
+            "expansion_name": "Dust Tactics: PanzerKampfLaufer  IV-F - JagdLoki",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220086"
+        },
+        {
+            "expansion_id": "220025",
+            "expansion_name": "Dust Tactics: Panzerkampflaufer II-C (Flak) - \"Leopold (Trop)\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220025"
+        },
+        {
+            "expansion_id": "220087",
+            "expansion_name": "Dust Tactics: PanzerKampfLaufer IV-E - \"JagdWotan\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220087"
+        },
+        {
+            "expansion_id": "220027",
+            "expansion_name": "Dust Tactics: Panzerkamplaufer II-F - \"Loth (Troop)\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220027"
+        },
+        {
+            "expansion_id": "220023",
+            "expansion_name": "Dust Tactics: Panzerspahlaufer I-D (Laser) - \"Hermann (Troop)\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220023"
+        },
+        {
+            "expansion_id": "220022",
+            "expansion_name": "Dust Tactics: Panzerspahlaufer I-E (Light Flak) - \"Henrich (Trop)\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220022"
+        },
+        {
+            "expansion_id": "97887",
+            "expansion_name": "Dust Tactics: Rangers Command Squad - \"The Boss\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/97887"
+        },
+        {
+            "expansion_id": "98379",
+            "expansion_name": "Dust Tactics: Rangers Observer Squad and Sniper Squad - \"Special Ops Rangers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/98379"
+        },
+        {
+            "expansion_id": "94980",
+            "expansion_name": "Dust Tactics: Recon Rangers Squad - \"Recon Boys\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94980"
+        },
+        {
+            "expansion_id": "127928",
+            "expansion_name": "Dust Tactics: Red Guards Anti-Tank Squad - \"Red Thunder\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127928"
+        },
+        {
+            "expansion_id": "129653",
+            "expansion_name": "Dust Tactics: Red Guards Assault Squad - \"Red Storm\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/129653"
+        },
+        {
+            "expansion_id": "127929",
+            "expansion_name": "Dust Tactics: Red Guards Command Squad - \"Red Command\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/127929"
+        },
+        {
+            "expansion_id": "220088",
+            "expansion_name": "Dust Tactics: Schutzenpanzerlaufer VI-G - \"Stummel\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220088"
+        },
+        {
+            "expansion_id": "107763",
+            "expansion_name": "Dust Tactics: Schwer Sturmgrenadiere Ausf. A - \"Heavy Recon Grenadiers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/107763"
+        },
+        {
+            "expansion_id": "108812",
+            "expansion_name": "Dust Tactics: Schwer-Sturmgrenadiere Command Squad - \"Heavy Kommandotrupp\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/108812"
+        },
+        {
+            "expansion_id": "220089",
+            "expansion_name": "Dust Tactics: Schwerer PanzerKampfLaufer VI-E - KonigsLothar",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220089"
+        },
+        {
+            "expansion_id": "140518",
+            "expansion_name": "Dust Tactics: Schwerer Panzerspahwagen Sd.Kfz.234/1 - \"Nordwind\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/140518"
+        },
+        {
+            "expansion_id": "220170",
+            "expansion_name": "Dust Tactics: SD KFZ 250/3 - \"Kommandowagen\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/220170"
+        },
+        {
+            "expansion_id": "219004",
+            "expansion_name": "Dust Tactics: Spetsnaz Anti-Tank Squad - \"Specialists\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219004"
+        },
+        {
+            "expansion_id": "219001",
+            "expansion_name": "Dust Tactics: Spetsnaz Command Squad - \"Task Force Command\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219001"
+        },
+        {
+            "expansion_id": "219003",
+            "expansion_name": "Dust Tactics: Spetsnaz Kill Squad - \"Killers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219003"
+        },
+        {
+            "expansion_id": "219006",
+            "expansion_name": "Dust Tactics: Spetsnaz Observer Squad - \"Observers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219006"
+        },
+        {
+            "expansion_id": "219005",
+            "expansion_name": "Dust Tactics: Spetsnaz Saboteur Squad - \"Saboteurs\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219005"
+        },
+        {
+            "expansion_id": "118300",
+            "expansion_name": "Dust Tactics: SSU Airborne Transport - \"MIL MI-45 / Chinese Volunteers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/118300"
+        },
+        {
+            "expansion_id": "122020",
+            "expansion_name": "Dust Tactics: SSU Airborne Walker Transport - \"MIL MI-46 / Nastasia / Nikita / Nina\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/122020"
+        },
+        {
+            "expansion_id": "118298",
+            "expansion_name": "Dust Tactics: SSU Battle Squad - \"Frontoviki\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/118298"
+        },
+        {
+            "expansion_id": "137184",
+            "expansion_name": "Dust Tactics: SSU BR-47 Self-Propelled Weapon Platform - \"Red Rain / Red Fury\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/137184"
+        },
+        {
+            "expansion_id": "118299",
+            "expansion_name": "Dust Tactics: SSU Close Combat Squad - \"Fakyeli\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/118299"
+        },
+        {
+            "expansion_id": "118301",
+            "expansion_name": "Dust Tactics: SSU Command Squad - \"The Medvedi\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/118301"
+        },
+        {
+            "expansion_id": "122019",
+            "expansion_name": "Dust Tactics: SSU Commissar Squad - \"Drakoni\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/122019"
+        },
+        {
+            "expansion_id": "146405",
+            "expansion_name": "Dust Tactics: SSU Fortification - Heavy Tesla Bunker / Strongpoint",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146405"
+        },
+        {
+            "expansion_id": "122021",
+            "expansion_name": "Dust Tactics: SSU Ground Attack Helicopter - \"Striker / Burner / Airblaster / Death Rain\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/122021"
+        },
+        {
+            "expansion_id": "133709",
+            "expansion_name": "Dust Tactics: SSU Heavy Weapons Team - \"Red Lightning / Hailstorm\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/133709"
+        },
+        {
+            "expansion_id": "120537",
+            "expansion_name": "Dust Tactics: SSU Hero Pack - \"Nikolai / Yakov / Red Yana\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/120537"
+        },
+        {
+            "expansion_id": "120538",
+            "expansion_name": "Dust Tactics: SSU Rifle Squad - \"Ohotniki\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/120538"
+        },
+        {
+            "expansion_id": "120536",
+            "expansion_name": "Dust Tactics: SSU Specialists - \"Nabludatyel / Jnetzi\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/120536"
+        },
+        {
+            "expansion_id": "218845",
+            "expansion_name": "Dust Tactics: Steel Guard Anti-Tank Squad - \"Steel Thunderbolt\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218845"
+        },
+        {
+            "expansion_id": "217207",
+            "expansion_name": "Dust Tactics: Steel Guard Fire Support Squad - \"Steel  Wall\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/217207"
+        },
+        {
+            "expansion_id": "146403",
+            "expansion_name": "Dust Tactics: Steel Guard NCO Command Squad - \"Heavy Red Command\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146403"
+        },
+        {
+            "expansion_id": "146404",
+            "expansion_name": "Dust Tactics: Steel Guard Sniper Team - \"Silent Death\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146404"
+        },
+        {
+            "expansion_id": "218844",
+            "expansion_name": "Dust Tactics: Steel Guard Tesla Squad - \"Steel Lightning\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218844"
+        },
+        {
+            "expansion_id": "146400",
+            "expansion_name": "Dust Tactics: Steel Guards Assault Squad - \"Red Tornado\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146400"
+        },
+        {
+            "expansion_id": "94551",
+            "expansion_name": "Dust Tactics: Sturmgrenadiere Command Squad - \"Kommandotrupp\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94551"
+        },
+        {
+            "expansion_id": "94552",
+            "expansion_name": "Dust Tactics: Sturmgrenadiere Observer Squad and Sniper Squad - \"Special Ops Grenadiers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/94552"
+        },
+        {
+            "expansion_id": "101789",
+            "expansion_name": "Dust Tactics: Terrain Tile Set",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/101789"
+        },
+        {
+            "expansion_id": "101788",
+            "expansion_name": "Dust Tactics: Unit Card Upgrade Pack",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/101788"
+        },
+        {
+            "expansion_id": "219369",
+            "expansion_name": "Dust Tactics: USMC Anti-tank Squad - \"Hot Shots\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219369"
+        },
+        {
+            "expansion_id": "219366",
+            "expansion_name": "Dust Tactics: USMC Assault Squad - \"Hell Blazers\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219366"
+        },
+        {
+            "expansion_id": "219457",
+            "expansion_name": "Dust Tactics: USMC Command Squad - \"Mustangs\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219457"
+        },
+        {
+            "expansion_id": "219363",
+            "expansion_name": "Dust Tactics: USMC Demolition Squads - \"The Saints\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219363"
+        },
+        {
+            "expansion_id": "146341",
+            "expansion_name": "Dust Tactics: USMC Fire Squad - \"Devil Dogs\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/146341"
+        },
+        {
+            "expansion_id": "219458",
+            "expansion_name": "Dust Tactics: USMC Heavy Engineer Squad - \"Steel Marines\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219458"
+        },
+        {
+            "expansion_id": "131997",
+            "expansion_name": "Dust Tactics: USMC Heavy Weapons Teams - \"The Choppers / Leathernecks\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/131997"
+        },
+        {
+            "expansion_id": "219362",
+            "expansion_name": "Dust Tactics: USMC Observer Squad - \"Artillery Scouts\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219362"
+        },
+        {
+            "expansion_id": "219365",
+            "expansion_name": "Dust Tactics: USMC Recon Squads - \"Force Recon\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219365"
+        },
+        {
+            "expansion_id": "219368",
+            "expansion_name": "Dust Tactics: USMC Rifle Squad - \"Mavericks\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219368"
+        },
+        {
+            "expansion_id": "218901",
+            "expansion_name": "Dust Tactics: Vasily \"Red Banner\" Kiritchenko",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/218901"
+        },
+        {
+            "expansion_id": "219725",
+            "expansion_name": "Dust Tactics: Wermacht Heavy Flame Grenadier Squad - \"Desert Sun\"",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/219725"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "",
+    "categories_string": "Miniatures; Science Fiction; World War II",
+    "mechanics_string": "Action Points; Dice Rolling; Modular Board",
+    "expansions_string": "{'expansion_id': '220163', 'expansion_name': 'Dust 1947: Fallschirm RSO Laserkanone', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220163'}; {'expansion_id': '220165', 'expansion_name': 'Dust 1947: Fallschirm RSO/Flak 3', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220165'}; {'expansion_id': '220164', 'expansion_name': 'Dust 1947: Fallschirm RSO/PAK 40', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220164'}; {'expansion_id': '219828', 'expansion_name': 'Dust 1947: Fallschirmjager Anti-Aircraft Squad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219828'}; {'expansion_id': '219827', 'expansion_name': 'Dust 1947: Fallschirmjager Tank-Hunter Squad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219827'}; {'expansion_id': '218846', 'expansion_name': 'Dust 1947: Guai-Lo Moloi', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218846'}; {'expansion_id': '220168', 'expansion_name': 'Dust 1947: Mobelwagen Ausf. B', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220168'}; {'expansion_id': '220169', 'expansion_name': 'Dust 1947: Panzerkampfwagen IV Ausf. K - \"Panzer IV-K\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220169'}; {'expansion_id': '220162', 'expansion_name': 'Dust 1947: Panzerspahlaufer I-H (Flak) - \"Luft Heinrich\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220162'}; {'expansion_id': '220244', 'expansion_name': 'Dust 1947: Panzerspahlaufer I-K - \"Luft Hans\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220244'}; {'expansion_id': '219830', 'expansion_name': 'Dust 1947: Raketentruppe Battle Squad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219830'}; {'expansion_id': '219264', 'expansion_name': 'Dust 1947: Ranger Attack Squad - \"Death Dealers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219264'}; {'expansion_id': '219266', 'expansion_name': 'Dust 1947: Ranger Attack Squad - \"Hell boys\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219266'}; {'expansion_id': '218847', 'expansion_name': 'Dust 1947: Red Ace & Red Star', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218847'}; {'expansion_id': '218848', 'expansion_name': 'Dust 1947: Steel Guard Battlegroup', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218848'}; {'expansion_id': '219459', 'expansion_name': 'Dust 1947: USMC War Dogs Recon Squad', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219459'}; {'expansion_id': '219825', 'expansion_name': 'Dust Tactics:  NDAK Mortar Squad - \"Sandstorm\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219825'}; {'expansion_id': '139570', 'expansion_name': 'Dust Tactics: \"Nightwatch\" Elite Premium', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139570'}; {'expansion_id': '152974', 'expansion_name': 'Dust Tactics: \"Snow Lynx\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152974'}; {'expansion_id': '131996', 'expansion_name': 'Dust Tactics: Airfield Accessory Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131996'}; {'expansion_id': '146407', 'expansion_name': 'Dust Tactics: Allied Fortification - Field Phaser Bunker / Strongpoint', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146407'}; {'expansion_id': '133706', 'expansion_name': 'Dust Tactics: Allies Heavy Support Walker - \"Long Tom II / Mobile HQ / Skysweeper\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133706'}; {'expansion_id': '110636', 'expansion_name': 'Dust Tactics: Allies Hero Pack - \"Action Jackson / The Priest / Johnny One-Eye\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/110636'}; {'expansion_id': '137186', 'expansion_name': 'Dust Tactics: Allies P-48 Pelican - \"Bellowing Bertie / Diving Dotty\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/137186'}; {'expansion_id': '94978', 'expansion_name': 'Dust Tactics: Assault Rangers Squad - \"BBQ Squad\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94978'}; {'expansion_id': '94549', 'expansion_name': 'Dust Tactics: Aufklarer Sturmgrenadieren Squad - \"Recon Grenadiers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94549'}; {'expansion_id': '130663', 'expansion_name': 'Dust Tactics: Axis Armored Transport - \"Prinzluther / Sturmprinz\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/130663'}; {'expansion_id': '146406', 'expansion_name': 'Dust Tactics: Axis Fortification - Heavy Laser Bunker / Strongpoint', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146406'}; {'expansion_id': '110635', 'expansion_name': 'Dust Tactics: Axis Hero Pack - \"Stefan / Totenmeister / Grenadier X\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/110635'}; {'expansion_id': '133710', 'expansion_name': 'Dust Tactics: Axis Ubertoten Assault Squad - \"Braineaters\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133710'}; {'expansion_id': '137185', 'expansion_name': 'Dust Tactics: Axis Ubertoten Suicide Squad - \"Heilige Tod\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/137185'}; {'expansion_id': '98847', 'expansion_name': 'Dust Tactics: Blutkreuz Korps Kampfaffen Squad - \"Axis Gorillas\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98847'}; {'expansion_id': '99415', 'expansion_name': 'Dust Tactics: Blutkreuz Korps Untertoten Squad - \"Axis Zombies\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99415'}; {'expansion_id': '146401', 'expansion_name': 'Dust Tactics: Blutkreuz Pioneer Squad - \"Sturmaffe\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146401'}; {'expansion_id': '129654', 'expansion_name': 'Dust Tactics: British Commandos Kill Squad - \"Devil\\'s Own / Legio Patria Nostra\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/129654'}; {'expansion_id': '107762', 'expansion_name': 'Dust Tactics: British Paratroops, 3rd Para Brigade - \"Red Devils\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/107762'}; {'expansion_id': '121924', 'expansion_name': 'Dust Tactics: Building Accessory Pack - \"Warzone Tenement\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/121924'}; {'expansion_id': '94979', 'expansion_name': 'Dust Tactics: Combat Rangers Squad - \"The Gunners\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94979'}; {'expansion_id': '146360', 'expansion_name': 'Dust Tactics: Dust-48 \"Bergeluther\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146360'}; {'expansion_id': '152973', 'expansion_name': 'Dust Tactics: Dust-48 \"Mickey ARV\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/152973'}; {'expansion_id': '146357', 'expansion_name': 'Dust Tactics: Dust-48 \"Recon Mickey\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146357'}; {'expansion_id': '219267', 'expansion_name': 'Dust Tactics: First Sergeant James Murphy - \"Crazy Jimmy\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219267'}; {'expansion_id': '219724', 'expansion_name': 'Dust Tactics: General Erwin Rommel - \"Desert Fox\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219724'}; {'expansion_id': '219269', 'expansion_name': 'Dust Tactics: Gunnery Sergeant Q \\'Mack\\' MacDonald - \"Machette Mack\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219269'}; {'expansion_id': '129655', 'expansion_name': 'Dust Tactics: Heavy Antitank Grenadiers - \"Jagdgrenadiere / Laser-Jagdgrenadiere\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/129655'}; {'expansion_id': '106676', 'expansion_name': 'Dust Tactics: Heavy Assault Walker - \"Punisher / Fireball\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/106676'}; {'expansion_id': '146402', 'expansion_name': 'Dust Tactics: Heavy Destroyer Walker - \"The Six Shooter\" / \"Bulldog\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146402'}; {'expansion_id': '106673', 'expansion_name': 'Dust Tactics: Heavy Panzer Walker - \"Konigs-Luther / Sturm-Konig\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/106673'}; {'expansion_id': '98846', 'expansion_name': 'Dust Tactics: Heavy Ranger Attack Squad -  \"Grim Reapers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98846'}; {'expansion_id': '99414', 'expansion_name': 'Dust Tactics: Heavy Ranger Tank Hunter Squad - \"Tank Busters\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/99414'}; {'expansion_id': '108813', 'expansion_name': 'Dust Tactics: Heavy Rangers Command Squad - \"Corps Officers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108813'}; {'expansion_id': '146358', 'expansion_name': 'Dust Tactics: Horten HO-347 - \"Der Blitz\" / \"Der Adler\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146358'}; {'expansion_id': '131999', 'expansion_name': 'Dust Tactics: Horten HO-347 - \"Fledermaus III / Fledermaus IV\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131999'}; {'expansion_id': '218902', 'expansion_name': 'Dust Tactics: Iron Joe', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218902'}; {'expansion_id': '127930', 'expansion_name': 'Dust Tactics: IS-5 Heavy Tank - \"Mao Zedong / Vladimir Lenin\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127930'}; {'expansion_id': '219138', 'expansion_name': 'Dust Tactics: IS-5C Heavy Assault Tank - \"Iosef Stalin\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219138'}; {'expansion_id': '219140', 'expansion_name': 'Dust Tactics: ISU-203 Heavy Assault Gun - \"Sergei Shtemenko\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219140'}; {'expansion_id': '218900', 'expansion_name': 'Dust Tactics: Ivan The Butcher', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218900'}; {'expansion_id': '139966', 'expansion_name': 'Dust Tactics: Joe vs Sigrid', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/139966'}; {'expansion_id': '94548', 'expansion_name': 'Dust Tactics: Kampf Sturmgrenadieren Squad - \"Battle Grenadiers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94548'}; {'expansion_id': '219022', 'expansion_name': 'Dust Tactics: KV-47B (TSH) Light Gun Walker - \"Natasha\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219022'}; {'expansion_id': '219021', 'expansion_name': 'Dust Tactics: KV-47D (TSH) Light Anti-Tank Walker - \"Nina\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219021'}; {'expansion_id': '219018', 'expansion_name': 'Dust Tactics: KV-47G (TSH) Light Assault Walker - \"Mikhail\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219018'}; {'expansion_id': '219011', 'expansion_name': 'Dust Tactics: KV-47K (TSH) Light Gatling Walker - \"Aleksei\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219011'}; {'expansion_id': '219010', 'expansion_name': 'Dust Tactics: KV-47K (TSH) Light Tesla Walker - \"Anatoly\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219010'}; {'expansion_id': '131998', 'expansion_name': 'Dust Tactics: KV47 Recovery & Demolition Walker - \"Maksim / Marlen / Melor / Mikhail\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131998'}; {'expansion_id': '118302', 'expansion_name': 'Dust Tactics: KV47 Walker - \"Nadya / Natalya / Natasha\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/118302'}; {'expansion_id': '94547', 'expansion_name': 'Dust Tactics: Laser Sturmgrenadiere Squad - \"Laser Grenadiers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94547'}; {'expansion_id': '219826', 'expansion_name': 'Dust Tactics: Leutnant Sammt, Luftwaffe - \"Rolf Samt\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219826'}; {'expansion_id': '95621', 'expansion_name': 'Dust Tactics: Light Assault Walker - \"Wildfire / Honey\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/95621'}; {'expansion_id': '95622', 'expansion_name': 'Dust Tactics: Light Panzer Walker - \"Heinrich / Hermann\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/95622'}; {'expansion_id': '219480', 'expansion_name': 'Dust Tactics: M1D Light Assault Walker Anti-tank - \"Bushmaster\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219480'}; {'expansion_id': '219481', 'expansion_name': 'Dust Tactics: M3A2 Medium Combat Walker \"Mickey (Light)\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219481'}; {'expansion_id': '219485', 'expansion_name': 'Dust Tactics: M3C2 Medium Combat Walker Anti-Tank - \"Pounder (Light)\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219485'}; {'expansion_id': '219487', 'expansion_name': 'Dust Tactics: M3G2 Medium Combat Walker Anti-Tank - \"Barking Dog (Light)\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219487'}; {'expansion_id': '219488', 'expansion_name': 'Dust Tactics: M7D Heavy Assault Walker - \"Devastator\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219488'}; {'expansion_id': '219246', 'expansion_name': 'Dust Tactics: Maintenance Contractors - \"Justine & Co\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219246'}; {'expansion_id': '219726', 'expansion_name': 'Dust Tactics: Major Tina Baumann\\'s - \"Tina & Hyane\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219726'}; {'expansion_id': '219268', 'expansion_name': 'Dust Tactics: Master Sergeant Frank Stone - \"Quiet Jack\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219268'}; {'expansion_id': '120535', 'expansion_name': 'Dust Tactics: MCW M3  Walker - \"Rattler / Rattler-Amp / Cobra / Cobra-Amp\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/120535'}; {'expansion_id': '94799', 'expansion_name': 'Dust Tactics: Medium Assault Walker - \"Hot Dog / Pounder / Steel Rain / Mickey\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94799'}; {'expansion_id': '94550', 'expansion_name': 'Dust Tactics: Medium Panzer Walker - \"Luther / Ludwig / Lothar\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94550'}; {'expansion_id': '219243', 'expansion_name': 'Dust Tactics: Mercenary Heavy Machine Gun Squad - \"Sisters of Mayhem\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219243'}; {'expansion_id': '147528', 'expansion_name': 'Dust Tactics: MIL MI-45K - \"Air Ambulance\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/147528'}; {'expansion_id': '219758', 'expansion_name': 'Dust Tactics: NDAK Battle Grenadier Squad - \"Sand Vipers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219758'}; {'expansion_id': '219755', 'expansion_name': 'Dust Tactics: NDAK Command Grenadier Squad - \"Fox Cubs\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219755'}; {'expansion_id': '219754', 'expansion_name': 'Dust Tactics: NDAK Observer Squad - \"Desert Eagles\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219754'}; {'expansion_id': '219752', 'expansion_name': 'Dust Tactics: NDAK Recon Squad - \"Desert Scorpions\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219752'}; {'expansion_id': '219756', 'expansion_name': 'Dust Tactics: NDAK Security Squad - \"Tomb Cleaners\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219756'}; {'expansion_id': '219753', 'expansion_name': 'Dust Tactics: NDAK Tank-Hunter Grenadier Squad - \"African Lions\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219753'}; {'expansion_id': '144827', 'expansion_name': 'Dust Tactics: Operation \"Achilles\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/144827'}; {'expansion_id': '108327', 'expansion_name': 'Dust Tactics: Operation \"Cerberus\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108327'}; {'expansion_id': '95400', 'expansion_name': 'Dust Tactics: Operation \"Cyclone\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/95400'}; {'expansion_id': '127692', 'expansion_name': 'Dust Tactics: Operation \"Hades\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127692'}; {'expansion_id': '131995', 'expansion_name': 'Dust Tactics: Operation \"Icarus\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131995'}; {'expansion_id': '95616', 'expansion_name': 'Dust Tactics: Operation \"SeeLowe\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/95616'}; {'expansion_id': '118303', 'expansion_name': 'Dust Tactics: Operation \"Zverograd\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/118303'}; {'expansion_id': '122022', 'expansion_name': 'Dust Tactics: Panzer-Kampflaufer III - \"Flamm-Luther / Wotan / Wotan-AR\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/122022'}; {'expansion_id': '220086', 'expansion_name': 'Dust Tactics: PanzerKampfLaufer  IV-F - JagdLoki', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220086'}; {'expansion_id': '220025', 'expansion_name': 'Dust Tactics: Panzerkampflaufer II-C (Flak) - \"Leopold (Trop)\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220025'}; {'expansion_id': '220087', 'expansion_name': 'Dust Tactics: PanzerKampfLaufer IV-E - \"JagdWotan\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220087'}; {'expansion_id': '220027', 'expansion_name': 'Dust Tactics: Panzerkamplaufer II-F - \"Loth (Troop)\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220027'}; {'expansion_id': '220023', 'expansion_name': 'Dust Tactics: Panzerspahlaufer I-D (Laser) - \"Hermann (Troop)\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220023'}; {'expansion_id': '220022', 'expansion_name': 'Dust Tactics: Panzerspahlaufer I-E (Light Flak) - \"Henrich (Trop)\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220022'}; {'expansion_id': '97887', 'expansion_name': 'Dust Tactics: Rangers Command Squad - \"The Boss\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/97887'}; {'expansion_id': '98379', 'expansion_name': 'Dust Tactics: Rangers Observer Squad and Sniper Squad - \"Special Ops Rangers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/98379'}; {'expansion_id': '94980', 'expansion_name': 'Dust Tactics: Recon Rangers Squad - \"Recon Boys\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94980'}; {'expansion_id': '127928', 'expansion_name': 'Dust Tactics: Red Guards Anti-Tank Squad - \"Red Thunder\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127928'}; {'expansion_id': '129653', 'expansion_name': 'Dust Tactics: Red Guards Assault Squad - \"Red Storm\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/129653'}; {'expansion_id': '127929', 'expansion_name': 'Dust Tactics: Red Guards Command Squad - \"Red Command\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/127929'}; {'expansion_id': '220088', 'expansion_name': 'Dust Tactics: Schutzenpanzerlaufer VI-G - \"Stummel\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220088'}; {'expansion_id': '107763', 'expansion_name': 'Dust Tactics: Schwer Sturmgrenadiere Ausf. A - \"Heavy Recon Grenadiers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/107763'}; {'expansion_id': '108812', 'expansion_name': 'Dust Tactics: Schwer-Sturmgrenadiere Command Squad - \"Heavy Kommandotrupp\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/108812'}; {'expansion_id': '220089', 'expansion_name': 'Dust Tactics: Schwerer PanzerKampfLaufer VI-E - KonigsLothar', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220089'}; {'expansion_id': '140518', 'expansion_name': 'Dust Tactics: Schwerer Panzerspahwagen Sd.Kfz.234/1 - \"Nordwind\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/140518'}; {'expansion_id': '220170', 'expansion_name': 'Dust Tactics: SD KFZ 250/3 - \"Kommandowagen\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/220170'}; {'expansion_id': '219004', 'expansion_name': 'Dust Tactics: Spetsnaz Anti-Tank Squad - \"Specialists\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219004'}; {'expansion_id': '219001', 'expansion_name': 'Dust Tactics: Spetsnaz Command Squad - \"Task Force Command\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219001'}; {'expansion_id': '219003', 'expansion_name': 'Dust Tactics: Spetsnaz Kill Squad - \"Killers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219003'}; {'expansion_id': '219006', 'expansion_name': 'Dust Tactics: Spetsnaz Observer Squad - \"Observers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219006'}; {'expansion_id': '219005', 'expansion_name': 'Dust Tactics: Spetsnaz Saboteur Squad - \"Saboteurs\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219005'}; {'expansion_id': '118300', 'expansion_name': 'Dust Tactics: SSU Airborne Transport - \"MIL MI-45 / Chinese Volunteers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/118300'}; {'expansion_id': '122020', 'expansion_name': 'Dust Tactics: SSU Airborne Walker Transport - \"MIL MI-46 / Nastasia / Nikita / Nina\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/122020'}; {'expansion_id': '118298', 'expansion_name': 'Dust Tactics: SSU Battle Squad - \"Frontoviki\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/118298'}; {'expansion_id': '137184', 'expansion_name': 'Dust Tactics: SSU BR-47 Self-Propelled Weapon Platform - \"Red Rain / Red Fury\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/137184'}; {'expansion_id': '118299', 'expansion_name': 'Dust Tactics: SSU Close Combat Squad - \"Fakyeli\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/118299'}; {'expansion_id': '118301', 'expansion_name': 'Dust Tactics: SSU Command Squad - \"The Medvedi\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/118301'}; {'expansion_id': '122019', 'expansion_name': 'Dust Tactics: SSU Commissar Squad - \"Drakoni\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/122019'}; {'expansion_id': '146405', 'expansion_name': 'Dust Tactics: SSU Fortification - Heavy Tesla Bunker / Strongpoint', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146405'}; {'expansion_id': '122021', 'expansion_name': 'Dust Tactics: SSU Ground Attack Helicopter - \"Striker / Burner / Airblaster / Death Rain\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/122021'}; {'expansion_id': '133709', 'expansion_name': 'Dust Tactics: SSU Heavy Weapons Team - \"Red Lightning / Hailstorm\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/133709'}; {'expansion_id': '120537', 'expansion_name': 'Dust Tactics: SSU Hero Pack - \"Nikolai / Yakov / Red Yana\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/120537'}; {'expansion_id': '120538', 'expansion_name': 'Dust Tactics: SSU Rifle Squad - \"Ohotniki\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/120538'}; {'expansion_id': '120536', 'expansion_name': 'Dust Tactics: SSU Specialists - \"Nabludatyel / Jnetzi\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/120536'}; {'expansion_id': '218845', 'expansion_name': 'Dust Tactics: Steel Guard Anti-Tank Squad - \"Steel Thunderbolt\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218845'}; {'expansion_id': '217207', 'expansion_name': 'Dust Tactics: Steel Guard Fire Support Squad - \"Steel  Wall\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/217207'}; {'expansion_id': '146403', 'expansion_name': 'Dust Tactics: Steel Guard NCO Command Squad - \"Heavy Red Command\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146403'}; {'expansion_id': '146404', 'expansion_name': 'Dust Tactics: Steel Guard Sniper Team - \"Silent Death\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146404'}; {'expansion_id': '218844', 'expansion_name': 'Dust Tactics: Steel Guard Tesla Squad - \"Steel Lightning\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218844'}; {'expansion_id': '146400', 'expansion_name': 'Dust Tactics: Steel Guards Assault Squad - \"Red Tornado\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146400'}; {'expansion_id': '94551', 'expansion_name': 'Dust Tactics: Sturmgrenadiere Command Squad - \"Kommandotrupp\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94551'}; {'expansion_id': '94552', 'expansion_name': 'Dust Tactics: Sturmgrenadiere Observer Squad and Sniper Squad - \"Special Ops Grenadiers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/94552'}; {'expansion_id': '101789', 'expansion_name': 'Dust Tactics: Terrain Tile Set', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/101789'}; {'expansion_id': '101788', 'expansion_name': 'Dust Tactics: Unit Card Upgrade Pack', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/101788'}; {'expansion_id': '219369', 'expansion_name': 'Dust Tactics: USMC Anti-tank Squad - \"Hot Shots\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219369'}; {'expansion_id': '219366', 'expansion_name': 'Dust Tactics: USMC Assault Squad - \"Hell Blazers\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219366'}; {'expansion_id': '219457', 'expansion_name': 'Dust Tactics: USMC Command Squad - \"Mustangs\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219457'}; {'expansion_id': '219363', 'expansion_name': 'Dust Tactics: USMC Demolition Squads - \"The Saints\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219363'}; {'expansion_id': '146341', 'expansion_name': 'Dust Tactics: USMC Fire Squad - \"Devil Dogs\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/146341'}; {'expansion_id': '219458', 'expansion_name': 'Dust Tactics: USMC Heavy Engineer Squad - \"Steel Marines\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219458'}; {'expansion_id': '131997', 'expansion_name': 'Dust Tactics: USMC Heavy Weapons Teams - \"The Choppers / Leathernecks\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/131997'}; {'expansion_id': '219362', 'expansion_name': 'Dust Tactics: USMC Observer Squad - \"Artillery Scouts\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219362'}; {'expansion_id': '219365', 'expansion_name': 'Dust Tactics: USMC Recon Squads - \"Force Recon\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219365'}; {'expansion_id': '219368', 'expansion_name': 'Dust Tactics: USMC Rifle Squad - \"Mavericks\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219368'}; {'expansion_id': '218901', 'expansion_name': 'Dust Tactics: Vasily \"Red Banner\" Kiritchenko', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/218901'}; {'expansion_id': '219725', 'expansion_name': 'Dust Tactics: Wermacht Heavy Flame Grenadier Squad - \"Desert Sun\"', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/219725'}",
+    "expansions_for_string": ""
+}

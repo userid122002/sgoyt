@@ -1,0 +1,61 @@
+{
+    "game_id": "134269",
+    "game_name": "Combat Commander: Battle Pack #6 - Sea Lion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/134269",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "198923",
+            "geeklist_item_id": "4295284",
+            "year_month": "2015/11",
+            "year": "2015",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/198923/item/4295284#item4295284",
+            "geeklist_host": "rangerx",
+            "contributor": "abendoso"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/KGn1174n3p8nmR5ggkJLtg__thumb/img/BBGta-0zBzftzQfYppx63KILD2Y=/fit-in/200x150/filters:strip_icc()/pic1944513.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Bryan Collars",
+        "Chad Jensen",
+        "Andrew Laws"
+    ],
+    "weight": 2.90,
+    "rating": 8.40,
+    "play_time": "180",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Campaign / Battle Card Driven",
+        "Grid Movement",
+        "Hexagon Grid",
+        "Simulation",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "21050",
+            "game_name": "Combat Commander: Europe",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/21050"
+        },
+        {
+            "game_id": "24124",
+            "game_name": "Combat Commander: Mediterranean",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/24124"
+        }
+    ],
+    "designers_string": "Bryan Collars; Chad Jensen; Andrew Laws",
+    "categories_string": "Expansion for Base-game; Wargame; World War II",
+    "mechanics_string": "Campaign / Battle Card Driven; Grid Movement; Hexagon Grid; Simulation; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '21050', 'game_name': 'Combat Commander: Europe', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/21050'}; {'game_id': '24124', 'game_name': 'Combat Commander: Mediterranean', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/24124'}"
+}

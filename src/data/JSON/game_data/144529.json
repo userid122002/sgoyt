@@ -1,0 +1,62 @@
+{
+    "game_id": "144529",
+    "game_name": "Theseus: The Dark Orbit",
+    "bgg_link": "https://boardgamegeek.com/boardgame/144529",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7762631",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7762631#item7762631",
+            "geeklist_host": "repairmanjack",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/_D-cvKqkz8b20H7wioas8g__thumb/img/m48lbM1d-GyKtTBoRxivFZhbV_8=/fit-in/200x150/filters:strip_icc()/pic1796366.jpg",
+    "year_published": "2013",
+    "designers": [
+        "Micha Oracz"
+    ],
+    "weight": 2.83,
+    "rating": 7.09,
+    "play_time": "45 - 90",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "36",
+    "categories": [
+        "Fighting",
+        "Science Fiction"
+    ],
+    "mechanics": [
+        "Mancala",
+        "Point to Point Movement",
+        "Team-Based Game",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "164931",
+            "expansion_name": "Theseus: The Dark Orbit - Bots",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/164931"
+        },
+        {
+            "expansion_id": "182515",
+            "expansion_name": "Theseus: The Dark Orbit - Hunters",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/182515"
+        },
+        {
+            "expansion_id": "149345",
+            "expansion_name": "Theseus: The Dark Orbit - Space Station Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/149345"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Micha Oracz",
+    "categories_string": "Fighting; Science Fiction",
+    "mechanics_string": "Mancala; Point to Point Movement; Team-Based Game; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '164931', 'expansion_name': 'Theseus: The Dark Orbit - Bots', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/164931'}; {'expansion_id': '182515', 'expansion_name': 'Theseus: The Dark Orbit - Hunters', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/182515'}; {'expansion_id': '149345', 'expansion_name': 'Theseus: The Dark Orbit - Space Station Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/149345'}",
+    "expansions_for_string": ""
+}

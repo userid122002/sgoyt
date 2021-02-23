@@ -1,0 +1,57 @@
+{
+    "game_id": "206944",
+    "game_name": "Russian Railroads: American Railroads",
+    "bgg_link": "https://boardgamegeek.com/boardgame/206944",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "245355",
+            "geeklist_item_id": "6371464",
+            "year_month": "2018/09",
+            "year": "2018",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6371464#item6371464",
+            "geeklist_host": "dobrazil",
+            "contributor": "Dubious Bryn"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/RumWW1OBNFPnwU5KxD81qA__thumb/img/ITkvGmDF7BnbfPl93UW01fSlBNk=/fit-in/200x150/filters:strip_icc()/pic3244264.jpg",
+    "year_published": "2016",
+    "designers": [
+        "Helmut Ohley",
+        "Leonhard \"Lonny\" Orgler"
+    ],
+    "weight": 3.37,
+    "rating": 8.08,
+    "play_time": "90 - 120",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "4",
+    "categories": [
+        "Expansion for Base-game",
+        "Industry / Manufacturing",
+        "Trains"
+    ],
+    "mechanics": [
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "325037",
+            "expansion_name": "Russian Railroads: Manufactory Train",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/325037"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "144733",
+            "game_name": "Russian Railroads",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/144733"
+        }
+    ],
+    "designers_string": "Helmut Ohley; Leonhard \"Lonny\" Orgler",
+    "categories_string": "Expansion for Base-game; Industry / Manufacturing; Trains",
+    "mechanics_string": "Worker Placement",
+    "expansions_string": "{'expansion_id': '325037', 'expansion_name': 'Russian Railroads: Manufactory Train', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/325037'}",
+    "expansions_for_string": "{'game_id': '144733', 'game_name': 'Russian Railroads', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/144733'}"
+}

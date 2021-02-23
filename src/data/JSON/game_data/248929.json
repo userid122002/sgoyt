@@ -1,0 +1,65 @@
+{
+    "game_id": "248929",
+    "game_name": "Viticulture: Visit from the Rhine Valley",
+    "bgg_link": "https://boardgamegeek.com/boardgame/248929",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "255931",
+            "geeklist_item_id": "6955806",
+            "year_month": "2019/05",
+            "year": "2019",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/255931/item/6955806#item6955806",
+            "geeklist_host": "Woelf",
+            "contributor": "abendoso"
+        },
+        {
+            "geeklist_id": "256394",
+            "geeklist_item_id": "6982276",
+            "year_month": "2019/06",
+            "year": "2019",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/256394/item/6982276#item6982276",
+            "geeklist_host": "magic_erwt",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/6v7FUpoL322Yo-xA48s26A__thumb/img/K5R1QVLgXXVwmUgRP4pVZ92yIfM=/fit-in/200x150/filters:strip_icc()/pic4058914.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Tido Lorenz",
+        "Jamey Stegmaier"
+    ],
+    "weight": 3.00,
+    "rating": 8.26,
+    "play_time": "60 - 90",
+    "best": "3",
+    "recommended": "1",
+    "not_recommended": "2",
+    "categories": [
+        "Expansion for Base-game",
+        "Farming"
+    ],
+    "mechanics": [
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "128621",
+            "game_name": "Viticulture",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/128621"
+        },
+        {
+            "game_id": "183394",
+            "game_name": "Viticulture Essential Edition",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/183394"
+        }
+    ],
+    "designers_string": "Tido Lorenz; Jamey Stegmaier",
+    "categories_string": "Expansion for Base-game; Farming",
+    "mechanics_string": "Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '128621', 'game_name': 'Viticulture', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/128621'}; {'game_id': '183394', 'game_name': 'Viticulture Essential Edition', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/183394'}"
+}

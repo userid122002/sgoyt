@@ -1,0 +1,57 @@
+{
+    "game_id": "107576",
+    "game_name": "Stone Age: The Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/107576",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "178963",
+            "geeklist_item_id": "3502955",
+            "year_month": "2014/10",
+            "year": "2014",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178963/item/3502955#item3502955",
+            "geeklist_host": "joestin",
+            "contributor": "splittist"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/2KFqoe0iZ6dq7Tjuh_8xfQ__thumb/img/nmjegvC9BVWnMSI2605R1RXaXc0=/fit-in/200x150/filters:strip_icc()/pic2455648.png",
+    "year_published": "2011",
+    "designers": [
+        "Bernd Brunnhofer"
+    ],
+    "weight": 2.53,
+    "rating": 7.40,
+    "play_time": "60 - 90",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "25",
+    "categories": [
+        "Expansion for Base-game",
+        "Prehistoric"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Set Collection",
+        "Trading",
+        "Worker Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "34635",
+            "game_name": "Stone Age",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/34635"
+        },
+        {
+            "game_id": "260678",
+            "game_name": "Stone Age: Anniversary",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/260678"
+        }
+    ],
+    "designers_string": "Bernd Brunnhofer",
+    "categories_string": "Expansion for Base-game; Prehistoric",
+    "mechanics_string": "Dice Rolling; Set Collection; Trading; Worker Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '34635', 'game_name': 'Stone Age', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/34635'}; {'game_id': '260678', 'game_name': 'Stone Age: Anniversary', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/260678'}"
+}

@@ -1,0 +1,55 @@
+{
+    "game_id": "180236",
+    "game_name": "Zombicide: Black Plague - Deadeye Walkers",
+    "bgg_link": "https://boardgamegeek.com/boardgame/180236",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "227011",
+            "geeklist_item_id": "5501679",
+            "year_month": "2017/07",
+            "year": "2017",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/227011/item/5501679#item5501679",
+            "geeklist_host": "Mishko",
+            "contributor": "Praxus"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/zOBkdcK8tzJxFkl_6fVMKQ__thumb/img/qpRgZnAzHe4tmx5IXO-NXirifE4=/fit-in/200x150/filters:strip_icc()/pic3084763.jpg",
+    "year_published": "2015",
+    "designers": [],
+    "weight": 2.00,
+    "rating": 8.12,
+    "play_time": "60",
+    "best": "2",
+    "recommended": "0",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Fantasy",
+        "Horror",
+        "Miniatures",
+        "Zombies"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling",
+        "Hand Management",
+        "Modular Board",
+        "Variable Player Powers"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "176189",
+            "game_name": "Zombicide: Black Plague",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/176189"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Expansion for Base-game; Fantasy; Horror; Miniatures; Zombies",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling; Hand Management; Modular Board; Variable Player Powers",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '176189', 'game_name': 'Zombicide: Black Plague', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/176189'}"
+}

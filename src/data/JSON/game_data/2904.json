@@ -1,0 +1,93 @@
+{
+    "game_id": "2904",
+    "game_name": "John Prados' Third Reich",
+    "bgg_link": "https://boardgamegeek.com/boardgame/2904",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "197513",
+            "geeklist_item_id": "4240885",
+            "year_month": "2015/10",
+            "year": "2015",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/197513/item/4240885#item4240885",
+            "geeklist_host": "SBGrad",
+            "contributor": "petegs"
+        },
+        {
+            "geeklist_id": "253515",
+            "geeklist_item_id": "7045341",
+            "year_month": "2019/07",
+            "year": "2019",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/253515/item/7045341#item7045341",
+            "geeklist_host": "labrhat22",
+            "contributor": "catosulla"
+        },
+        {
+            "geeklist_id": "262633",
+            "geeklist_item_id": "7332848",
+            "year_month": "2019/11",
+            "year": "2019",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/262633/item/7332848#item7332848",
+            "geeklist_host": "Albia",
+            "contributor": "JLPreiser"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7855945",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7855945#item7855945",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "JLPreiser"
+        }
+    ],
+    "sgoyt_count": 4,
+    "thumbnail": "https://cf.geekdo-images.com/PcBfBZb3cqi9y4ETbPpeQw__thumb/img/c7KYccv2Rso95nHPz4VACiF2i7c=/fit-in/200x150/filters:strip_icc()/pic168409.jpg",
+    "year_published": "2001",
+    "designers": [
+        "Brian L. Knipple"
+    ],
+    "weight": 4.02,
+    "rating": 6.44,
+    "play_time": "360",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "1",
+    "categories": [
+        "Economic",
+        "Wargame",
+        "World War II"
+    ],
+    "mechanics": [
+        "Chit-Pull System",
+        "Dice Rolling",
+        "Hexagon Grid",
+        "Simulation"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "34272",
+            "expansion_name": "Rumors of War",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/34272"
+        },
+        {
+            "expansion_id": "31582",
+            "expansion_name": "Third Reich Deluxe Map",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/31582"
+        },
+        {
+            "expansion_id": "13774",
+            "expansion_name": "Third Reich/Great Pacific War Player's Guide",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/13774"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Brian L. Knipple",
+    "categories_string": "Economic; Wargame; World War II",
+    "mechanics_string": "Chit-Pull System; Dice Rolling; Hexagon Grid; Simulation",
+    "expansions_string": "{'expansion_id': '34272', 'expansion_name': 'Rumors of War', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/34272'}; {'expansion_id': '31582', 'expansion_name': 'Third Reich Deluxe Map', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/31582'}; {'expansion_id': '13774', 'expansion_name': \"Third Reich/Great Pacific War Player's Guide\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/13774'}",
+    "expansions_for_string": ""
+}

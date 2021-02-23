@@ -1,0 +1,71 @@
+{
+    "game_id": "220885",
+    "game_name": "Battle Ravens",
+    "bgg_link": "https://boardgamegeek.com/boardgame/220885",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "258026",
+            "geeklist_item_id": "7063391",
+            "year_month": "2019/08",
+            "year": "2019",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/258026/item/7063391#item7063391",
+            "geeklist_host": "Venom Snake",
+            "contributor": "montrealmovil"
+        },
+        {
+            "geeklist_id": "277289",
+            "geeklist_item_id": "7904460",
+            "year_month": "2020/10",
+            "year": "2020",
+            "month": "10",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/277289/item/7904460#item7904460",
+            "geeklist_host": "Elida",
+            "contributor": "montrealmovil"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/KqVzF5QpUdyi3kjMFo6x1g__thumb/img/v6yiMVRSs-zibVPwBQTKpFgtWEw=/fit-in/200x150/filters:strip_icc()/pic4266286.png",
+    "year_published": "2019",
+    "designers": [
+        "Daniel Mersey"
+    ],
+    "weight": 2.00,
+    "rating": 7.01,
+    "play_time": "45 - 60",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "2",
+    "categories": [
+        "Fighting",
+        "Medieval",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Area Majority / Influence",
+        "Worker Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "278826",
+            "expansion_name": "Battle Ravens: Norman Army",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278826"
+        },
+        {
+            "expansion_id": "278828",
+            "expansion_name": "Battle Ravens: Scottish Army",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278828"
+        },
+        {
+            "expansion_id": "278827",
+            "expansion_name": "Battle Ravens: Welsh Army",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/278827"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Daniel Mersey",
+    "categories_string": "Fighting; Medieval; Wargame",
+    "mechanics_string": "Area Majority / Influence; Worker Placement",
+    "expansions_string": "{'expansion_id': '278826', 'expansion_name': 'Battle Ravens: Norman Army', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278826'}; {'expansion_id': '278828', 'expansion_name': 'Battle Ravens: Scottish Army', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278828'}; {'expansion_id': '278827', 'expansion_name': 'Battle Ravens: Welsh Army', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/278827'}",
+    "expansions_for_string": ""
+}

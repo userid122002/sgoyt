@@ -1,0 +1,64 @@
+{
+    "game_id": "264104",
+    "game_name": "The Castles of Burgundy: 10th Expansion - Solo",
+    "bgg_link": "https://boardgamegeek.com/boardgame/264104",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "249922",
+            "geeklist_item_id": "6637680",
+            "year_month": "2019/01",
+            "year": "2019",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/249922/item/6637680#item6637680",
+            "geeklist_host": "runaway_meeple",
+            "contributor": "ScoobySnacker"
+        },
+        {
+            "geeklist_id": "269654",
+            "geeklist_item_id": "7597535",
+            "year_month": "2020/03",
+            "year": "2020",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/269654/item/7597535#item7597535",
+            "geeklist_host": "jwml",
+            "contributor": "Elida"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/Gnjdi970cnaspvkeQ7O-aw__thumb/img/CKE5Yl91k-JIgEeYw2Tx5VIcCjk=/fit-in/200x150/filters:strip_icc()/pic4383340.jpg",
+    "year_published": "2018",
+    "designers": [
+        "Stefan Feld",
+        "Matthias Nagy"
+    ],
+    "weight": 3.00,
+    "rating": 7.95,
+    "play_time": "30 - 90",
+    "best": "3",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Dice",
+        "Expansion for Base-game",
+        "Medieval",
+        "Territory Building"
+    ],
+    "mechanics": [
+        "Dice Rolling",
+        "Set Collection",
+        "Tile Placement"
+    ],
+    "expansions": [],
+    "expansion_for": [
+        {
+            "game_id": "84876",
+            "game_name": "The Castles of Burgundy",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/84876"
+        }
+    ],
+    "designers_string": "Stefan Feld; Matthias Nagy",
+    "categories_string": "Dice; Expansion for Base-game; Medieval; Territory Building",
+    "mechanics_string": "Dice Rolling; Set Collection; Tile Placement",
+    "expansions_string": "",
+    "expansions_for_string": "{'game_id': '84876', 'game_name': 'The Castles of Burgundy', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/84876'}"
+}

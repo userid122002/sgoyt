@@ -1,0 +1,60 @@
+{
+    "game_id": "257276",
+    "game_name": "Clank! Expeditions: Gold and Silk",
+    "bgg_link": "https://boardgamegeek.com/boardgame/257276",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "251846",
+            "geeklist_item_id": "6818270",
+            "year_month": "2019/03",
+            "year": "2019",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251846/item/6818270#item6818270",
+            "geeklist_host": "Donutz McGoo",
+            "contributor": "threepointthed"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/ClF2CvK7jY4FboOijFVMaQ__thumb/img/EDHjPuMNiYHeITXdAXhquID5XpM=/fit-in/200x150/filters:strip_icc()/pic4248793.png",
+    "year_published": "2018",
+    "designers": [
+        "Tim McKnight"
+    ],
+    "weight": 2.00,
+    "rating": 8.08,
+    "play_time": "30 - 60",
+    "best": "0",
+    "recommended": "2",
+    "not_recommended": "5",
+    "categories": [
+        "Adventure",
+        "Expansion for Base-game",
+        "Fantasy"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Deck, Bag, and Pool Building",
+        "Player Elimination",
+        "Point to Point Movement",
+        "Push Your Luck"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "283292",
+            "expansion_name": "Clank!: Trailblazer",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/283292"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "201808",
+            "game_name": "Clank!: A Deck-Building Adventure",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/201808"
+        }
+    ],
+    "designers_string": "Tim McKnight",
+    "categories_string": "Adventure; Expansion for Base-game; Fantasy",
+    "mechanics_string": "Card Drafting; Deck, Bag, and Pool Building; Player Elimination; Point to Point Movement; Push Your Luck",
+    "expansions_string": "{'expansion_id': '283292', 'expansion_name': 'Clank!: Trailblazer', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/283292'}",
+    "expansions_for_string": "{'game_id': '201808', 'game_name': 'Clank!: A Deck-Building Adventure', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/201808'}"
+}

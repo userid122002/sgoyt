@@ -1,0 +1,72 @@
+{
+    "game_id": "280032",
+    "game_name": "Fossilis",
+    "bgg_link": "https://boardgamegeek.com/boardgame/280032",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "278237",
+            "geeklist_item_id": "7950164",
+            "year_month": "2020/11",
+            "year": "2020",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/278237/item/7950164#item7950164",
+            "geeklist_host": "Albia",
+            "contributor": "MadMihi"
+        },
+        {
+            "geeklist_id": "280864",
+            "geeklist_item_id": "8072893",
+            "year_month": "2021/01",
+            "year": "2021",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/280864/item/8072893#item8072893",
+            "geeklist_host": "Swizze",
+            "contributor": "gentle"
+        },
+        {
+            "geeklist_id": "282453",
+            "geeklist_item_id": "8141870",
+            "year_month": "2021/02",
+            "year": "2021",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8141870#item8141870",
+            "geeklist_host": "ArianneH",
+            "contributor": "PhishBoy"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/rczms2pvajxj5l9Vpo66Hw__thumb/img/-3U6s7tj2ltu-5J6F9lZo2wfH5I=/fit-in/200x150/filters:strip_icc()/pic4754389.png",
+    "year_published": "2020",
+    "designers": [
+        "David Alberto Diaz"
+    ],
+    "weight": 2.20,
+    "rating": 7.57,
+    "play_time": "45 - 60",
+    "best": "1",
+    "recommended": "7",
+    "not_recommended": "1",
+    "categories": [
+        "Exploration",
+        "Prehistoric"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Grid Movement",
+        "Set Collection",
+        "Tile Placement"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "301982",
+            "expansion_name": "Fossilis: 2020 Dice Tower Promo Cards",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/301982"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "David Alberto Diaz",
+    "categories_string": "Exploration; Prehistoric",
+    "mechanics_string": "Action Points; Grid Movement; Set Collection; Tile Placement",
+    "expansions_string": "{'expansion_id': '301982', 'expansion_name': 'Fossilis: 2020 Dice Tower Promo Cards', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/301982'}",
+    "expansions_for_string": ""
+}

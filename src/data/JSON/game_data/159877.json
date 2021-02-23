@@ -1,0 +1,57 @@
+{
+    "game_id": "159877",
+    "game_name": "Hat-Trick",
+    "bgg_link": "https://boardgamegeek.com/boardgame/159877",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "215297",
+            "geeklist_item_id": "5027073",
+            "year_month": "2016/11",
+            "year": "2016",
+            "month": "11",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/215297/item/5027073#item5027073",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "Ibbo"
+        }
+    ],
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/S_AqJ7VQg0x4iE0t6FfW0Q__thumb/img/sH6FA0PgxO6mo0YOX2Msb9IhegQ=/fit-in/200x150/filters:strip_icc()/pic3077001.jpg",
+    "year_published": "2014",
+    "designers": [
+        "Patryk Kowalski"
+    ],
+    "weight": 2.73,
+    "rating": 6.94,
+    "play_time": "40",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Sports"
+    ],
+    "mechanics": [
+        "Grid Movement",
+        "Hand Management",
+        "Simulation",
+        "Simultaneous Action Selection"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "202953",
+            "expansion_name": "Hat-Trick: 'Players' Expansion",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/202953"
+        },
+        {
+            "expansion_id": "285534",
+            "expansion_name": "Hat-Trick: Borussia Dortmund",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/285534"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Patryk Kowalski",
+    "categories_string": "Card Game; Sports",
+    "mechanics_string": "Grid Movement; Hand Management; Simulation; Simultaneous Action Selection",
+    "expansions_string": "{'expansion_id': '202953', 'expansion_name': \"Hat-Trick: 'Players' Expansion\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/202953'}; {'expansion_id': '285534', 'expansion_name': 'Hat-Trick: Borussia Dortmund', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/285534'}",
+    "expansions_for_string": ""
+}

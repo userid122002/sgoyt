@@ -1,0 +1,83 @@
+{
+    "game_id": "299277",
+    "game_name": "Imperial Settlers: Rise of the Empire",
+    "bgg_link": "https://boardgamegeek.com/boardgame/299277",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "274323",
+            "geeklist_item_id": "7782190",
+            "year_month": "2020/07",
+            "year": "2020",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/274323/item/7782190#item7782190",
+            "geeklist_host": "repairmanjack",
+            "contributor": "abrocker"
+        },
+        {
+            "geeklist_id": "275246",
+            "geeklist_item_id": "7795300",
+            "year_month": "2020/08",
+            "year": "2020",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/275246/item/7795300#item7795300",
+            "geeklist_host": "mithoron",
+            "contributor": "abrocker"
+        },
+        {
+            "geeklist_id": "276177",
+            "geeklist_item_id": "7838973",
+            "year_month": "2020/09",
+            "year": "2020",
+            "month": "09",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/276177/item/7838973#item7838973",
+            "geeklist_host": "jgatkinsn",
+            "contributor": "Rindel"
+        }
+    ],
+    "sgoyt_count": 3,
+    "thumbnail": "https://cf.geekdo-images.com/mdUoVlnfKcdY9jjaDH-4ew__thumb/img/EemoVc_JcMTCBphWSqCEO05ef14=/fit-in/200x150/filters:strip_icc()/pic5191901.jpg",
+    "year_published": "2020",
+    "designers": [
+        "Joanna Kijanka"
+    ],
+    "weight": 2.00,
+    "rating": 7.65,
+    "play_time": "45 - 90",
+    "best": "2",
+    "recommended": "2",
+    "not_recommended": "1",
+    "categories": [
+        "Expansion for Base-game",
+        "Ancient",
+        "Card Game",
+        "City Building",
+        "Civilization"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Contracts",
+        "Drafting",
+        "Scenario / Mission / Campaign Game",
+        "Take That",
+        "Variable Player Powers"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "313864",
+            "expansion_name": "Imperial Settlers: Rise of the Empire - Interimperial Organizations Tiles",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/313864"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "154203",
+            "game_name": "Imperial Settlers",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/154203"
+        }
+    ],
+    "designers_string": "Joanna Kijanka",
+    "categories_string": "Expansion for Base-game; Ancient; Card Game; City Building; Civilization",
+    "mechanics_string": "Card Drafting; Contracts; Drafting; Scenario / Mission / Campaign Game; Take That; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '313864', 'expansion_name': 'Imperial Settlers: Rise of the Empire - Interimperial Organizations Tiles', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/313864'}",
+    "expansions_for_string": "{'game_id': '154203', 'game_name': 'Imperial Settlers', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/154203'}"
+}

@@ -1,0 +1,143 @@
+{
+    "game_id": "172637",
+    "game_name": "Hostage Negotiator: Abductor Pack 1",
+    "bgg_link": "https://boardgamegeek.com/boardgame/172637",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "191963",
+            "geeklist_item_id": "3935289",
+            "year_month": "2015/06",
+            "year": "2015",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/191963/item/3935289#item3935289",
+            "geeklist_host": "koinskyz",
+            "contributor": "mikolajl"
+        },
+        {
+            "geeklist_id": "193005",
+            "geeklist_item_id": "4016655",
+            "year_month": "2015/07",
+            "year": "2015",
+            "month": "07",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/193005/item/4016655#item4016655",
+            "geeklist_host": "joestin",
+            "contributor": "joestin"
+        },
+        {
+            "geeklist_id": "194479",
+            "geeklist_item_id": "4060930",
+            "year_month": "2015/08",
+            "year": "2015",
+            "month": "08",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/194479/item/4060930#item4060930",
+            "geeklist_host": "Iz Nibz",
+            "contributor": "mikolajl"
+        },
+        {
+            "geeklist_id": "200203",
+            "geeklist_item_id": "4337835",
+            "year_month": "2015/12",
+            "year": "2015",
+            "month": "12",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/200203/item/4337835#item4337835",
+            "geeklist_host": "mikolajl",
+            "contributor": "SoundCity"
+        },
+        {
+            "geeklist_id": "205877",
+            "geeklist_item_id": "4517909",
+            "year_month": "2016/03",
+            "year": "2016",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/205877/item/4517909#item4517909",
+            "geeklist_host": "pusherman42",
+            "contributor": "CthulhuKid"
+        },
+        {
+            "geeklist_id": "206595",
+            "geeklist_item_id": "4556727",
+            "year_month": "2016/04",
+            "year": "2016",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/206595/item/4556727#item4556727",
+            "geeklist_host": "jdarnold",
+            "contributor": "Lunga"
+        },
+        {
+            "geeklist_id": "222478",
+            "geeklist_item_id": "5259645",
+            "year_month": "2017/03",
+            "year": "2017",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/222478/item/5259645#item5259645",
+            "geeklist_host": "suzyvitale",
+            "contributor": "sixthecat"
+        },
+        {
+            "geeklist_id": "251880",
+            "geeklist_item_id": "6858597",
+            "year_month": "2019/04",
+            "year": "2019",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/251880/item/6858597#item6858597",
+            "geeklist_host": "garyrbrooks",
+            "contributor": "govmiller"
+        },
+        {
+            "geeklist_id": "266487",
+            "geeklist_item_id": "7476467",
+            "year_month": "2020/01",
+            "year": "2020",
+            "month": "01",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7476467#item7476467",
+            "geeklist_host": "jomurph86",
+            "contributor": "HawkAnt"
+        }
+    ],
+    "sgoyt_count": 9,
+    "thumbnail": "https://cf.geekdo-images.com/WrxH4YK5vOSA8AlXWmRIfg__thumb/img/awqoerZEAeUW_h21fGa5NwxJAuA=/fit-in/200x150/filters:strip_icc()/pic5491312.jpg",
+    "year_published": "2015",
+    "designers": [
+        "A. J. Porfirio"
+    ],
+    "weight": 2.17,
+    "rating": 7.19,
+    "play_time": "10 - 30",
+    "best": "3",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Card Game",
+        "Dice",
+        "Expansion for Base-game"
+    ],
+    "mechanics": [
+        "Card Drafting",
+        "Dice Rolling",
+        "Hand Management"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "206423",
+            "expansion_name": "Hostage Negotiator: Demand Pack #1",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/206423"
+        }
+    ],
+    "expansion_for": [
+        {
+            "game_id": "134253",
+            "game_name": "Hostage Negotiator",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/134253"
+        },
+        {
+            "game_id": "198707",
+            "game_name": "Hostage Negotiator: Crime Wave",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/198707"
+        }
+    ],
+    "designers_string": "A. J. Porfirio",
+    "categories_string": "Card Game; Dice; Expansion for Base-game",
+    "mechanics_string": "Card Drafting; Dice Rolling; Hand Management",
+    "expansions_string": "{'expansion_id': '206423', 'expansion_name': 'Hostage Negotiator: Demand Pack #1', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/206423'}",
+    "expansions_for_string": "{'game_id': '134253', 'game_name': 'Hostage Negotiator', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/134253'}; {'game_id': '198707', 'game_name': 'Hostage Negotiator: Crime Wave', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/198707'}"
+}

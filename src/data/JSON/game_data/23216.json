@@ -1,0 +1,72 @@
+{
+    "game_id": "23216",
+    "game_name": "Tusk",
+    "bgg_link": "https://boardgamegeek.com/boardgame/23216",
+    "sgoyt_entries": [
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7711022",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7711022#item7711022",
+            "geeklist_host": "Elida",
+            "contributor": "reverendunclebastard"
+        },
+        {
+            "geeklist_id": "273040",
+            "geeklist_item_id": "7711030",
+            "year_month": "2020/06",
+            "year": "2020",
+            "month": "06",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/273040/item/7711030#item7711030",
+            "geeklist_host": "Elida",
+            "contributor": "reverendunclebastard"
+        }
+    ],
+    "sgoyt_count": 2,
+    "thumbnail": "https://cf.geekdo-images.com/uwoKnvArIITUfVIu8zRNRg__thumb/img/PiidVdMPoe1qs9J8OtZpRgZC7_U=/fit-in/200x150/filters:strip_icc()/pic1458252.png",
+    "year_published": "1994",
+    "designers": [
+        "Matthew Hartley"
+    ],
+    "weight": 1.00,
+    "rating": 7.39,
+    "play_time": "10",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "0",
+    "categories": [
+        "Adventure",
+        "Animals",
+        "Dice",
+        "Fighting",
+        "Miniatures",
+        "Prehistoric",
+        "Science Fiction",
+        "Wargame"
+    ],
+    "mechanics": [
+        "Action Points",
+        "Cooperative Game",
+        "Dice Rolling"
+    ],
+    "expansions": [
+        {
+            "expansion_id": "300360",
+            "expansion_name": "Steel Tusk III: Apocalypse Soon",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/300360"
+        },
+        {
+            "expansion_id": "300359",
+            "expansion_name": "Tusk II:  The Wrath of Kong",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/300359"
+        }
+    ],
+    "expansion_for": [],
+    "designers_string": "Matthew Hartley",
+    "categories_string": "Adventure; Animals; Dice; Fighting; Miniatures; Prehistoric; Science Fiction; Wargame",
+    "mechanics_string": "Action Points; Cooperative Game; Dice Rolling",
+    "expansions_string": "{'expansion_id': '300360', 'expansion_name': 'Steel Tusk III: Apocalypse Soon', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/300360'}; {'expansion_id': '300359', 'expansion_name': 'Tusk II:  The Wrath of Kong', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/300359'}",
+    "expansions_for_string": ""
+}
