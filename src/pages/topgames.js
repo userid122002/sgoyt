@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 import Layout from "../components/layout"
 
 export default function TopGames( {data} ) {
-    const game_data = data.allGameIndexCsv.nodes.sort(compare).slice(0,25)
+    const game_data = data.allGameDataJson.nodes.slice(0,25)
     return (
         <Layout>
             <SEO title="Top Games"></SEO>
@@ -14,9 +14,9 @@ export default function TopGames( {data} ) {
                 return (
                     
                         <tr>
-                            <td>{data_item.game}</td>
-                            <td>{data_item.count}</td>
-                            <td><a href={data_item.bgglink} target="_blank" rel="noreferrer">[bgg]</a></td>
+                            <td>{data_item.game_name}</td>
+                            <td>{data_item.sgoyt_count}</td>
+                            <td><a href={data_item.bgg_link} target="_blank" rel="noreferrer">[bgg]</a></td>
                         </tr>
                 )
             })}
@@ -25,30 +25,15 @@ export default function TopGames( {data} ) {
     )
 }
 
-export function compare(a, b) {
-    const countA = parseInt(a.count, 10)
-    const countB = parseInt(b.count, 10)
-
-    let comparison = 0
-    if (countA > countB) {
-        comparison = 1
-    }
-    else if (countA < countB) {
-        comparison = -1
-    }
-    return comparison * -1
-}
-
-
 export const query = graphql`
-query {
-  allGameIndexCsv {
-    nodes {
-      count
-      bgglink
-      game
-      gameid
+  query {
+    allGameDataJson(sort: {fields: sgoyt_count, order: DESC}) {
+      nodes {
+        game_id
+        game_name
+        bgg_link
+        sgoyt_count
+      }
     }
   }
-}
 `

@@ -4,19 +4,19 @@ import { Link } from "gatsby"
 
 export default function YearMonthIndexGrid( {data} ) {
     const columns = [
-        { field: 'yearmonth', headerName: "Year/Month", width: 200 },
-        { field: 'yearmonthpage', headerName: "Details", width: 120, filterable: false, sortable: false, renderCell: (params) => (params.value) },
-        { field: 'bgglink', headerName: "BGG", width: 120, filterable: false, sortable: false, renderCell: (params) => (params.value) },
+        { field: 'year_month', headerName: "Year/Month", width: 200 },
+        { field: 'year_month_page', headerName: "Details", width: 120, filterable: false, sortable: false, renderCell: (params) => (params.value) },
+        { field: 'bgg_link', headerName: "BGG", width: 120, filterable: false, sortable: false, renderCell: (params) => (params.value) },
         { field: 'id', headerName: "ID", hide: true },
     ]
     const rows = []
     data.forEach(function(data_item) {
         rows.push(
             {
-                'yearmonth': data_item.yearmonth,
-                'yearmonthpage': <Link to={"/yearmonthdetails/?geeklistid=" + data_item.geeklistid}>[details]</Link>,
-                'bgglink': <a href={data_item.geeklistlink} target="_blank" rel="noreferrer">[bgg]</a>,
-                'id': data_item.geeklistid,
+                'year_month': data_item.year_month,
+                'year_month_page': <Link to={"/yearmonthdetails/?geeklistid=" + data_item.geeklist_id}>[details]</Link>,
+                'bgg_link': <a href={data_item.geeklist_link} target="_blank" rel="noreferrer">[bgg]</a>,
+                'id': data_item.geeklist_id,
             }
         )
     })

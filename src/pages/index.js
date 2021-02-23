@@ -18,18 +18,18 @@ export default function Index( {data} ) {
         <Collapsible trigger="Search Games by Mechanic"><MechanicsIndexGrid data={data.allGameDataJson.nodes}></MechanicsIndexGrid></Collapsible>
         <Collapsible trigger="Search Games by Category"><CategoriesIndexGrid data={data.allGameDataJson.nodes}></CategoriesIndexGrid></Collapsible>
         <Collapsible trigger="Search Games by Designer"><DesignersIndexGrid data={data.allGameDataJson.nodes}></DesignersIndexGrid></Collapsible>
-        <Collapsible trigger="Search Geeklists by Year/Month"><YearMonthIndexGrid data={data.allYearmonthIndexCsv.nodes}></YearMonthIndexGrid></Collapsible>
+        <Collapsible trigger="Search Geeklists by Year/Month"><YearMonthIndexGrid data={data.allYearMonthDataJson.nodes}></YearMonthIndexGrid></Collapsible>
     </Layout>
   )
 }
 
 export const query = graphql`
     query {
-      allYearmonthIndexCsv (sort: {fields: yearmonth, order: DESC}) {
+      allYearMonthDataJson (sort: {fields: year_month, order: DESC}) {
         nodes {
-          geeklistid
-          yearmonth
-          geeklistlink
+          geeklist_id
+          geeklist_link
+          year_month
         }
       },
       allGameDataJson (sort: {fields: game_name}) {

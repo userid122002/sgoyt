@@ -681,21 +681,54 @@ class BggClient():
                 json.dump(all_games[game_id], write_file, indent=4)
         
     
-    def create_yearmonth_index_json(self):
+    def create_yearmonth_data_json(self):
         year_month_list = []
         for geeklist_id in self.geeklist_month_mapping:
             year_month = '{0}/{1}'.format(self.geeklist_month_mapping[geeklist_id]['Year'], self.geeklist_month_mapping[geeklist_id]['Month'])
+            year = self.geeklist_month_mapping[geeklist_id]['Year']
+            month = self.geeklist_month_mapping[geeklist_id]['Month']
             geeklist_link = '{0}/geeklist/{1}'.format(self.base_url, geeklist_id)
+            file_path = os.path.join(self.sgoyt_geeklist_xml_output_dir, '{0}.xml'.format(geeklist_id))
+            tree = ET.parse(file_path)
+            root = tree.getroot()
+            geeklist_host = root.find('username').text
+            sgoyt_entries = []
+            for item in root.findall('./item'):
+                if item.attrib['subtype'] == 'boardgame':
+                    game_id = item.attrib['objectid']
+                    game_name = self._replace_text(item.attrib['objectname'])
+                    game_name = unicodedata.normalize('NFD', game_name).encode('ascii', 'ignore').decode()
+                    game_bgg_link = '{0}/boardgame/{1}'.format(self.base_url, game_id)
+                    geeklist_item_id = item.attrib['id']
+                    geeklist_item_link = '{0}/geeklist/{1}/item/{2}#item{2}'.format(self.base_url, geeklist_id, geeklist_item_id)
+                    contributor = item.attrib['username']
+                    sgoyt_entry = {
+                        'geeklist_id': geeklist_id,
+                        'geeklist_item_id': geeklist_item_id,
+                        'year_month': year_month,
+                        'year': year,
+                        'month': month,
+                        'geeklist_item_link': geeklist_item_link,
+                        'geeklist_host': geeklist_host,
+                        'contributor': contributor,
+                        'game_name': game_name,
+                        'game_id': game_id,
+                        'game_bgg_link': game_bgg_link
+                    }
+                    sgoyt_entries.append(sgoyt_entry)
             year_month_list.append(
                 {
                     'geeklist_id': geeklist_id,
                     'year_month': year_month,
-                    'geeklist_link': geeklist_link
+                    'geeklist_link': geeklist_link,
+                    'geeklist_host': geeklist_host,
+                    'sgoyt_entries': sgoyt_entries
                 }
             )
-        output_file = os.path.join(self.yearmonth_json_output_dir, 'yearmonth_index.json')
-        with open(output_file, 'w') as write_file:
-            json.dump(year_month_list, write_file, indent=4)
+        for item in year_month_list:
+            output_file = os.path.join(self.yearmonth_json_output_dir, '{0}.json'.format(item['geeklist_id']))
+            with open(output_file, 'w') as write_file:
+                json.dump(item, write_file, indent=4)
     
 
     def _convert_array_to_string(self, array, delimiter=';'):

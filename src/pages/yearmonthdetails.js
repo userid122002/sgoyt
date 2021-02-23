@@ -8,20 +8,15 @@ import withLocation from "../components/withLocation"
 
 function YearMonth( {data, search} ) {
     const { geeklistid } =  search
-    const game_data = data.allSgoytCsv.nodes.filter(n => n.geeklistid === geeklistid)
-    const yearemonth_data = data.allYearmonthIndexCsv.nodes.filter(n => n.geeklistid === geeklistid)
-    let yearmonth = ""
-    let host = ""
-    yearemonth_data.forEach(function(data_item) {
-        yearmonth = data_item.yearmonth
+    const filtered_data = data.allYearMonthDataJson.nodes.filter(n => n.geeklist_id === geeklistid)
+    let sgoyt_data = {}
+    filtered_data.forEach(function(data_item) {
+        sgoyt_data = data_item
     })
-    game_data.forEach(function(data_item) {
-        host = data_item.geeklisthost
-    }) 
     return (
         <Layout>
-            <SEO title={yearmonth}></SEO>
-            <YearMonthPage data={game_data} yearmonth={yearmonth} host={host}></YearMonthPage>
+            <SEO title={sgoyt_data.year_month}></SEO>
+            <YearMonthPage data={sgoyt_data}></YearMonthPage>
         </Layout>
     )
 }
@@ -33,27 +28,27 @@ YearMonth.propTypes = {
 export default withLocation(YearMonth)
 
 export const query = graphql`
-    query {
-        allYearmonthIndexCsv {
-            nodes {
-                geeklistid
-                yearmonth
-                geeklistlink
-            }
-            totalCount
+  query {
+    allYearMonthDataJson {
+        nodes {
+          geeklist_host
+          geeklist_id
+          geeklist_link
+          year_month
+          sgoyt_entries {
+            contributor
+            game_bgg_link
+            game_id
+            game_name
+            geeklist_host
+            geeklist_id
+            geeklist_item_id
+            geeklist_item_link
+            month
+            year
+            year_month
+          }
         }
-        allSgoytCsv(sort: {fields: rownum, order: DESC}) {
-            nodes {
-                game
-                gameid
-                geeklisthost
-                geeklistitem
-                rownum
-                user
-                yearmonth
-                geeklistid
-            }
-            totalCount
-        }
-    }
+      }
+  }
 `
