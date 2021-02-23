@@ -27,6 +27,7 @@ module.exports = {
         delimiter: '###'
       }
     },
+    `gatsby-transformer-json`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
