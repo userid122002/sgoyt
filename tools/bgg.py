@@ -537,6 +537,7 @@ class BggClient():
             month = self.geeklist_month_mapping[geeklist_id]['Month']
             year_month = '{0}/{1}'.format(year, month)
             geeklist_host = root.find('username').text
+            geeklist_sgoyt_count_key = 'sgoyt_count_{0}'.format(geeklist_id)
             for item in root.findall('./item'):
                 if item.attrib['subtype'] == 'boardgame':
                     game_id = item.attrib['objectid']
@@ -547,9 +548,11 @@ class BggClient():
                         all_games[game_id] = {
                             'game_id': game_id,
                             'game_name': game_name,
-                            'bgg_link': bgg_link,
+                            'bgg_link': bgg_link
                         }
                         all_games[game_id]['sgoyt_entries'] = []
+                    if geeklist_sgoyt_count_key not in all_games[game_id]:
+                        all_games[game_id][geeklist_sgoyt_count_key] = 0
                     geeklist_item_id = item.attrib['id']
                     geeklist_item_link = '{0}/geeklist/{1}/item/{2}#item{2}'.format(self.base_url, geeklist_id, geeklist_item_id)
                     contributor = item.attrib['username']
@@ -564,8 +567,13 @@ class BggClient():
                         'contributor': contributor
                     }
                     all_games[game_id]['sgoyt_entries'].append(sgoyt_entry)
+                    all_games[game_id][geeklist_sgoyt_count_key] += 1
         
         for game_id in all_games:
+            for filename in os.listdir(self.sgoyt_geeklist_xml_output_dir):
+                geeklist_sgoyt_count_key = 'sgoyt_count_{0}'.format(filename.replace('.xml', ''))
+                if geeklist_sgoyt_count_key not in all_games[game_id]:
+                    all_games[game_id][geeklist_sgoyt_count_key] = 0
             result_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(game_id))
             if os.path.exists(result_file) is False:
                 print('Processing game_id {0}...'.format(game_id))
