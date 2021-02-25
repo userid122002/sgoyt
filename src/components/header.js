@@ -28,11 +28,11 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
       <nav>
-        <tr>
+        <table><tbody><tr>
             <td><Link to="/" style={{ color: `white`, textDecoration: `none` }}>Game Index</Link></td>
             <td><Link to="/topgames" style={{ color: `white`, textDecoration: `none`}}>Top Games</Link></td>
             <td><Link to="/about" style={{ color: `white`, textDecoration: `none`}}>About</Link></td>
-        </tr>
+        </tr></tbody></table>
       </nav>
     </div>
   </header>

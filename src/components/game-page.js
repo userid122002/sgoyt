@@ -54,7 +54,7 @@ export default function GamePage( {data} ) {
                     return (
                         <tr>
                             <td><p>{expansion.expansion_name}</p></td>
-                            <td> <p><Link to={"/gamedetails/?gameid=" + expansion.expansion_id} target="_blank" rel="noreferrer">[details]</Link></p></td>
+                            <td> <p><Link to={"/gamedetails/?gameid=" + expansion.expansion_id}>[details]</Link></p></td>
                             <td><p><a href={expansion.expansion_bgg_link} target="_blank" rel="noreferrer">[bgg]</a></p></td>
                         </tr>
                     )
@@ -71,7 +71,7 @@ export default function GamePage( {data} ) {
                             <td padding-top='20px'
                                 padding-bottom='20px'
                                 padding-right='20px'>
-                                <p><Link to={"/gamedetails/?gameid=" + expansion_for.game_id} target="_blank" rel="noreferrer">[details]</Link></p>
+                                <p><Link to={"/gamedetails/?gameid=" + expansion_for.game_id}>[details]</Link></p>
                             </td>
                             <td padding-top='20px'
                                 padding-bottom='20px'
