@@ -5,12 +5,13 @@ import SEO from "../components/seo"
 import Layout from "../components/layout"
 
 export default function TopGames( {data} ) {
-    const game_data = data.allGameDataJson.nodes.slice(0,25)
+    const top_game_data = data.allGameDataJson.nodes.slice(0,25)
+    const geeklist_data = data.allYearMonthDataJson.nodes
     return (
         <Layout>
             <SEO title="Top Games"></SEO>
             <Collapsible trigger="Top 25 Games - All Time">
-            {game_data.map(function(data_item) {
+            {top_game_data.map(function(data_item) {
                 return (
                     <tr>
                         <td>{data_item.game_name}</td>
@@ -20,7 +21,7 @@ export default function TopGames( {data} ) {
                 )
             })}
             </Collapsible>
-            {data.allYearMonthDataJson.nodes.map(function(data_item) {
+            {geeklist_data.map(function(data_item) {
                 let geeklist_id = data_item.geeklist_id
                 let year_month = data_item.year_month
                 let collapsible_trigger = "Top 25 Games - " + year_month
