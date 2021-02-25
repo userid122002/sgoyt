@@ -29,7 +29,6 @@ export default function TopGames( {data} ) {
                 return (
                     <Collapsible trigger={collapsible_trigger}>
                         {ordered_data.map(function(ordered_data_item) {
-                            console.log(ordered_data_item[count_key])
                             return (
                                 <tr>
                                     <td>{ordered_data_item.game_name}</td>
