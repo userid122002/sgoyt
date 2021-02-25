@@ -1,41 +1,19 @@
 {
-    "game_id": "2921",
-    "game_name": "The Game of Life",
-    "bgg_link": "https://boardgamegeek.com/boardgame/2921",
+    "game_id": "274960",
+    "game_name": "Point Salad",
+    "bgg_link": "https://boardgamegeek.com/boardgame/274960",
     "sgoyt_entries": [
         {
-            "geeklist_id": "245355",
-            "geeklist_item_id": "6418006",
-            "year_month": "2018/09",
-            "year": "2018",
-            "month": "09",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/245355/item/6418006#item6418006",
-            "geeklist_host": "dobrazil",
-            "contributor": "Mishko"
-        },
-        {
-            "geeklist_id": "266487",
-            "geeklist_item_id": "7410547",
-            "year_month": "2020/01",
-            "year": "2020",
-            "month": "01",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/266487/item/7410547#item7410547",
-            "geeklist_host": "jomurph86",
-            "contributor": "jomurph86"
-        },
-        {
             "geeklist_id": "282453",
-            "geeklist_item_id": "8158597",
+            "geeklist_item_id": "8158773",
             "year_month": "2021/02",
             "year": "2021",
             "month": "02",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8158597#item8158597",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8158773#item8158773",
             "geeklist_host": "ArianneH",
-            "contributor": "CassiusClay"
+            "contributor": "montrealmovil"
         }
     ],
-    "sgoyt_count_245355": 1,
-    "sgoyt_count_266487": 1,
     "sgoyt_count_282453": 1,
     "sgoyt_count_156765": 0,
     "sgoyt_count_157888": 0,
@@ -100,6 +78,7 @@
     "sgoyt_count_241745": 0,
     "sgoyt_count_242306": 0,
     "sgoyt_count_244471": 0,
+    "sgoyt_count_245355": 0,
     "sgoyt_count_246401": 0,
     "sgoyt_count_247302": 0,
     "sgoyt_count_249922": 0,
@@ -114,6 +93,7 @@
     "sgoyt_count_262008": 0,
     "sgoyt_count_262319": 0,
     "sgoyt_count_262633": 0,
+    "sgoyt_count_266487": 0,
     "sgoyt_count_268583": 0,
     "sgoyt_count_269654": 0,
     "sgoyt_count_270349": 0,
@@ -126,32 +106,32 @@
     "sgoyt_count_278237": 0,
     "sgoyt_count_279491": 0,
     "sgoyt_count_280864": 0,
-    "sgoyt_count": 3,
-    "thumbnail": "https://cf.geekdo-images.com/c4S2XDRb_DCYCAV-ZAzDpg__thumb/img/tAejWvDTc-mXjX2euOrJwaXP2Y8=/fit-in/200x150/filters:strip_icc()/pic288405.jpg",
-    "year_published": "1960",
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__thumb/img/1gKeE2_50dXcL03gH3cEU-Ixj6c=/fit-in/200x150/filters:strip_icc()/pic4621571.png",
+    "year_published": "2019",
     "designers": [
-        "Reuben Klamer",
-        "Bill Markham"
+        "Molly Johnson",
+        "Robert Melvin",
+        "Shawn Stankewich"
     ],
-    "weight": 1.18,
-    "rating": 4.30,
-    "play_time": "60",
-    "best": "8",
-    "recommended": "2",
-    "not_recommended": "60",
+    "weight": 1.15,
+    "rating": 7.33,
+    "play_time": "15 - 30",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "68",
     "categories": [
-        "Children's Game",
-        "Economic"
+        "Card Game"
     ],
     "mechanics": [
-        "Roll / Spin and Move",
-        "Simulation"
+        "Card Drafting",
+        "Set Collection"
     ],
     "expansions": [],
     "expansion_for": [],
-    "designers_string": "Reuben Klamer; Bill Markham",
-    "categories_string": "Children's Game; Economic",
-    "mechanics_string": "Roll / Spin and Move; Simulation",
+    "designers_string": "Molly Johnson; Robert Melvin; Shawn Stankewich",
+    "categories_string": "Card Game",
+    "mechanics_string": "Card Drafting; Set Collection",
     "expansions_string": "",
     "expansions_for_string": ""
 }
