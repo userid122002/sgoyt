@@ -4,3 +4,4 @@ rownum###date###summary
 3###2021/02/19###Added more details to game page. Implemented ability to search for games by category, mechanic, and designer.
 4###2021/02/20###Added expansion information to game details section.
 5###2021/02/23###Convert most csv data to json format.
+6###2021/02/25###Add top 25 games for each geeklist
