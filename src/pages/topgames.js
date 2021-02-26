@@ -45,14 +45,14 @@ export default function TopGames( {data} ) {
     )
 }
 
-function sort_by_key(array, key, order = 1)
-{
- return array.sort(function(a, b)
- {
-  var x = a[key]; var y = b[key]
-  return order*((x < y) ? -1 : ((x > y) ? 1 : 0))
- })
-}
+// function sort_by_key(array, key, order = 1)
+// {
+//  return array.sort(function(a, b)
+//  {
+//   var x = a[key]; var y = b[key]
+//   return order*((x < y) ? -1 : ((x > y) ? 1 : 0))
+//  })
+// }
 
 export const query = graphql`
   query {

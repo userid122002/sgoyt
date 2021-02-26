@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/sologames`,
+  pathPrefix: process.env.PREFIX,
   siteMetadata: {
     title: `Solo Games`,
     description: `Aggregates data from the BGG Solitaire Games on Your Table geeklists.`,
