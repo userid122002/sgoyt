@@ -8,15 +8,19 @@ export default function History( {data} ) {
         <Layout>
             <SEO title="History"></SEO>
             <h1>Update history</h1>
+            <table table-layout='fixed' width='100%'>
+            <tbody>
             {data.allHistoryCsv.nodes.map(function(data_item) {
                 return (
                     <tr>
-                        <td padding-top='20px'
+                        <td width='15%'
+                            padding-top='20px'
                             padding-bottom='20px'
                             padding-right='20px'>
                             {data_item.date}
                         </td>
-                        <td padding-top='20px'
+                        <td width='50%'
+                            padding-top='20px'
                             padding-bottom='20px'
                             padding-right='20px'>
                             {data_item.summary}
@@ -24,6 +28,8 @@ export default function History( {data} ) {
                     </tr>
                 )
             })}
+            </tbody>
+            </table>
         </Layout>
     )
 }
