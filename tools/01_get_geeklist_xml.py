@@ -1,5 +1,6 @@
 import bgg
 
 bg = bgg.BggClient()
+d = bgg.CurrentDate()
 bg.get_geeklist_items()
-bg.create_current_date_csv()
+d.create_current_date_csv()

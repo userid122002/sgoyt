@@ -1,41 +1,20 @@
 {
-    "game_id": "328326",
-    "game_name": "Fleet: The Dice Game (Second Edition)",
-    "bgg_link": "https://boardgamegeek.com/boardgame/328326",
+    "game_id": "161297",
+    "game_name": "Paradox",
+    "bgg_link": "https://boardgamegeek.com/boardgame/161297",
     "sgoyt_entries": [
         {
             "geeklist_id": "281198",
-            "geeklist_item_id": "8165447",
+            "geeklist_item_id": "8164915",
             "year_month": "2021/03",
             "year": "2021",
             "month": "03",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8165447#item8165447",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8164915#item8164915",
             "geeklist_host": "montrealmovil",
-            "contributor": "talzaroff"
-        },
-        {
-            "geeklist_id": "282453",
-            "geeklist_item_id": "8140609",
-            "year_month": "2021/02",
-            "year": "2021",
-            "month": "02",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8140609#item8140609",
-            "geeklist_host": "ArianneH",
-            "contributor": "Swizze"
-        },
-        {
-            "geeklist_id": "282453",
-            "geeklist_item_id": "8162521",
-            "year_month": "2021/02",
-            "year": "2021",
-            "month": "02",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/282453/item/8162521#item8162521",
-            "geeklist_host": "ArianneH",
-            "contributor": "talzaroff"
+            "contributor": "skyzero"
         }
     ],
     "sgoyt_count_281198": 1,
-    "sgoyt_count_282453": 2,
     "sgoyt_count_156765": 0,
     "sgoyt_count_157888": 0,
     "sgoyt_count_158763": 0,
@@ -127,39 +106,34 @@
     "sgoyt_count_278237": 0,
     "sgoyt_count_279491": 0,
     "sgoyt_count_280864": 0,
-    "sgoyt_count": 3,
-    "thumbnail": "https://cf.geekdo-images.com/vvJm9hDRy0YMID0b3Hk5-Q__thumb/img/33cSp58aXHysI_E9sh1evNdxwQY=/fit-in/200x150/filters:strip_icc()/pic5577942.png",
-    "year_published": "2020",
+    "sgoyt_count_282453": 0,
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/36PPHNsFtHbJPDM4G9buug__thumb/img/15BwUi7k_C4j2bhaH47n5cCuQHY=/fit-in/200x150/filters:strip_icc()/pic2555713.png",
+    "year_published": "2016",
     "designers": [
-        "Ben Pinchback",
-        "Matt Riddle"
+        "Brian Suhre"
     ],
-    "weight": 0.00,
-    "rating": 8.12,
-    "play_time": "30 - 45",
-    "best": "1",
-    "recommended": "0",
+    "weight": 2.47,
+    "rating": 7.10,
+    "play_time": "40 - 120",
+    "best": "0",
+    "recommended": "1",
     "not_recommended": "0",
     "categories": [
-        "Dice",
-        "Nautical"
+        "Adventure",
+        "Puzzle",
+        "Science Fiction"
     ],
     "mechanics": [
-        "Dice Rolling",
-        "Paper-and-Pencil",
-        "Solo / Solitaire Game"
+        "Action Points",
+        "Card Drafting",
+        "Set Collection"
     ],
-    "expansions": [
-        {
-            "expansion_id": "298686",
-            "expansion_name": "Fleet: The Dice Game - Dicey Waters Expansion",
-            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/298686"
-        }
-    ],
+    "expansions": [],
     "expansion_for": [],
-    "designers_string": "Ben Pinchback; Matt Riddle",
-    "categories_string": "Dice; Nautical",
-    "mechanics_string": "Dice Rolling; Paper-and-Pencil; Solo / Solitaire Game",
-    "expansions_string": "{'expansion_id': '298686', 'expansion_name': 'Fleet: The Dice Game - Dicey Waters Expansion', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/298686'}",
+    "designers_string": "Brian Suhre",
+    "categories_string": "Adventure; Puzzle; Science Fiction",
+    "mechanics_string": "Action Points; Card Drafting; Set Collection",
+    "expansions_string": "",
     "expansions_for_string": ""
 }

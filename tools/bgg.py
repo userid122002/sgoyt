@@ -3,8 +3,6 @@ import os
 import time
 from datetime import datetime, timezone
 import xml.etree.ElementTree as ET
-import csv
-import pandas as pd
 import unicodedata
 import decimal
 import simplejson as json
@@ -17,9 +15,6 @@ class BggClient():
     timeout = 1000
     sgoyt_geeklist_xml_output_dir = os.path.join('tools', 'XML', 'geeklists', 'sgoyt')
     game_xml_output_dir = os.path.join('tools', 'XML', 'games')
-    csv_output_dir = os.path.join('tools', 'CSV')
-    games_json_output_dir = os.path.join('tools', 'JSON', 'games')
-    yearmonth_json_output_dir = os.path.join('tools', 'JSON', 'yearmonth')
     apis = {
         'xml': 'xmlapi',
         'xml2': 'xmlapi2'
@@ -517,8 +512,59 @@ class BggClient():
                     response = self._retry_request_until_timeout(url)
                 with open(result_file, 'wb') as f: 
                     f.write(response.content)
+    
 
+    def get_game_data(self, game_id):
+        result_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(game_id))
+        print('Processing game_id {0}...'.format(game_id))
+        url = '{0}/{1}/thing?id={2}&stats=1'.format(self.base_url, self.apis['xml2'], game_id)
+        response = requests.get(url)
+        self._validate_status_code(response)
+        with open(result_file, 'wb') as f:
+            f.write(response.content)
+    
+    
+    def _url_join(self, *args):
+        url = ''
+        for arg in args:
+            url += '{0}/'.format(arg)
+        return url
+
+
+    def _validate_status_code(self, request_response):
+        if request_response.status_code not in self.valid_statis_codes:
+            raise ValueError('Unexpected HTTP return code: {0}\n'
+            'Request body: {1}'
+            .format(request_response.status_code, request_response.text))
+    
+    
+    def _retry_request_until_timeout(self, request_url):
+        wait_time = self.wait_increment
+        time.sleep(self.wait_increment)
+        done = False
+        while not done:
+            print('Retrying {0}...'.format(request_url))
+            response = requests.get(request_url)
+            if response.status_code != self.wait_statis_codes:
+                done = True
+            wait_time += self.wait_increment
+            time.sleep(self.wait_increment)
+            if wait_time >= self.timeout:
+                done = True
             
+        if response.status_code in self.wait_statis_codes:
+            raise ValueError('Timeout reached: {0}\n'
+            'Request body: {1}'
+            .format(request_url, response.text))
+        return response
+
+
+class CurrentDate():
+    csv_output_dir = os.path.join('tools', 'CSV')
+
+    def __init__(self):
+        pass
+
     def create_current_date_csv(self):
         current_datetime = datetime.now(timezone.utc)
         current_datetime = '{0}/{1}/{2}::{3}:{4} (UTC)'.format(current_datetime.year, current_datetime.month, current_datetime.day, current_datetime.hour, current_datetime.minute)
@@ -529,17 +575,28 @@ class BggClient():
         csv_output = open(output_file, 'a')
         csv_output.write('{0}###{1}'.format('1', current_datetime))
         csv_output.close()
-    
+
+
+class CompileData():
+    games_json_output_dir = os.path.join('tools', 'JSON', 'games')
+    yearmonth_json_output_dir = os.path.join('tools', 'JSON', 'yearmonth')
+    queries_output_dir = os.path.join('tools', 'queries')
+    bg = BggClient()
+
+
+    def __init__(self):
+        pass
+
 
     def create_game_data_json(self):
         all_games = {}
-        for filename in os.listdir(self.sgoyt_geeklist_xml_output_dir):
-            file_path = os.path.join(self.sgoyt_geeklist_xml_output_dir, filename)
+        for filename in os.listdir(self.bg.sgoyt_geeklist_xml_output_dir):
+            file_path = os.path.join(self.bg.sgoyt_geeklist_xml_output_dir, filename)
             geeklist_id = filename.replace('.xml', '')
             tree = ET.parse(file_path)
             root = tree.getroot()
-            year = self.geeklist_month_mapping[geeklist_id]['Year']
-            month = self.geeklist_month_mapping[geeklist_id]['Month']
+            year = self.bg.geeklist_month_mapping[geeklist_id]['Year']
+            month = self.bg.geeklist_month_mapping[geeklist_id]['Month']
             year_month = '{0}/{1}'.format(year, month)
             geeklist_host = root.find('username').text
             geeklist_sgoyt_count_key = 'sgoyt_count_{0}'.format(geeklist_id)
@@ -549,7 +606,7 @@ class BggClient():
                     if game_id not in all_games:
                         game_name = self._replace_text(item.attrib['objectname'])
                         game_name = unicodedata.normalize('NFD', game_name).encode('ascii', 'ignore').decode()
-                        bgg_link = '{0}/boardgame/{1}'.format(self.base_url, game_id)
+                        bgg_link = '{0}/boardgame/{1}'.format(self.bg.base_url, game_id)
                         all_games[game_id] = {
                             'game_id': game_id,
                             'game_name': game_name,
@@ -559,7 +616,7 @@ class BggClient():
                     if geeklist_sgoyt_count_key not in all_games[game_id]:
                         all_games[game_id][geeklist_sgoyt_count_key] = 0
                     geeklist_item_id = item.attrib['id']
-                    geeklist_item_link = '{0}/geeklist/{1}/item/{2}#item{2}'.format(self.base_url, geeklist_id, geeklist_item_id)
+                    geeklist_item_link = '{0}/geeklist/{1}/item/{2}#item{2}'.format(self.bg.base_url, geeklist_id, geeklist_item_id)
                     contributor = item.attrib['username']
                     sgoyt_entry = {
                         'geeklist_id': geeklist_id,
@@ -575,21 +632,16 @@ class BggClient():
                     all_games[game_id][geeklist_sgoyt_count_key] += 1
         
         for game_id in all_games:
-            for filename in os.listdir(self.sgoyt_geeklist_xml_output_dir):
+            for filename in os.listdir(self.bg.sgoyt_geeklist_xml_output_dir):
                 geeklist_sgoyt_count_key = 'sgoyt_count_{0}'.format(filename.replace('.xml', ''))
                 if geeklist_sgoyt_count_key not in all_games[game_id]:
                     all_games[game_id][geeklist_sgoyt_count_key] = 0
-            result_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(game_id))
-            if os.path.exists(result_file) is False:
-                print('Processing game_id {0}...'.format(game_id))
-                url = '{0}/{1}/thing?id={2}&stats=1'.format(self.base_url, self.apis['xml2'], game_id)
-                response = requests.get(url)
-                self._validate_status_code(response)
-                with open(result_file, 'wb') as f:
-                    f.write(response.content)
+            game_xml_file = os.path.join(self.bg.game_xml_output_dir, '{0}.xml'.format(game_id))
+            if os.path.exists(game_xml_file) is False:
+                self.bg.get_game_data(game_id)
                 time.sleep(15)
             all_games[game_id]['sgoyt_count'] = len(all_games[game_id]['sgoyt_entries'])
-            game_xml_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(game_id))
+            game_xml_file = os.path.join(self.bg.game_xml_output_dir, '{0}.xml'.format(game_id))
             tree = ET.parse(game_xml_file)
             root = tree.getroot()
             
@@ -625,7 +677,7 @@ class BggClient():
                         expansion_name = link.attrib['value']
                         expansion_name = self._replace_text(expansion_name)
                         expansion_name = unicodedata.normalize('NFD', expansion_name).encode('ascii', 'ignore').decode()
-                        expansion_bgg_link = '{0}/boardgame/{1}'.format(self.base_url, expansion_id)
+                        expansion_bgg_link = '{0}/boardgame/{1}'.format(self.bg.base_url, expansion_id)
                         expansion_data = {
                             'expansion_id': expansion_id,
                             'expansion_name': expansion_name,
@@ -637,7 +689,7 @@ class BggClient():
                         exp_for_name = link.attrib['value']
                         exp_for_name = self._replace_text(exp_for_name)
                         exp_for_name = unicodedata.normalize('NFD', exp_for_name).encode('ascii', 'ignore').decode()
-                        exp_for_bgg_link = '{0}/boardgame/{1}'.format(self.base_url, exp_for_id)
+                        exp_for_bgg_link = '{0}/boardgame/{1}'.format(self.bg.base_url, exp_for_id)
                         expansion_for_data = {
                             'game_id': exp_for_id,
                             'game_name': exp_for_name,
@@ -696,12 +748,12 @@ class BggClient():
     
     def create_yearmonth_data_json(self):
         year_month_list = []
-        for geeklist_id in self.geeklist_month_mapping:
-            year_month = '{0}/{1}'.format(self.geeklist_month_mapping[geeklist_id]['Year'], self.geeklist_month_mapping[geeklist_id]['Month'])
-            year = self.geeklist_month_mapping[geeklist_id]['Year']
-            month = self.geeklist_month_mapping[geeklist_id]['Month']
-            geeklist_link = '{0}/geeklist/{1}'.format(self.base_url, geeklist_id)
-            file_path = os.path.join(self.sgoyt_geeklist_xml_output_dir, '{0}.xml'.format(geeklist_id))
+        for geeklist_id in self.bg.geeklist_month_mapping:
+            year_month = '{0}/{1}'.format(self.bg.geeklist_month_mapping[geeklist_id]['Year'], self.bg.geeklist_month_mapping[geeklist_id]['Month'])
+            year = self.bg.geeklist_month_mapping[geeklist_id]['Year']
+            month = self.bg.geeklist_month_mapping[geeklist_id]['Month']
+            geeklist_link = '{0}/geeklist/{1}'.format(self.bg.base_url, geeklist_id)
+            file_path = os.path.join(self.bg.sgoyt_geeklist_xml_output_dir, '{0}.xml'.format(geeklist_id))
             tree = ET.parse(file_path)
             root = tree.getroot()
             geeklist_host = root.find('username').text
@@ -711,9 +763,9 @@ class BggClient():
                     game_id = item.attrib['objectid']
                     game_name = self._replace_text(item.attrib['objectname'])
                     game_name = unicodedata.normalize('NFD', game_name).encode('ascii', 'ignore').decode()
-                    game_bgg_link = '{0}/boardgame/{1}'.format(self.base_url, game_id)
+                    game_bgg_link = '{0}/boardgame/{1}'.format(self.bg.base_url, game_id)
                     geeklist_item_id = item.attrib['id']
-                    geeklist_item_link = '{0}/geeklist/{1}/item/{2}#item{2}'.format(self.base_url, geeklist_id, geeklist_item_id)
+                    geeklist_item_link = '{0}/geeklist/{1}/item/{2}#item{2}'.format(self.bg.base_url, geeklist_id, geeklist_item_id)
                     contributor = item.attrib['username']
                     sgoyt_entry = {
                         'geeklist_id': geeklist_id,
@@ -744,28 +796,51 @@ class BggClient():
                 json.dump(item, write_file, indent=4)
     
 
-    def _convert_array_to_string(self, array, delimiter=';'):
-        return_string = ''
-        for item in array:
-            return_string += '{0}{1} '.format(item, delimiter)
-        if len(return_string) > 2:
-            return_string = return_string[:-2]
-        return return_string
+    def generate_top_games_graphql(self):
+        beginning_text = """export const query = graphql`
+  query {
+    allYearMonthDataJson (sort: {fields: year_month, order: DESC}) {
+      nodes {
+        geeklist_id
+        year_month
+        geeklist_host
+        geeklist_link
+      }
+    }
+    all_time: allGameDataJson (limit: 25, sort: {fields: sgoyt_count, order: DESC}) {
+      nodes {
+        game_id
+        game_name
+        bgg_link
+        sgoyt_count
+      }
+    }
+"""
+
+        ending_text = """  }
+`
+"""
+        output_file = os.path.join(self.queries_output_dir, 'top_games.txt')
+        output = open(output_file, 'w')
+        output.write(beginning_text)
+        output.close()
+        output = open(output_file, 'a')
+        for filename in os.listdir(self.bg.sgoyt_geeklist_xml_output_dir):
+            geeklist_id = filename.replace('.xml', '')
+            gl_key = 'gl_{0}'.format(geeklist_id)
+            gl_count_key = 'sgoyt_count_{0}'.format(geeklist_id)
+            output.write('    {0}: allGameDataJson (limit: 25, sort: {{fields: {1}, order: DESC}}, filter: {{{1}: {{gt: 0}}}}) {{\n'.format(gl_key, gl_count_key))
+            output.write('      nodes {\n')
+            output.write('        game_id\n')
+            output.write('        game_name\n')
+            output.write('        bgg_link\n')
+            output.write('        {0}\n'.format(gl_count_key))
+            output.write('      }\n')
+            output.write('    }\n')
+        output.write(ending_text)
+        output.close()
+
     
-    def _url_join(self, *args):
-        url = ''
-        for arg in args:
-            url += '{0}/'.format(arg)
-        return url
-
-
-    def _validate_status_code(self, request_response):
-        if request_response.status_code not in self.valid_statis_codes:
-            raise ValueError('Unexpected HTTP return code: {0}\n'
-            'Request body: {1}'
-            .format(request_response.status_code, request_response.text))
-    
-
     def _replace_text(self, text):
         replaced_text = text
         text_mapping = {
@@ -782,24 +857,13 @@ class BggClient():
         for item in text_mapping_unicode:
             replaced_text = replaced_text.encode().replace(item, text_mapping_unicode[item]).decode()
         return replaced_text
-    
 
-    def _retry_request_until_timeout(self, request_url):
-        wait_time = self.wait_increment
-        time.sleep(self.wait_increment)
-        done = False
-        while not done:
-            print('Retrying {0}...'.format(request_url))
-            response = requests.get(request_url)
-            if response.status_code != self.wait_statis_codes:
-                done = True
-            wait_time += self.wait_increment
-            time.sleep(self.wait_increment)
-            if wait_time >= self.timeout:
-                done = True
-            
-        if response.status_code in self.wait_statis_codes:
-            raise ValueError('Timeout reached: {0}\n'
-            'Request body: {1}'
-            .format(request_url, response.text))
-        return response
+    
+    def _convert_array_to_string(self, array, delimiter=';'):
+        return_string = ''
+        for item in array:
+            return_string += '{0}{1} '.format(item, delimiter)
+        if len(return_string) > 2:
+            return_string = return_string[:-2]
+        return return_string
+
