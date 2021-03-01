@@ -34,7 +34,7 @@ for filename in os.listdir(sgoyt_geeklist_xml_output_dir):
     geeklist_id = filename.replace('.xml', '')
     gl_key = 'gl_{0}'.format(geeklist_id)
     gl_count_key = 'sgoyt_count_{0}'.format(geeklist_id)
-    output.write('    {0}: allGameDataJson (limit: 25, sort: {{fields: {1}, order: DESC}}) {{\n'.format(gl_key, gl_count_key))
+    output.write('    {0}: allGameDataJson (limit: 25, sort: {{fields: {1}, order: DESC}}, filter: {{{1}: {{gt: 0}}}}) {{\n'.format(gl_key, gl_count_key))
     output.write('      nodes {\n')
     output.write('        game_id\n')
     output.write('        game_name\n')
