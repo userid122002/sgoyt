@@ -50,7 +50,7 @@ const Layout = ({ children }) => {
         >
           
           {` `}
-          <p>Last data refresh: {datarefreshdate}</p>
+          <small>Last data refresh: {datarefreshdate}</small>
         </footer>
       </div>
     </>
