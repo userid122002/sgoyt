@@ -76,9 +76,9 @@
         {
             "geeklist_id": "166060",
             "geeklist_item_id": "2948227",
-            "year_month": "2014/02",
-            "year": "2014",
-            "month": "02",
+            "year_month": "2013/12",
+            "year": "2013",
+            "month": "12",
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2948227#item2948227",
             "geeklist_host": "often",
             "contributor": "Gryphon Tracks"
@@ -86,9 +86,9 @@
         {
             "geeklist_id": "166060",
             "geeklist_item_id": "2979277",
-            "year_month": "2014/02",
-            "year": "2014",
-            "month": "02",
+            "year_month": "2013/12",
+            "year": "2013",
+            "month": "12",
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2979277#item2979277",
             "geeklist_host": "often",
             "contributor": "Verdigris97"
@@ -96,9 +96,9 @@
         {
             "geeklist_id": "166060",
             "geeklist_item_id": "2981971",
-            "year_month": "2014/02",
-            "year": "2014",
-            "month": "02",
+            "year_month": "2013/12",
+            "year": "2013",
+            "month": "12",
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2981971#item2981971",
             "geeklist_host": "often",
             "contributor": "Moe45673"
@@ -106,12 +106,92 @@
         {
             "geeklist_id": "166060",
             "geeklist_item_id": "2986430",
-            "year_month": "2014/02",
-            "year": "2014",
-            "month": "02",
+            "year_month": "2013/12",
+            "year": "2013",
+            "month": "12",
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2986430#item2986430",
             "geeklist_host": "often",
             "contributor": "SirWashington"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3060438",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3060438#item3060438",
+            "geeklist_host": "gertbert",
+            "contributor": "Akashi_12"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3063899",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3063899#item3063899",
+            "geeklist_host": "gertbert",
+            "contributor": "couchoud"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3067278",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3067278#item3067278",
+            "geeklist_host": "gertbert",
+            "contributor": "BlueSwan"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3068451",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3068451#item3068451",
+            "geeklist_host": "gertbert",
+            "contributor": "Verdigris97"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3072149",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3072149#item3072149",
+            "geeklist_host": "gertbert",
+            "contributor": "edjrjr"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3073359",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3073359#item3073359",
+            "geeklist_host": "gertbert",
+            "contributor": "garyrbrooks"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3074239",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3074239#item3074239",
+            "geeklist_host": "gertbert",
+            "contributor": "couchoud"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3085401",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3085401#item3085401",
+            "geeklist_host": "gertbert",
+            "contributor": "couchoud"
         },
         {
             "geeklist_id": "170533",
@@ -6070,6 +6150,7 @@
     "sgoyt_count_163198": 2,
     "sgoyt_count_164593": 1,
     "sgoyt_count_166060": 4,
+    "sgoyt_count_169311": 8,
     "sgoyt_count_170533": 3,
     "sgoyt_count_171598": 7,
     "sgoyt_count_172996": 7,
@@ -6157,7 +6238,7 @@
     "sgoyt_count_269654": 0,
     "sgoyt_count_281198": 0,
     "sgoyt_count_282453": 0,
-    "sgoyt_count": 606,
+    "sgoyt_count": 614,
     "thumbnail": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__thumb/img/0bWDfnjzYebauQZrHmjyHkuUttI=/fit-in/200x150/filters:strip_icc()/pic1083380.jpg",
     "year_published": "2011",
     "designers": [

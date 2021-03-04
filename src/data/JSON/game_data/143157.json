@@ -26,9 +26,9 @@
         {
             "geeklist_id": "166060",
             "geeklist_item_id": "2974048",
-            "year_month": "2014/02",
-            "year": "2014",
-            "month": "02",
+            "year_month": "2013/12",
+            "year": "2013",
+            "month": "12",
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2974048#item2974048",
             "geeklist_host": "often",
             "contributor": "shacky22"
@@ -36,12 +36,22 @@
         {
             "geeklist_id": "166060",
             "geeklist_item_id": "2985322",
-            "year_month": "2014/02",
-            "year": "2014",
-            "month": "02",
+            "year_month": "2013/12",
+            "year": "2013",
+            "month": "12",
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2985322#item2985322",
             "geeklist_host": "often",
             "contributor": "CaptCastle"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3066977",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3066977#item3066977",
+            "geeklist_host": "gertbert",
+            "contributor": "mikolajl"
         },
         {
             "geeklist_id": "171598",
@@ -604,6 +614,16 @@
             "contributor": "PhishBoy"
         },
         {
+            "geeklist_id": "281198",
+            "geeklist_item_id": "8170787",
+            "year_month": "2021/03",
+            "year": "2021",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8170787#item8170787",
+            "geeklist_host": "montrealmovil",
+            "contributor": "cabbagekingaf"
+        },
+        {
             "geeklist_id": "282453",
             "geeklist_item_id": "8141860",
             "year_month": "2021/02",
@@ -616,6 +636,7 @@
     ],
     "sgoyt_count_163198": 2,
     "sgoyt_count_166060": 2,
+    "sgoyt_count_169311": 1,
     "sgoyt_count_171598": 2,
     "sgoyt_count_172996": 1,
     "sgoyt_count_174241": 1,
@@ -650,6 +671,7 @@
     "sgoyt_count_246401": 1,
     "sgoyt_count_262633": 1,
     "sgoyt_count_280864": 1,
+    "sgoyt_count_281198": 1,
     "sgoyt_count_282453": 1,
     "sgoyt_count_156765": 0,
     "sgoyt_count_157888": 0,
@@ -706,8 +728,7 @@
     "sgoyt_count_277289": 0,
     "sgoyt_count_278237": 0,
     "sgoyt_count_279491": 0,
-    "sgoyt_count_281198": 0,
-    "sgoyt_count": 61,
+    "sgoyt_count": 63,
     "thumbnail": "https://cf.geekdo-images.com/n_aWYuU82JRrzpO2hv3-VA__thumb/img/R7kwLyntz4XOQW3juskR8QNT8iw=/fit-in/200x150/filters:strip_icc()/pic5832351.jpg",
     "year_published": "2013",
     "designers": [

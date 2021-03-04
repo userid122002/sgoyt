@@ -4,6 +4,16 @@
     "bgg_link": "https://boardgamegeek.com/boardgame/23953",
     "sgoyt_entries": [
         {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3060749",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3060749#item3060749",
+            "geeklist_host": "gertbert",
+            "contributor": "magicalgamer"
+        },
+        {
             "geeklist_id": "170533",
             "geeklist_item_id": "3149014",
             "year_month": "2014/03",
@@ -564,6 +574,7 @@
             "contributor": "SF340B"
         }
     ],
+    "sgoyt_count_169311": 1,
     "sgoyt_count_170533": 1,
     "sgoyt_count_171598": 1,
     "sgoyt_count_175551": 3,
@@ -657,7 +668,7 @@
     "sgoyt_count_277289": 0,
     "sgoyt_count_281198": 0,
     "sgoyt_count_282453": 0,
-    "sgoyt_count": 56,
+    "sgoyt_count": 57,
     "thumbnail": "https://cf.geekdo-images.com/mWd3fATtGyOieHNJH8oOfQ__thumb/img/07d8NKLGI_OluR4AONkmo7XbIUg=/fit-in/200x150/filters:strip_icc()/pic193671.jpg",
     "year_published": "0",
     "designers": [
@@ -666,9 +677,9 @@
     "weight": 1.70,
     "rating": 6.68,
     "play_time": "0",
-    "best": "5",
-    "recommended": "28",
-    "not_recommended": "19",
+    "best": "0",
+    "recommended": "0",
+    "not_recommended": "25",
     "categories": [],
     "mechanics": [],
     "expansions": [],

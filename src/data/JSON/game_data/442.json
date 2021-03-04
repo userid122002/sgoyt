@@ -4,6 +4,16 @@
     "bgg_link": "https://boardgamegeek.com/boardgame/442",
     "sgoyt_entries": [
         {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3060664",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3060664#item3060664",
+            "geeklist_host": "gertbert",
+            "contributor": "djfrank"
+        },
+        {
             "geeklist_id": "170533",
             "geeklist_item_id": "3107982",
             "year_month": "2014/03",
@@ -64,6 +74,7 @@
             "contributor": "benny1980no"
         }
     ],
+    "sgoyt_count_169311": 1,
     "sgoyt_count_170533": 1,
     "sgoyt_count_171598": 1,
     "sgoyt_count_182515": 1,
@@ -157,7 +168,7 @@
     "sgoyt_count_280864": 0,
     "sgoyt_count_281198": 0,
     "sgoyt_count_282453": 0,
-    "sgoyt_count": 6,
+    "sgoyt_count": 7,
     "thumbnail": "https://cf.geekdo-images.com/rAVVAKie8Ujp0wEZzAfBAQ__thumb/img/dL4aQY53BEfMH3DWy30K8qKqLnM=/fit-in/200x150/filters:strip_icc()/pic103131.jpg",
     "year_published": "1979",
     "designers": [

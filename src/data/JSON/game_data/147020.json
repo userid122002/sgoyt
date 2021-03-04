@@ -6,9 +6,9 @@
         {
             "geeklist_id": "166060",
             "geeklist_item_id": "2986989",
-            "year_month": "2014/02",
-            "year": "2014",
-            "month": "02",
+            "year_month": "2013/12",
+            "year": "2013",
+            "month": "12",
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2986989#item2986989",
             "geeklist_host": "often",
             "contributor": "Dekryr"
@@ -16,9 +16,9 @@
         {
             "geeklist_id": "166060",
             "geeklist_item_id": "2988390",
-            "year_month": "2014/02",
-            "year": "2014",
-            "month": "02",
+            "year_month": "2013/12",
+            "year": "2013",
+            "month": "12",
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2988390#item2988390",
             "geeklist_host": "often",
             "contributor": "JeremyVS"
@@ -26,12 +26,22 @@
         {
             "geeklist_id": "166060",
             "geeklist_item_id": "2992281",
-            "year_month": "2014/02",
-            "year": "2014",
-            "month": "02",
+            "year_month": "2013/12",
+            "year": "2013",
+            "month": "12",
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/166060/item/2992281#item2992281",
             "geeklist_host": "often",
             "contributor": "JeremyVS"
+        },
+        {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3065706",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3065706#item3065706",
+            "geeklist_host": "gertbert",
+            "contributor": "weyrbrat"
         },
         {
             "geeklist_id": "170533",
@@ -3425,6 +3435,7 @@
         }
     ],
     "sgoyt_count_166060": 3,
+    "sgoyt_count_169311": 1,
     "sgoyt_count_170533": 1,
     "sgoyt_count_171598": 2,
     "sgoyt_count_172996": 6,
@@ -3517,7 +3528,7 @@
     "sgoyt_count_270349": 0,
     "sgoyt_count_275246": 0,
     "sgoyt_count_281198": 0,
-    "sgoyt_count": 342,
+    "sgoyt_count": 343,
     "thumbnail": "https://cf.geekdo-images.com/EsJqPL5CB_TMt0MYL-lnVg__thumb/img/s_CE1b1XXUnYj9auTPhLrvkNsYA=/fit-in/200x150/filters:strip_icc()/pic1903816.jpg",
     "year_published": "2014",
     "designers": [

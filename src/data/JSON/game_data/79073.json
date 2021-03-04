@@ -4,6 +4,16 @@
     "bgg_link": "https://boardgamegeek.com/boardgame/79073",
     "sgoyt_entries": [
         {
+            "geeklist_id": "169311",
+            "geeklist_item_id": "3072023",
+            "year_month": "2014/02",
+            "year": "2014",
+            "month": "02",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/169311/item/3072023#item3072023",
+            "geeklist_host": "gertbert",
+            "contributor": "joestin"
+        },
+        {
             "geeklist_id": "229952",
             "geeklist_item_id": "5688943",
             "year_month": "2017/10",
@@ -54,6 +64,7 @@
             "contributor": "overhaul"
         }
     ],
+    "sgoyt_count_169311": 1,
     "sgoyt_count_229952": 1,
     "sgoyt_count_231127": 2,
     "sgoyt_count_244471": 1,
@@ -147,7 +158,7 @@
     "sgoyt_count_280864": 0,
     "sgoyt_count_281198": 0,
     "sgoyt_count_282453": 0,
-    "sgoyt_count": 5,
+    "sgoyt_count": 6,
     "thumbnail": "https://cf.geekdo-images.com/qtHcu5hpFM9TUlaXo4_k9Q__thumb/img/B_XYa8uEuBJHJKHLdCBrtZ2lkVQ=/fit-in/200x150/filters:strip_icc()/pic1221489.jpg",
     "year_published": "2010",
     "designers": [

@@ -63,7 +63,7 @@ class BggClient():
             'Month': '12',
             'Override': False
         },
-        '166060': {
+        '169311': {
             'Year': '2014',
             'Month': '02',
             'Override': False
@@ -840,6 +840,68 @@ class CompileData():
         output.write(ending_text)
         output.close()
 
+    
+    def generate_game_details_graphql(self):
+        beginning_text = """export const query = graphql`
+  query {
+    allYearMonthDataJson (sort: {fields: year_month, order: ASC}) {
+      nodes {
+        geeklist_id
+        year_month
+      }
+    }
+    allGameDataJson {
+      nodes {
+        best
+        bgg_link
+        categories_string
+        designers_string
+        expansion_for {
+          game_bgg_link
+          game_id
+          game_name
+        }
+        expansions {
+          expansion_bgg_link
+          expansion_id
+          expansion_name
+        }
+        game_id
+        game_name
+        mechanics_string
+        not_recommended
+        play_time
+        rating
+        recommended
+        sgoyt_entries {
+          contributor
+          geeklist_host
+          geeklist_id
+          geeklist_item_id
+          geeklist_item_link
+          year_month
+        }
+        thumbnail
+        weight
+        year_published
+"""
+        ending_text = """      }
+    }
+  }
+`
+"""
+        output_file = os.path.join(self.queries_output_dir, 'game_details.txt')
+        output = open(output_file, 'w')
+        output.write(beginning_text)
+        output.close()
+        output = open(output_file, 'a')
+        for filename in os.listdir(self.bg.sgoyt_geeklist_xml_output_dir):
+            geeklist_id = filename.replace('.xml', '')
+            gl_count_key = '        sgoyt_count_{0}\n'.format(geeklist_id)
+            output.write('{0}'.format(gl_count_key))
+        output.write(ending_text)
+        output.close()
+    
     
     def _replace_text(self, text):
         replaced_text = text

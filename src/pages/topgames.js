@@ -147,6 +147,14 @@ export const query = graphql`
         sgoyt_count_166060
       }
     }
+    gl_169311: allGameDataJson (limit: 25, sort: {fields: sgoyt_count_169311, order: DESC}, filter: {sgoyt_count_169311: {gt: 0}}) {
+      nodes {
+        game_id
+        game_name
+        bgg_link
+        sgoyt_count_169311
+      }
+    }
     gl_170533: allGameDataJson (limit: 25, sort: {fields: sgoyt_count_170533, order: DESC}, filter: {sgoyt_count_170533: {gt: 0}}) {
       nodes {
         game_id
@@ -829,4 +837,5 @@ export const query = graphql`
     }
   }
 `
+
 
