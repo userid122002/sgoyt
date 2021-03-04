@@ -30,6 +30,7 @@ export const query = graphql`
           geeklist_id
           geeklist_link
           year_month
+          geeklist_host
         }
       },
       allGameDataJson (sort: {fields: game_name}) {
@@ -37,6 +38,9 @@ export const query = graphql`
           bgg_link
           game_id
           game_name
+          designers_string
+          categories_string
+          mechanics_string
           designers
           categories
           mechanics

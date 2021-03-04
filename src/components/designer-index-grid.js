@@ -15,7 +15,7 @@ export default function DesignersIndexGrid( {data} ) {
                 {
                     game: data_item.game_name,
                     gamepage: <Link to={"/gamedetails/?gameid=" + data_item.game_id}>[details]</Link>,
-                    designers: data_item.designers,
+                    designers: data_item.designers_string,
                     id: data_item.game_id,
                 }
             )

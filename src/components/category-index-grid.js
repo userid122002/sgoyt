@@ -15,7 +15,7 @@ export default function CategoriesIndexGrid( {data} ) {
                 {
                     game: data_item.game_name,
                     gamepage: <Link to={"/gamedetails/?gameid=" + data_item.game_id}>[details]</Link>,
-                    categories: data_item.categories,
+                    categories: data_item.categories_string,
                     id: data_item.game_id,
                 }
             )

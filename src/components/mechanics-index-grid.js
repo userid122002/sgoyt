@@ -15,7 +15,7 @@ export default function MechanicsIndexGrid( {data} ) {
                 {
                     game: data_item.game_name,
                     gamepage: <Link to={"/gamedetails/?gameid=" + data_item.game_id}>[details]</Link>,
-                    mechanics: data_item.mechanics,
+                    mechanics: data_item.mechanics_string,
                     id: data_item.game_id,
                 }
             )
