@@ -1,52 +1,19 @@
 {
-    "game_id": "137297",
-    "game_name": "Rise of Augustus",
-    "bgg_link": "https://boardgamegeek.com/boardgame/137297",
+    "game_id": "332290",
+    "game_name": "Stardew Valley: The Board Game",
+    "bgg_link": "https://boardgamegeek.com/boardgame/332290",
     "sgoyt_entries": [
         {
-            "geeklist_id": "178257",
-            "geeklist_item_id": "3441468",
-            "year_month": "2014/09",
-            "year": "2014",
-            "month": "09",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/178257/item/3441468#item3441468",
-            "geeklist_host": "Malaiser",
-            "contributor": "splittist"
-        },
-        {
-            "geeklist_id": "211592",
-            "geeklist_item_id": "4788150",
-            "year_month": "2016/08",
-            "year": "2016",
-            "month": "08",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/211592/item/4788150#item4788150",
-            "geeklist_host": "govmiller",
-            "contributor": "emormu"
-        },
-        {
-            "geeklist_id": "242306",
-            "geeklist_item_id": "6250364",
-            "year_month": "2018/07",
-            "year": "2018",
-            "month": "07",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/242306/item/6250364#item6250364",
-            "geeklist_host": "emodiu5",
-            "contributor": "GameRulesforOne"
-        },
-        {
             "geeklist_id": "281198",
-            "geeklist_item_id": "8179864",
+            "geeklist_item_id": "8177364",
             "year_month": "2021/03",
             "year": "2021",
             "month": "03",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8179864#item8179864",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8177364#item8177364",
             "geeklist_host": "montrealmovil",
-            "contributor": "dschleicher"
+            "contributor": "alamb1101"
         }
     ],
-    "sgoyt_count_178257": 1,
-    "sgoyt_count_211592": 1,
-    "sgoyt_count_242306": 1,
     "sgoyt_count_281198": 1,
     "sgoyt_count_156765": 0,
     "sgoyt_count_157888": 0,
@@ -63,6 +30,7 @@
     "sgoyt_count_174241": 0,
     "sgoyt_count_175551": 0,
     "sgoyt_count_176697": 0,
+    "sgoyt_count_178257": 0,
     "sgoyt_count_178963": 0,
     "sgoyt_count_179645": 0,
     "sgoyt_count_182515": 0,
@@ -85,6 +53,7 @@
     "sgoyt_count_208306": 0,
     "sgoyt_count_209493": 0,
     "sgoyt_count_210694": 0,
+    "sgoyt_count_211592": 0,
     "sgoyt_count_213557": 0,
     "sgoyt_count_214406": 0,
     "sgoyt_count_215297": 0,
@@ -108,6 +77,7 @@
     "sgoyt_count_240624": 0,
     "sgoyt_count_241528": 0,
     "sgoyt_count_241745": 0,
+    "sgoyt_count_242306": 0,
     "sgoyt_count_244471": 0,
     "sgoyt_count_245355": 0,
     "sgoyt_count_246401": 0,
@@ -138,39 +108,40 @@
     "sgoyt_count_279491": 0,
     "sgoyt_count_280864": 0,
     "sgoyt_count_282453": 0,
-    "sgoyt_count": 4,
-    "thumbnail": "https://cf.geekdo-images.com/DjlNoENOK3z7DO8rpNsofQ__thumb/img/DOPkJkUFO89G83sHjAyfN4pqoE4=/fit-in/200x150/filters:strip_icc()/pic3532649.jpg",
-    "year_published": "2013",
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/eXgwod7ZUEudQNHT0PaexQ__thumb/img/FEfdPCH-vGR9h91lamGD5J7x7s8=/fit-in/200x150/filters:strip_icc()/pic6005946.jpg",
+    "year_published": "2021",
     "designers": [
-        "Paolo Mori"
+        "Eric Barone",
+        "Cole Medeiros"
     ],
-    "weight": 1.63,
-    "rating": 6.75,
-    "play_time": "30",
-    "best": "0",
-    "recommended": "1",
-    "not_recommended": "51",
+    "weight": 2.64,
+    "rating": 8.09,
+    "play_time": "45 - 200",
+    "best": "1",
+    "recommended": "0",
+    "not_recommended": "4",
     "categories": [
-        "Ancient",
-        "Card Game"
+        "Animals",
+        "Farming",
+        "Video Game Theme"
     ],
     "mechanics": [
-        "Bingo",
-        "Card Drafting",
-        "Push Your Luck",
-        "Set Collection"
+        "Cooperative Game",
+        "Dice Rolling",
+        "Die Icon Resolution",
+        "Events",
+        "Point to Point Movement",
+        "Random Production",
+        "Solo / Solitaire Game",
+        "Variable Set-up",
+        "Worker Placement"
     ],
-    "expansions": [
-        {
-            "expansion_id": "150365",
-            "expansion_name": "Augustus: Maximus Promo Card",
-            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/150365"
-        }
-    ],
+    "expansions": [],
     "expansion_for": [],
-    "designers_string": "Paolo Mori",
-    "categories_string": "Ancient; Card Game",
-    "mechanics_string": "Bingo; Card Drafting; Push Your Luck; Set Collection",
-    "expansions_string": "{'expansion_id': '150365', 'expansion_name': 'Augustus: Maximus Promo Card', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/150365'}",
+    "designers_string": "Eric Barone; Cole Medeiros",
+    "categories_string": "Animals; Farming; Video Game Theme",
+    "mechanics_string": "Cooperative Game; Dice Rolling; Die Icon Resolution; Events; Point to Point Movement; Random Production; Solo / Solitaire Game; Variable Set-up; Worker Placement",
+    "expansions_string": "",
     "expansions_for_string": ""
 }
