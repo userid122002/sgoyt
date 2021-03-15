@@ -1,40 +1,19 @@
 {
-    "game_id": "322709",
-    "game_name": "Ugly Gryphon Inn",
-    "bgg_link": "https://boardgamegeek.com/boardgame/322709",
+    "game_id": "272231",
+    "game_name": "Snow Snow",
+    "bgg_link": "https://boardgamegeek.com/boardgame/272231",
     "sgoyt_entries": [
         {
-            "geeklist_id": "279491",
-            "geeklist_item_id": "8012633",
-            "year_month": "2020/12",
-            "year": "2020",
-            "month": "12",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8012633#item8012633",
-            "geeklist_host": "airzonk1",
-            "contributor": "woodjh"
-        },
-        {
-            "geeklist_id": "279491",
-            "geeklist_item_id": "8031378",
-            "year_month": "2020/12",
-            "year": "2020",
-            "month": "12",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8031378#item8031378",
-            "geeklist_host": "airzonk1",
-            "contributor": "govmiller"
-        },
-        {
             "geeklist_id": "281198",
-            "geeklist_item_id": "8187092",
+            "geeklist_item_id": "8191588",
             "year_month": "2021/03",
             "year": "2021",
             "month": "03",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8187092#item8187092",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8191588#item8191588",
             "geeklist_host": "montrealmovil",
-            "contributor": "Narrow Gate Games"
+            "contributor": "djott70"
         }
     ],
-    "sgoyt_count_279491": 2,
     "sgoyt_count_281198": 1,
     "sgoyt_count_156765": 0,
     "sgoyt_count_157888": 0,
@@ -126,43 +105,34 @@
     "sgoyt_count_276177": 0,
     "sgoyt_count_277289": 0,
     "sgoyt_count_278237": 0,
+    "sgoyt_count_279491": 0,
     "sgoyt_count_280864": 0,
     "sgoyt_count_282453": 0,
-    "sgoyt_count": 3,
-    "thumbnail": "https://cf.geekdo-images.com/hPZdbeObUhy5wJ2vV9xUrg__thumb/img/ClHLUQ_yUy5eXM3W-M9Hm4BkNQE=/fit-in/200x150/filters:strip_icc()/pic5836225.png",
-    "year_published": "2021",
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/IxQ87Q2ivsGs7T8G4eixpA__thumb/img/Y9rrmbzJuPcSjizLpboZ_lqMeIQ=/fit-in/200x150/filters:strip_icc()/pic5686241.jpg",
+    "year_published": "2018",
     "designers": [
-        "Scott Almes"
+        "Danna Banki"
     ],
-    "weight": 2.00,
-    "rating": 5.83,
-    "play_time": "20",
-    "best": "1",
-    "recommended": "0",
-    "not_recommended": "0",
+    "weight": 0.00,
+    "rating": 6.00,
+    "play_time": "15",
+    "best": "4",
+    "recommended": "5",
+    "not_recommended": "1",
     "categories": [
-        "Card Game",
-        "Print & Play"
+        "Children's Game",
+        "Environmental"
     ],
     "mechanics": [
-        "Solo / Solitaire Game"
+        "Cooperative Game",
+        "Dice Rolling"
     ],
-    "expansions": [
-        {
-            "expansion_id": "326277",
-            "expansion_name": "Ugly Gryphon Inn: Local Dragons",
-            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/326277"
-        },
-        {
-            "expansion_id": "326173",
-            "expansion_name": "Ugly Gryphon Inn: More Patrons",
-            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/326173"
-        }
-    ],
+    "expansions": [],
     "expansion_for": [],
-    "designers_string": "Scott Almes",
-    "categories_string": "Card Game; Print & Play",
-    "mechanics_string": "Solo / Solitaire Game",
-    "expansions_string": "{'expansion_id': '326277', 'expansion_name': 'Ugly Gryphon Inn: Local Dragons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/326277'}; {'expansion_id': '326173', 'expansion_name': 'Ugly Gryphon Inn: More Patrons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/326173'}",
+    "designers_string": "Danna Banki",
+    "categories_string": "Children's Game; Environmental",
+    "mechanics_string": "Cooperative Game; Dice Rolling",
+    "expansions_string": "",
     "expansions_for_string": ""
 }

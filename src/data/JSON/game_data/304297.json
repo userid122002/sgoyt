@@ -1,40 +1,19 @@
 {
-    "game_id": "322709",
-    "game_name": "Ugly Gryphon Inn",
-    "bgg_link": "https://boardgamegeek.com/boardgame/322709",
+    "game_id": "304297",
+    "game_name": "Harry Potter: Hogwarts Battle - The Charms and Potions Expansion",
+    "bgg_link": "https://boardgamegeek.com/boardgame/304297",
     "sgoyt_entries": [
         {
-            "geeklist_id": "279491",
-            "geeklist_item_id": "8012633",
-            "year_month": "2020/12",
-            "year": "2020",
-            "month": "12",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8012633#item8012633",
-            "geeklist_host": "airzonk1",
-            "contributor": "woodjh"
-        },
-        {
-            "geeklist_id": "279491",
-            "geeklist_item_id": "8031378",
-            "year_month": "2020/12",
-            "year": "2020",
-            "month": "12",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/279491/item/8031378#item8031378",
-            "geeklist_host": "airzonk1",
-            "contributor": "govmiller"
-        },
-        {
             "geeklist_id": "281198",
-            "geeklist_item_id": "8187092",
+            "geeklist_item_id": "8186801",
             "year_month": "2021/03",
             "year": "2021",
             "month": "03",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8187092#item8187092",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8186801#item8186801",
             "geeklist_host": "montrealmovil",
-            "contributor": "Narrow Gate Games"
+            "contributor": "Jorath"
         }
     ],
-    "sgoyt_count_279491": 2,
     "sgoyt_count_281198": 1,
     "sgoyt_count_156765": 0,
     "sgoyt_count_157888": 0,
@@ -126,43 +105,48 @@
     "sgoyt_count_276177": 0,
     "sgoyt_count_277289": 0,
     "sgoyt_count_278237": 0,
+    "sgoyt_count_279491": 0,
     "sgoyt_count_280864": 0,
     "sgoyt_count_282453": 0,
-    "sgoyt_count": 3,
-    "thumbnail": "https://cf.geekdo-images.com/hPZdbeObUhy5wJ2vV9xUrg__thumb/img/ClHLUQ_yUy5eXM3W-M9Hm4BkNQE=/fit-in/200x150/filters:strip_icc()/pic5836225.png",
-    "year_published": "2021",
-    "designers": [
-        "Scott Almes"
-    ],
-    "weight": 2.00,
-    "rating": 5.83,
-    "play_time": "20",
-    "best": "1",
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/jJ4iZuXM91DOlhgZ2Nwtpw__thumb/img/XVnK3uTcReR5a9GCWSS6dvyTELI=/fit-in/200x150/filters:strip_icc()/pic5674009.jpg",
+    "year_published": "2020",
+    "designers": [],
+    "weight": 2.25,
+    "rating": 8.05,
+    "play_time": "60 - 120",
+    "best": "0",
     "recommended": "0",
-    "not_recommended": "0",
+    "not_recommended": "2",
     "categories": [
+        "Expansion for Base-game",
         "Card Game",
-        "Print & Play"
+        "Fantasy",
+        "Movies / TV / Radio theme",
+        "Novel-based"
     ],
     "mechanics": [
-        "Solo / Solitaire Game"
+        "Cooperative Game",
+        "Deck, Bag, and Pool Building",
+        "Variable Player Powers"
     ],
     "expansions": [
         {
-            "expansion_id": "326277",
-            "expansion_name": "Ugly Gryphon Inn: Local Dragons",
-            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/326277"
-        },
-        {
-            "expansion_id": "326173",
-            "expansion_name": "Ugly Gryphon Inn: More Patrons",
-            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/326173"
+            "expansion_id": "324399",
+            "expansion_name": "Harry Potter: Hogwarts Battle - Dumbledore's Army Coin",
+            "expansion_bgg_link": "https://boardgamegeek.com/boardgame/324399"
         }
     ],
-    "expansion_for": [],
-    "designers_string": "Scott Almes",
-    "categories_string": "Card Game; Print & Play",
-    "mechanics_string": "Solo / Solitaire Game",
-    "expansions_string": "{'expansion_id': '326277', 'expansion_name': 'Ugly Gryphon Inn: Local Dragons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/326277'}; {'expansion_id': '326173', 'expansion_name': 'Ugly Gryphon Inn: More Patrons', 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/326173'}",
-    "expansions_for_string": ""
+    "expansion_for": [
+        {
+            "game_id": "199042",
+            "game_name": "Harry Potter: Hogwarts Battle",
+            "game_bgg_link": "https://boardgamegeek.com/boardgame/199042"
+        }
+    ],
+    "designers_string": "",
+    "categories_string": "Expansion for Base-game; Card Game; Fantasy; Movies / TV / Radio theme; Novel-based",
+    "mechanics_string": "Cooperative Game; Deck, Bag, and Pool Building; Variable Player Powers",
+    "expansions_string": "{'expansion_id': '324399', 'expansion_name': \"Harry Potter: Hogwarts Battle - Dumbledore's Army Coin\", 'expansion_bgg_link': 'https://boardgamegeek.com/boardgame/324399'}",
+    "expansions_for_string": "{'game_id': '199042', 'game_name': 'Harry Potter: Hogwarts Battle', 'game_bgg_link': 'https://boardgamegeek.com/boardgame/199042'}"
 }
