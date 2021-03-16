@@ -6,6 +6,8 @@ import xml.etree.ElementTree as ET
 import unicodedata
 import decimal
 import simplejson as json
+import math
+from csv import reader
 
 class BggClient():
     base_url = 'https://boardgamegeek.com'
@@ -15,6 +17,8 @@ class BggClient():
     timeout = 1000
     sgoyt_geeklist_xml_output_dir = os.path.join('tools', 'XML', 'geeklists', 'sgoyt')
     game_xml_output_dir = os.path.join('tools', 'XML', 'games')
+    guild_xml_output_dir = os.path.join('tools', 'XML', 'guilds')
+
     apis = {
         'xml': 'xmlapi',
         'xml2': 'xmlapi2'
@@ -486,7 +490,7 @@ class BggClient():
         '282453': {
             'Year': '2021',
             'Month': '02',
-            'Override': True
+            'Override': False
         },
         '281198': {
             'Year': '2021',
@@ -518,6 +522,18 @@ class BggClient():
         result_file = os.path.join(self.game_xml_output_dir, '{0}.xml'.format(game_id))
         print('Processing game_id {0}...'.format(game_id))
         url = '{0}/{1}/thing?id={2}&stats=1'.format(self.base_url, self.apis['xml2'], game_id)
+        response = requests.get(url)
+        self._validate_status_code(response)
+        with open(result_file, 'wb') as f:
+            f.write(response.content)
+    
+
+    def get_guild_data(self, guild_id, member_page, xml_path=None):
+        if xml_path is None:
+            xml_path = self.guild_xml_output_dir
+        result_file = os.path.join(xml_path, '{0}_{1}.xml'.format(guild_id, member_page))
+        print('Processing guild id {0}, member page {1}...'.format(guild_id, member_page))
+        url = '{0}/{1}/guild?id={2}&members=1&sort=date&page={3}'.format(self.base_url, self.apis['xml2'], guild_id, member_page)
         response = requests.get(url)
         self._validate_status_code(response)
         with open(result_file, 'wb') as f:
@@ -580,7 +596,11 @@ class CurrentDate():
 class CompileData():
     games_json_output_dir = os.path.join('tools', 'JSON', 'games')
     yearmonth_json_output_dir = os.path.join('tools', 'JSON', 'yearmonth')
+    guild_json_output_dir = os.path.join('tools', 'JSON', 'guilds')
+    user_json_output_dir = os.path.join('tools', 'JSON', 'users')
     queries_output_dir = os.path.join('tools', 'queries')
+    data_output_dir = os.path.join('tools', 'data')
+    csv_output_dir = os.path.join('tools', 'CSV')
     bg = BggClient()
 
 
@@ -794,8 +814,173 @@ class CompileData():
             output_file = os.path.join(self.yearmonth_json_output_dir, '{0}.json'.format(item['geeklist_id']))
             with open(output_file, 'w') as write_file:
                 json.dump(item, write_file, indent=4)
+
+
+    def create_top_sgoyt_host_data(self):
+        top_host_data = {}
+        top_hosts = {'top_hosts': []}
+        for filename in os.listdir(self.bg.sgoyt_geeklist_xml_output_dir):
+            file_path = os.path.join(self.bg.sgoyt_geeklist_xml_output_dir, filename)
+            tree = ET.parse(file_path)
+            root = tree.getroot()
+            host = root.find('username').text
+            if host not in top_host_data:
+                top_host_data[host] = 1
+            else:
+                top_host_data[host] += 1
+        for host in top_host_data:
+            if top_host_data[host] > 1:
+                top_hosts['top_hosts'].append({'username': host, 'count': top_host_data[host]})
+        output_file = os.path.join(self.user_json_output_dir, 'top_hosts.json')
+        with open(output_file, 'w') as write_file:
+            json.dump(top_hosts, write_file, indent=4)
     
 
+    def create_top_sgoyt_contributor_data(self):
+        top_contributor_data = {}
+        top_contributors = {'top_contributors': []}
+        for filename in os.listdir(self.bg.sgoyt_geeklist_xml_output_dir):
+            file_path = os.path.join(self.bg.sgoyt_geeklist_xml_output_dir, filename)
+            tree = ET.parse(file_path)
+            root = tree.getroot()
+            for item in root.findall('./item'):
+                if item.attrib['subtype'] == 'boardgame':
+                    contributor = item.attrib['username']
+                    if contributor not in top_contributor_data:
+                        top_contributor_data[contributor] = 1
+                    else:
+                        top_contributor_data[contributor] += 1
+        for contributor in top_contributor_data:
+            if top_contributor_data[contributor] >= 300:
+                top_contributors['top_contributors'].append({'username': contributor, 'count': top_contributor_data[contributor]})
+        output_file = os.path.join(self.user_json_output_dir, 'top_contributors.json')
+        with open(output_file, 'w') as write_file:
+            json.dump(top_contributors, write_file, indent=4)
+    
+
+    def create_one_player_guild_user_data(self):        
+        self.bg.get_guild_data('1303', '1')
+        first_file = os.path.join(self.bg.guild_xml_output_dir, '1303_1.xml')
+        tree = ET.parse(first_file)
+        root = tree.getroot()
+        member_count = int(root.find('members').attrib['count'])
+        new_last_user_processed = root.find('members').find('member').attrib['name']
+        last_user_file = os.path.join(self.data_output_dir, 'last_guild_user_processed')
+        pages = math.ceil(member_count / 25)
+        
+        for i in range(1, pages + 1):
+            self.bg.get_guild_data('1303', str(i))
+            time.sleep(15)
+        
+        guild_data = {}
+        guild_data['member_count'] = member_count
+        guild_data['user_count_by_date'] = []
+        dates = {}
+
+        for filename in os.listdir(self.bg.guild_xml_output_dir):
+            file_path = os.path.join(self.bg.guild_xml_output_dir, filename)
+            tree = ET.parse(file_path)
+            root = tree.getroot()
+            for member in root.find('members').findall('./member'):
+                date_split = member.attrib['date'][8:16].split(' ')
+                date = self._format_member_date(date_split[0], date_split[1])
+                if date not in dates:
+                    dates[date] = 1
+                else:
+                    dates[date] += 1
+        
+        prev_count = 0
+        for date in sorted(dates):
+            count = dates[date]
+            cumulative_count = count + prev_count
+            guild_data['user_count_by_date'].append({'date': date, 'count': count, 'cumulative_count': cumulative_count})
+            prev_count = cumulative_count
+        
+        with open(last_user_file, 'w') as f:
+            f.write(new_last_user_processed)
+        
+        output_file = os.path.join(self.guild_json_output_dir, 'guild.json')
+        with open(output_file, 'w') as write_file:
+            json.dump(guild_data, write_file, indent=4)
+    
+    
+    def update_one_player_guild_user_data(self):
+        csv_output_file = os.path.join(self.csv_output_dir, 'guild_members.csv')
+        csv_output = open(csv_output_file, 'w')
+        csv_output.write('name;date\n')
+        csv_output.close()
+        csv_output = open(csv_output_file, 'a')
+        for filename in os.listdir(self.bg.guild_xml_output_dir):
+            file_path = os.path.join(self.bg.guild_xml_output_dir, filename)
+            tree = ET.parse(file_path)
+            root = tree.getroot()
+            for member in root.find('members').findall('./member'):
+                name = member.attrib['name']
+                date_split = member.attrib['date'][8:16].split(' ')
+                date = self._format_member_date(date_split[0], date_split[1])
+                csv_output.write('{0};{1}\n'.format(name, date))
+        csv_output.close()
+
+        last_user_file = os.path.join(self.data_output_dir, 'last_guild_user_processed')
+        with open(last_user_file) as f:
+            last_user_processed = f.readline()
+
+        xml_output_dir = os.path.join('tools', 'XML', 'guilds_update')
+        self.bg.get_guild_data('1303', 1, xml_output_dir)
+        first_file = os.path.join(xml_output_dir, '1303_1.xml')
+        tree = ET.parse(first_file)
+        root = tree.getroot()
+        member_count = int(root.find('members').attrib['count'])
+        pages = math.ceil(member_count / 25)
+        csv_output = open(csv_output_file, 'a')
+        for i in range(1, pages + 1):
+            complete = False
+            self.bg.get_guild_data('1303', str(i), xml_output_dir)
+            current_file = os.path.join(xml_output_dir, '1303_{0}.xml'.format(str(i)))
+            current_tree = ET.parse(current_file)
+            current_root = current_tree.getroot()
+            for member in current_root.find('members').findall('./member'):
+                name = member.attrib['name']
+                date_split = member.attrib['date'][8:16].split(' ')
+                date = self._format_member_date(date_split[0], date_split[1])
+                if name == last_user_processed:
+                    complete = True
+                    break
+                else:
+                    csv_output.write('{0};{1}\n'.format(name, date))
+            if complete:
+                csv_output.close()
+                break
+            time.sleep(15)
+        csv_output.close()
+
+        guild_data = {}
+        guild_data['member_count'] = member_count
+        guild_data['user_count_by_date'] = []
+        dates = {}
+        
+        with open(csv_output_file, 'r') as f:
+            csv_reader = reader(f, delimiter=';')
+            for row in csv_reader:
+                date = row[1]
+                if date != 'date':
+                    if date not in dates:
+                        dates[date] = 1
+                    else:
+                        dates[date] += 1
+
+        prev_count = 0
+        for date in sorted(dates):
+            count = dates[date]
+            cumulative_count = count + prev_count
+            guild_data['user_count_by_date'].append({'date': date, 'count': count, 'cumulative_count': cumulative_count})
+            prev_count = cumulative_count
+        
+        output_file = os.path.join(self.guild_json_output_dir, 'guild.json')
+        with open(output_file, 'w') as write_file:
+            json.dump(guild_data, write_file, indent=4)
+    
+    
     def generate_top_games_graphql(self):
         beginning_text = """export const query = graphql`
   query {
@@ -929,3 +1114,31 @@ class CompileData():
             return_string = return_string[:-2]
         return return_string
 
+    
+    def _format_member_date(self, month_string, year_string):
+        if month_string == 'Jan':
+            month = '01'
+        elif month_string == 'Feb':
+            month = '02'
+        elif month_string == 'Mar':
+            month = '03'
+        elif month_string == 'Apr':
+            month = '04'
+        elif month_string == 'May':
+            month = '05'
+        elif month_string == 'Jun':
+            month = '06'
+        elif month_string == 'Jul':
+            month = '07'
+        elif month_string == 'Aug':
+            month = '08'
+        elif month_string == 'Sep':
+            month = '09'
+        elif month_string == 'Oct':
+            month = '10'
+        elif month_string == 'Nov':
+            month = '11'
+        elif month_string == 'Dec':
+            month = '12'
+        date_string = '{0}/{1}'.format(year_string, month)
+        return date_string

@@ -7,11 +7,11 @@ import Layout from "../components/layout"
 export default function TopGames( {data} ) {
     const top_game_data = []
     data.all_time.nodes.forEach(function(top_game) {
-      top_game_data.push(top_game)
+        top_game_data.push(top_game)
     })
     const geeklist_data = []
     data.allYearMonthDataJson.nodes.forEach(function(geeklist) {
-      geeklist_data.push(geeklist)
+        geeklist_data.push(geeklist)
     })
     return (
         <Layout>
