@@ -1,50 +1,20 @@
 {
-    "game_id": "307305",
-    "game_name": "Bullet",
-    "bgg_link": "https://boardgamegeek.com/boardgame/307305",
+    "game_id": "287786",
+    "game_name": "Kashmir Crisis",
+    "bgg_link": "https://boardgamegeek.com/boardgame/287786",
     "sgoyt_entries": [
         {
             "geeklist_id": "281198",
-            "geeklist_item_id": "8191309",
+            "geeklist_item_id": "8203151",
             "year_month": "2021/03",
             "year": "2021",
             "month": "03",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8191309#item8191309",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8203151#item8203151",
             "geeklist_host": "montrealmovil",
-            "contributor": "BrokenAxe"
-        },
-        {
-            "geeklist_id": "281198",
-            "geeklist_item_id": "8193884",
-            "year_month": "2021/03",
-            "year": "2021",
-            "month": "03",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8193884#item8193884",
-            "geeklist_host": "montrealmovil",
-            "contributor": "BrokenAxe"
-        },
-        {
-            "geeklist_id": "281198",
-            "geeklist_item_id": "8199984",
-            "year_month": "2021/03",
-            "year": "2021",
-            "month": "03",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8199984#item8199984",
-            "geeklist_host": "montrealmovil",
-            "contributor": "Swizze"
-        },
-        {
-            "geeklist_id": "281198",
-            "geeklist_item_id": "8202697",
-            "year_month": "2021/03",
-            "year": "2021",
-            "month": "03",
-            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8202697#item8202697",
-            "geeklist_host": "montrealmovil",
-            "contributor": "BrokenAxe"
+            "contributor": "gamer nine"
         }
     ],
-    "sgoyt_count_281198": 4,
+    "sgoyt_count_281198": 1,
     "sgoyt_count_156765": 0,
     "sgoyt_count_157888": 0,
     "sgoyt_count_158763": 0,
@@ -138,35 +108,34 @@
     "sgoyt_count_279491": 0,
     "sgoyt_count_280864": 0,
     "sgoyt_count_282453": 0,
-    "sgoyt_count": 4,
-    "thumbnail": "https://cf.geekdo-images.com/315gnIdET7dlQ_fASt8p0w__thumb/img/ZUVCes8DtY3pYnUJ3zghUkhT3fQ=/fit-in/200x150/filters:strip_icc()/pic6007944.jpg",
-    "year_published": "2021",
+    "sgoyt_count": 1,
+    "thumbnail": "https://cf.geekdo-images.com/hzGoKa0bb8X92HZsd9NI-g__thumb/img/B6vcgj4E2wAiPrs3wTnjcAG-Zy8=/fit-in/200x150/filters:strip_icc()/pic4924115.jpg",
+    "year_published": "2019",
     "designers": [
-        "Joshua Van Laningham"
+        "Brian Train"
     ],
-    "weight": 1.80,
-    "rating": 7.77,
-    "play_time": "10 - 20",
-    "best": "4",
-    "recommended": "5",
-    "not_recommended": "1",
+    "weight": 0.00,
+    "rating": 6.50,
+    "play_time": "10 - 30",
+    "best": "0",
+    "recommended": "1",
+    "not_recommended": "0",
     "categories": [
-        "Fighting",
-        "Puzzle",
-        "Real-time",
-        "Science Fiction"
+        "Card Game",
+        "Modern Warfare",
+        "Political",
+        "Print & Play",
+        "Wargame"
     ],
     "mechanics": [
-        "Pattern Building",
-        "Push Your Luck",
-        "Real-Time",
-        "Variable Player Powers"
+        "Area Majority / Influence",
+        "Card Drafting"
     ],
     "expansions": [],
     "expansion_for": [],
-    "designers_string": "Joshua Van Laningham",
-    "categories_string": "Fighting; Puzzle; Real-time; Science Fiction",
-    "mechanics_string": "Pattern Building; Push Your Luck; Real-Time; Variable Player Powers",
+    "designers_string": "Brian Train",
+    "categories_string": "Card Game; Modern Warfare; Political; Print & Play; Wargame",
+    "mechanics_string": "Area Majority / Influence; Card Drafting",
     "expansions_string": "",
     "expansions_for_string": ""
 }
