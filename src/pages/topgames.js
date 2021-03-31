@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 import Layout from "../components/layout"
 
 export default function TopGames( {data} ) {
-    const top_game_data = []
+  const top_game_data = []
     data.all_time.nodes.forEach(function(top_game) {
         top_game_data.push(top_game)
     })
@@ -833,6 +833,14 @@ export const query = graphql`
         game_name
         bgg_link
         sgoyt_count_282453
+      }
+    }
+    gl_284335: allGameDataJson (limit: 25, sort: {fields: sgoyt_count_284335, order: DESC}, filter: {sgoyt_count_284335: {gt: 0}}) {
+      nodes {
+        game_id
+        game_name
+        bgg_link
+        sgoyt_count_284335
       }
     }
   }
