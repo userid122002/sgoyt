@@ -42,12 +42,34 @@
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/229952/item/5735065#item5735065",
             "geeklist_host": "cornishlee",
             "contributor": "briezee"
+        },
+        {
+            "geeklist_id": "281198",
+            "geeklist_item_id": "8213771",
+            "year_month": "2021/03",
+            "year": "2021",
+            "month": "03",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/281198/item/8213771#item8213771",
+            "geeklist_host": "montrealmovil",
+            "contributor": "Halbwachs"
+        },
+        {
+            "geeklist_id": "284335",
+            "geeklist_item_id": "8216921",
+            "year_month": "2021/04",
+            "year": "2021",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/284335/item/8216921#item8216921",
+            "geeklist_host": "jon7167",
+            "contributor": "govmiller"
         }
     ],
     "sgoyt_count_178963": 1,
     "sgoyt_count_179645": 1,
     "sgoyt_count_182515": 1,
     "sgoyt_count_229952": 1,
+    "sgoyt_count_281198": 1,
+    "sgoyt_count_284335": 1,
     "sgoyt_count_156765": 0,
     "sgoyt_count_157888": 0,
     "sgoyt_count_158763": 0,
@@ -136,10 +158,8 @@
     "sgoyt_count_278237": 0,
     "sgoyt_count_279491": 0,
     "sgoyt_count_280864": 0,
-    "sgoyt_count_281198": 0,
     "sgoyt_count_282453": 0,
-    "sgoyt_count_284335": 0,
-    "sgoyt_count": 4,
+    "sgoyt_count": 6,
     "thumbnail": "https://cf.geekdo-images.com/UkYLsDGsQ3OdNY_yyYTsuw__thumb/img/bio7Hn5qUp-J19nvJwDFXjViPFc=/fit-in/200x150/filters:strip_icc()/pic121094.jpg",
     "year_published": "1630",
     "designers": [
