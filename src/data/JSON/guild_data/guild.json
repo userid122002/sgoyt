@@ -1,5 +1,5 @@
 {
-    "member_count": 15625,
+    "member_count": 15648,
     "user_count_by_date": [
         {
             "date": "2012/04",
@@ -543,8 +543,8 @@
         },
         {
             "date": "2021/04",
-            "count": 35,
-            "cumulative_count": 15634
+            "count": 59,
+            "cumulative_count": 15658
         }
     ]
 }
