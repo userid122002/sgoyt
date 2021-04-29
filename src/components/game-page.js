@@ -66,6 +66,8 @@ export default function GamePage( {game_data, geeklist_data} ) {
                 </tbody>
                 </table>
                 {exp_for}
+                <table>
+                <tbody>
                 {game_data.expansion_for.map(function(expansion_for) {
                     return (
                         <tr key={expansion_for.game_name}>
@@ -75,6 +77,8 @@ export default function GamePage( {game_data, geeklist_data} ) {
                         </tr>
                     )
                 })}
+                </tbody>
+                </table>
             </div>
         </Collapsible>
         </div>
