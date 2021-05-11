@@ -412,6 +412,36 @@
             "geeklist_item_link": "https://boardgamegeek.com/geeklist/284335/item/8257439#item8257439",
             "geeklist_host": "jon7167",
             "contributor": "overhaul"
+        },
+        {
+            "geeklist_id": "284335",
+            "geeklist_item_id": "8260935",
+            "year_month": "2021/04",
+            "year": "2021",
+            "month": "04",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/284335/item/8260935#item8260935",
+            "geeklist_host": "jon7167",
+            "contributor": "Rindel"
+        },
+        {
+            "geeklist_id": "285147",
+            "geeklist_item_id": "8264950",
+            "year_month": "2021/05",
+            "year": "2021",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/285147/item/8264950#item8264950",
+            "geeklist_host": "Rixte",
+            "contributor": "overhaul"
+        },
+        {
+            "geeklist_id": "285147",
+            "geeklist_item_id": "8268253",
+            "year_month": "2021/05",
+            "year": "2021",
+            "month": "05",
+            "geeklist_item_link": "https://boardgamegeek.com/geeklist/285147/item/8268253#item8268253",
+            "geeklist_host": "Rixte",
+            "contributor": "dobrazil"
         }
     ],
     "sgoyt_count_275246": 3,
@@ -422,7 +452,8 @@
     "sgoyt_count_280864": 2,
     "sgoyt_count_281198": 2,
     "sgoyt_count_282453": 2,
-    "sgoyt_count_284335": 16,
+    "sgoyt_count_284335": 17,
+    "sgoyt_count_285147": 2,
     "sgoyt_count_156765": 0,
     "sgoyt_count_157888": 0,
     "sgoyt_count_158763": 0,
@@ -509,8 +540,7 @@
     "sgoyt_count_272126": 0,
     "sgoyt_count_273040": 0,
     "sgoyt_count_274323": 0,
-    "sgoyt_count_285147": 0,
-    "sgoyt_count": 41,
+    "sgoyt_count": 44,
     "thumbnail": "https://cf.geekdo-images.com/-19XPXmTn9QyyvqwpcFkBw__thumb/img/T3jn8ks3g0zLyISTRQkIr0D1WSE=/fit-in/200x150/filters:strip_icc()/pic5231006.jpg",
     "year_published": "2020",
     "designers": [
