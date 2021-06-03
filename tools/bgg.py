@@ -500,11 +500,16 @@ class BggClient():
         '284335': {
             'Year': '2021',
             'Month': '04',
-            'Override': True
+            'Override': False
         },
         '285147': {
             'Year': '2021',
             'Month': '05',
+            'Override': True
+        },
+        '285399': {
+            'Year': '2021',
+            'Month': '06',
             'Override': True
         }
     }
