@@ -126,6 +126,7 @@ function Game( {data, search} ) {
         game_details['sgoyt_count_284335'] = data_item.sgoyt_count_284335
         game_details['sgoyt_count_285147'] = data_item.sgoyt_count_285147
         game_details['sgoyt_count_285399'] = data_item.sgoyt_count_285399
+        game_details['sgoyt_count_286889'] = data_item.sgoyt_count_286889
         
         game_details['sgoyt_entries'] = sort_by_key(data_item.sgoyt_entries, 'year_month', -1)
         recommended = data_item.recommended
@@ -295,6 +296,7 @@ export const query = graphql`
         sgoyt_count_284335
         sgoyt_count_285147
         sgoyt_count_285399
+        sgoyt_count_286889
       }
     }
   }
